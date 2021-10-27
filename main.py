@@ -36,7 +36,6 @@ def main():
     msg = " Auto update by GitHub Actions."
 
     insert_info = tag_beg + "\n\n## " + timenow + msg + "\n" + insert_info + "\n" + tag_end
-    #insert_info = timenow + msg + insert_info + "\n"
 
     with open (os.path.join(os.getcwd(), "news.md"), 'r', encoding='utf-8') as f:
         news_md_content = f.read()
