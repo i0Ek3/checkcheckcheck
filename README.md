@@ -2,12 +2,13 @@
 
 Check, check, check, get your own information automatically.
 
-## [Here is new!](./news.md)
+## [Here is news!](./history)
 
 
 ## TODO
 
-- [ ] refactor files
+- [x] archive history data flow
+- [x] refactor files
 - [ ] fetch the realtime message, like price on JD etc.
 - [ ] add Email forward service
 - [ ] apply Action to other repos

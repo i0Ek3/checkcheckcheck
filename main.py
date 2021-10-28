@@ -26,19 +26,14 @@ def get_link_info(feed_url, num):
 
 def main():
     solidot = get_link_info("https://www.solidot.org/index.rss", 5)
-    insert_info = solidot
 
     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
     timenow = "Update time: " + datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
     msg = " Auto update by GitHub Actions."
-    insert_info = "\n\n## " + timenow + msg + "\n" + insert_info + "\n"
+    insert_info = "\n\n## " + timenow + msg + "\n" + solidot + "\n"
 
-    with open (os.path.join(os.getcwd(), "news.md"), 'r', encoding='utf-8') as f:
-        news_md_content = f.read()
-
-    new_news_md_content = re.sub("", insert_info, news_md_content)
-
-    with open (os.path.join(os.getcwd(), "news.md"), 'w', encoding='utf-8') as f:
-        f.write(new_news_md_content)
+    filename = "news_" + str(datetime.now().strftime('%Y-%m-%d-%H-%M')) + ".md"
+    with open (os.path.join(os.getcwd(), filename), 'w', encoding='utf-8') as f:
+        f.write(insert_info)
 
 main()
