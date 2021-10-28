@@ -1,6 +1,8 @@
 
 
-## Update time: 2021-10-28 13:36:36 Auto update by GitHub Actions.
+## Update time: 2021-10-28 14:30:56 Auto update by GitHub Actions.
+
+[Google 释出 Android 12L 预览版](https://www.solidot.org/story?sid=69406)
 
 [默克提供新冠口服药免专利费许可证](https://www.solidot.org/story?sid=69405)
 
@@ -9,6 +11,4 @@
 [字节跳动开源 Semi Design，承认早期参考了阿里的 Ant Design](https://www.solidot.org/story?sid=69403)
 
 [传奇影业和华纳兄弟批准拍摄《沙丘》第二部分](https://www.solidot.org/story?sid=69402)
-
-[Blue Origin 计划建造商业空间站](https://www.solidot.org/story?sid=69401)
 

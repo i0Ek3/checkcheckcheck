@@ -9,6 +9,7 @@ Check, check, check, get your own information automatically.
 
 - [ ] refactor files
 - [ ] fetch the realtime message, like price on JD etc.
+- [ ] add Email forward service
 - [ ] apply Action to other repos
 
 
