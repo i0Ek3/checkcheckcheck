@@ -1,15 +1,30 @@
 #!/bin/bash
 
-git pull
-if [ -e news.md ]
-then
-    rm news.md
-    git rm news.md
-    touch news.md
-else
-    touch news.md
-fi
-python3 main.py
+file="news.md"
 
-ls -alh
-cat news.md
+checkfile() {
+    if [ -e $file ]
+    then
+        rm $file
+        git rm $file
+        touch $file
+    else
+        touch $file
+    fi
+}
+
+main() {
+    # TODO: refactor
+    echo "------------------------------------------------------------"
+    git pull
+    echo "------------------------------------------------------------"
+    checkfile
+    python3 main.py
+    echo "------------------------------------------------------------"
+    ls -alh
+    echo "------------------------------------------------------------"
+    cat $file
+    echo "------------------------------------------------------------"
+}
+
+main

@@ -1,9 +1,15 @@
 # checkcheckcheck
 
-Check, check, check, get your information automatically.
+Check, check, check, get your own information automatically.
 
 ## [Here is new!](./news.md)
 
+
+## TODO
+
+- [ ] refactor files
+- [ ] fetch the realtime message, like price on JD etc.
+- [ ] apply Action to other repos
 
 
 ## Credit

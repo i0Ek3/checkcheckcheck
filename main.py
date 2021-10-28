@@ -25,24 +25,17 @@ def get_link_info(feed_url, num):
     return result
 
 def main():
-    # TODO: find new feed links can fetch new infos
-    chenhao = get_link_info("https://coolshell.cn/feed", 1)
-    #pthink = get_link_info("https://feeds2.feedburner.com/programthink", 1)
-    insert_info = chenhao
+    solidot = get_link_info("https://www.solidot.org/index.rss", 5)
+    insert_info = solidot
 
     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
-    #tag_beg = "---start---"
-    #tag_end = "---end---"
     timenow = "Update time: " + datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
     msg = " Auto update by GitHub Actions."
-
-    #insert_info = tag_beg + "\n\n## " + timenow + msg + "\n" + insert_info + "\n" + tag_end
     insert_info = "\n\n## " + timenow + msg + "\n" + insert_info + "\n"
 
     with open (os.path.join(os.getcwd(), "news.md"), 'r', encoding='utf-8') as f:
         news_md_content = f.read()
 
-    # TODO: you may see a bug here, be careful
     new_news_md_content = re.sub("", insert_info, news_md_content)
 
     with open (os.path.join(os.getcwd(), "news.md"), 'w', encoding='utf-8') as f:

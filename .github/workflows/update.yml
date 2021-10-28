@@ -3,7 +3,7 @@ name: 'checkcheckcheck'
 on:
   push:
   schedule:
-    - cron: '20,30 8,9,20 * * *'
+    - cron: '30 * * * *'
 
 jobs:
   stale:
@@ -29,4 +29,3 @@ jobs:
           git add .
           git commit -m "Auto update by Github Action"
           git push
-          #git rm news.md
