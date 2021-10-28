@@ -2,7 +2,8 @@
 
 Check, check, check, get your own information automatically.
 
-## [Here is news!](./history)
+
+## [Here is news!](./news\*.md)
 
 
 ## TODO
