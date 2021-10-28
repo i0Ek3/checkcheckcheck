@@ -1,6 +1,8 @@
 
 
-## Update time: 2021-10-28 12:49:23 Auto update by GitHub Actions.
+## Update time: 2021-10-28 13:36:36 Auto update by GitHub Actions.
+
+[默克提供新冠口服药免专利费许可证](https://www.solidot.org/story?sid=69405)
 
 [伊朗据报加油站支付系统遭到网络攻击](https://www.solidot.org/story?sid=69404)
 
@@ -9,6 +11,4 @@
 [传奇影业和华纳兄弟批准拍摄《沙丘》第二部分](https://www.solidot.org/story?sid=69402)
 
 [Blue Origin 计划建造商业空间站](https://www.solidot.org/story?sid=69401)
-
-[如果你《孤岛惊魂6》未通关育碧会发邮件嘲讽你](https://www.solidot.org/story?sid=69400)
 
