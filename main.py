@@ -25,7 +25,8 @@ def get_link_info(feed_url, num):
     return result
 
 def main():
-    chenhao = get_link_info("https://coolshell.cn/feed", 1)
+    chenhao = get_link_info("", 1)
+    #chenhao = get_link_info("https://coolshell.cn/feed", 1)
     #pthink = get_link_info("https://feeds2.feedburner.com/programthink", 1)
     insert_info = chenhao
 

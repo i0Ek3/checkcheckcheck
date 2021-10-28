@@ -10,3 +10,4 @@ python3 main.py
 
 ls -alh
 cat news.md
+git pull
