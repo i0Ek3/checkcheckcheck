@@ -27,10 +27,31 @@ showmsg() {
     echo "------------------------------------------------------------"
 }
 
-main() {
+cmpfile() {
+    old="news_old.md"
+    new="news.md"
+
+    res=$(cmp --silent $old $new)
+    if res
+    then
+        rm $old
+    else
+        mv $old history
+        cd history
+        mv $old news_$(date).md
+        cd -
+    fi
+}
+
+start() {
     git pull
     mv news* ./history
     python3 main.py
+}
+
+main() {
+    start
+    #cmpfile
 }
 
 main

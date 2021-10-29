@@ -3,6 +3,7 @@ import time
 import os
 import re
 import pytz
+#import filecmp # TODO: compare file content
 from datetime import datetime
 
 def get_link_info(feed_url, num):
@@ -28,7 +29,7 @@ def main():
     solidot = get_link_info("https://www.solidot.org/index.rss", 5)
 
     timenow1 = datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
-    timenow2 = datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
+    timenow2 = datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H-%M')
 
     msg = " Auto update by GitHub Action."
     insert_info = "\n\n## Update time: " + timenow1 + msg + "\n" + solidot + "\n"
