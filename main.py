@@ -28,9 +28,9 @@ def main():
     solidot = get_link_info("https://www.solidot.org/index.rss", 5)
 
     timenow1 = datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
-    timenow2 = datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d-%H-%M')
+    timenow2 = datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d')
 
-    msg = " Auto update by GitHub Actions."
+    msg = " Auto update by GitHub Action."
     insert_info = "\n\n## Update time: " + timenow1 + msg + "\n" + solidot + "\n"
 
     filename = "news_" + timenow2 + ".md"

@@ -3,13 +3,14 @@
 Check, check, check, get your own information automatically.
 
 
-## [Here is news!](./news\*.md)
+## [Here is news!](./history)
 
 
 ## TODO
 
 - [x] archive history data flow
 - [x] refactor files
+- [ ] filter duplicated content
 - [ ] fetch the realtime message, like price on JD etc.
 - [ ] add Email forward service
 - [ ] apply Action to other repos
