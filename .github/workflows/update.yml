@@ -3,7 +3,7 @@ name: 'checkcheckcheck'
 on:
   push:
   schedule:
-    - cron: '30 8,15,22 * * *'
+    - cron: '30 10,14,18,22 * * *'
 
 jobs:
   stale:
