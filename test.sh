@@ -43,8 +43,18 @@ cmpfile() {
     fi
 }
 
+clean() {
+    nums=`ls history | wc -l`
+    if [ nums -gt 56 ] # only one week
+    then
+        rm -rf ./history
+    fi
+    mkdir history
+}
+
 start() {
     git pull
+    clean
     mv news* ./history
     python3 main.py
 }
