@@ -45,7 +45,7 @@ cmpfile() {
 
 clean() {
     nums=`ls history | wc -l`
-    if [ nums -gt 56 ] # only one week
+    if [ $nums -gt 56 ] # only one week
     then
         rm -rf ./history
     fi

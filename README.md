@@ -10,7 +10,7 @@ All news fetched from [https://www.solidot.org](https://www.solidot.org).
 
 ## How To
 
-According your own situation to change test.sh and main.py. After that, run `python3 main.py`.
+According your own situation to change test.sh and main.py. After that, run `./test.sh`.
 
 
 ## TODO
