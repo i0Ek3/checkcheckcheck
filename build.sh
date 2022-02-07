@@ -47,14 +47,15 @@ clean() {
     if [ $nums -gt 56 ] # only one week
     then
         rm -rf ./history
+        mkdir history
     fi
-    mkdir history
 }
 
 start() {
     git pull
     clean
     mv news* ./history
+    touch news.md
     #python3 main.py
     python3 test.py
 }
