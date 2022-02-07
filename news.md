@@ -1,0 +1,13 @@
+# Auto update by GitHub Action
+Update time: 2022-02-07 13:21:42
+
+[联合国报告称朝鲜通过窃取加密货币资助武器研发](https://www.solidot.org/story?sid=70577)
+
+[Facebook 和 Instagram 威胁退出欧洲](https://www.solidot.org/story?sid=70576)
+
+[天文学家在银河系发现首个流浪黑洞](https://www.solidot.org/story?sid=70575)
+
+[新闻集团遭黑客入侵](https://www.solidot.org/story?sid=70574)
+
+[报告称 NFT 市场充斥着冲销交易](https://www.solidot.org/story?sid=70570)
+
