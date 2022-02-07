@@ -1,9 +1,4 @@
 import feedparser
-import time
-import os
-import re
-import pytz
-from datetime import datetime
 
 def get_link_info(feed_url, num):
     result = ""
@@ -25,11 +20,11 @@ def get_link_info(feed_url, num):
     return result
 
 def main():
-    solidot = get_link_info("https://www.solidot.org/index.rss", 5)
+    readhub = get_link_info("https://readhub.cn/topics", 10)
     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
-    msg = "Auto update by GitHub Action"
-    insert_info = "# " + msg + "\nUpdate time: " + datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + "\n" + solidot + "\n"
-    filename = "news.md"
+    msg = "Here The News"
+    insert_info = "# " + msg + "\n> Update time: " + datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + "\n" + readhub + "\n"
+    filename = "readhub.md"
 
     with open (os.path.join(os.getcwd(), filename), 'r', encoding='utf-8') as f:
         news_content = f.read()

@@ -7,10 +7,8 @@ checkfile() {
     then
         rm $file
         git rm $file
-        touch $file
-    else
-        touch $file
     fi
+    touch $file
 }
 
 showmsg() {
@@ -20,7 +18,7 @@ showmsg() {
     echo "------------------------------------------------------------"
     checkfile
     #python3 main.py
-    python3 test.py
+    python3 solidot.py
     echo "------------------------------------------------------------"
     ls -alh
     echo "------------------------------------------------------------"
@@ -33,7 +31,7 @@ cmpfile() {
     new="news.md"
 
     res=$(cmp --silent $old $new)
-    if res
+    if [ res ]
     then
         rm $old
     else
@@ -51,19 +49,31 @@ clean() {
     fi
 }
 
+createmd() {
+    if [ ! -e $file ]
+    then
+        touch $file
+    fi
+}
+
 start() {
     git pull
+    cp news.md news_$(date).md
+    mv news_* ./history
     clean
-    mv news* ./history
-    touch news.md
+    createmd
+
     #python3 main.py
-    python3 test.py
+    python3 solidot.py
+}
+
+installpkg() {
+    pip3 install feedparser pytz
 }
 
 main() {
-    pip3 install feedparser pytz
+    installpkg
     start
-    #cmpfile
 }
 
 main

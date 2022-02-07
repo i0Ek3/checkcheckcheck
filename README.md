@@ -3,24 +3,22 @@
 Check, check, check, get your own information automatically.
 
 
-## [Here is news!](./history)
+## [Here is news!](https://github.com/i0Ek3/checkcheckcheck/blob/master/news.md)
 
 All news fetched from [https://www.solidot.org](https://www.solidot.org).
 
 
 ## How To
 
-According your own situation to change build.sh and main.py. After that, run `./build.sh`.
-
+According your own situation to change build.sh and main.py. After that, run `./build.sh` or just `git commit` changes to your GitHub, the GitHub Action will do it automatically.
 
 ## TODO
 
 - [x] archive history data flow
 - [x] refactor files
-- [ ] filter duplicated content
+- [x] filter duplicated content
 - [ ] fetch the realtime message, like price on JD etc.
 - [ ] add Email forward service
-- [ ] apply Action to other repos
 
 
 ## Credit
