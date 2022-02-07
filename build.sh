@@ -19,7 +19,8 @@ showmsg() {
     git pull
     echo "------------------------------------------------------------"
     checkfile
-    python3 main.py
+    #python3 main.py
+    python3 test.py
     echo "------------------------------------------------------------"
     ls -alh
     echo "------------------------------------------------------------"
@@ -36,10 +37,8 @@ cmpfile() {
     then
         rm $old
     else
-        mv $old history
-        cd history
         mv $old news_$(date).md
-        cd -
+        mv news_* history
     fi
 }
 
@@ -56,13 +55,14 @@ start() {
     git pull
     clean
     mv news* ./history
-    python3 main.py
+    #python3 main.py
+    python3 test.py
 }
 
 main() {
     pip3 install feedparser pytz
     start
-    #cmpfile
+    cmpfile
 }
 
 main

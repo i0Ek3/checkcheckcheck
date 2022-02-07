@@ -10,7 +10,7 @@ All news fetched from [https://www.solidot.org](https://www.solidot.org).
 
 ## How To
 
-According your own situation to change test.sh and main.py. After that, run `./test.sh`.
+According your own situation to change build.sh and main.py. After that, run `./build.sh`.
 
 
 ## TODO
