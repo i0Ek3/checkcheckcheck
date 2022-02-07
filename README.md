@@ -3,7 +3,7 @@
 Check, check, check, get your own information automatically.
 
 
-## [Here is news!](https://github.com/i0Ek3/checkcheckcheck/blob/master/news.md)
+## [Here the news!](https://github.com/i0Ek3/checkcheckcheck/blob/master/news.md)
 
 All news fetched from [https://www.solidot.org](https://www.solidot.org).
 

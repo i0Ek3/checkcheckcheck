@@ -28,15 +28,13 @@ showmsg() {
 
 cmpfile() {
     old="news_old.md"
-    new="news.md"
 
-    res=$(cmp --silent $old $new)
+    res=$(cmp --silent $old $file)
     if [ res ]
     then
         rm $old
     else
-        mv $old news_$(date).md
-        mv news_* history
+        archive
     fi
 }
 
@@ -56,11 +54,16 @@ createmd() {
     fi
 }
 
+archive() {
+    time=$(date "+%Y-%m-%d-%H-%M-%S")
+    cp news.md news_$time.md
+    mv news_* ./history
+}
+
 start() {
     git pull
-    cp news.md news_$(date).md
-    mv news_* ./history
     clean
+    archive
     createmd
 
     #python3 main.py
