@@ -62,7 +62,7 @@ start() {
 main() {
     pip3 install feedparser pytz
     start
-    cmpfile
+    #cmpfile
 }
 
 main
