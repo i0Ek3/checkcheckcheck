@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-02-08 20:53:06
+> Update time: 2022-02-09 00:19:46
+
+[被捕猎的恐惧让动物无心抚养后代](https://www.solidot.org/story?sid=70597)
+
+[英国新法案将要求成人网站验证英国用户年龄](https://www.solidot.org/story?sid=70596)
+
+[Moderna 的 Omicron 加强版疫苗动物实验表现不佳](https://www.solidot.org/story?sid=70595)
+
+[Qubes OS 4.1 发布](https://www.solidot.org/story?sid=70594)
+
+[机器学习驯服量子复杂性](https://www.solidot.org/story?sid=70593)
+
+[气候科学家遭遇计算机模型局限](https://www.solidot.org/story?sid=70592)
+
+[下一代脊柱植入物帮助重度瘫痪患者行走、骑车和游泳](https://www.solidot.org/story?sid=70591)
+
+[成人艺人在银行账号冻结后转向加密货](https://www.solidot.org/story?sid=70590)
 
 [特斯拉收到 SEC 传票](https://www.solidot.org/story?sid=70589)
 
 [冰川含水量比以前认为的少](https://www.solidot.org/story?sid=70588)
-
-[微软将在办公软件中屏蔽下载的宏](https://www.solidot.org/story?sid=70587)
-
-[英伟达收购 ARM 交易告吹](https://www.solidot.org/story?sid=70586)
-
-[用 AlphaCode 编程](https://www.solidot.org/story?sid=70585)
-
-[B站否认员工因加班猝死](https://www.solidot.org/story?sid=70583)
-
-[LibreOffice 7.3 发布](https://www.solidot.org/story?sid=70582)
-
-[GitHub 推出只有赞助者能访问的私有库](https://www.solidot.org/story?sid=70581)
-
-[腾讯视频恢复搏击俱乐部原版结局](https://www.solidot.org/story?sid=70580)
-
-[NASA 计划 2031 年让国际空间站坠入无人海域](https://www.solidot.org/story?sid=70579)
 
