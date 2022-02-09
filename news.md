@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-02-09 20:54:41
+> Update time: 2022-02-10 00:20:34
+
+[俄罗斯搜索引擎将从索引中剔除含有 100 个以上盗版内容链接的网站](https://www.solidot.org/story?sid=70609)
+
+[五角大楼的征兵游戏 America’s Army 将关闭服务器](https://www.solidot.org/story?sid=70608)
+
+[Facebook 否认它威胁退出欧洲](https://www.solidot.org/story?sid=70607)
+
+[英特尔加入 RISC-V International](https://www.solidot.org/story?sid=70606)
+
+[B站为员工猝死道歉](https://www.solidot.org/story?sid=70605)
 
 [资金涌入空中出租车](https://www.solidot.org/story?sid=70604)
 
@@ -10,14 +20,4 @@
 [工程师担心芯片微小缺陷可能会产生巨大影响](https://www.solidot.org/story?sid=70601)
 
 [地磁风暴可能破坏了 40 颗 SpaceX Starlink 卫星](https://www.solidot.org/story?sid=70600)
-
-[DuckDuckGo 创始人认为修改隐私设置应能一键完成](https://www.solidot.org/story?sid=70599)
-
-[欧盟计划投入数百亿欧元资助半导体行业](https://www.solidot.org/story?sid=70598)
-
-[被捕猎的恐惧让动物无心抚养后代](https://www.solidot.org/story?sid=70597)
-
-[英国新法案将要求成人网站验证英国用户年龄](https://www.solidot.org/story?sid=70596)
-
-[Moderna 的 Omicron 加强版疫苗动物实验表现不佳](https://www.solidot.org/story?sid=70595)
 
