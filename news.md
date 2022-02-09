@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-02-09 12:46:01
+> Update time: 2022-02-09 16:17:14
+
+[资金涌入空中出租车](https://www.solidot.org/story?sid=70604)
+
+[蚊子会被特定的颜色吸引](https://www.solidot.org/story?sid=70603)
+
+[大强子对撞机实验用 GPU 加速数据处理](https://www.solidot.org/story?sid=70602)
+
+[工程师担心芯片微小缺陷可能会产生巨大影响](https://www.solidot.org/story?sid=70601)
+
+[地磁风暴可能破坏了 40 颗 SpaceX Starlink 卫星](https://www.solidot.org/story?sid=70600)
+
+[DuckDuckGo 创始人认为修改隐私设置应能一键完成](https://www.solidot.org/story?sid=70599)
+
+[欧盟计划投入数百亿欧元资助半导体行业](https://www.solidot.org/story?sid=70598)
 
 [被捕猎的恐惧让动物无心抚养后代](https://www.solidot.org/story?sid=70597)
 
 [英国新法案将要求成人网站验证英国用户年龄](https://www.solidot.org/story?sid=70596)
 
 [Moderna 的 Omicron 加强版疫苗动物实验表现不佳](https://www.solidot.org/story?sid=70595)
-
-[Qubes OS 4.1 发布](https://www.solidot.org/story?sid=70594)
-
-[机器学习驯服量子复杂性](https://www.solidot.org/story?sid=70593)
-
-[气候科学家遭遇计算机模型局限](https://www.solidot.org/story?sid=70592)
-
-[下一代脊柱植入物帮助重度瘫痪患者行走、骑车和游泳](https://www.solidot.org/story?sid=70591)
-
-[成人艺人在银行账号冻结后转向加密货](https://www.solidot.org/story?sid=70590)
-
-[特斯拉收到 SEC 传票](https://www.solidot.org/story?sid=70589)
-
-[冰川含水量比以前认为的少](https://www.solidot.org/story?sid=70588)
 
