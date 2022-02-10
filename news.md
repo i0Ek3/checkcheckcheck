@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-02-10 12:44:57
+> Update time: 2022-02-10 16:16:49
+
+[研究人员用磁漩涡生成真随机数](https://www.solidot.org/story?sid=70618)
+
+[新大脑语义图改变记忆观点](https://www.solidot.org/story?sid=70617)
+
+[造雨的秘密](https://www.solidot.org/story?sid=70616)
+
+[网信办约谈腾讯阿里巴巴等互联网企业](https://www.solidot.org/story?sid=70615)
+
+[全世界有一千家估值十亿美元以上的独角兽公司](https://www.solidot.org/story?sid=70614)
+
+[苹果新操作系统 realityOS](https://www.solidot.org/story?sid=70613)
+
+[Google 称默认启用双因素认证减少一半的账号入侵](https://www.solidot.org/story?sid=70612)
+
+[英伟达市值超过 Meta](https://www.solidot.org/story?sid=70611)
 
 [《飞出个未来》通过Hulu回归](https://www.solidot.org/story?sid=70610)
 
 [俄罗斯搜索引擎将从索引中剔除含有 100 个以上盗版内容链接的网站](https://www.solidot.org/story?sid=70609)
-
-[五角大楼的征兵游戏 America’s Army 将关闭服务器](https://www.solidot.org/story?sid=70608)
-
-[Facebook 否认它威胁退出欧洲](https://www.solidot.org/story?sid=70607)
-
-[英特尔加入 RISC-V International](https://www.solidot.org/story?sid=70606)
-
-[B站为员工猝死道歉](https://www.solidot.org/story?sid=70605)
-
-[资金涌入空中出租车](https://www.solidot.org/story?sid=70604)
-
-[蚊子会被特定的颜色吸引](https://www.solidot.org/story?sid=70603)
-
-[大强子对撞机实验用 GPU 加速数据处理](https://www.solidot.org/story?sid=70602)
-
-[工程师担心芯片微小缺陷可能会产生巨大影响](https://www.solidot.org/story?sid=70601)
 
