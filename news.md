@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-02-11 16:39:35
+> Update time: 2022-02-11 20:20:58
+
+[尼安德特人不是突然灭绝的](https://www.solidot.org/story?sid=70631)
+
+[俄罗斯法院以试图在《我的世界》里炸毁 FSB 虚拟建筑为由判处青少年恐怖主义罪](https://www.solidot.org/story?sid=70630)
+
+[计算机科学家证明为什么更大的神经网络表现更好](https://www.solidot.org/story?sid=70629)
+
+[两个简单的动作可减轻起立时的头晕](https://www.solidot.org/story?sid=70628)
+
+[比邻星可能有第三颗行星](https://www.solidot.org/story?sid=70627)
 
 [芬兰计划到 2050 年消除所有垃圾](https://www.solidot.org/story?sid=70626)
 
@@ -10,14 +20,4 @@
 [币安计划入股福布斯](https://www.solidot.org/story?sid=70623)
 
 [AI 车手打败最优秀的 GT赛车玩家](https://www.solidot.org/story?sid=70622)
-
-[微软表示未来的动视游戏会继续在 PS 平台发布](https://www.solidot.org/story?sid=70621)
-
-[西雅图电台导致马自达车载娱乐系统崩溃](https://www.solidot.org/story?sid=70620)
-
-[时移计算可将数据中心能源成本降低 30%](https://www.solidot.org/story?sid=70619)
-
-[研究人员用磁漩涡生成真随机数](https://www.solidot.org/story?sid=70618)
-
-[新大脑语义图改变记忆观点](https://www.solidot.org/story?sid=70617)
 
