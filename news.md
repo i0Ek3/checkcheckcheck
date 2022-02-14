@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-02-14 12:45:19
+> Update time: 2022-02-14 16:17:03
+
+[研究发现阿尔茨海默氏症与生物钟之间存在联系](https://www.solidot.org/story?sid=70650)
+
+[美国陆军公布 2050 年实现净零排放的计划](https://www.solidot.org/story?sid=70649)
+
+[花花公子设想在元宇宙中建大厦](https://www.solidot.org/story?sid=70648)
+
+[硫稀有化学相或为解锁三倍容量电动汽车电池的钥匙](https://www.solidot.org/story?sid=70647)
+
+[2014 UN271 是至今观测到的最大彗星](https://www.solidot.org/story?sid=70646)
+
+[Mozilla 和 Meta 提出新的隐私保护广告技术](https://www.solidot.org/story?sid=70645)
+
+[发现以太坊复制漏洞的白帽黑客获得 200 万美元的赏金](https://www.solidot.org/story?sid=70644)
+
+[澳大利亚宣布考拉为濒危物种](https://www.solidot.org/story?sid=70643)
+
+[华为在南非被控违反就业公平法](https://www.solidot.org/story?sid=70642)
 
 [RedLine 恶意程序伪装成 Windows 11 升级安装包](https://www.solidot.org/story?sid=70641)
-
-[Linux 5.18 将改进对英特尔大小核的支持](https://www.solidot.org/story?sid=70640)
-
-[可合理否认存在的秘密数据库](https://www.solidot.org/story?sid=70639)
-
-[韦伯望远镜公布首幅照片](https://www.solidot.org/story?sid=70638)
-
-[英特尔的矿机叫区块链加速器](https://www.solidot.org/story?sid=70637)
-
-[Valve 在 CC 许可证下公开 Steam Deck 外壳 CAD 文件](https://www.solidot.org/story?sid=70636)
-
-[《老友记》上线删减了大量内容](https://www.solidot.org/story?sid=70635)
-
-[Linux 内核加入对英特尔软体定义硅晶片的支持](https://www.solidot.org/story?sid=70634)
-
-[500 电商网站被植入信用卡窃取程序](https://www.solidot.org/story?sid=70633)
-
-[软银 ARM 在中国面临新诉讼](https://www.solidot.org/story?sid=70632)
 
