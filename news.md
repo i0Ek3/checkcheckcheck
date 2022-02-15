@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-02-15 16:16:49
+> Update time: 2022-02-15 16:40:01
+
+[美国西部正经历 1200 年来最严重干旱](https://www.solidot.org/story?sid=70658)
+
+[将在月球上坠毁的火箭残骸不是来自 SpaceX 而是来自中国](https://www.solidot.org/story?sid=70657)
+
+[数千 NPM 账号使用域名过期的邮箱](https://www.solidot.org/story?sid=70656)
+
+[亚马逊制作《银翼杀手》电视剧](https://www.solidot.org/story?sid=70655)
+
+[Opera 支持基于绘文字的网址](https://www.solidot.org/story?sid=70654)
 
 [Android 13 虚拟化让 Pixel 6 手机能运行 Windows 11 和 Linux 发行版](https://www.solidot.org/story?sid=70653)
 
@@ -10,14 +20,4 @@
 [研究发现阿尔茨海默氏症与生物钟之间存在联系](https://www.solidot.org/story?sid=70650)
 
 [美国陆军公布 2050 年实现净零排放的计划](https://www.solidot.org/story?sid=70649)
-
-[花花公子设想在元宇宙中建大厦](https://www.solidot.org/story?sid=70648)
-
-[硫稀有化学相或为解锁三倍容量电动汽车电池的钥匙](https://www.solidot.org/story?sid=70647)
-
-[2014 UN271 是至今观测到的最大彗星](https://www.solidot.org/story?sid=70646)
-
-[Mozilla 和 Meta 提出新的隐私保护广告技术](https://www.solidot.org/story?sid=70645)
-
-[发现以太坊复制漏洞的白帽黑客获得 200 万美元的赏金](https://www.solidot.org/story?sid=70644)
 
