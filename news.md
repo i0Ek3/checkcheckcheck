@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-02-16 08:52:58
+> Update time: 2022-02-16 12:17:43
+
+[印度再次以安全考虑屏蔽 54 个应用程序](https://www.solidot.org/story?sid=70666)
+
+[称荣耀手机为圾皇的评测博主被罚 8 万元](https://www.solidot.org/story?sid=70665)
+
+[AMD 完成以 500 亿美元收购赛灵思](https://www.solidot.org/story?sid=70664)
+
+[亿万富翁 Jared Isaacman 将再次资助三次太空飞行](https://www.solidot.org/story?sid=70663)
+
+[中微子有多轻？](https://www.solidot.org/story?sid=70662)
+
+[疫苗加强针让奥密克戎住院率从 91% 下降到 78%](https://www.solidot.org/story?sid=70661)
+
+[离婚夫妇争夺加密货币财产](https://www.solidot.org/story?sid=70660)
+
+[让恐龙宝宝灭绝：IBM 用年轻人劳动力替代老员工](https://www.solidot.org/story?sid=70659)
 
 [美国西部正经历 1200 年来最严重干旱](https://www.solidot.org/story?sid=70658)
 
 [将在月球上坠毁的火箭残骸不是来自 SpaceX 而是来自中国](https://www.solidot.org/story?sid=70657)
-
-[数千 NPM 账号使用域名过期的邮箱](https://www.solidot.org/story?sid=70656)
-
-[亚马逊制作《银翼杀手》电视剧](https://www.solidot.org/story?sid=70655)
-
-[Opera 支持基于绘文字的网址](https://www.solidot.org/story?sid=70654)
-
-[Android 13 虚拟化让 Pixel 6 手机能运行 Windows 11 和 Linux 发行版](https://www.solidot.org/story?sid=70653)
-
-[《失落的方舟》成为 Steam 史上玩家人数第二多的游戏](https://www.solidot.org/story?sid=70652)
-
-[报道称滴滴全线裁员](https://www.solidot.org/story?sid=70651)
-
-[研究发现阿尔茨海默氏症与生物钟之间存在联系](https://www.solidot.org/story?sid=70650)
-
-[美国陆军公布 2050 年实现净零排放的计划](https://www.solidot.org/story?sid=70649)
 
