@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-02-16 12:17:43
+> Update time: 2022-02-16 16:16:09
+
+[欧盟数据保护机构建议禁止 Pegasus](https://www.solidot.org/story?sid=70672)
+
+[74% 的勒索软件收入流向了俄罗斯黑客](https://www.solidot.org/story?sid=70671)
+
+[粤港澳、成渝、长三角、京津冀启动建设全国一体化算力网络国家枢纽节点](https://www.solidot.org/story?sid=70670)
+
+[乌克兰军方和银行遭到 DDoS 攻击](https://www.solidot.org/story?sid=70669)
+
+[Google 将 Chrome OS 带到 PC 和 Mac](https://www.solidot.org/story?sid=70668)
 
 [印度再次以安全考虑屏蔽 54 个应用程序](https://www.solidot.org/story?sid=70666)
 
@@ -10,14 +20,4 @@
 [亿万富翁 Jared Isaacman 将再次资助三次太空飞行](https://www.solidot.org/story?sid=70663)
 
 [中微子有多轻？](https://www.solidot.org/story?sid=70662)
-
-[疫苗加强针让奥密克戎住院率从 91% 下降到 78%](https://www.solidot.org/story?sid=70661)
-
-[离婚夫妇争夺加密货币财产](https://www.solidot.org/story?sid=70660)
-
-[让恐龙宝宝灭绝：IBM 用年轻人劳动力替代老员工](https://www.solidot.org/story?sid=70659)
-
-[美国西部正经历 1200 年来最严重干旱](https://www.solidot.org/story?sid=70658)
-
-[将在月球上坠毁的火箭残骸不是来自 SpaceX 而是来自中国](https://www.solidot.org/story?sid=70657)
 
