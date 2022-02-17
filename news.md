@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-02-17 12:46:04
+> Update time: 2022-02-17 16:16:04
+
+[新蛋为退货和开箱产品处理上的问题道歉](https://www.solidot.org/story?sid=70685)
+
+[首位通过干细胞移植疗法治愈艾滋病的女性](https://www.solidot.org/story?sid=70684)
+
+[奥密克戎变种导致的儿童住院率比德尔塔变种高 4 倍](https://www.solidot.org/story?sid=70683)
+
+[巨型无人机运送货物减少一半排放](https://www.solidot.org/story?sid=70682)
+
+[纽约的面部识别技术监视问题](https://www.solidot.org/story?sid=70681)
+
+[为什么马斯克太空豪赌吓坏竞争对手](https://www.solidot.org/story?sid=70680)
 
 [工信部将要求内置应用可卸载](https://www.solidot.org/story?sid=70678)
 
@@ -8,16 +20,4 @@
 [报告称到 2050 年美国周边海平面可能上升 25厘米](https://www.solidot.org/story?sid=70676)
 
 [香港新冠确诊及初步阳性人数突破 1 万](https://www.solidot.org/story?sid=70675)
-
-[Google 搜索在死亡](https://www.solidot.org/story?sid=70673)
-
-[欧盟数据保护机构建议禁止 Pegasus](https://www.solidot.org/story?sid=70672)
-
-[74% 的勒索软件收入流向了俄罗斯黑客](https://www.solidot.org/story?sid=70671)
-
-[粤港澳、成渝、长三角、京津冀启动建设全国一体化算力网络国家枢纽节点](https://www.solidot.org/story?sid=70670)
-
-[乌克兰军方和银行遭到 DDoS 攻击](https://www.solidot.org/story?sid=70669)
-
-[Google 将 Chrome OS 带到 PC 和 Mac](https://www.solidot.org/story?sid=70668)
 
