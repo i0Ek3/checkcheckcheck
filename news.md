@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-02-21 16:17:45
+> Update time: 2022-02-21 16:40:48
+
+[科学家证明鱼类具有自我意识](https://www.solidot.org/story?sid=70723)
+
+[监管机构警告加密货币的兴起可能引发金融危机](https://www.solidot.org/story?sid=70722)
+
+[十年内远程工作会普及吗？](https://www.solidot.org/story?sid=70721)
+
+[人类认为 AI 生成面孔比真实面孔更值得信赖](https://www.solidot.org/story?sid=70720)
+
+[两名婴儿成功接受家族黑蒙性痴呆基因疗法](https://www.solidot.org/story?sid=70719)
 
 [NIH 将要求研究人员公开研究数据](https://www.solidot.org/story?sid=70717)
 
@@ -10,14 +20,4 @@
 [太阳整月都在喷发](https://www.solidot.org/story?sid=70714)
 
 [Linux 开发者修复安全漏洞的速度最快](https://www.solidot.org/story?sid=70713)
-
-[弗朗西斯科波拉计划自筹资金拍摄一部乌托邦电影](https://www.solidot.org/story?sid=70712)
-
-[为让孩子停用手机父亲意外把整个镇的网络切断了](https://www.solidot.org/story?sid=70711)
-
-[大脑处理信息的速度直到 60 岁之后才下降](https://www.solidot.org/story?sid=70710)
-
-[澳大利亚新南威尔士为亚马逊合同工设定了最低薪水](https://www.solidot.org/story?sid=70709)
-
-[沙特女子的 iPhone 如何帮助揭发世界各地的黑客攻击活动](https://www.solidot.org/story?sid=70708)
 
