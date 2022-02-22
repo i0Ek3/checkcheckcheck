@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-02-22 12:46:06
+> Update time: 2022-02-22 16:17:35
+
+[九成的中世纪骑士和英雄故事手稿失传](https://www.solidot.org/story?sid=70733)
+
+[Academia 计划推出 10 种开放获取期刊](https://www.solidot.org/story?sid=70732)
+
+[加密货币投资抱怨币值的大起大落毁了他们的生活](https://www.solidot.org/story?sid=70731)
+
+[中国自动驾驶之梦依赖于美国芯片](https://www.solidot.org/story?sid=70730)
+
+[高通将在 2023 年支持 AV1 视频编解码器](https://www.solidot.org/story?sid=70729)
 
 [FreeDOS 1.3 释出](https://www.solidot.org/story?sid=70728)
 
@@ -10,14 +20,4 @@
 [百度短暂屏蔽中国裁判文书网](https://www.solidot.org/story?sid=70725)
 
 [学者曾经担心图书检索会毁掉阅读](https://www.solidot.org/story?sid=70724)
-
-[科学家证明鱼类具有自我意识](https://www.solidot.org/story?sid=70723)
-
-[监管机构警告加密货币的兴起可能引发金融危机](https://www.solidot.org/story?sid=70722)
-
-[十年内远程工作会普及吗？](https://www.solidot.org/story?sid=70721)
-
-[人类认为 AI 生成面孔比真实面孔更值得信赖](https://www.solidot.org/story?sid=70720)
-
-[两名婴儿成功接受家族黑蒙性痴呆基因疗法](https://www.solidot.org/story?sid=70719)
 
