@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-02-25 12:46:38
+> Update time: 2022-02-25 16:17:04
+
+[X 射线检测揭开图坦卡蒙陨铁匕首的秘密](https://www.solidot.org/story?sid=70776)
+
+[传感器突破为地下世界地图铺平道路](https://www.solidot.org/story?sid=70775)
+
+[南极洲周围的海冰覆盖创历史新低](https://www.solidot.org/story?sid=70774)
+
+[发生在春天的小行星撞击增加物种灭绝率](https://www.solidot.org/story?sid=70773)
+
+[俄乌危机对芯片供应链影响暂时有限](https://www.solidot.org/story?sid=70772)
+
+[俄罗斯精英黑客用新僵尸网络恶意程序感染网络设备](https://www.solidot.org/story?sid=70771)
+
+[中国的游戏零工](https://www.solidot.org/story?sid=70770)
+
+[最高法院将虚拟货币集资定性为非法](https://www.solidot.org/story?sid=70769)
 
 [乌克兰招募地下黑客防御俄罗斯网络攻击](https://www.solidot.org/story?sid=70768)
 
 [俄罗斯占领切尔诺贝利核电站](https://www.solidot.org/story?sid=70767)
-
-[英特尔收购 Linutronix](https://www.solidot.org/story?sid=70766)
-
-[美国终止“中国行动计划”](https://www.solidot.org/story?sid=70765)
-
-[欧盟提议薪酬透明](https://www.solidot.org/story?sid=70764)
-
-[俄罗斯可能会用加密货币逃避美国制裁](https://www.solidot.org/story?sid=70763)
-
-[寻找爱因斯坦引力理论的裂缝](https://www.solidot.org/story?sid=70762)
-
-[跟踪软件网络的幕后](https://www.solidot.org/story?sid=70761)
-
-[对垂死男子的脑部扫描表明生活经历可能会在眼前闪现](https://www.solidot.org/story?sid=70760)
-
-[Windows 8 早期版本曾有 ASCII 猫图像](https://www.solidot.org/story?sid=70759)
 
