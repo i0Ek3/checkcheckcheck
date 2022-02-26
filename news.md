@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-02-26 12:45:49
+> Update time: 2022-02-26 16:16:24
+
+[国际原子能机构称切尔诺贝利辐射值提高不危及公众安全](https://www.solidot.org/story?sid=70782)
+
+[英伟达遭到网络攻击](https://www.solidot.org/story?sid=70781)
+
+[Steam Deck 上市](https://www.solidot.org/story?sid=70780)
+
+[俄罗斯勒索软件组织 Conti 威胁发动网络战](https://www.solidot.org/story?sid=70779)
+
+[俄罗斯限制访问 Facebook](https://www.solidot.org/story?sid=70778)
 
 [Linux 内核讨论采用现代 C 语言标准](https://www.solidot.org/story?sid=70777)
 
@@ -10,14 +20,4 @@
 [南极洲周围的海冰覆盖创历史新低](https://www.solidot.org/story?sid=70774)
 
 [发生在春天的小行星撞击增加物种灭绝率](https://www.solidot.org/story?sid=70773)
-
-[俄乌危机对芯片供应链影响暂时有限](https://www.solidot.org/story?sid=70772)
-
-[俄罗斯精英黑客用新僵尸网络恶意程序感染网络设备](https://www.solidot.org/story?sid=70771)
-
-[中国的游戏零工](https://www.solidot.org/story?sid=70770)
-
-[最高法院将虚拟货币集资定性为非法](https://www.solidot.org/story?sid=70769)
-
-[乌克兰招募地下黑客防御俄罗斯网络攻击](https://www.solidot.org/story?sid=70768)
 
