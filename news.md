@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-03-01 16:41:22
+> Update time: 2022-03-01 20:25:10
+
+[亲乌克兰成员泄露 Conti 勒索软件组织聊天记录](https://www.solidot.org/story?sid=70811)
+
+[用不完美的设备实现完美保密](https://www.solidot.org/story?sid=70810)
+
+[DisplayPort2.0 标签标明带宽避免 HDMI 2.1 的混淆](https://www.solidot.org/story?sid=70809)
+
+[导航工具会将司机指向最短但不是最安全的路线](https://www.solidot.org/story?sid=70808)
+
+[席德梅尔对游戏行业的货币化发出警告](https://www.solidot.org/story?sid=70807)
 
 [微软证实存在 bug 会导致系统重置后用户数据没有删除](https://www.solidot.org/story?sid=70805)
 
@@ -10,14 +20,4 @@
 [在发生网络攻击后丰田日本国内工厂全部停工](https://www.solidot.org/story?sid=70802)
 
 [韦伯望远镜完成镜片校准](https://www.solidot.org/story?sid=70801)
-
-[狗在同伴去世后表现出悲痛行为](https://www.solidot.org/story?sid=70800)
-
-[联想宣布首款采用 ARM 处理器的 ThinkPad 笔电](https://www.solidot.org/story?sid=70799)
-
-[5000 多年前的耳科手术](https://www.solidot.org/story?sid=70798)
-
-[有史以来发现的最大细菌具有出乎意料的复杂细胞](https://www.solidot.org/story?sid=70797)
-
-[儿童可能在接触书本前本能知道如何做除法](https://www.solidot.org/story?sid=70796)
 
