@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-03-01 12:46:39
+> Update time: 2022-03-01 16:17:48
+
+[微软证实存在 bug 会导致系统重置后用户数据没有删除](https://www.solidot.org/story?sid=70805)
+
+[备份不再能有效阻止勒索软件攻击](https://www.solidot.org/story?sid=70804)
+
+[英伟达反击勒索软件攻击，黑客开始披露窃取的数据](https://www.solidot.org/story?sid=70803)
+
+[在发生网络攻击后丰田日本国内工厂全部停工](https://www.solidot.org/story?sid=70802)
+
+[韦伯望远镜完成镜片校准](https://www.solidot.org/story?sid=70801)
+
+[狗在同伴去世后表现出悲痛行为](https://www.solidot.org/story?sid=70800)
 
 [联想宣布首款采用 ARM 处理器的 ThinkPad 笔电](https://www.solidot.org/story?sid=70799)
 
@@ -8,16 +20,4 @@
 [有史以来发现的最大细菌具有出乎意料的复杂细胞](https://www.solidot.org/story?sid=70797)
 
 [儿童可能在接触书本前本能知道如何做除法](https://www.solidot.org/story?sid=70796)
-
-[科学家创建史上规模最大的人类家谱](https://www.solidot.org/story?sid=70795)
-
-[死亡螺旋：黑洞旋转轴倾斜](https://www.solidot.org/story?sid=70794)
-
-[芯片供应可能从短缺走向过剩](https://www.solidot.org/story?sid=70793)
-
-[挪威主权财富基金反对苹果的管理层薪酬计划](https://www.solidot.org/story?sid=70792)
-
-[未来的英特尔系统对开源固件日益不友好](https://www.solidot.org/story?sid=70791)
-
-[德国考虑延长最后三座核电站的寿命](https://www.solidot.org/story?sid=70790)
 
