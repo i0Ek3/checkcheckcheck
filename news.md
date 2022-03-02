@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-03-02 16:42:07
+> Update time: 2022-03-02 20:23:53
+
+[不断加深的危机迫使物理学家重新思考自然法则的结构](https://www.solidot.org/story?sid=70827)
+
+[推特机器人追踪俄罗斯寡头的飞机](https://www.solidot.org/story?sid=70826)
+
+[43% 的美国人感染新冠](https://www.solidot.org/story?sid=70825)
+
+[2021 年平均气温为 1951 年以来最高](https://www.solidot.org/story?sid=70824)
+
+[装载 4000 辆大众汽车的货轮起火沉没](https://www.solidot.org/story?sid=70823)
 
 [Zoë Kooyman 被任命为 FSF 执行董事](https://www.solidot.org/story?sid=70822)
 
@@ -10,14 +20,4 @@
 [被控庞氏骗局的 BitConnect 创始人销声匿迹](https://www.solidot.org/story?sid=70819)
 
 [宫崎英高认为死亡是一种特性不是 Bug](https://www.solidot.org/story?sid=70818)
-
-[气候变暖影响青藏高原树木生长](https://www.solidot.org/story?sid=70816)
-
-[堡垒靶场：sshd辅助CVE-2021-26708（Linux内核）漏洞利用提权](https://www.solidot.org/story?sid=70815)
-
-[赛门铁克发现先进黑客工具](https://www.solidot.org/story?sid=70814)
-
-[富士通准备结束大型机和 Unix 服务器业务](https://www.solidot.org/story?sid=70813)
-
-[Armbian 22.02 释出](https://www.solidot.org/story?sid=70812)
 
