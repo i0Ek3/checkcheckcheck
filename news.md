@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-03-04 04:15:12
+> Update time: 2022-03-04 04:36:27
 
 [英特尔 AMD 等联合制定 Chiplet 间互联标准](https://www.solidot.org/story?sid=70842)
 
