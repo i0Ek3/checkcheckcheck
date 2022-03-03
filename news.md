@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-03 12:46:52
+> Update time: 2022-03-03 16:17:27
+
+[科学家试图弄清楚为什么部分人没有感染 Covid](https://www.solidot.org/story?sid=70838)
+
+[科学家在中国发现最早的赭石加工证据](https://www.solidot.org/story?sid=70837)
+
+[Google Play 官方市场发现窃取敏感数据的远程访问木马](https://www.solidot.org/story?sid=70836)
+
+[网信办公布弹窗信息推送征求意见稿](https://www.solidot.org/story?sid=70835)
+
+[三星在一加之后被发现限制 Android 应用性能](https://www.solidot.org/story?sid=70834)
+
+[Google 开始强制要求员工重返办公室](https://www.solidot.org/story?sid=70833)
+
+[台湾断电事故影响到台积电](https://www.solidot.org/story?sid=70832)
+
+[175 个国家计划制定全球塑料条约](https://www.solidot.org/story?sid=70831)
+
+[工信部公布规定限制 APP 下载行为](https://www.solidot.org/story?sid=70830)
 
 [德国计划到 2035年 100%使用可再生能源](https://www.solidot.org/story?sid=70829)
-
-[非动物奶将现身货架](https://www.solidot.org/story?sid=70828)
-
-[不断加深的危机迫使物理学家重新思考自然法则的结构](https://www.solidot.org/story?sid=70827)
-
-[推特机器人追踪俄罗斯寡头的飞机](https://www.solidot.org/story?sid=70826)
-
-[43% 的美国人感染新冠](https://www.solidot.org/story?sid=70825)
-
-[2021 年平均气温为 1951 年以来最高](https://www.solidot.org/story?sid=70824)
-
-[装载 4000 辆大众汽车的货轮起火沉没](https://www.solidot.org/story?sid=70823)
-
-[Zoë Kooyman 被任命为 FSF 执行董事](https://www.solidot.org/story?sid=70822)
-
-[科学家在白尾鹿身上发现新冠变种](https://www.solidot.org/story?sid=70821)
-
-[华为称大力投资研究根技术](https://www.solidot.org/story?sid=70820)
 
