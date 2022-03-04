@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-04 20:56:42
+> Update time: 2022-03-05 00:20:42
+
+[为什么 RISC-V 能走向成功？](https://www.solidot.org/story?sid=70855)
+
+[距离地球最近的黑洞实际上是一个独特的双星系统](https://www.solidot.org/story?sid=70854)
+
+[俄罗斯限制访问多家媒体](https://www.solidot.org/story?sid=70853)
+
+[FBI 获得了 Sci-Hub 创始人 Google 账号数据](https://www.solidot.org/story?sid=70852)
+
+[美国政府严重警告固件安全是“单点故障”的高风险区域](https://www.solidot.org/story?sid=70851)
+
+[高血压与老年女性口腔细菌相关](https://www.solidot.org/story?sid=70850)
+
+[科学家观察活脑中的记忆形式](https://www.solidot.org/story?sid=70848)
+
+[物理学家制造出最大的时间晶体](https://www.solidot.org/story?sid=70847)
+
+[ICANN 拒绝撤销俄罗斯顶级域名的请求](https://www.solidot.org/story?sid=70845)
 
 [Xamarin 联合创始人 Miguel de Icaza 离开微软](https://www.solidot.org/story?sid=70844)
-
-[欧洲最大核电站建筑物起火](https://www.solidot.org/story?sid=70843)
-
-[英特尔 AMD 等联合制定 Chiplet 间互联标准](https://www.solidot.org/story?sid=70842)
-
-[即使在元宇宙中你也躲不过税务员](https://www.solidot.org/story?sid=70841)
-
-[AI 设计的蛋白质一个一个唤醒休眠基因](https://www.solidot.org/story?sid=70840)
-
-[在超声技术中看到整个物种的未来](https://www.solidot.org/story?sid=70839)
-
-[科学家试图弄清楚为什么部分人没有感染 Covid](https://www.solidot.org/story?sid=70838)
-
-[科学家在中国发现最早的赭石加工证据](https://www.solidot.org/story?sid=70837)
-
-[Google Play 官方市场发现窃取敏感数据的远程访问木马](https://www.solidot.org/story?sid=70836)
-
-[网信办公布弹窗信息推送征求意见稿](https://www.solidot.org/story?sid=70835)
 
