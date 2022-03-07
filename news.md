@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-07 12:46:36
+> Update time: 2022-03-07 16:18:12
+
+[美国太空部队计划将巡逻范围覆盖月球](https://www.solidot.org/story?sid=70870)
+
+[CRISPR 基因编辑出错率降低 4000 倍](https://www.solidot.org/story?sid=70869)
+
+[运动降低痴呆症风险——但有空气污染不行](https://www.solidot.org/story?sid=70868)
+
+[德国民权组织助力 Uberspace 反击针对的 youtube-dl 的版权诉讼](https://www.solidot.org/story?sid=70867)
+
+[李彦宏称算力算法要低碳](https://www.solidot.org/story?sid=70866)
+
+[加固 Windows Defender](https://www.solidot.org/story?sid=70865)
+
+[以色列发现 33 年来首例小儿麻痹症病例](https://www.solidot.org/story?sid=70864)
+
+[TikTok 暂停俄罗斯直播和新视频上传](https://www.solidot.org/story?sid=70863)
 
 [全球粮食价格创下记录](https://www.solidot.org/story?sid=70862)
 
 [Firefox 释出紧急更新修复两个正被利用的 0day](https://www.solidot.org/story?sid=70861)
-
-[Fuchsia 现在能运行完整功能的 Chromium](https://www.solidot.org/story?sid=70860)
-
-[黑猩猩知道如何用药](https://www.solidot.org/story?sid=70859)
-
-[每天饮酒一杯可能会导致大脑收缩](https://www.solidot.org/story?sid=70858)
-
-[美国多个州的检察长调查 TikTok 对儿童健康的影响](https://www.solidot.org/story?sid=70857)
-
-[BBC 恢复短波广播](https://www.solidot.org/story?sid=70856)
-
-[为什么 RISC-V 能走向成功？](https://www.solidot.org/story?sid=70855)
-
-[距离地球最近的黑洞实际上是一个独特的双星系统](https://www.solidot.org/story?sid=70854)
-
-[俄罗斯限制访问多家媒体](https://www.solidot.org/story?sid=70853)
 
