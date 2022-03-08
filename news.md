@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-08 12:47:14
+> Update time: 2022-03-08 16:18:12
+
+[“终结事件”已经到来](https://www.solidot.org/story?sid=70883)
+
+[NASA 发现美国每个州都有自己的流感爆发气候阈值](https://www.solidot.org/story?sid=70882)
+
+[冰雪世界中的“冰免防御”](https://www.solidot.org/story?sid=70881)
+
+[研究人员升级 DNA 字母表扩展数据存储](https://www.solidot.org/story?sid=70880)
+
+[Android 12L 被正式命名为 Android 12.1](https://www.solidot.org/story?sid=70879)
+
+[新冠死亡人数突破 600 万](https://www.solidot.org/story?sid=70878)
+
+[Python 项目两位核心开发者仍然留在乌克兰](https://www.solidot.org/story?sid=70877)
 
 [网络战的缺席](https://www.solidot.org/story?sid=70876)
 
 [研究人员让亚马逊 Alexa 自己黑自己](https://www.solidot.org/story?sid=70875)
 
 [轨道机器人将为卫星补充燃料](https://www.solidot.org/story?sid=70874)
-
-[探月工程四期开始实施](https://www.solidot.org/story?sid=70873)
-
-[乌克兰程序员仍然在工作](https://www.solidot.org/story?sid=70872)
-
-[Graphcore 用台积电 3D 芯片技术将 AI 速度提高 40%](https://www.solidot.org/story?sid=70871)
-
-[美国太空部队计划将巡逻范围覆盖月球](https://www.solidot.org/story?sid=70870)
-
-[CRISPR 基因编辑出错率降低 4000 倍](https://www.solidot.org/story?sid=70869)
-
-[运动降低痴呆症风险——但有空气污染不行](https://www.solidot.org/story?sid=70868)
-
-[德国民权组织助力 Uberspace 反击针对 youtube-dl 的版权诉讼](https://www.solidot.org/story?sid=70867)
 
