@@ -1,9 +1,11 @@
 # Here The News
-> Update time: 2022-03-09 08:59:20
+> Update time: 2022-03-09 12:18:34
 
 [Linux 内核发现易于利用的 dirty pipe 漏洞](https://www.solidot.org/story?sid=70887)
 
 [研究人员发布开源代码生成 AI 模型 PolyCoder](https://www.solidot.org/story?sid=70886)
+
+[乌克兰网络战](https://www.solidot.org/story?sid=70885)
 
 [Google 称 macOS 版 Chrome 快于 Safari](https://www.solidot.org/story?sid=70884)
 
@@ -18,6 +20,4 @@
 [Android 12L 被正式命名为 Android 12.1](https://www.solidot.org/story?sid=70879)
 
 [新冠死亡人数突破 600 万](https://www.solidot.org/story?sid=70878)
-
-[Python 项目两位核心开发者仍然留在乌克兰](https://www.solidot.org/story?sid=70877)
 
