@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-10 16:41:24
+> Update time: 2022-03-10 20:25:14
+
+[中国 2021 年电动汽车出口数量最多](https://www.solidot.org/story?sid=70909)
+
+[巨石阵是古老的太阳历](https://www.solidot.org/story?sid=70908)
+
+[研究发现上世纪的铅暴露让一半美国人的智商下降](https://www.solidot.org/story?sid=70907)
+
+[新疗法数天消灭小鼠体内的卵巢癌和大肠癌](https://www.solidot.org/story?sid=70905)
+
+[elementary OS 开发商面临瓦解](https://www.solidot.org/story?sid=70904)
+
+[首位接受转基因猪心脏移植的患者去世](https://www.solidot.org/story?sid=70903)
+
+[Blender 3.1 发布](https://www.solidot.org/story?sid=70902)
 
 [美国将评估加密货币风险及央行数字货币利弊](https://www.solidot.org/story?sid=70901)
 
 [2021 年 Steam 月活用户达到 1.32 亿，中国开发者海外收入增长三倍](https://www.solidot.org/story?sid=70900)
 
 [Elon Musk 想要终止与 SEC 达成的和解](https://www.solidot.org/story?sid=70899)
-
-[新方法放大 DDoS 攻击 40 亿倍](https://www.solidot.org/story?sid=70898)
-
-[苹果推出新 iPhone SE  和 Mac Studio 台式机](https://www.solidot.org/story?sid=70897)
-
-[研究发现感染 COVID-19 后脑容量出现小幅下降](https://www.solidot.org/story?sid=70896)
-
-[企业丢弃尚未到达使用寿命的 IT 设备](https://www.solidot.org/story?sid=70895)
-
-[星尘上的肽可能为生命起源提供捷径](https://www.solidot.org/story?sid=70894)
-
-[科学家用人工智能解码猪叫声](https://www.solidot.org/story?sid=70893)
-
-[中小企业的安全风险](https://www.solidot.org/story?sid=70892)
 
