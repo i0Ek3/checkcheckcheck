@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-03-14 13:03:56
+> Update time: 2022-03-14 16:18:14
+
+[人类太空殖民“将不可避免地失败”](https://www.solidot.org/story?sid=70935)
+
+[中国如何用 14 纳米技术造 Exascale 级超算](https://www.solidot.org/story?sid=70934)
+
+[俄罗斯屏蔽 Instagram，俄罗斯用户向网友告别](https://www.solidot.org/story?sid=70933)
+
+[欧盟计划减少进口芯片和食品的依赖](https://www.solidot.org/story?sid=70932)
+
+[维基百科编辑被拘留 15 天](https://www.solidot.org/story?sid=70931)
 
 [DuckDuckGo 因 Bing 降低传播俄罗斯虚假信息网站的排名](https://www.solidot.org/story?sid=70929)
 
@@ -10,14 +20,4 @@
 [新冠疫情两周年](https://www.solidot.org/story?sid=70926)
 
 [乌克兰两家氖企停产致全球氖产量损失一半](https://www.solidot.org/story?sid=70925)
-
-[研究发现不吃晚餐更有利于代谢健康的新证据](https://www.solidot.org/story?sid=70924)
-
-[研究人员称 Omicron 在光滑表面上七天内仍具有一定传染力](https://www.solidot.org/story?sid=70923)
-
-[BAT 创建新视频流标准](https://www.solidot.org/story?sid=70922)
-
-[美国引渡两位勒索软件黑帮的嫌疑犯](https://www.solidot.org/story?sid=70921)
-
-[Google 为乌克兰 Android 用户推出空袭警报系统](https://www.solidot.org/story?sid=70920)
 
