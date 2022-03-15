@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-15 16:41:50
+> Update time: 2022-03-15 20:24:57
+
+[育碧证实遭到网络攻击](https://www.solidot.org/story?sid=70951)
+
+[豆瓣应用下架被要求整改](https://www.solidot.org/story?sid=70950)
+
+[捕捉坠落的卫星](https://www.solidot.org/story?sid=70949)
+
+[改造油井以解决太阳能存储问题](https://www.solidot.org/story?sid=70948)
+
+[小星系揭示超大质量黑洞的秘密](https://www.solidot.org/story?sid=70947)
+
+[研究人员用 379 年历史的算法破解现有加密密钥](https://www.solidot.org/story?sid=70946)
+
+[辉瑞 CEO 认为需要接种第四针疫苗](https://www.solidot.org/story?sid=70945)
 
 [Google 杀死没有广告的 YouTube Vanced](https://www.solidot.org/story?sid=70944)
 
 [Firefox 98.0.1 移除 Yandex 和 Mail.ru 搜索选项](https://www.solidot.org/story?sid=70943)
 
 [诉讼指控 Google 劫持了数百万客户的餐饮订单](https://www.solidot.org/story?sid=70942)
-
-[9 个天文望远镜项目落户青海冷湖](https://www.solidot.org/story?sid=70941)
-
-[福特将向客户出售缺少部分芯片的汽车](https://www.solidot.org/story?sid=70940)
-
-[富士康深圳工厂停产](https://www.solidot.org/story?sid=70938)
-
-[计算机科学的“慈善资本主义”危险](https://www.solidot.org/story?sid=70937)
-
-[AI 能帮助赌场减少赌博成瘾吗？](https://www.solidot.org/story?sid=70936)
-
-[人类太空殖民“将不可避免地失败”](https://www.solidot.org/story?sid=70935)
-
-[中国如何用 14 纳米技术造 Exascale 级超算](https://www.solidot.org/story?sid=70934)
 
