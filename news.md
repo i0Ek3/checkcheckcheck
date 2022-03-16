@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-03-16 20:57:12
+> Update time: 2022-03-17 00:20:14
+
+[阿里巴巴和腾讯准备裁员](https://www.solidot.org/story?sid=70964)
+
+[arXiv 因室温超导争议暂停作者发表论文半年](https://www.solidot.org/story?sid=70963)
+
+[俄罗斯可用存储空间只剩两个月](https://www.solidot.org/story?sid=70962)
+
+[英特尔欧洲芯片工厂初步选址德国](https://www.solidot.org/story?sid=70961)
+
+[第一款 RISC-V 便捷式计算机](https://www.solidot.org/story?sid=70960)
 
 [OpenSSL/LibreSSL 发现一个可远程利用的漏洞](https://www.solidot.org/story?sid=70959)
 
@@ -10,14 +20,4 @@
 [走私者尝试捆绑 160 个英特尔 CPU 入境](https://www.solidot.org/story?sid=70956)
 
 [Red Hat 未能拿回 WeMakeFedora.org 域名](https://www.solidot.org/story?sid=70955)
-
-[研究估计香港近半数人口感染新冠](https://www.solidot.org/story?sid=70954)
-
-[美国如何帮助乌克兰加强网络战防御](https://www.solidot.org/story?sid=70953)
-
-[微软测试在文件管理器中展示广告](https://www.solidot.org/story?sid=70952)
-
-[育碧证实遭到网络攻击](https://www.solidot.org/story?sid=70951)
-
-[豆瓣应用下架被要求整改](https://www.solidot.org/story?sid=70950)
 
