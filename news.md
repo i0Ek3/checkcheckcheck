@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-16 16:41:09
+> Update time: 2022-03-16 20:24:44
+
+[OpenSSL/LibreSSL 发现一个可远程利用的漏洞](https://www.solidot.org/story?sid=70959)
+
+[特斯拉解雇发自动驾驶评测的员工](https://www.solidot.org/story?sid=70958)
+
+[ARM 裁员千人](https://www.solidot.org/story?sid=70957)
+
+[走私者尝试捆绑 160 个英特尔 CPU 入境](https://www.solidot.org/story?sid=70956)
+
+[Red Hat 未能拿回 WeMakeFedora.org 域名](https://www.solidot.org/story?sid=70955)
 
 [研究估计香港近半数人口感染新冠](https://www.solidot.org/story?sid=70954)
+
+[美国如何帮助乌克兰加强网络战防御](https://www.solidot.org/story?sid=70953)
 
 [微软测试在文件管理器中展示广告](https://www.solidot.org/story?sid=70952)
 
 [育碧证实遭到网络攻击](https://www.solidot.org/story?sid=70951)
 
 [豆瓣应用下架被要求整改](https://www.solidot.org/story?sid=70950)
-
-[捕捉坠落的卫星](https://www.solidot.org/story?sid=70949)
-
-[改造油井以解决太阳能存储问题](https://www.solidot.org/story?sid=70948)
-
-[小星系揭示超大质量黑洞的秘密](https://www.solidot.org/story?sid=70947)
-
-[研究人员用 379 年历史的算法破解现有加密密钥](https://www.solidot.org/story?sid=70946)
-
-[辉瑞 CEO 认为需要接种第四针疫苗](https://www.solidot.org/story?sid=70945)
-
-[Google 杀死没有广告的 YouTube Vanced](https://www.solidot.org/story?sid=70944)
 
