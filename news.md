@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-17 12:47:01
+> Update time: 2022-03-17 16:17:45
 
-[三名候选人参与今年的 DPL 选举](https://www.solidot.org/story?sid=70965)
+[绝对疯狂的实验检测环绕氦离子的反质子](https://www.solidot.org/story?sid=70975)
 
-[阿里巴巴和腾讯准备裁员](https://www.solidot.org/story?sid=70964)
+[被超级细菌污染的鸡肉产品销往美国各地](https://www.solidot.org/story?sid=70974)
 
-[arXiv 因室温超导争议暂停作者发表论文半年](https://www.solidot.org/story?sid=70963)
+[研究数据集过小阻碍脑成像研究](https://www.solidot.org/story?sid=70973)
 
-[俄罗斯可用存储空间只剩两个月](https://www.solidot.org/story?sid=70962)
+[连接宇宙的宇宙网塑造了星系中的暗物质](https://www.solidot.org/story?sid=70972)
 
-[英特尔欧洲芯片工厂初步选址德国](https://www.solidot.org/story?sid=70961)
+[乌克兰合法化加密货币](https://www.solidot.org/story?sid=70971)
 
-[第一款 RISC-V 便捷式计算机](https://www.solidot.org/story?sid=70960)
+[卫星数据显示北极海冰在短短三年内显著下降](https://www.solidot.org/story?sid=70970)
 
-[OpenSSL/LibreSSL 发现一个可远程利用的漏洞](https://www.solidot.org/story?sid=70959)
+[机器学习重新构想算法](https://www.solidot.org/story?sid=70969)
 
-[特斯拉解雇发自动驾驶评测的员工](https://www.solidot.org/story?sid=70958)
+[美国参议院通过法案永久化夏令时](https://www.solidot.org/story?sid=70968)
 
-[ARM 裁员千人](https://www.solidot.org/story?sid=70957)
+[睡眠时有灯光会影响健康](https://www.solidot.org/story?sid=70967)
 
-[走私者尝试捆绑 160 个英特尔 CPU 入境](https://www.solidot.org/story?sid=70956)
+[维护者抗议俄罗斯破坏 NPM 包](https://www.solidot.org/story?sid=70966)
 
