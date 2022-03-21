@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-21 12:46:59
+> Update time: 2022-03-21 16:19:20
+
+[喜力的自我解嘲：在元宇宙中推出虚拟啤酒](https://www.solidot.org/story?sid=71008)
+
+[时间倒流的反宇宙或能解释暗物质](https://www.solidot.org/story?sid=71007)
+
+[自动驾驶卡车能取代 90% 的人类长途卡车司机](https://www.solidot.org/story?sid=71006)
+
+[研究人员发现一种新形式冰](https://www.solidot.org/story?sid=71005)
+
+[《原神》走红全球背后](https://www.solidot.org/story?sid=71004)
+
+[澳大利亚要求 Google 验证访问成人内容的用户 ID](https://www.solidot.org/story?sid=71003)
+
+[Rust 代码占到了 Firefox 项目的近十分之一](https://www.solidot.org/story?sid=71002)
+
+[FOSS 许可证和社会正义](https://www.solidot.org/story?sid=71001)
 
 [《瘟疫传说：无罪》将改编为电视剧](https://www.solidot.org/story?sid=71000)
 
 [《光晕》如何从游戏走向银幕](https://www.solidot.org/story?sid=70999)
-
-[油泵和常见路由器一样存在安全隐患](https://www.solidot.org/story?sid=70998)
-
-[Telegram 忘记检查邮箱，巴西最高法院下令封锁 Telegram](https://www.solidot.org/story?sid=70997)
-
-[Google 给地图应用加入红熊猫](https://www.solidot.org/story?sid=70996)
-
-[AMD 宣布 FSR 2.0](https://www.solidot.org/story?sid=70995)
-
-[Humble 推出乌克兰慈善包](https://www.solidot.org/story?sid=70994)
-
-[研究揭示人工林与天然林效益差别](https://www.solidot.org/story?sid=70993)
-
-[Mozilla 和 Open Web Docs 在 MDN 上携手合作](https://www.solidot.org/story?sid=70992)
-
-[RIAA 报告称 CD 销量 17 年来首次增长](https://www.solidot.org/story?sid=70991)
 
