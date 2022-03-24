@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-03-24 21:01:04
+> Update time: 2022-03-25 00:20:31
 
 [GIF 创始人感染新冠去世](https://www.solidot.org/story?sid=71050)
 
