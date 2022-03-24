@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-24 12:47:39
+> Update time: 2022-03-24 16:18:03
+
+[肯尼亚的水患静悄悄](https://www.solidot.org/story?sid=71048)
+
+[南北极遭遇极端高温和创历史新低的海冰量](https://www.solidot.org/story?sid=71047)
+
+[澳大利亚黑色夏季火灾破坏臭氧](https://www.solidot.org/story?sid=71046)
+
+[英伟达考虑让英特尔代工芯片制造](https://www.solidot.org/story?sid=71045)
+
+[Firefox 将支持 AV1 硬件加速](https://www.solidot.org/story?sid=71044)
+
+[新浪微博被 SEC 列入退市风险名单](https://www.solidot.org/story?sid=71043)
+
+[2021 年结婚登记数创 36 年新低](https://www.solidot.org/story?sid=71042)
 
 [《塞尔达传说时之笛》PC 移植版发布](https://www.solidot.org/story?sid=71041)
 
 [2022 年度阿贝尔奖授予了 81 岁的数学家 Dennis P. Sullivan](https://www.solidot.org/story?sid=71040)
 
 [美国软件工程师平均薪水最高](https://www.solidot.org/story?sid=71039)
-
-[腾讯去年第四季度营收增速创新低](https://www.solidot.org/story?sid=71038)
-
-[辉瑞如何用 AI 和超算设计新冠疫苗和口服药片](https://www.solidot.org/story?sid=71037)
-
-[Android 短信和电话应用都会悄悄向 Google 发送数据](https://www.solidot.org/story?sid=71036)
-
-[天文学家接近揭开快速射电暴的神秘起源](https://www.solidot.org/story?sid=71035)
-
-[新疗法阻止 T 细胞攻击帕金森氏症患者的脑细胞](https://www.solidot.org/story?sid=71034)
-
-[机器学习帮助识别宜居系外行星](https://www.solidot.org/story?sid=71033)
-
-[大脑化学物质帮助向神经元发出何时开始动作的信号](https://www.solidot.org/story?sid=71032)
 
