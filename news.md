@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-03-29 21:03:21
+> Update time: 2022-03-30 00:21:28
+
+[Google Workspace 用户账号将默认启用跟踪](https://www.solidot.org/story?sid=71097)
+
+[日本民调显示超过半数人支持恢复核电](https://www.solidot.org/story?sid=71096)
+
+[科学家在青藏高原发现白天活动的猫头鹰古化石](https://www.solidot.org/story?sid=71095)
+
+[黑客入侵 WordPress 网站对乌克兰域名发动 DDoS 攻击](https://www.solidot.org/story?sid=71094)
+
+[年轻一代通过游戏了解历史](https://www.solidot.org/story?sid=71093)
 
 [京东和 B 站都将裁员称为毕业](https://www.solidot.org/story?sid=71092)
 
@@ -10,14 +20,4 @@
 [Google 要求俄语翻译不要将乌克兰战争翻译为“战争”](https://www.solidot.org/story?sid=71089)
 
 [量子计算领域的炒作问题](https://www.solidot.org/story?sid=71088)
-
-[科学家模拟 140 亿年前的宇宙](https://www.solidot.org/story?sid=71087)
-
-[Debian 允许不记名投票](https://www.solidot.org/story?sid=71086)
-
-[GCC 编译器接受了龙芯移植版本](https://www.solidot.org/story?sid=71085)
-
-[Linux 5.18 开始启动停止支持 ReiserFS](https://www.solidot.org/story?sid=71084)
-
-[华为去年收入下降三成](https://www.solidot.org/story?sid=71083)
 
