@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-03-29 16:42:52
+> Update time: 2022-03-29 20:27:29
+
+[京东和 B 站都将裁员称为毕业](https://www.solidot.org/story?sid=71092)
+
+[细胞如何在身体内导航移动](https://www.solidot.org/story?sid=71091)
+
+[同时感染 Covid 和流感会让患者死亡风险增加一倍](https://www.solidot.org/story?sid=71090)
+
+[Google 要求俄语翻译不要将乌克兰战争翻译为“战争”](https://www.solidot.org/story?sid=71089)
+
+[量子计算领域的炒作问题](https://www.solidot.org/story?sid=71088)
 
 [科学家模拟 140 亿年前的宇宙](https://www.solidot.org/story?sid=71087)
 
@@ -10,14 +20,4 @@
 [Linux 5.18 开始启动停止支持 ReiserFS](https://www.solidot.org/story?sid=71084)
 
 [华为去年收入下降三成](https://www.solidot.org/story?sid=71083)
-
-[苹果发行的《CODA》赢得奥斯卡最佳影片奖](https://www.solidot.org/story?sid=71082)
-
-[蟒蛇勒不死自己的原因](https://www.solidot.org/story?sid=71081)
-
-[互联网巨头纷纷裁员](https://www.solidot.org/story?sid=71080)
-
-[南极东部一个冰架坍塌](https://www.solidot.org/story?sid=71079)
-
-[音乐能增加幸福感改善生活质量](https://www.solidot.org/story?sid=71078)
 
