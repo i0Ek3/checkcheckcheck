@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-03-30 16:43:21
+> Update time: 2022-03-30 20:27:36
+
+[「鹤岗」应该进军元宇宙](https://www.solidot.org/story?sid=71108)
+
+[国税局加强对网络主播的税务监管](https://www.solidot.org/story?sid=71107)
+
+[因 BGP 配置错误 Twitter 流量短暂路由经过俄罗斯](https://www.solidot.org/story?sid=71106)
+
+[Arm 计划转让中国合资公司的股份](https://www.solidot.org/story?sid=71105)
+
+[天文学家捕捉到垂死恒星喷出“烟圈”](https://www.solidot.org/story?sid=71104)
+
+[冥王星上的冰火山](https://www.solidot.org/story?sid=71103)
+
+[元宇宙的房地产热](https://www.solidot.org/story?sid=71102)
 
 [民用卫星图像如何改变对战争的看法](https://www.solidot.org/story?sid=71101)
 
 [索尼宣布了新的游戏订阅服务](https://www.solidot.org/story?sid=71100)
 
 [微软释出更新简化 Windows 11 用户更改默认浏览器](https://www.solidot.org/story?sid=71099)
-
-[Chrome 100 释出](https://www.solidot.org/story?sid=71098)
-
-[Google Workspace 用户账号将默认启用跟踪](https://www.solidot.org/story?sid=71097)
-
-[日本民调显示超过半数人支持恢复核电](https://www.solidot.org/story?sid=71096)
-
-[科学家在青藏高原发现白天活动的猫头鹰古化石](https://www.solidot.org/story?sid=71095)
-
-[黑客入侵 WordPress 网站对乌克兰域名发动 DDoS 攻击](https://www.solidot.org/story?sid=71094)
-
-[年轻一代通过游戏了解历史](https://www.solidot.org/story?sid=71093)
-
-[京东和 B 站都将裁员称为毕业](https://www.solidot.org/story?sid=71092)
 
