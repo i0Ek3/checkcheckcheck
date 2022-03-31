@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-03-31 12:47:38
+> Update time: 2022-03-31 16:18:04
+
+[乌克兰无人机战争](https://www.solidot.org/story?sid=71117)
+
+[环保组织推动比特币网络放弃耗能代码](https://www.solidot.org/story?sid=71116)
+
+[氢燃料电池可不使用贵金属](https://www.solidot.org/story?sid=71115)
+
+[新冠病毒未来会如何演化](https://www.solidot.org/story?sid=71114)
+
+[大众上海工厂因零部件短缺减产](https://www.solidot.org/story?sid=71113)
 
 [百度等被美国列入退市风险暂定名单](https://www.solidot.org/story?sid=71112)
 
@@ -10,14 +20,4 @@
 [使命召唤开发商称因游戏容量太大而流失玩家](https://www.solidot.org/story?sid=71109)
 
 [「鹤岗」应该进军元宇宙](https://www.solidot.org/story?sid=71108)
-
-[国税局加强对网络主播的税务监管](https://www.solidot.org/story?sid=71107)
-
-[因 BGP 配置错误 Twitter 流量短暂路由经过俄罗斯](https://www.solidot.org/story?sid=71106)
-
-[Arm 计划转让中国合资公司的股份](https://www.solidot.org/story?sid=71105)
-
-[天文学家捕捉到垂死恒星喷出“烟圈”](https://www.solidot.org/story?sid=71104)
-
-[冥王星上的冰火山](https://www.solidot.org/story?sid=71103)
 
