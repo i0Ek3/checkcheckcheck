@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-04-01 21:10:24
+> Update time: 2022-04-02 00:22:16
+
+[戴森宣布末世风格的空气净化耳机](https://www.solidot.org/story?sid=71137)
+
+[鱼会做简单加减法](https://www.solidot.org/story?sid=71136)
+
+[数据显示 Windows 11 增长停滞](https://www.solidot.org/story?sid=71135)
+
+[俄罗斯禁止关键基础设施使用外国软件](https://www.solidot.org/story?sid=71134)
+
+[苹果释出补丁修复两个 0day 漏洞](https://www.solidot.org/story?sid=71133)
 
 [用无人机和人工智能寻找陨石](https://www.solidot.org/story?sid=71132)
 
@@ -10,14 +20,4 @@
 [NASA 获得阿尔忒弥斯计划所需的拨款](https://www.solidot.org/story?sid=71129)
 
 [Ubiquiti 起诉安全博主 Brian Krebs 诽谤](https://www.solidot.org/story?sid=71128)
-
-[DNA 分析揭示新疆早期的人口流动](https://www.solidot.org/story?sid=71127)
-
-[黑客伪造“紧急数据请求”美议员要求调查](https://www.solidot.org/story?sid=71126)
-
-[2022 年的 E3 游戏展会正式取消](https://www.solidot.org/story?sid=71125)
-
-[哈勃望远镜观测已知最遥远的恒星](https://www.solidot.org/story?sid=71123)
-
-[美国宇航员搭乘俄罗斯飞船返回地面](https://www.solidot.org/story?sid=71122)
 
