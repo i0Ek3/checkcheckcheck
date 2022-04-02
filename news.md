@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-02 16:41:58
+> Update time: 2022-04-02 20:23:13
+
+[深度 20.5 发布](https://www.solidot.org/story?sid=71146)
+
+[机器狗将在庞贝城巡逻](https://www.solidot.org/story?sid=71145)
+
+[NIH 试验 COVID 疫苗加强针以对抗未来变种](https://www.solidot.org/story?sid=71144)
+
+[首个完整的无间隙人类基因组序测序结果发布](https://www.solidot.org/story?sid=71143)
+
+[控制车辆能让街道更安全对气候更友好？](https://www.solidot.org/story?sid=71142)
+
+[亚马逊 Staten 岛雇员投票组建工会](https://www.solidot.org/story?sid=71141)
+
+[GitLab 高危漏洞允许攻击者控制用户账号](https://www.solidot.org/story?sid=71140)
 
 [elementary OS 联合创始人宣布完全退出项目](https://www.solidot.org/story?sid=71139)
 
 [戴森宣布末世风格的空气净化耳机](https://www.solidot.org/story?sid=71137)
 
 [鱼会做简单加减法](https://www.solidot.org/story?sid=71136)
-
-[数据显示 Windows 11 增长停滞](https://www.solidot.org/story?sid=71135)
-
-[俄罗斯禁止关键基础设施使用外国软件](https://www.solidot.org/story?sid=71134)
-
-[苹果释出补丁修复两个 0day 漏洞](https://www.solidot.org/story?sid=71133)
-
-[用无人机和人工智能寻找陨石](https://www.solidot.org/story?sid=71132)
-
-[国际象棋直播使用人工智能显示选手心率](https://www.solidot.org/story?sid=71131)
-
-[Google 搜索的“高引用”标签帮你找到消息来源](https://www.solidot.org/story?sid=71130)
-
-[NASA 获得阿尔忒弥斯计划所需的拨款](https://www.solidot.org/story?sid=71129)
 
