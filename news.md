@@ -1,5 +1,7 @@
 # Here The News
-> Update time: 2022-04-09 12:47:34
+> Update time: 2022-04-09 16:17:50
+
+[美国太空司令部确认第一个撞击地球的星际天体](https://www.solidot.org/story?sid=71194)
 
 [科学家揭开东亚面部独特性遗传进化机制](https://www.solidot.org/story?sid=71193)
 
@@ -18,6 +20,4 @@
 [Fedora 考虑停止支持非 UEFI BIOS](https://www.solidot.org/story?sid=71186)
 
 [网信办称互联网企业用工人数保持平稳](https://www.solidot.org/story?sid=71185)
-
-[刘强东卸任京东 CEO](https://www.solidot.org/story?sid=71184)
 
