@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-11 16:43:27
+> Update time: 2022-04-11 20:26:59
+
+[人工指尖赋予机器人近乎人类的触感](https://www.solidot.org/story?sid=71209)
+
+[日产与 NASA 合作在固态电池中摒弃稀有昂贵金属](https://www.solidot.org/story?sid=71208)
+
+[长大的地方可能会影响导航能力](https://www.solidot.org/story?sid=71207)
+
+[蓬勃发展的航天工业引发低轨道安全担忧](https://www.solidot.org/story?sid=71206)
+
+[黑客使用泄露的勒索软件攻击俄罗斯公司](https://www.solidot.org/story?sid=71205)
+
+[防疫措施进一步破坏全球供应链](https://www.solidot.org/story?sid=71204)
+
+[最大儿童色情网站如何倒下](https://www.solidot.org/story?sid=71203)
+
+[IMF 研究称加密货币在腐败国家更流行](https://www.solidot.org/story?sid=71202)
+
+[太阳黑子活动超过预期](https://www.solidot.org/story?sid=71201)
 
 [Google 将 AI 写作视为自动生成内容](https://www.solidot.org/story?sid=71200)
-
-[科学家发掘出小行星撞击地球时的恐龙化石](https://www.solidot.org/story?sid=71199)
-
-[鲁莽的俄罗斯士兵在污染最严重的区域挖战壕](https://www.solidot.org/story?sid=71198)
-
-[天文学家发现至今最遥远的星系](https://www.solidot.org/story?sid=71197)
-
-[科学家逆转人类皮肤细胞老化三十年](https://www.solidot.org/story?sid=71196)
-
-[Mozilla Thunderbird Beta 默认启用对 Matrix 的支持](https://www.solidot.org/story?sid=71195)
-
-[美国太空司令部确认第一个撞击地球的星际天体](https://www.solidot.org/story?sid=71194)
-
-[科学家揭开东亚面部独特性遗传进化机制](https://www.solidot.org/story?sid=71193)
-
-[数字人民币整合进微信](https://www.solidot.org/story?sid=71192)
-
-[新粒子测量结果可能打破标准模型](https://www.solidot.org/story?sid=71191)
 
