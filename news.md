@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-13 21:01:25
+> Update time: 2022-04-14 00:21:43
+
+[科学家揭示工作记忆的格式](https://www.solidot.org/story?sid=71237)
+
+[天文学家捕捉到海王星温度的惊人变化](https://www.solidot.org/story?sid=71236)
+
+[欧洲大力投资火车](https://www.solidot.org/story?sid=71235)
+
+[黑碳威胁北极](https://www.solidot.org/story?sid=71234)
+
+[搜狐等被 SEC 列入预摘牌名单](https://www.solidot.org/story?sid=71233)
+
+[维基百科社区投票禁止加密货币捐款](https://www.solidot.org/story?sid=71232)
+
+[库克称绕过应用商店可能会危及隐私](https://www.solidot.org/story?sid=71231)
+
+[记录超速的 AI 应用引发争议](https://www.solidot.org/story?sid=71230)
+
+[RaidForums 站长被捕](https://www.solidot.org/story?sid=71229)
 
 [戴尔在荷兰试验四天工作制](https://www.solidot.org/story?sid=71228)
-
-[TikTok 今年收入预计将超过 Twitter 和 Snap 之和](https://www.solidot.org/story?sid=71227)
-
-[路透中文关闭](https://www.solidot.org/story?sid=71226)
-
-[免疫指纹或有助于改善自身免疫性疾病的治疗](https://www.solidot.org/story?sid=71225)
-
-[SSLPing 服务宣布关闭](https://www.solidot.org/story?sid=71224)
-
-[任意一天全世界人口中有 15.8% 的人头痛](https://www.solidot.org/story?sid=71223)
-
-[中国公司推出两款使用 Imagination Technologies 技术的显卡](https://www.solidot.org/story?sid=71222)
-
-[美国陆军将造美洲最大的 3D 打印建筑](https://www.solidot.org/story?sid=71221)
-
-[拥有更长遗传密码的生命可能但几率小](https://www.solidot.org/story?sid=71220)
-
-[研究人员找到安提基特拉机械可能的“零日”](https://www.solidot.org/story?sid=71219)
 
