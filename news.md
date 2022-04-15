@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-04-15 09:07:17
+> Update time: 2022-04-15 12:34:31
+
+[Twitter 董事会准备反击 Elon Musk 的收购提议](https://www.solidot.org/story?sid=71251)
+
+[腾讯关闭网游加速器服务](https://www.solidot.org/story?sid=71250)
+
+[Elon Musk 报价 410 亿美元收购 Twitter](https://www.solidot.org/story?sid=71249)
+
+[黑客如何利用 Windows 任务调度程序植入持久性的后门](https://www.solidot.org/story?sid=71248)
+
+[俄罗斯科技行业面临人才外流](https://www.solidot.org/story?sid=71247)
 
 [Unreal Engine 5能否实现元宇宙的潜力？](https://www.solidot.org/story?sid=71246)
 
@@ -10,14 +20,4 @@
 [科学家揭示汤加火山如何引发全球海啸](https://www.solidot.org/story?sid=71243)
 
 [律师认为复旦调剂生的使诈行为并不违法](https://www.solidot.org/story?sid=71242)
-
-[Facebook 开源可扩展文本编辑器库 Lexical](https://www.solidot.org/story?sid=71241)
-
-[Facebook 元宇宙销售抽成接近五成](https://www.solidot.org/story?sid=71240)
-
-[Google 将给知名开发者和发行商展示徽章](https://www.solidot.org/story?sid=71239)
-
-[苹果上海江苏代工厂停产](https://www.solidot.org/story?sid=71238)
-
-[科学家揭示工作记忆的格式](https://www.solidot.org/story?sid=71237)
 
