@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-18 16:44:13
+> Update time: 2022-04-18 20:27:16
 
-[Richard Stallman 谈论自由软件运动的现状](https://www.solidot.org/story?sid=71267)
+[小米想要成为中国的苹果](https://www.solidot.org/story?sid=71280)
 
-[社交网络让我们变蠢？](https://www.solidot.org/story?sid=71266)
+[环保部称 2021 年全国生态环境质量明显改善](https://www.solidot.org/story?sid=71279)
 
-[Twitter 采取毒丸计划阻止 Elon Musk 的敌意收购](https://www.solidot.org/story?sid=71265)
+[美国青少年组建禁书俱乐部](https://www.solidot.org/story?sid=71278)
 
-[DuckDuckGo 从搜索结果移除盗版网站和 YouTube-DL](https://www.solidot.org/story?sid=71264)
+[全新及二手电动汽车价格飙升](https://www.solidot.org/story?sid=71277)
 
-[神舟十三号返回地面](https://www.solidot.org/story?sid=71263)
+[植物如何变成捕食者？](https://www.solidot.org/story?sid=71276)
 
-[主要平台宣布将展示帐号 IP 属地](https://www.solidot.org/story?sid=71262)
+[韦伯望远镜最冷的仪器达到工作温度](https://www.solidot.org/story?sid=71275)
 
-[Google 释出紧急更新修复正被利用的 Chrome 0day 漏洞](https://www.solidot.org/story?sid=71261)
+[比尔盖茨敦加快开发治疗药物](https://www.solidot.org/story?sid=71274)
 
-[密码检查算法高危漏洞允许任何人登陆思科的 Wi-Fi 管理软件](https://www.solidot.org/story?sid=71260)
+[GitHub 关闭被制裁公司的俄罗斯开发者账号](https://www.solidot.org/story?sid=71273)
 
-[从简单 AI 获得新理解](https://www.solidot.org/story?sid=71258)
+[美国警告对工业控制系统的攻击](https://www.solidot.org/story?sid=71272)
 
-[儿童严重肝病病例引发国际调查](https://www.solidot.org/story?sid=71257)
+[中国空间站将在年内建成](https://www.solidot.org/story?sid=71271)
 
