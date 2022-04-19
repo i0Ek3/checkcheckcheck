@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-04-19 09:18:54
+> Update time: 2022-04-19 16:19:31
+
+[美国上诉法院裁决 Web 抓取是合法的](https://www.solidot.org/story?sid=71285)
+
+[香港研究显示奥密克戎变种流行期间未完全接种病例死亡风险与早期相当](https://www.solidot.org/story?sid=71284)
+
+[清华大学实现百公里量子直接通信](https://www.solidot.org/story?sid=71283)
+
+[英国政府官员感染间谍软件 Pegasus](https://www.solidot.org/story?sid=71282)
+
+[Apollo Global 考虑竞购 Twitter](https://www.solidot.org/story?sid=71281)
 
 [小米想要成为中国的苹果](https://www.solidot.org/story?sid=71280)
 
@@ -10,14 +20,4 @@
 [全新及二手电动汽车价格飙升](https://www.solidot.org/story?sid=71277)
 
 [植物如何变成捕食者？](https://www.solidot.org/story?sid=71276)
-
-[韦伯望远镜最冷的仪器达到工作温度](https://www.solidot.org/story?sid=71275)
-
-[比尔盖茨敦加快开发治疗药物](https://www.solidot.org/story?sid=71274)
-
-[GitHub 关闭被制裁公司的俄罗斯开发者账号](https://www.solidot.org/story?sid=71273)
-
-[美国警告对工业控制系统的攻击](https://www.solidot.org/story?sid=71272)
-
-[中国空间站将在年内建成](https://www.solidot.org/story?sid=71271)
 
