@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-04-20 16:46:35
+> Update time: 2022-04-20 20:30:21
+
+[基因外遗传帮助线虫演化](https://www.solidot.org/story?sid=71303)
+
+[直升机将尝试在半空捕捉火箭助推器](https://www.solidot.org/story?sid=71302)
+
+[NASA派全息医生前往国际空间站探望宇航员](https://www.solidot.org/story?sid=71301)
+
+[美国承诺结束反卫星导弹试验](https://www.solidot.org/story?sid=71300)
+
+[联想修复 UEFI 固件漏洞](https://www.solidot.org/story?sid=71299)
 
 [DuckDuckGo 否认从搜索结果剔除盗版网站域名](https://www.solidot.org/story?sid=71298)
 
@@ -10,14 +20,4 @@
 [企业高管并没有遵循他们自己的重返办公室建议](https://www.solidot.org/story?sid=71295)
 
 [关于 Linux 服务器普通用户 host 配置](https://www.solidot.org/story?sid=71294)
-
-[Netflix 首次订阅用户减少股价暴跌四分之一](https://www.solidot.org/story?sid=71293)
-
-[新数据显示 Windows 11 普及度甚至低于 XP](https://www.solidot.org/story?sid=71292)
-
-[佛罗里达法官推翻了旅行口罩强制令](https://www.solidot.org/story?sid=71291)
-
-[Google 否认对俄罗斯敏感地点卫星图片去模糊处理](https://www.solidot.org/story?sid=71290)
-
-[上海报告 10 例新冠死亡病例](https://www.solidot.org/story?sid=71289)
 
