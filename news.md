@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-04-20 12:43:45
+> Update time: 2022-04-20 16:21:33
+
+[DuckDuckGo 否认从搜索结果剔除盗版网站域名](https://www.solidot.org/story?sid=71298)
+
+[长寿的秘密](https://www.solidot.org/story?sid=71297)
+
+[木星欧罗巴可能存在浅层液态水](https://www.solidot.org/story?sid=71296)
+
+[企业高管并没有遵循他们自己的重返办公室建议](https://www.solidot.org/story?sid=71295)
+
+[关于 Linux 服务器普通用户 host 配置](https://www.solidot.org/story?sid=71294)
+
+[Netflix 首次订阅用户减少股价暴跌四分之一](https://www.solidot.org/story?sid=71293)
 
 [新数据显示 Windows 11 普及度甚至低于 XP](https://www.solidot.org/story?sid=71292)
 
@@ -8,16 +20,4 @@
 [Google 否认对俄罗斯敏感地点卫星图片去模糊处理](https://www.solidot.org/story?sid=71290)
 
 [上海报告 10 例新冠死亡病例](https://www.solidot.org/story?sid=71289)
-
-[大学不看标准化考试成绩后申请激增](https://www.solidot.org/story?sid=71288)
-
-[英特尔将检测学生情绪的 AI 称为教学工具](https://www.solidot.org/story?sid=71287)
-
-[科学家希望为好奇的外星人广播 DNA 和地球的位置](https://www.solidot.org/story?sid=71286)
-
-[美国上诉法院裁决 Web 抓取是合法的](https://www.solidot.org/story?sid=71285)
-
-[香港研究显示奥密克戎变种流行期间未完全接种病例死亡风险与早期相当](https://www.solidot.org/story?sid=71284)
-
-[清华大学实现百公里量子直接通信](https://www.solidot.org/story?sid=71283)
 
