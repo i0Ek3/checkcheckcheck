@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-21 16:46:14
+> Update time: 2022-04-21 20:28:10
+
+[毅力号在火星捕捉到日食画面](https://www.solidot.org/story?sid=71316)
+
+[俄罗斯计划 2030 年实现 28 纳米芯片自产](https://www.solidot.org/story?sid=71315)
+
+[郊区无人机送货是未来吗？](https://www.solidot.org/story?sid=71314)
+
+[Facebook 聚焦非洲在尼日利亚铺光纤](https://www.solidot.org/story?sid=71313)
+
+[科学家发明装置优化奥利奥饼干切分](https://www.solidot.org/story?sid=71312)
+
+[知道的越多，不知道的越多](https://www.solidot.org/story?sid=71311)
+
+[丘成桐全职任教清华](https://www.solidot.org/story?sid=71310)
 
 [东航空难初步调查报告公布](https://www.solidot.org/story?sid=71309)
 
 [FAA 称一 YouTube 主播故意坠毁飞机](https://www.solidot.org/story?sid=71308)
 
 [Nvidia 和 AMD 显卡价格下跌](https://www.solidot.org/story?sid=71307)
-
-[QEMU v7.0.0 释出](https://www.solidot.org/story?sid=71306)
-
-[英国法庭裁决将 Julian Assange 引渡到美国](https://www.solidot.org/story?sid=71305)
-
-[美国人淹没在垃圾信息中](https://www.solidot.org/story?sid=71304)
-
-[基因外遗传帮助线虫演化](https://www.solidot.org/story?sid=71303)
-
-[直升机将尝试在半空捕捉火箭助推器](https://www.solidot.org/story?sid=71302)
-
-[NASA派全息医生前往国际空间站探望宇航员](https://www.solidot.org/story?sid=71301)
-
-[美国承诺结束反卫星导弹试验](https://www.solidot.org/story?sid=71300)
 
