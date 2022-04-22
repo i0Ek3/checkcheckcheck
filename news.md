@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-04-22 16:44:50
+> Update time: 2022-04-22 20:29:33
+
+[亚马逊欧洲分部去年销售收入 550 亿美元未缴纳任何税](https://www.solidot.org/story?sid=71328)
+
+[用推文实时预测粮食短缺](https://www.solidot.org/story?sid=71327)
+
+[为什么不回收锂电池？](https://www.solidot.org/story?sid=71326)
+
+[Moderna 数据表明多价 COVID 疫苗加强针是发展方向](https://www.solidot.org/story?sid=71325)
+
+[Amy Hennig 将再次制作星球大战游戏](https://www.solidot.org/story?sid=71324)
+
+[Google Play 禁止电话录音应用](https://www.solidot.org/story?sid=71323)
 
 [K-9 Mail 6.000 发布](https://www.solidot.org/story?sid=71322)
 
@@ -8,16 +20,4 @@
 [Jonathan Carter 再次当选为 Debian 项目领导人](https://www.solidot.org/story?sid=71320)
 
 [Elon Musk 称已获得收购 Twitter 所需的融资承诺](https://www.solidot.org/story?sid=71319)
-
-[币安给俄罗斯用户三个月时间提款](https://www.solidot.org/story?sid=71318)
-
-[一季度智能手机出货量将继续下滑](https://www.solidot.org/story?sid=71317)
-
-[毅力号在火星捕捉到日食画面](https://www.solidot.org/story?sid=71316)
-
-[俄罗斯计划 2030 年实现 28 纳米芯片自产](https://www.solidot.org/story?sid=71315)
-
-[郊区无人机送货是未来吗？](https://www.solidot.org/story?sid=71314)
-
-[Facebook 聚焦非洲在尼日利亚铺光纤](https://www.solidot.org/story?sid=71313)
 
