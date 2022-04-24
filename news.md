@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-04-24 16:42:45
+> Update time: 2022-04-24 20:24:52
+
+[英国患者持续感染新冠长达 505 天](https://www.solidot.org/story?sid=71344)
+
+[2021 年 0day 漏洞利用分析](https://www.solidot.org/story?sid=71343)
+
+[Android 市场份额五年减少 8%](https://www.solidot.org/story?sid=71342)
+
+[美国投资 60 亿美元拯救“陷入财务困境”的核反应堆](https://www.solidot.org/story?sid=71341)
+
+[日常塑料制品将数以万亿计的微小颗粒释放到水中](https://www.solidot.org/story?sid=71340)
+
+[镇静过度兴奋的神经元可能会在中风后保护大脑](https://www.solidot.org/story?sid=71339)
 
 [科学家将核废料变为可用千年的金刚石电池](https://www.solidot.org/story?sid=71338)
 
@@ -8,16 +20,4 @@
 [因合约代码错误 11539 枚 ETH 被永久锁定](https://www.solidot.org/story?sid=71336)
 
 [共和党众议员要求 Twitter 董事会保存与马斯克收购交易相关的记录](https://www.solidot.org/story?sid=71335)
-
-[Ross Ulbricht 的 183M 美元罚款已经还清](https://www.solidot.org/story?sid=71334)
-
-[科学家重启大强子对撞机](https://www.solidot.org/story?sid=71333)
-
-[机智号火星直升机首飞一周年](https://www.solidot.org/story?sid=71332)
-
-[高危漏洞允许攻击者控制数百万计的 Android 设备](https://www.solidot.org/story?sid=71331)
-
-[苹果杀死 macOS Server](https://www.solidot.org/story?sid=71330)
-
-[研究发现警告交通事故的公路显示屏会引发更多事故](https://www.solidot.org/story?sid=71329)
 
