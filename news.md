@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-25 12:52:35
+> Update time: 2022-04-25 16:21:03
+
+[AI 如何加剧巴西的种族主义](https://www.solidot.org/story?sid=71351)
+
+[预测他人在公路上的行为](https://www.solidot.org/story?sid=71350)
+
+[机器学习模型可植入无法检测到的后门](https://www.solidot.org/story?sid=71349)
+
+[苹果通知开发者将下架长期不更新的应用](https://www.solidot.org/story?sid=71348)
+
+[台积电计划 2025 年量产 2nm 制程芯片](https://www.solidot.org/story?sid=71347)
+
+[Twitter 与 Elon Musk 洽谈出售](https://www.solidot.org/story?sid=71346)
+
+[欧洲去年的夏天为有记录以来最热](https://www.solidot.org/story?sid=71345)
 
 [英国患者持续感染新冠长达 505 天](https://www.solidot.org/story?sid=71344)
 
 [2021 年 0day 漏洞利用分析](https://www.solidot.org/story?sid=71343)
 
 [Android 市场份额五年减少 8%](https://www.solidot.org/story?sid=71342)
-
-[美国投资 60 亿美元拯救“陷入财务困境”的核反应堆](https://www.solidot.org/story?sid=71341)
-
-[日常塑料制品将数以万亿计的微小颗粒释放到水中](https://www.solidot.org/story?sid=71340)
-
-[镇静过度兴奋的神经元可能会在中风后保护大脑](https://www.solidot.org/story?sid=71339)
-
-[科学家将核废料变为可用千年的金刚石电池](https://www.solidot.org/story?sid=71338)
-
-[欧盟新监管法律要求 Google 和 Meta 等解释其算法](https://www.solidot.org/story?sid=71337)
-
-[因合约代码错误 11539 枚 ETH 被永久锁定](https://www.solidot.org/story?sid=71336)
-
-[共和党众议员要求 Twitter 董事会保存与马斯克收购交易相关的记录](https://www.solidot.org/story?sid=71335)
 
