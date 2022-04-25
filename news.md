@@ -1,5 +1,9 @@
 # Here The News
-> Update time: 2022-04-25 16:46:13
+> Update time: 2022-04-25 20:27:58
+
+[Google Pixel Watch 原型遗落在餐馆内](https://www.solidot.org/story?sid=71353)
+
+[研究发现超级细菌艰难梭菌可在猪和人之间传播](https://www.solidot.org/story?sid=71352)
 
 [AI 如何加剧巴西的种族主义](https://www.solidot.org/story?sid=71351)
 
@@ -16,8 +20,4 @@
 [欧洲去年的夏天为有记录以来最热](https://www.solidot.org/story?sid=71345)
 
 [英国患者持续感染新冠长达 505 天](https://www.solidot.org/story?sid=71344)
-
-[2021 年 0day 漏洞利用分析](https://www.solidot.org/story?sid=71343)
-
-[Android 市场份额五年减少 8%](https://www.solidot.org/story?sid=71342)
 
