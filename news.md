@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-04-26 12:57:52
+> Update time: 2022-04-26 16:19:52
+
+[世界最长寿者去世](https://www.solidot.org/story?sid=71362)
+
+[GitHub 缩址服务 Git.io 将停止重定向](https://www.solidot.org/story?sid=71361)
+
+[日本越来越多人和虚拟人物相爱](https://www.solidot.org/story?sid=71360)
+
+[中国研究发现年长者高 BMI 指数并不意味着高死亡率](https://www.solidot.org/story?sid=71359)
+
+[特朗普声称不会回到 Twitter](https://www.solidot.org/story?sid=71358)
 
 [Twitter 接受 Elon Musk 的收购提议](https://www.solidot.org/story?sid=71357)
 
@@ -10,14 +20,4 @@
 [体育成为中小学主科](https://www.solidot.org/story?sid=71354)
 
 [Google Pixel Watch 原型遗落在餐馆内](https://www.solidot.org/story?sid=71353)
-
-[研究发现超级细菌艰难梭菌可在猪和人之间传播](https://www.solidot.org/story?sid=71352)
-
-[AI 如何加剧巴西的种族主义](https://www.solidot.org/story?sid=71351)
-
-[预测他人在公路上的行为](https://www.solidot.org/story?sid=71350)
-
-[机器学习模型可植入无法检测到的后门](https://www.solidot.org/story?sid=71349)
-
-[苹果通知开发者将下架长期不更新的应用](https://www.solidot.org/story?sid=71348)
 
