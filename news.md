@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-27 12:41:40
+> Update time: 2022-04-27 16:19:51
+
+[敌对媒体感知影响新闻偏见](https://www.solidot.org/story?sid=71379)
+
+[时间旅行是可能的，但须有平行时间线](https://www.solidot.org/story?sid=71378)
+
+[卫星导航前往月球](https://www.solidot.org/story?sid=71377)
+
+[NASA 火星地震仪探测到两次“大”地震](https://www.solidot.org/story?sid=71376)
+
+[全球军费支出达到 2.1 万亿美元](https://www.solidot.org/story?sid=71375)
+
+[美国半数人口至少感染过一次新冠](https://www.solidot.org/story?sid=71374)
+
+[维护者身处俄罗斯引发对内核 NTFS 驱动的担忧](https://www.solidot.org/story?sid=71373)
+
+[Twitter 在同意被收购之后锁定产品变更](https://www.solidot.org/story?sid=71372)
+
+[俄罗斯屏蔽 Chess.com](https://www.solidot.org/story?sid=71371)
 
 [老年人的疫苗加强针接种放缓](https://www.solidot.org/story?sid=71370)
-
-[网信办等要求年底所有新路由器默认启用 IPv6](https://www.solidot.org/story?sid=71369)
-
-[3800 年前的智利大地震引发社会混乱](https://www.solidot.org/story?sid=71368)
-
-[LineageOS 19 释出](https://www.solidot.org/story?sid=71367)
-
-[MIT 新计算机视觉算法以像素为单位识别图像](https://www.solidot.org/story?sid=71366)
-
-[经济不平等和公民的幸福感](https://www.solidot.org/story?sid=71365)
-
-[锰可能是真正大众电动车的秘诀](https://www.solidot.org/story?sid=71364)
-
-[六页优雅的论文证明随机结构的出现](https://www.solidot.org/story?sid=71363)
-
-[世界最长寿者去世](https://www.solidot.org/story?sid=71362)
-
-[GitHub 缩址服务 Git.io 将停止重定向](https://www.solidot.org/story?sid=71361)
 
