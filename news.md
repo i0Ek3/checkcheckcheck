@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-04-28 13:02:40
+> Update time: 2022-04-28 16:20:10
+
+[UCSB和迪士尼想知道机器人可以跳多高](https://www.solidot.org/story?sid=71389)
+
+[如果人类把疾病传给动物会发生什么？](https://www.solidot.org/story?sid=71388)
+
+[普通铜电话线可承载千兆带宽](https://www.solidot.org/story?sid=71387)
+
+[研究人员开发出像纸一样薄的扬声器](https://www.solidot.org/story?sid=71386)
+
+[苹果开设网上自助维修店](https://www.solidot.org/story?sid=71385)
+
+[ARM 再次尝试重新控制中国合资公司](https://www.solidot.org/story?sid=71384)
+
+[朝鲜黑客与政府玩猫捉老鼠游戏](https://www.solidot.org/story?sid=71383)
 
 [科学家在陨石中发现嘧啶碱](https://www.solidot.org/story?sid=71382)
 
 [Google 开始要求应用开发者披露收集的隐私数据](https://www.solidot.org/story?sid=71381)
 
 [古代共生基因暗示了线粒体的起源](https://www.solidot.org/story?sid=71380)
-
-[敌对媒体感知影响新闻偏见](https://www.solidot.org/story?sid=71379)
-
-[时间旅行是可能的，但须有平行时间线](https://www.solidot.org/story?sid=71378)
-
-[卫星导航前往月球](https://www.solidot.org/story?sid=71377)
-
-[NASA 火星地震仪探测到两次“大”地震](https://www.solidot.org/story?sid=71376)
-
-[全球军费支出达到 2.1 万亿美元](https://www.solidot.org/story?sid=71375)
-
-[美国半数人口至少感染过一次新冠](https://www.solidot.org/story?sid=71374)
-
-[维护者身处俄罗斯引发对内核 NTFS 驱动的担忧](https://www.solidot.org/story?sid=71373)
 
