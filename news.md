@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-04-30 16:43:05
+> Update time: 2022-04-30 20:25:09
+
+[尼日利亚屏蔽 7300 万未登记身份的电话号码](https://www.solidot.org/story?sid=71408)
+
+[你可以要求 Google 从搜索结果中移除你的电话号码、邮箱和地址](https://www.solidot.org/story?sid=71407)
+
+[进餐的时间与长寿的关联](https://www.solidot.org/story?sid=71406)
+
+[苹果上海周边供应商优先复工](https://www.solidot.org/story?sid=71405)
+
+[宠物犬的预期寿命](https://www.solidot.org/story?sid=71404)
 
 [疫苗造成的脊髓灰质炎呈上升趋势](https://www.solidot.org/story?sid=71402)
 
@@ -10,14 +20,4 @@
 [“长寿饮食”怎么吃才长寿](https://www.solidot.org/story?sid=71398)
 
 [Eric Schmidt 投资加密货币对 Web3 表达兴趣](https://www.solidot.org/story?sid=71397)
-
-[微软测试在 Edge 中整合 VPN](https://www.solidot.org/story?sid=71396)
-
-[欧盟加入 Mastodon 社交网络](https://www.solidot.org/story?sid=71395)
-
-[Fedora 简化 Linux 图形处理](https://www.solidot.org/story?sid=71394)
-
-[中非批准比特币成为法币](https://www.solidot.org/story?sid=71393)
-
-[五分之一爬行动物有灭绝风险](https://www.solidot.org/story?sid=71392)
 
