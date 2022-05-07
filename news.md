@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-07 16:44:52
+> Update time: 2022-05-07 20:25:58
+
+[因 Google Play 抽成亚马逊关闭 Kindle 在 Android 平台的购买选项](https://www.solidot.org/story?sid=71457)
+
+[Facebook 开源挑战 GPT-3 的语言模型](https://www.solidot.org/story?sid=71456)
+
+[物理学家发现量子不确定性如何提高测量精度](https://www.solidot.org/story?sid=71455)
+
+[RNA 分子在试管里演化成一个微小的生态系统](https://www.solidot.org/story?sid=71454)
+
+[SEC 指控 NVIDIA 未充分披露加密货币挖矿的影响](https://www.solidot.org/story?sid=71453)
+
+[无人机机群在森林中自主导航](https://www.solidot.org/story?sid=71452)
+
+[法官驳回特朗普寻求 Twitter 解除封杀的诉讼](https://www.solidot.org/story?sid=71451)
 
 [乌克兰人破坏俄罗斯伏特加供应链](https://www.solidot.org/story?sid=71450)
 
 [有记录以来的最强热浪](https://www.solidot.org/story?sid=71448)
 
 [Twitter 去中心化替代 Bluesky 发布首版代码](https://www.solidot.org/story?sid=71447)
-
-[马斯克计划在收购后担任 Twitter 临时 CEO](https://www.solidot.org/story?sid=71446)
-
-[美国出生率从疫情低谷反弹](https://www.solidot.org/story?sid=71445)
-
-[气候科学家称南亚热浪预示着即将发生的事情](https://www.solidot.org/story?sid=71444)
-
-[苹果、Google 和微软想用 Passkey 标准杀死密码](https://www.solidot.org/story?sid=71443)
-
-[首例移植的转基因猪心脏感染了猪病毒](https://www.solidot.org/story?sid=71442)
-
-[And. And. And. And. And. 会导致 Google Docs 崩溃](https://www.solidot.org/story?sid=71441)
-
-[宇宙可能停止膨胀开始收缩](https://www.solidot.org/story?sid=71440)
 
