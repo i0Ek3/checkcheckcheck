@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-05-11 12:35:06
+> Update time: 2022-05-11 16:21:55
+
+[Yahoo! JAPAN 免密码认证减少 25% 的查询登录速度加快 2.6 倍](https://www.solidot.org/story?sid=71496)
+
+[COVID-19 疫苗对重度肥胖者的效果可能较弱](https://www.solidot.org/story?sid=71495)
+
+[在与直升飞机失去联络后 NASA 暂停火星任务](https://www.solidot.org/story?sid=71494)
+
+[iPod 落幕](https://www.solidot.org/story?sid=71493)
+
+[EA 正式终止与 FIFA 三十年的合作](https://www.solidot.org/story?sid=71492)
+
+[马斯克表示将撤销 Twitter 对特朗普的永久禁令](https://www.solidot.org/story?sid=71491)
 
 [比亚迪长沙工厂受到污染调查](https://www.solidot.org/story?sid=71490)
 
@@ -8,16 +20,4 @@
 [荷兰税务局被 AI 打倒——接下来会发生什么？](https://www.solidot.org/story?sid=71488)
 
 [面对面社交活动减少，但锅不该由社交媒体背](https://www.solidot.org/story?sid=71487)
-
-[马斯克收购 Twitter 更多是为了控制言论的自由](https://www.solidot.org/story?sid=71486)
-
-[研究显示英国昆虫数量在下降](https://www.solidot.org/story?sid=71485)
-
-[特斯拉指控工程师窃取 Dojo 超算机密](https://www.solidot.org/story?sid=71484)
-
-[微软建议 Windows 11 用户卸载可选更新 KB5012643](https://www.solidot.org/story?sid=71482)
-
-[Tor 网络引入拥堵控制改进网络性能](https://www.solidot.org/story?sid=71481)
-
-[林肯学院因勒索软件攻击倒闭](https://www.solidot.org/story?sid=71480)
 
