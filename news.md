@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-05-12 09:19:04
+> Update time: 2022-05-12 12:28:19
 
 [苹果通过远程管理中国组装厂的工作](https://www.solidot.org/story?sid=71501)
 
