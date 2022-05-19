@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-19 12:31:50
+> Update time: 2022-05-19 16:20:49
+
+[美疾病控中心对英国可能存在未检测到的猴痘传播表示担忧](https://www.solidot.org/story?sid=71576)
+
+[机器学习负责人跳槽 Alphabet 之后，苹果调整远程工作政策](https://www.solidot.org/story?sid=71575)
+
+[太阳能海水淡化装置赢得 MIT 10 万美元创业大赛](https://www.solidot.org/story?sid=71574)
+
+[谁拥有爱因斯坦的肖像权？](https://www.solidot.org/story?sid=71573)
+
+[研究显示 CEO 级别高管的密码选择很随意](https://www.solidot.org/story?sid=71572)
+
+[勒索软件黑帮威胁推翻哥斯达黎加，总统宣布开战](https://www.solidot.org/story?sid=71571)
+
+[Google 俄罗斯子公司将宣告破产](https://www.solidot.org/story?sid=71570)
 
 [Gitee 开源库将先审再上线](https://www.solidot.org/story?sid=71569)
 
 [Kindle 电子书格式的发展史](https://www.solidot.org/story?sid=71568)
 
 [Software Freedom Conservancy 诉 Vizio 取得重大突破](https://www.solidot.org/story?sid=71567)
-
-[中科大首次实现侧信道无关的 QKD 实验](https://www.solidot.org/story?sid=71566)
-
-[俄罗斯表示无意切断与全球互联网的接入](https://www.solidot.org/story?sid=71565)
-
-[云南发现中国最高树木](https://www.solidot.org/story?sid=71564)
-
-[如何编写数学上完美的软件](https://www.solidot.org/story?sid=71563)
-
-[五角大楼致力于理解 UFO 的起源](https://www.solidot.org/story?sid=71562)
-
-[DeepMind 透露能完成复杂任务的 Gato AI](https://www.solidot.org/story?sid=71561)
-
-[电玩对儿童智商有意想不到的影响](https://www.solidot.org/story?sid=71560)
 
