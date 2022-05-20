@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-20 12:54:40
+> Update time: 2022-05-20 16:20:20
+
+[美国司法部表示不会起诉白帽安全研究人员](https://www.solidot.org/story?sid=71585)
+
+[在错误被 Google 标记为间谍软件之后开源邮件客户端 FairEmail 的开发者终止开发并关闭其所有项目](https://www.solidot.org/story?sid=71584)
+
+[GOV.UK 移除 jQuery 改进性能](https://www.solidot.org/story?sid=71583)
+
+[Y Combinator 建议创业公司做最坏的打算](https://www.solidot.org/story?sid=71582)
+
+[加拿大 5G 网络将不使用华为中兴设备](https://www.solidot.org/story?sid=71581)
+
+[腾讯一季度利润锐减](https://www.solidot.org/story?sid=71580)
+
+[LHC 首次直接观测到量子色动力学的死角效应](https://www.solidot.org/story?sid=71579)
 
 [赞比亚央行拒绝向勒索软件组织支付赎金](https://www.solidot.org/story?sid=71578)
 
 [印度让不愿意遵守数据保存规定的 VPN 公司退出](https://www.solidot.org/story?sid=71577)
 
 [美疾病控中心对英国可能存在未检测到的猴痘传播表示担忧](https://www.solidot.org/story?sid=71576)
-
-[机器学习负责人跳槽 Alphabet 之后，苹果调整远程工作政策](https://www.solidot.org/story?sid=71575)
-
-[太阳能海水淡化装置赢得 MIT 10 万美元创业大赛](https://www.solidot.org/story?sid=71574)
-
-[谁拥有爱因斯坦的肖像权？](https://www.solidot.org/story?sid=71573)
-
-[研究显示 CEO 级别高管的密码选择很随意](https://www.solidot.org/story?sid=71572)
-
-[勒索软件黑帮威胁推翻哥斯达黎加，总统宣布开战](https://www.solidot.org/story?sid=71571)
-
-[Google 俄罗斯子公司将宣告破产](https://www.solidot.org/story?sid=71570)
-
-[Gitee 开源库将先审再上线](https://www.solidot.org/story?sid=71569)
 
