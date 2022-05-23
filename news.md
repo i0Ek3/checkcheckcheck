@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-23 21:18:46
+> Update time: 2022-05-24 00:23:12
+
+[黑客使用 5 个 0day 在 Android 设备安装间谍软件](https://www.solidot.org/story?sid=71608)
+
+[ONLYOFFICE 工作区 v12.0 发布](https://www.solidot.org/story?sid=71607)
+
+[实用的无线电力传输成真](https://www.solidot.org/story?sid=71606)
+
+[社交媒体是否在训练我们取悦机器？](https://www.solidot.org/story?sid=71605)
+
+[AI 如何在《壮志凌云2：独行侠》中再现 Val Kilmer 的声音](https://www.solidot.org/story?sid=71604)
+
+[哈勃太空望远镜的“代表作”：对宇宙膨胀的30年分析](https://www.solidot.org/story?sid=71603)
+
+[FDA 批准用天花疫苗和抗病毒治疗控制猴痘疫情](https://www.solidot.org/story?sid=71602)
 
 [如何解决电动车电池回收难题？](https://www.solidot.org/story?sid=71601)
 
 [英特尔计划油浸冷却高能耗 CPU](https://www.solidot.org/story?sid=71600)
 
 [苹果计划扩大印度越南等地的生产](https://www.solidot.org/story?sid=71599)
-
-[Linux 5.18 释出](https://www.solidot.org/story?sid=71598)
-
-[全球可能出现更多猴痘病例](https://www.solidot.org/story?sid=71597)
-
-[美国政府对利用加密货币逃避制裁提起首宗诉讼](https://www.solidot.org/story?sid=71596)
-
-[世界最古老的树可能生长在智利](https://www.solidot.org/story?sid=71595)
-
-[ACM 数字图书馆开放前五十年出版的文章](https://www.solidot.org/story?sid=71594)
-
-[波音飞船 Starliner 首次对接国际空间站](https://www.solidot.org/story?sid=71593)
-
-[法官裁决可以在美国起诉外国 BT 网站](https://www.solidot.org/story?sid=71592)
 
