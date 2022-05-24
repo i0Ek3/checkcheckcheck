@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-24 12:32:31
+> Update time: 2022-05-24 16:22:03
+
+[法官不支持佛州关于 Facebook  和 Twitter 不能封禁政客账号的法律](https://www.solidot.org/story?sid=71616)
+
+[工程师研究能在月球上持续工作的太阳能微电网](https://www.solidot.org/story?sid=71615)
+
+[计算机科学家如何学会重新发明证明](https://www.solidot.org/story?sid=71614)
+
+[科学家研究更强大的基因改造蚊子技术](https://www.solidot.org/story?sid=71613)
+
+[在崩溃前币安将 terraUSD 宣传为一种安全的投资](https://www.solidot.org/story?sid=71612)
+
+[滴滴将从美国退市](https://www.solidot.org/story?sid=71611)
+
+[开发者调查显示对区块链、加密货币和 NFT 有强烈兴趣](https://www.solidot.org/story?sid=71610)
+
+[Airbnb 关闭中国本地业务](https://www.solidot.org/story?sid=71609)
 
 [黑客使用 5 个 0day 在 Android 设备安装间谍软件](https://www.solidot.org/story?sid=71608)
 
 [ONLYOFFICE 工作区 v12.0 发布](https://www.solidot.org/story?sid=71607)
-
-[实用的无线电力传输成真](https://www.solidot.org/story?sid=71606)
-
-[社交媒体是否在训练我们取悦机器？](https://www.solidot.org/story?sid=71605)
-
-[AI 如何在《壮志凌云2：独行侠》中再现 Val Kilmer 的声音](https://www.solidot.org/story?sid=71604)
-
-[哈勃太空望远镜的“代表作”：对宇宙膨胀的30年分析](https://www.solidot.org/story?sid=71603)
-
-[FDA 批准用天花疫苗和抗病毒治疗控制猴痘疫情](https://www.solidot.org/story?sid=71602)
-
-[如何解决电动车电池回收难题？](https://www.solidot.org/story?sid=71601)
-
-[英特尔计划油浸冷却高能耗 CPU](https://www.solidot.org/story?sid=71600)
-
-[苹果计划扩大印度越南等地的生产](https://www.solidot.org/story?sid=71599)
 
