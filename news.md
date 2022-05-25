@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-25 16:46:38
+> Update time: 2022-05-25 20:31:23
+
+[中国下水无人系统母舰珠海云号](https://www.solidot.org/story?sid=71631)
+
+[美国 2021 年出生率比前一年增加 1%](https://www.solidot.org/story?sid=71630)
+
+[海洋中发现大量糖](https://www.solidot.org/story?sid=71629)
+
+[对气候的担忧激发了美国的核支持运动](https://www.solidot.org/story?sid=71628)
+
+[受气候趋势影响春季热浪让巴基斯坦达到了 49°C](https://www.solidot.org/story?sid=71627)
+
+[无人驾驶汽车可能会让人类司机更高效驾驶](https://www.solidot.org/story?sid=71626)
+
+[AI 正在打破专利法](https://www.solidot.org/story?sid=71625)
+
+[双星系统如何影响行星演化](https://www.solidot.org/story?sid=71624)
+
+[研究发现缩短看电视时间能减少心脏疾病](https://www.solidot.org/story?sid=71623)
 
 [Bing 合同禁止 DuckDuckGo 完全屏蔽微软跟踪程序](https://www.solidot.org/story?sid=71622)
-
-[博通洽谈收购 VMware](https://www.solidot.org/story?sid=71621)
-
-[六位科学家获得邵逸夫奖](https://www.solidot.org/story?sid=71620)
-
-[京东方被指悄悄修改设计可能丢失苹果订单](https://www.solidot.org/story?sid=71619)
-
-[AMD 透露 Ryzen 7000 系列 CPU](https://www.solidot.org/story?sid=71618)
-
-[小米想要禁止用户提取 apk 文件](https://www.solidot.org/story?sid=71617)
-
-[法官不支持佛州关于 Facebook  和 Twitter 不能封禁政客账号的法律](https://www.solidot.org/story?sid=71616)
-
-[工程师研究能在月球上持续工作的太阳能微电网](https://www.solidot.org/story?sid=71615)
-
-[计算机科学家如何学会重新发明证明](https://www.solidot.org/story?sid=71614)
-
-[科学家研究更强大的基因改造蚊子技术](https://www.solidot.org/story?sid=71613)
 
