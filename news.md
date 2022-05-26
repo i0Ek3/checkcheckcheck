@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-26 16:47:15
+> Update time: 2022-05-26 20:31:07
+
+[逾五分之一感染者出现新冠长期症状](https://www.solidot.org/story?sid=71645)
+
+[Do Kwon 提议硬分叉区块链放弃崩溃的稳定币](https://www.solidot.org/story?sid=71644)
+
+[科学家终于知道章鱼为何会在交配后自虐自食](https://www.solidot.org/story?sid=71643)
+
+[廉价凝胶膜每天可从干燥空气中提取出几桶饮用水](https://www.solidot.org/story?sid=71642)
+
+[“量子互联网”渐行渐近](https://www.solidot.org/story?sid=71641)
+
+[可使用百年的新型电池](https://www.solidot.org/story?sid=71640)
+
+[黑客伪造 Windows 更新攻击俄罗斯政府目标](https://www.solidot.org/story?sid=71639)
+
+[F-Droid 升级构建基础设施](https://www.solidot.org/story?sid=71638)
 
 [波音飞船 Starliner 安全返回](https://www.solidot.org/story?sid=71637)
 
 [Mozilla 修复在 Pwn2Own 上利用的 Firefox 和 Thunderbird 0day](https://www.solidot.org/story?sid=71636)
-
-[云原生安全Tetragon案例之安全产品自防护](https://www.solidot.org/story?sid=71635)
-
-[英国政府制定基因编辑动植物法律](https://www.solidot.org/story?sid=71634)
-
-[Luna 创始人成为韩国最讨厌的人](https://www.solidot.org/story?sid=71633)
-
-[搜狐回应称员工遭钓鱼攻击的损失不高](https://www.solidot.org/story?sid=71632)
-
-[中国下水无人系统母舰珠海云号](https://www.solidot.org/story?sid=71631)
-
-[美国 2021 年出生率比前一年增加 1%](https://www.solidot.org/story?sid=71630)
-
-[海洋中发现大量糖](https://www.solidot.org/story?sid=71629)
-
-[对气候的担忧激发了美国的核支持运动](https://www.solidot.org/story?sid=71628)
 
