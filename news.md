@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-05-26 04:41:37
+> Update time: 2022-05-26 09:23:28
+
+[Mozilla 修复在 Pwn2Own 上利用的 Firefox 和 Thunderbird 0day](https://www.solidot.org/story?sid=71636)
+
+[云原生安全Tetragon案例之安全产品自防护](https://www.solidot.org/story?sid=71635)
+
+[英国政府制定基因编辑动植物法律](https://www.solidot.org/story?sid=71634)
+
+[Luna 创始人成为韩国最讨厌的人](https://www.solidot.org/story?sid=71633)
+
+[搜狐回应称员工遭钓鱼攻击的损失不高](https://www.solidot.org/story?sid=71632)
 
 [中国下水无人系统母舰珠海云号](https://www.solidot.org/story?sid=71631)
 
@@ -10,14 +20,4 @@
 [对气候的担忧激发了美国的核支持运动](https://www.solidot.org/story?sid=71628)
 
 [受气候趋势影响春季热浪让巴基斯坦达到了 49°C](https://www.solidot.org/story?sid=71627)
-
-[无人驾驶汽车可能会让人类司机更高效驾驶](https://www.solidot.org/story?sid=71626)
-
-[AI 正在打破专利法](https://www.solidot.org/story?sid=71625)
-
-[双星系统如何影响行星演化](https://www.solidot.org/story?sid=71624)
-
-[研究发现缩短看电视时间能减少心脏疾病](https://www.solidot.org/story?sid=71623)
-
-[Bing 合同禁止 DuckDuckGo 完全屏蔽微软跟踪程序](https://www.solidot.org/story?sid=71622)
 
