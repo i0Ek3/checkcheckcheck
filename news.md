@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-30 16:47:31
+> Update time: 2022-05-30 20:30:40
+
+[美国一季度机器人订单增加四成](https://www.solidot.org/story?sid=71680)
+
+[Systemd 引入实验性 A/B 更新功能](https://www.solidot.org/story?sid=71679)
+
+[Frontier 超算突破 Exaflops](https://www.solidot.org/story?sid=71678)
+
+[马斯克收购 Twitter 言论让粉丝担忧](https://www.solidot.org/story?sid=71677)
+
+[空客设立新机构研究下一代氢飞机的低温燃料系统](https://www.solidot.org/story?sid=71675)
+
+[博士生工资不足以支付生活费用](https://www.solidot.org/story?sid=71674)
+
+[电动汽车如何影响就业](https://www.solidot.org/story?sid=71673)
 
 [IT 专业人员对勒索软件攻击是否应负有责任？](https://www.solidot.org/story?sid=71672)
 
 [KCL : Rust 开发的配置策略语言](https://www.solidot.org/story?sid=71671)
 
 [Window Server 2022 支持 WSL2](https://www.solidot.org/story?sid=71670)
-
-[中国就美国黑客攻击发出警告](https://www.solidot.org/story?sid=71669)
-
-[AlmaLinux 9 发布](https://www.solidot.org/story?sid=71668)
-
-[游戏主播抱怨基于技能的匹配算法](https://www.solidot.org/story?sid=71667)
-
-[BBC 将关闭两个频道](https://www.solidot.org/story?sid=71666)
-
-[攻击者窃取了十万 npm 用户账号登陆信息](https://www.solidot.org/story?sid=71665)
-
-[SEC 对马斯克披露 Twitter 持股时间展开调查](https://www.solidot.org/story?sid=71664)
-
-[俄罗斯以数据储存理由调查 Google 等科技公司](https://www.solidot.org/story?sid=71663)
 
