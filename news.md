@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-05-31 16:48:43
+> Update time: 2022-05-31 20:32:07
+
+[Google Colab 服务禁止深度伪造训练项目](https://www.solidot.org/story?sid=71691)
+
+[为什么科学家也在 YouTube 上观看动物视频](https://www.solidot.org/story?sid=71690)
+
+[为什么虚假信息在疫情期间大行其道](https://www.solidot.org/story?sid=71689)
+
+[团队能受益于知识多元化带来的不稳定性](https://www.solidot.org/story?sid=71688)
+
+[四分之一网民依赖的基础设施易受攻击](https://www.solidot.org/story?sid=71687)
+
+[熊冬眠：不仅仅是冬季小睡](https://www.solidot.org/story?sid=71686)
+
+[为什么雄鼠怕香蕉？](https://www.solidot.org/story?sid=71685)
 
 [谁拥有 4chan？](https://www.solidot.org/story?sid=71684)
 
 [北京上海放松疫情限制](https://www.solidot.org/story?sid=71683)
 
 [Perl 5.36.0 释出](https://www.solidot.org/story?sid=71682)
-
-[智能手机需求走弱](https://www.solidot.org/story?sid=71681)
-
-[美国一季度机器人订单增加四成](https://www.solidot.org/story?sid=71680)
-
-[Systemd 引入实验性 A/B 更新功能](https://www.solidot.org/story?sid=71679)
-
-[Frontier 超算突破 Exaflops](https://www.solidot.org/story?sid=71678)
-
-[马斯克收购 Twitter 言论让粉丝担忧](https://www.solidot.org/story?sid=71677)
-
-[空客设立新机构研究下一代氢飞机的低温燃料系统](https://www.solidot.org/story?sid=71675)
-
-[博士生工资不足以支付生活费用](https://www.solidot.org/story?sid=71674)
 
