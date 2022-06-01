@@ -1,7 +1,15 @@
 # Here The News
-> Update time: 2022-06-01 16:52:44
+> Update time: 2022-06-01 20:35:10
 
-[科学家需要更多研究型软件工程师](https://www.solidot.org/story?sid=71698)
+[马斯克透露下一代Starlink卫星细节](https://www.solidot.org/story?sid=71702)
+
+[塑料回收没用](https://www.solidot.org/story?sid=71701)
+
+[最高法院泄密调查升温要求工作人员提供电话记录](https://www.solidot.org/story?sid=71700)
+
+[“没有数据这回事”](https://www.solidot.org/story?sid=71699)
+
+[科学需要更多研究型软件工程师](https://www.solidot.org/story?sid=71698)
 
 [人体移植的肝脏在体外保存三天](https://www.solidot.org/story?sid=71697)
 
@@ -12,12 +20,4 @@
 [为维护语言纯洁法国限制英语游戏技术术语](https://www.solidot.org/story?sid=71694)
 
 [Firefox 101 释出](https://www.solidot.org/story?sid=71693)
-
-[高校毕业生首次超过千万](https://www.solidot.org/story?sid=71692)
-
-[Google Colab 服务禁止深度伪造训练项目](https://www.solidot.org/story?sid=71691)
-
-[为什么科学家也在 YouTube 上观看动物视频](https://www.solidot.org/story?sid=71690)
-
-[为什么虚假信息在疫情期间大行其道](https://www.solidot.org/story?sid=71689)
 
