@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-06-06 16:18:15
+> Update time: 2022-06-06 16:42:33
+
+[电鱼如何演化出放电器官](https://www.solidot.org/story?sid=71739)
+
+[新型 3D 打印使用声波构建物体](https://www.solidot.org/story?sid=71738)
+
+[小型模块化核反应堆会比传统反应堆产生更多放射性废弃物](https://www.solidot.org/story?sid=71737)
+
+[Linux 5.19-rc1 释出](https://www.solidot.org/story?sid=71736)
+
+[卫报发布 Tor 网站](https://www.solidot.org/story?sid=71735)
+
+[英特尔探索在 Zettascale 级超算中使用 RISC-V 架构](https://www.solidot.org/story?sid=71734)
 
 [暗黑手游需要 11 万美元升满装一名角色](https://www.solidot.org/story?sid=71733)
 
@@ -8,16 +20,4 @@
 [科学家声称逆转小鼠的老化](https://www.solidot.org/story?sid=71731)
 
 [中国发射神舟十四号飞船](https://www.solidot.org/story?sid=71730)
-
-[最佳锻炼时间可能男女有别](https://www.solidot.org/story?sid=71729)
-
-[医生成功移植 3D 打印制造的人耳](https://www.solidot.org/story?sid=71728)
-
-[欧盟下周二讨论通用充电端口](https://www.solidot.org/story?sid=71727)
-
-[战争雷霆玩家再次泄露军事机密](https://www.solidot.org/story?sid=71726)
-
-[佳能无线打印机发生无限重启故障](https://www.solidot.org/story?sid=71725)
-
-[特斯拉裁员 10%](https://www.solidot.org/story?sid=71724)
 
