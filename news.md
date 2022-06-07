@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-06-07 12:49:52
+> Update time: 2022-06-07 16:20:27
+
+[苹果演示无密码身份验证 Passkeys](https://www.solidot.org/story?sid=71748)
+
+[意大利 Palermo 市在网络攻击后关闭所有服务](https://www.solidot.org/story?sid=71747)
+
+[苹果宣布 M2 芯片](https://www.solidot.org/story?sid=71746)
+
+[马斯克威胁终止与 Twitter 的交易](https://www.solidot.org/story?sid=71745)
+
+[企业在执行重返办公室政策上面临阻力](https://www.solidot.org/story?sid=71744)
+
+[大气二氧化碳水平达到史上最高水平](https://www.solidot.org/story?sid=71743)
+
+[WHO 警告猴痘确诊数可能被低估](https://www.solidot.org/story?sid=71742)
+
+[隼鸟2号在小行星上收集的样本中发现氨基酸](https://www.solidot.org/story?sid=71741)
 
 [脑信号蛋白的演化早于动物的演化](https://www.solidot.org/story?sid=71740)
 
 [电鱼如何演化出放电器官](https://www.solidot.org/story?sid=71739)
-
-[新型 3D 打印使用声波构建物体](https://www.solidot.org/story?sid=71738)
-
-[小型模块化核反应堆会比传统反应堆产生更多放射性废弃物](https://www.solidot.org/story?sid=71737)
-
-[Linux 5.19-rc1 释出](https://www.solidot.org/story?sid=71736)
-
-[卫报发布 Tor 网站](https://www.solidot.org/story?sid=71735)
-
-[英特尔探索在 Zettascale 级超算中使用 RISC-V 架构](https://www.solidot.org/story?sid=71734)
-
-[暗黑手游需要 11 万美元升满装一名角色](https://www.solidot.org/story?sid=71733)
-
-[DDR5 内存价格一个月内跌五分之一](https://www.solidot.org/story?sid=71732)
-
-[科学家声称逆转小鼠的老化](https://www.solidot.org/story?sid=71731)
 
