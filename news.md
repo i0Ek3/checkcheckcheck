@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-06-07 20:31:10
+> Update time: 2022-06-08 00:24:10
+
+[德意志银行将数百 IT 专家从俄罗斯迁移到德国](https://www.solidot.org/story?sid=71758)
+
+[上海研究发现过度使用屏幕影响儿童发育](https://www.solidot.org/story?sid=71757)
+
+[苹果宣布类似 AMD FSR 和 Nvidia DLSS 的图像缩放技术](https://www.solidot.org/story?sid=71756)
+
+[Telegram 据报道向德国政府提供用户数据](https://www.solidot.org/story?sid=71755)
+
+[英国试行薪酬不变的四天工作制](https://www.solidot.org/story?sid=71754)
 
 [韦伯望远镜将于 7 月 12 日发布首批全彩图片和光谱数据](https://www.solidot.org/story?sid=71753)
 
@@ -10,14 +20,4 @@
 [NASA DAVINCI 探测器如何穿越金星地狱般的大气层](https://www.solidot.org/story?sid=71750)
 
 [Tails 5.1 释出](https://www.solidot.org/story?sid=71749)
-
-[苹果演示无密码身份验证 Passkeys](https://www.solidot.org/story?sid=71748)
-
-[意大利 Palermo 市在网络攻击后关闭所有服务](https://www.solidot.org/story?sid=71747)
-
-[苹果宣布 M2 芯片](https://www.solidot.org/story?sid=71746)
-
-[马斯克威胁终止与 Twitter 的交易](https://www.solidot.org/story?sid=71745)
-
-[企业在执行重返办公室政策上面临阻力](https://www.solidot.org/story?sid=71744)
 
