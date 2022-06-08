@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-06-08 16:46:18
+> Update time: 2022-06-08 20:32:18
+
+[自供电智能枕头跟踪睡眠](https://www.solidot.org/story?sid=71767)
+
+[任天堂希望黑客的监禁判决能引人注目](https://www.solidot.org/story?sid=71766)
+
+[沙特阿拉伯计划每年花费 10 亿美元寻找延缓衰老的方法](https://www.solidot.org/story?sid=71765)
+
+[拜托，不要再造大强子对撞机了](https://www.solidot.org/story?sid=71764)
+
+[俄罗斯法庭下令逮捕《地铁2033》作者](https://www.solidot.org/story?sid=71763)
+
+[OnlyFans 的用户数没有像 Netflix 那样放缓](https://www.solidot.org/story?sid=71762)
 
 [喝咖啡或能降低死亡风险](https://www.solidot.org/story?sid=71761)
 
@@ -8,16 +20,4 @@
 [德意志银行将数百 IT 专家从俄罗斯迁移到德国](https://www.solidot.org/story?sid=71758)
 
 [上海研究发现过度使用屏幕影响儿童发育](https://www.solidot.org/story?sid=71757)
-
-[苹果宣布类似 AMD FSR 和 Nvidia DLSS 的图像缩放技术](https://www.solidot.org/story?sid=71756)
-
-[Telegram 据报道向德国政府提供用户数据](https://www.solidot.org/story?sid=71755)
-
-[英国试行薪酬不变的四天工作制](https://www.solidot.org/story?sid=71754)
-
-[韦伯望远镜将于 7 月 12 日发布首批全彩图片和光谱数据](https://www.solidot.org/story?sid=71753)
-
-[AI 购物创业公司的AI实际上只是菲律宾的廉价劳工](https://www.solidot.org/story?sid=71752)
-
-[研究生证明素数猜想](https://www.solidot.org/story?sid=71751)
 
