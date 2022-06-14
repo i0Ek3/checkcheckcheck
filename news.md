@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-06-14 20:29:19
+> Update time: 2022-06-14 21:10:47
+
+[腾讯阿里巴巴云业务助长放缓或停滞](https://www.solidot.org/story?sid=71828)
+
+[尼日利亚制定草案监管互联网公司](https://www.solidot.org/story?sid=71827)
+
+[新冠免疫力能持续多久？](https://www.solidot.org/story?sid=71826)
+
+[亚马逊将在加州试点无人机送货](https://www.solidot.org/story?sid=71825)
+
+[科学家用废料制造水泥](https://www.solidot.org/story?sid=71824)
+
+[用于 COVID 监控的 AI 工具为城市拥堵提供解决方案](https://www.solidot.org/story?sid=71823)
+
+[盖亚探测器揭示恒星 DNA 和星震](https://www.solidot.org/story?sid=71822)
+
+[大强子对撞机重启物理学家再燃希望](https://www.solidot.org/story?sid=71821)
+
+[河南村镇银行储户健康码突然变红](https://www.solidot.org/story?sid=71820)
 
 [工程师构建类似乐高的 AI 芯片](https://www.solidot.org/story?sid=71819)
-
-[加密货币市场市值跌破一万亿美元](https://www.solidot.org/story?sid=71818)
-
-[K-9 Mail 加入 Thunderbird](https://www.solidot.org/story?sid=71817)
-
-[IT 行业的高校毕业生薪酬最高](https://www.solidot.org/story?sid=71816)
-
-[为什么我们没有婴儿时期的记忆？](https://www.solidot.org/story?sid=71815)
-
-[物理学家证实量子回旋镖效应](https://www.solidot.org/story?sid=71814)
-
-[PyPI 多个软件包因拼写错误包含后门](https://www.solidot.org/story?sid=71813)
-
-[Bethesda 首次公开演示 《星空（Starfield）》](https://www.solidot.org/story?sid=71812)
-
-[CEO 建议创建永久性的公开的员工业绩数据库](https://www.solidot.org/story?sid=71811)
-
-[科学家为一个机器人手指覆上了人类皮肤活体](https://www.solidot.org/story?sid=71810)
 
