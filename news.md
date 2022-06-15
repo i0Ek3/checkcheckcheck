@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-06-15 16:45:33
+> Update time: 2022-06-15 20:28:53
+
+[中国天眼发现地外文明候选信号](https://www.solidot.org/story?sid=71841)
+
+[三星电视机被发现会针对测试作弊](https://www.solidot.org/story?sid=71840)
+
+[科技巨头的 AR 梦醒](https://www.solidot.org/story?sid=71839)
+
+[首款成本低于 1 便士的高产量塑料处理器](https://www.solidot.org/story?sid=71838)
+
+[甲骨文数据库的地位正被云优先的竞争对手侵蚀？](https://www.solidot.org/story?sid=71836)
 
 [基因狗仔队即将出现](https://www.solidot.org/story?sid=71835)
 
@@ -10,14 +20,4 @@
 [研究人员披露针对 x86 CPU 的旁道攻击 Hertzbleed](https://www.solidot.org/story?sid=71832)
 
 [Adobe 准备推出免费版的 Photoshop](https://www.solidot.org/story?sid=71831)
-
-[Firefox 默认对所有用户启用 Total Cookie Protection](https://www.solidot.org/story?sid=71830)
-
-[联想在欧洲建厂](https://www.solidot.org/story?sid=71829)
-
-[腾讯阿里巴巴云业务增长放缓或停滞](https://www.solidot.org/story?sid=71828)
-
-[尼日利亚制定草案监管互联网公司](https://www.solidot.org/story?sid=71827)
-
-[新冠免疫力能持续多久？](https://www.solidot.org/story?sid=71826)
 
