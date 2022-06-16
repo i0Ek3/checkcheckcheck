@@ -1,7 +1,15 @@
 # Here The News
-> Update time: 2022-06-16 12:59:53
+> Update time: 2022-06-16 16:21:28
 
-[让 Pornhub 为内容承担责任的女性](https://www.solidot.org/story?sid=71843)
+[警示标志不足以让海滩游客躲开致命水流](https://www.solidot.org/story?sid=71849)
+
+[盖茨称加密货币和 NFT 是一场博傻骗局](https://www.solidot.org/story?sid=71848)
+
+[IPv6 比 IPv4 更快？](https://www.solidot.org/story?sid=71847)
+
+[WHO 警告猴痘对欧洲构成真实风险](https://www.solidot.org/story?sid=71845)
+
+[郑州部分停工楼盘业主被赋红码](https://www.solidot.org/story?sid=71844)
 
 [日本制定法律惩罚网络侮辱](https://www.solidot.org/story?sid=71842)
 
@@ -12,12 +20,4 @@
 [科技巨头的 AR 梦醒](https://www.solidot.org/story?sid=71839)
 
 [首款成本低于 1 便士的高产量塑料处理器](https://www.solidot.org/story?sid=71838)
-
-[大脑“节能模式”会削弱我们的感官](https://www.solidot.org/story?sid=71837)
-
-[甲骨文数据库的地位正被云优先的竞争对手侵蚀？](https://www.solidot.org/story?sid=71836)
-
-[基因狗仔队即将出现](https://www.solidot.org/story?sid=71835)
-
-[抗生素抗性基因通过土壤食物网影响人类](https://www.solidot.org/story?sid=71834)
 
