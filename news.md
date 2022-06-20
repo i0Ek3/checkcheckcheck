@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-06-20 20:28:47
+> Update time: 2022-06-20 21:18:11
 
 [大自然的终极超级武器——磁星](https://www.solidot.org/story?sid=71883)
 
