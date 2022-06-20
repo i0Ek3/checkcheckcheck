@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-06-20 12:51:56
+> Update time: 2022-06-20 16:21:56
+
+[感染 Omicron 后疫苗接种者出现新冠长期症状的可能性比 Delta 低 20% 至 50%](https://www.solidot.org/story?sid=71881)
+
+[光疗法带来革命性的癌症新疗法](https://www.solidot.org/story?sid=71880)
+
+[城市居民在疫情中兴起露营热](https://www.solidot.org/story?sid=71879)
+
+[SpaceX 在 36 小时内完成三次发射](https://www.solidot.org/story?sid=71878)
+
+[TikTok 将美国用户数据转移到甲骨文服务器](https://www.solidot.org/story?sid=71877)
 
 [比特币价格暴跌让挖矿变得无利可图](https://www.solidot.org/story?sid=71876)
 
@@ -10,14 +20,4 @@
 [中国天眼没有发现地外文明信号](https://www.solidot.org/story?sid=71873)
 
 [电子游戏助长大规模枪击的观点不再流行](https://www.solidot.org/story?sid=71872)
-
-[微软应用商店禁止第三方对免费的开源软件收费](https://www.solidot.org/story?sid=71871)
-
-[Scott Aaronson 将在 OpenAI 研究如何防止 AI 失控](https://www.solidot.org/story?sid=71870)
-
-[SpaceX 解雇至少五名批评 CEO 的员工](https://www.solidot.org/story?sid=71869)
-
-[网信办发布跟帖管理征求意见稿](https://www.solidot.org/story?sid=71868)
-
-[中文维基用户被发现大规模篡改古罗斯史](https://www.solidot.org/story?sid=71867)
 
