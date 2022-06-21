@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-06-21 20:34:16
+> Update time: 2022-06-22 00:24:34
+
+[网络配置错误导致 Cloudflare 大规模宕机](https://www.solidot.org/story?sid=71901)
+
+[逾半数美国人承认花在手机上的时间太多](https://www.solidot.org/story?sid=71900)
+
+[RISC-V 宣布新规格](https://www.solidot.org/story?sid=71899)
+
+[Space 上周日的发射包含了四颗秘密卫星](https://www.solidot.org/story?sid=71898)
+
+[Terra 币公司员工被禁止离境](https://www.solidot.org/story?sid=71897)
+
+[618 购物节销售增速放缓](https://www.solidot.org/story?sid=71896)
+
+[科学家开发出替代塑料的抗菌植物性食品包装](https://www.solidot.org/story?sid=71895)
 
 [希音如何高效率的运作](https://www.solidot.org/story?sid=71894)
 
 [Google 表示该让小企业长期用户付费了](https://www.solidot.org/story?sid=71893)
 
 [美国首个 CRISPR 试验三年后近 100% 有效](https://www.solidot.org/story?sid=71892)
-
-[NASA TESS 在附近星系发现超级地球](https://www.solidot.org/story?sid=71890)
-
-[绝大多数人对正在做的事情缺乏预见](https://www.solidot.org/story?sid=71888)
-
-[IE 的幽灵仍然会影响我们数年](https://www.solidot.org/story?sid=71887)
-
-[哈勃观察到正在吞噬行星的死亡恒星](https://www.solidot.org/story?sid=71886)
-
-[香港政府有限度开放 Wi-Fi 6E](https://www.solidot.org/story?sid=71885)
-
-[Tor 项目发布 2020-2021 年度报告](https://www.solidot.org/story?sid=71884)
-
-[大自然的终极超级武器——磁星](https://www.solidot.org/story?sid=71883)
 
