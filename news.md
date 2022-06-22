@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-06-22 16:49:00
+> Update time: 2022-06-22 20:30:59
+
+[COVID 反弹现象](https://www.solidot.org/story?sid=71911)
+
+[微软、Facebook 等组建元宇宙开放标准小组](https://www.solidot.org/story?sid=71910)
+
+[物理学家制造出可“永远”运行的原子激光器](https://www.solidot.org/story?sid=71909)
+
+[科学家在木星发现被蚕食的小行星残骸](https://www.solidot.org/story?sid=71908)
+
+[韩国成功用自己的火箭发射小型卫星](https://www.solidot.org/story?sid=71907)
 
 [美国人对上帝的信仰下滑至 81%](https://www.solidot.org/story?sid=71906)
 
@@ -10,14 +20,4 @@
 [马斯克称完成 Twitter 交易需解决三个问题](https://www.solidot.org/story?sid=71903)
 
 [GitHub Copilot 开放付费使用](https://www.solidot.org/story?sid=71902)
-
-[网络配置错误导致 Cloudflare 大规模宕机](https://www.solidot.org/story?sid=71901)
-
-[逾半数美国人承认花在手机上的时间太多](https://www.solidot.org/story?sid=71900)
-
-[RISC-V 宣布新规格](https://www.solidot.org/story?sid=71899)
-
-[Space 上周日的发射包含了四颗秘密卫星](https://www.solidot.org/story?sid=71898)
-
-[Terra 币公司员工被禁止离境](https://www.solidot.org/story?sid=71897)
 
