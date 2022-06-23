@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-06-23 12:33:49
+> Update time: 2022-06-23 16:22:02
+
+[用推文和喷鼻剂对抗新冠的免疫学家](https://www.solidot.org/story?sid=71921)
+
+[半数英国人支持用基因组编辑预防严重疾病](https://www.solidot.org/story?sid=71920)
+
+[50 年后 NASA 开始关闭航海者号](https://www.solidot.org/story?sid=71919)
+
+[中国今年 IPO 筹资额居全球之首](https://www.solidot.org/story?sid=71918)
+
+[研究发现 Mega 的文件加密容易破解](https://www.solidot.org/story?sid=71917)
+
+[广电总局发布《网络主播行为规范》](https://www.solidot.org/story?sid=71916)
+
+[阿里巴巴性侵案客户被判 18 个月](https://www.solidot.org/story?sid=71915)
+
+[TikTok 广告收入激增](https://www.solidot.org/story?sid=71914)
 
 [7-zip 支持 Windows Mark-of-the-Web 安全功能](https://www.solidot.org/story?sid=71913)
 
 [中国芯片行业高速发展](https://www.solidot.org/story?sid=71912)
-
-[COVID 反弹现象](https://www.solidot.org/story?sid=71911)
-
-[微软、Facebook 等组建元宇宙开放标准小组](https://www.solidot.org/story?sid=71910)
-
-[物理学家制造出可“永远”运行的原子激光器](https://www.solidot.org/story?sid=71909)
-
-[科学家在木星发现被蚕食的小行星残骸](https://www.solidot.org/story?sid=71908)
-
-[韩国成功用自己的火箭发射小型卫星](https://www.solidot.org/story?sid=71907)
-
-[美国人对上帝的信仰下滑至 81%](https://www.solidot.org/story?sid=71906)
-
-[研究发现奥密克戎重症率低](https://www.solidot.org/story?sid=71905)
-
-[维基媒体首批商业客户为 Google 和互联网档案馆](https://www.solidot.org/story?sid=71904)
 
