@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-06-24 16:45:17
+> Update time: 2022-06-25 04:10:07
+
+[蔚来测试车发生事故致两人死亡](https://www.solidot.org/story?sid=71934)
+
+[AI 学会了新技能：化学](https://www.solidot.org/story?sid=71933)
+
+[法院裁定DMCA不能凌驾于第一修正案对匿名言论保护之上](https://www.solidot.org/story?sid=71932)
+
+[仿生机器鱼清除海洋中的微塑料](https://www.solidot.org/story?sid=71931)
+
+[科学家发现一厘米长细胞的细菌](https://www.solidot.org/story?sid=71930)
 
 [新冠疫苗全球减少 2000 万人死亡](https://www.solidot.org/story?sid=71929)
 
@@ -10,14 +20,4 @@
 [谁获得科学荣誉？通常不是女性](https://www.solidot.org/story?sid=71926)
 
 [南方地区遭遇洪灾](https://www.solidot.org/story?sid=71925)
-
-[马斯克称特斯拉新工厂损失了数十亿美元](https://www.solidot.org/story?sid=71924)
-
-[Brave Search Goggles：用规则和过滤器改变搜索排名](https://www.solidot.org/story?sid=71923)
-
-[用推文和喷鼻剂对抗新冠的免疫学家](https://www.solidot.org/story?sid=71921)
-
-[半数英国人支持用基因组编辑预防严重疾病](https://www.solidot.org/story?sid=71920)
-
-[50 年后 NASA 开始关闭航海者号](https://www.solidot.org/story?sid=71919)
 
