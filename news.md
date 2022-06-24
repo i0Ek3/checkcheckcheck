@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-06-24 04:38:43
+> Update time: 2022-06-24 16:11:52
+
+[新冠疫苗全球减少 2000 万人死亡](https://www.solidot.org/story?sid=71929)
+
+[FDA 下令停售 Juul 电子烟](https://www.solidot.org/story?sid=71928)
+
+[Linus Torvalds 称 Rust 最快将在 Linux 5.20 中合并到内核](https://www.solidot.org/story?sid=71927)
+
+[谁获得科学荣誉？通常不是女性](https://www.solidot.org/story?sid=71926)
+
+[南方地区遭遇洪灾](https://www.solidot.org/story?sid=71925)
+
+[马斯克称特斯拉新工厂损失了数十亿美元](https://www.solidot.org/story?sid=71924)
 
 [Brave Search Goggles：用规则和过滤器改变搜索排名](https://www.solidot.org/story?sid=71923)
 
@@ -8,16 +20,4 @@
 [半数英国人支持用基因组编辑预防严重疾病](https://www.solidot.org/story?sid=71920)
 
 [50 年后 NASA 开始关闭航海者号](https://www.solidot.org/story?sid=71919)
-
-[中国今年 IPO 筹资额居全球之首](https://www.solidot.org/story?sid=71918)
-
-[研究发现 Mega 的文件加密容易破解](https://www.solidot.org/story?sid=71917)
-
-[广电总局发布《网络主播行为规范》](https://www.solidot.org/story?sid=71916)
-
-[阿里巴巴性侵案客户被判 18 个月](https://www.solidot.org/story?sid=71915)
-
-[TikTok 广告收入激增](https://www.solidot.org/story?sid=71914)
-
-[7-zip 支持 Windows Mark-of-the-Web 安全功能](https://www.solidot.org/story?sid=71913)
 
