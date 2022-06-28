@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-06-28 04:37:42
+> Update time: 2022-06-28 16:14:08
+
+[通过在塑料上“搭便车”病毒可在淡水中存活](https://www.solidot.org/story?sid=71959)
+
+[为何通胀保持在疫情前的正常水平之上](https://www.solidot.org/story?sid=71958)
+
+[AMD 公开 FidelityFX Super Resolution 2.0 源代码](https://www.solidot.org/story?sid=71957)
+
+[VaultBoot：远程证明即服务](https://www.solidot.org/story?sid=71956)
+
+[《银翼杀手》上映四十周年](https://www.solidot.org/story?sid=71955)
+
+[勒索软件黑帮瞄准日本](https://www.solidot.org/story?sid=71954)
 
 [极端天气侵袭中国](https://www.solidot.org/story?sid=71953)
 
@@ -8,16 +20,4 @@
 [人工光合作用可在没有阳光的情况下生产食物](https://www.solidot.org/story?sid=71951)
 
 [通过探索虚拟世界人工智能以新的方式学习](https://www.solidot.org/story?sid=71950)
-
-[卫星以更快速度落向地球，科学家认为太阳风是“罪魁祸首”](https://www.solidot.org/story?sid=71949)
-
-[健康码的遗产](https://www.solidot.org/story?sid=71948)
-
-[今天的程序太臃肿了](https://www.solidot.org/story?sid=71947)
-
-[辉瑞奥密克戎改良疫苗产生更强免疫应答](https://www.solidot.org/story?sid=71946)
-
-[1 亿美元加密货币被盗](https://www.solidot.org/story?sid=71945)
-
-[龟等爬行动物几乎没有衰老痕迹](https://www.solidot.org/story?sid=71944)
 
