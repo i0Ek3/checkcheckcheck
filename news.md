@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-06-28 16:46:44
+> Update time: 2022-06-29 04:10:26
+
+[立陶宛网络遭大规模 DDoS 攻击](https://www.solidot.org/story?sid=71966)
+
+[Linux 支持 Rust 的下一步计划](https://www.solidot.org/story?sid=71965)
+
+[腾讯最大股东计划减持股份](https://www.solidot.org/story?sid=71964)
+
+[微软解决导致 Edge 停止响应的 bug](https://www.solidot.org/story?sid=71963)
+
+[网信办发布《互联网用户账号信息管理规定》](https://www.solidot.org/story?sid=71962)
+
+[量子纠错](https://www.solidot.org/story?sid=71961)
 
 [测量人工智能的碳足迹](https://www.solidot.org/story?sid=71960)
 
@@ -8,16 +20,4 @@
 [为何通胀保持在疫情前的正常水平之上](https://www.solidot.org/story?sid=71958)
 
 [AMD 公开 FidelityFX Super Resolution 2.0 源代码](https://www.solidot.org/story?sid=71957)
-
-[VaultBoot：远程证明即服务](https://www.solidot.org/story?sid=71956)
-
-[《银翼杀手》上映四十周年](https://www.solidot.org/story?sid=71955)
-
-[勒索软件黑帮瞄准日本](https://www.solidot.org/story?sid=71954)
-
-[极端天气侵袭中国](https://www.solidot.org/story?sid=71953)
-
-[美国情报体系在人工智能方面的力量和陷阱](https://www.solidot.org/story?sid=71952)
-
-[人工光合作用可在没有阳光的情况下生产食物](https://www.solidot.org/story?sid=71951)
 
