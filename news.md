@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-01 16:12:24
+> Update time: 2022-07-01 16:43:23
 
-[TikTok 无法阻止用户人肉搜索保守派大法官](https://www.solidot.org/story?sid=71989)
+[AI 通过监听鸡叫声改善养殖鸡的福祉](https://www.solidot.org/story?sid=72001)
 
-[狼作为一个单一全球种群在冰河时代幸存下](https://www.solidot.org/story?sid=71988)
+[新算法提前一周预测未来犯罪准确率 90%](https://www.solidot.org/story?sid=72000)
 
-[好奇号漫游车采集到的岩石样本发现含有生命关键成分](https://www.solidot.org/story?sid=71987)
+[中国科学家提议海王星核驱动探测器](https://www.solidot.org/story?sid=71999)
 
-[章鱼有和人脑一样的“跳跃基因”](https://www.solidot.org/story?sid=71986)
+[俄罗斯政府转向 Linux 操作系统](https://www.solidot.org/story?sid=71998)
 
-[人类摇篮遗址中的化石可能比以前认为的早百万年](https://www.solidot.org/story?sid=71985)
+[美国最高法院裁决 EPA 无权规定减排指标](https://www.solidot.org/story?sid=71997)
 
-[Vim 9.0 发布](https://www.solidot.org/story?sid=71984)
+[TikTok 上的虚假信息](https://www.solidot.org/story?sid=71996)
 
-[麒麟软件等宣布 openKylin](https://www.solidot.org/story?sid=71983)
+[科学家找到控制食物摄入的大脑信号通路](https://www.solidot.org/story?sid=71995)
 
-[印度切断拉贾斯坦邦网络以防骚乱](https://www.solidot.org/story?sid=71982)
+[三星量产 3 纳米芯片](https://www.solidot.org/story?sid=71994)
 
-[FCC 成员以国家安全理由呼吁苹果谷歌下架 TikTok](https://www.solidot.org/story?sid=71981)
+[阿里性侵案女主的遭遇](https://www.solidot.org/story?sid=71993)
 
-[FBI 对使用深度伪造申请远程工作发出警告](https://www.solidot.org/story?sid=71980)
+[巴西考虑强制性使用 USB-C 充电器](https://www.solidot.org/story?sid=71991)
 
