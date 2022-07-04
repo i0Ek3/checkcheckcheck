@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-07-04 04:36:21
+> Update time: 2022-07-04 16:12:18
+
+[加州推迟开课时间的法令意在保证学生睡眠](https://www.solidot.org/story?sid=72019)
+
+[NASA 资助探索火星洞穴的机器人](https://www.solidot.org/story?sid=72018)
+
+[客观现实可能不存在](https://www.solidot.org/story?sid=72017)
+
+[Meta 将关闭加密货币项目 Novi](https://www.solidot.org/story?sid=72016)
+
+[大学拿回了支付的比特币赎金，发现还赚了](https://www.solidot.org/story?sid=72015)
+
+[第一款面向开发者的 RISC-V 笔电](https://www.solidot.org/story?sid=72014)
 
 [作家倪匡去世](https://www.solidot.org/story?sid=72013)
 
@@ -8,16 +20,4 @@
 [国际能源署报告到 2050 年核电装机容量翻一番才能实现零排放](https://www.solidot.org/story?sid=72011)
 
 [TikTok 证实中国员工能访问不敏感的美国用户数据](https://www.solidot.org/story?sid=72010)
-
-[Google 将从位置记录中自动删除用户去堕胎诊所的信息](https://www.solidot.org/story?sid=72009)
-
-[宝马车载信息系统将从 Linux 切换到 Android Automotive](https://www.solidot.org/story?sid=72008)
-
-[自由软件是时候放弃 GitHub](https://www.solidot.org/story?sid=72007)
-
-[美国警方使用 Google 关键词搜索寻找嫌疑人的做法遭遇挑战](https://www.solidot.org/story?sid=72006)
-
-[现代城市居民失去了半数肠道微生物群](https://www.solidot.org/story?sid=72005)
-
-[通用无人驾驶出租车挤在一起堵塞了旧金山的交通](https://www.solidot.org/story?sid=72004)
 
