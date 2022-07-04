@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-07-04 16:45:14
+> Update time: 2022-07-05 04:09:54
+
+[东非黑猩猩会挖井取水](https://www.solidot.org/story?sid=72025)
+
+[日本如何成功控制新冠疫情](https://www.solidot.org/story?sid=72024)
+
+[台奧密克戎患者出现脑炎高重症率](https://www.solidot.org/story?sid=72023)
+
+[日本经历有记录以来最强热浪](https://www.solidot.org/story?sid=72022)
+
+[Ubuntu Unity 桌面复活](https://www.solidot.org/story?sid=72021)
+
+[萨尔瓦多的比特币实验是威权宣传吗](https://www.solidot.org/story?sid=72020)
 
 [加州推迟开课时间的法令意在保证学生睡眠](https://www.solidot.org/story?sid=72019)
 
@@ -8,16 +20,4 @@
 [客观现实可能不存在](https://www.solidot.org/story?sid=72017)
 
 [Meta 将关闭加密货币项目 Novi](https://www.solidot.org/story?sid=72016)
-
-[大学拿回了支付的比特币赎金，发现还赚了](https://www.solidot.org/story?sid=72015)
-
-[第一款面向开发者的 RISC-V 笔电](https://www.solidot.org/story?sid=72014)
-
-[作家倪匡去世](https://www.solidot.org/story?sid=72013)
-
-[darktable 4.0.0 发布](https://www.solidot.org/story?sid=72012)
-
-[国际能源署报告到 2050 年核电装机容量翻一番才能实现零排放](https://www.solidot.org/story?sid=72011)
-
-[TikTok 证实中国员工能访问不敏感的美国用户数据](https://www.solidot.org/story?sid=72010)
 
