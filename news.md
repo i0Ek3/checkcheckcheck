@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-05 16:42:06
+> Update time: 2022-07-06 04:10:02
 
-[BioNTec/辉瑞测试通用冠状病毒疫苗](https://www.solidot.org/story?sid=72026)
+[当用户代理是 Linux 时 Xbox Cloud 串流会降低画质](https://www.solidot.org/story?sid=72040)
 
-[东非黑猩猩会挖井取水](https://www.solidot.org/story?sid=72025)
+[加密货币崩溃黑人投资者损失惨重](https://www.solidot.org/story?sid=72039)
 
-[日本如何成功控制新冠疫情](https://www.solidot.org/story?sid=72024)
+[2022 年度菲尔兹奖公布](https://www.solidot.org/story?sid=72038)
 
-[台奧密克戎患者出现脑炎高重症率](https://www.solidot.org/story?sid=72023)
+[西班牙和葡萄牙经历 1200 年来最严重干旱](https://www.solidot.org/story?sid=72037)
 
-[日本经历有记录以来最强热浪](https://www.solidot.org/story?sid=72022)
+[Debian 9 LTS 结束支持](https://www.solidot.org/story?sid=72036)
 
-[Ubuntu Unity 桌面复活](https://www.solidot.org/story?sid=72021)
+[小米在越南生产手机](https://www.solidot.org/story?sid=72035)
 
-[萨尔瓦多的比特币实验是威权宣传吗](https://www.solidot.org/story?sid=72020)
+[以加密货币为目标的朝鲜黑客](https://www.solidot.org/story?sid=72034)
 
-[加州推迟开课时间的法令意在保证学生睡眠](https://www.solidot.org/story?sid=72019)
+[周冠宇撞车事故与挽救性命的 Halo 系统](https://www.solidot.org/story?sid=72033)
 
-[NASA 资助探索火星洞穴的机器人](https://www.solidot.org/story?sid=72018)
+[PC 销售放缓](https://www.solidot.org/story?sid=72032)
 
-[客观现实可能不存在](https://www.solidot.org/story?sid=72017)
+[生命帮助制造地球几乎一半的矿物质](https://www.solidot.org/story?sid=72031)
 
