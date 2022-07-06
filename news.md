@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-06 16:43:33
+> Update time: 2022-07-07 04:10:11
+
+[PulseAudio 和 Systemd 作者 Lennart Poettering 离开 Red Hat](https://www.solidot.org/story?sid=72049)
+
+[开发者考虑 Gtk 5 停止支持 X11](https://www.solidot.org/story?sid=72048)
+
+[字幕艺术正在消亡](https://www.solidot.org/story?sid=72047)
+
+[街区更多的狗意味着更少的犯罪](https://www.solidot.org/story?sid=72046)
+
+[美国西部干旱可能影响数据中心](https://www.solidot.org/story?sid=72045)
+
+[LHC 发现三种新奇特粒子](https://www.solidot.org/story?sid=72044)
+
+[比亚迪电动汽车销量超过特斯拉](https://www.solidot.org/story?sid=72043)
 
 [Twitter 因内容审查命令起诉印度政府](https://www.solidot.org/story?sid=72042)
 
 [在战争和平中间发现数学的魔法](https://www.solidot.org/story?sid=72041)
 
 [当用户代理是 Linux 时 Xbox Cloud 串流会降低画质](https://www.solidot.org/story?sid=72040)
-
-[加密货币崩溃黑人投资者损失惨重](https://www.solidot.org/story?sid=72039)
-
-[2022 年度菲尔兹奖公布](https://www.solidot.org/story?sid=72038)
-
-[西班牙和葡萄牙经历 1200 年来最严重干旱](https://www.solidot.org/story?sid=72037)
-
-[Debian 9 LTS 结束支持](https://www.solidot.org/story?sid=72036)
-
-[小米在越南生产手机](https://www.solidot.org/story?sid=72035)
-
-[以加密货币为目标的朝鲜黑客](https://www.solidot.org/story?sid=72034)
-
-[周冠宇撞车事故与挽救性命的 Halo 系统](https://www.solidot.org/story?sid=72033)
 
