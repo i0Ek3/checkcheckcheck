@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-07 16:54:13
+> Update time: 2022-07-08 04:10:12
+
+[天文学家观察到双星存在共有包层的直接证据](https://www.solidot.org/story?sid=72063)
+
+[TikTok 放弃欧美直播带货](https://www.solidot.org/story?sid=72062)
+
+[欧盟批准核能为绿色能源](https://www.solidot.org/story?sid=72061)
+
+[万豪再次曝出数据泄露](https://www.solidot.org/story?sid=72060)
+
+[关闭互联网使今年至今全球经济损失 100 亿美元](https://www.solidot.org/story?sid=72059)
+
+[世界首个用冻干皮肤细胞克隆的小鼠诞生](https://www.solidot.org/story?sid=72058)
+
+[世界最高观测站上的雪融化得比以往任何时候都早](https://www.solidot.org/story?sid=72057)
 
 [甲烷对全球变暖的敏感性比以前认为的高](https://www.solidot.org/story?sid=72056)
 
 [恐龙如何躲过三叠纪末的生物大灭绝](https://www.solidot.org/story?sid=72055)
 
 [绿色能源解决方案沙储能](https://www.solidot.org/story?sid=72054)
-
-[Axie Infinity 是如何被盗走数亿美元加密货币的](https://www.solidot.org/story?sid=72053)
-
-[苹果预览 Lockdown 模式抵御间谍软件攻击](https://www.solidot.org/story?sid=72052)
-
-[亚马逊预览 AI 编程助手 CodeWhisperer](https://www.solidot.org/story?sid=72051)
-
-[变形微机器人既能刷牙又能剔牙](https://www.solidot.org/story?sid=72050)
-
-[PulseAudio 和 Systemd 作者 Lennart Poettering 离开 Red Hat](https://www.solidot.org/story?sid=72049)
-
-[开发者考虑 Gtk 5 停止支持 X11](https://www.solidot.org/story?sid=72048)
-
-[字幕艺术正在消亡](https://www.solidot.org/story?sid=72047)
 
