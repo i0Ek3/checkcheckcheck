@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-08 16:44:41
+> Update time: 2022-07-09 04:09:56
+
+[内存价格下跌](https://www.solidot.org/story?sid=72073)
+
+[网信办发布《数据出境安全评估办法》](https://www.solidot.org/story?sid=72072)
+
+[高传染性奥密克戎亚型在美国快速传播](https://www.solidot.org/story?sid=72071)
+
+[《超时空接触》上映 25 年](https://www.solidot.org/story?sid=72070)
+
+[停止手机分心的常识建议可能是误导](https://www.solidot.org/story?sid=72069)
+
+[Hive 勒索软件从 Go 切换到 Rust](https://www.solidot.org/story?sid=72068)
+
+[为什么有如此多的编程语言？](https://www.solidot.org/story?sid=72067)
+
+[空客的太阳能飞机已连续飞行逾二十天](https://www.solidot.org/story?sid=72066)
 
 [安倍晋三遇刺](https://www.solidot.org/story?sid=72065)
 
 [Lennart Poettering 加盟微软](https://www.solidot.org/story?sid=72064)
-
-[天文学家观察到双星存在共有包层的直接证据](https://www.solidot.org/story?sid=72063)
-
-[TikTok 放弃欧美直播带货](https://www.solidot.org/story?sid=72062)
-
-[欧盟批准核能为绿色能源](https://www.solidot.org/story?sid=72061)
-
-[万豪再次曝出数据泄露](https://www.solidot.org/story?sid=72060)
-
-[关闭互联网使今年至今全球经济损失 100 亿美元](https://www.solidot.org/story?sid=72059)
-
-[世界首个用冻干皮肤细胞克隆的小鼠诞生](https://www.solidot.org/story?sid=72058)
-
-[世界最高观测站上的雪融化得比以往任何时候都早](https://www.solidot.org/story?sid=72057)
-
-[甲烷对全球变暖的敏感性比以前认为的高](https://www.solidot.org/story?sid=72056)
 
