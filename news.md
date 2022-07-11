@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-11 16:54:58
+> Update time: 2022-07-12 04:21:10
 
-[网文作者投诉 WPS 锁定本地文稿](https://www.solidot.org/story?sid=72083)
+[飞控软件 bug 导致 NASA CAPSTONE 卫星短暂失去联络](https://www.solidot.org/story?sid=72093)
 
-[墨西哥提议终止夏令时](https://www.solidot.org/story?sid=72082)
+[科学家揭开声音减轻疼痛的原因](https://www.solidot.org/story?sid=72092)
 
-[微软推迟执行禁止第三方对免费的开源软件收费的政策](https://www.solidot.org/story?sid=72081)
+[育碧游戏《Assassin’s Creed Liberation HD》在 Steam 上将无法游戏](https://www.solidot.org/story?sid=72091)
 
-[瑞士的地下货运管道走向现实](https://www.solidot.org/story?sid=72079)
+[腾讯继续限制未成年人在暑期的游戏时长](https://www.solidot.org/story?sid=72090)
 
-[微软撤回默认屏蔽宏的计划](https://www.solidot.org/story?sid=72078)
+[植物性肉类：目前气候方面最好的投资](https://www.solidot.org/story?sid=72089)
 
-[为避免反垄断诉讼 Google 提议拆分部分业务](https://www.solidot.org/story?sid=72077)
+[相隔 33 公里的两个原子实现创纪录的纠缠](https://www.solidot.org/story?sid=72088)
 
-[马斯克终止收购 Twitter，Twitter 表示将起诉](https://www.solidot.org/story?sid=72076)
+[Uber 使用秘密技术阻止政府的突击调查](https://www.solidot.org/story?sid=72087)
 
-[纳米颗粒疫苗能抵御类 SARS 病毒](https://www.solidot.org/story?sid=72075)
+[AI 的许诺多未兑现](https://www.solidot.org/story?sid=72086)
 
-[索尼 PlayStation 商店将移除客户购买的电影](https://www.solidot.org/story?sid=72074)
+[金山回应将网文作者文稿遭到锁定](https://www.solidot.org/story?sid=72085)
 
-[内存价格下跌](https://www.solidot.org/story?sid=72073)
+[Twitter 的下一步](https://www.solidot.org/story?sid=72084)
 
