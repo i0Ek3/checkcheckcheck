@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-13 16:43:33
+> Update time: 2022-07-14 04:10:40
 
-[宝马提供每月 18 美元的加热座椅订阅服务](https://www.solidot.org/story?sid=72107)
+[Google 放缓招聘](https://www.solidot.org/story?sid=72119)
 
-[法官裁决赛百味可以因误导消费者遭到起诉](https://www.solidot.org/story?sid=72106)
+[Google 如何滚动更新其内部 Linux 发行版](https://www.solidot.org/story?sid=72118)
 
-[斯里兰卡灾难性的有机农业试验](https://www.solidot.org/story?sid=72105)
+[Calibre 6.0 释出](https://www.solidot.org/story?sid=72117)
 
-[为迎接热浪德州加密货币矿工关闭矿机](https://www.solidot.org/story?sid=72104)
+[NASA 公布更多韦伯望远镜照片](https://www.solidot.org/story?sid=72116)
 
-[DeepMind AI 像婴儿一样学习简单物理学](https://www.solidot.org/story?sid=72103)
+[Nothing 公司首款手机起售价 475 美元](https://www.solidot.org/story?sid=72115)
 
-[量子算法解决一类新问题](https://www.solidot.org/story?sid=72102)
+[奥密克戎亚型毒株BA.5成为美国主流毒株](https://www.solidot.org/story?sid=72114)
 
-[在家工作将成为荷兰的一项合法权利](https://www.solidot.org/story?sid=72101)
+[胚胎细胞通过挤压和拉扯设置生长模式](https://www.solidot.org/story?sid=72113)
 
-[暗物质：在一个古老金矿中寻找隐形粒子](https://www.solidot.org/story?sid=72100)
+[物理学家发现超导石墨烯结构“家族”](https://www.solidot.org/story?sid=72112)
 
-[睡前淋浴有助于快速入睡](https://www.solidot.org/story?sid=72099)
+[电子游戏成为医生治疗多动症的处方](https://www.solidot.org/story?sid=72111)
 
-[韦伯太空望远镜发布首张图像](https://www.solidot.org/story?sid=72098)
+[日本想将人造重力带到月球](https://www.solidot.org/story?sid=72110)
 
