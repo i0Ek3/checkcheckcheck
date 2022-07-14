@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-14 16:43:44
+> Update time: 2022-07-15 04:11:14
 
-[Google 放缓招聘](https://www.solidot.org/story?sid=72119)
+[将旧 PC 和 Mac 变成 Chromebook](https://www.solidot.org/story?sid=72130)
 
-[Google 如何滚动更新其内部 Linux 发行版](https://www.solidot.org/story?sid=72118)
+[尼康停止单反相机的开发](https://www.solidot.org/story?sid=72129)
 
-[Calibre 6.0 释出](https://www.solidot.org/story?sid=72117)
+[ESA 终止与俄罗斯在火星任务 ExoMars 上的合作](https://www.solidot.org/story?sid=72128)
 
-[NASA 公布更多韦伯望远镜照片](https://www.solidot.org/story?sid=72116)
+[新东方转型直播带货](https://www.solidot.org/story?sid=72127)
 
-[Nothing 公司首款手机起售价 475 美元](https://www.solidot.org/story?sid=72115)
+[万代南梦宫证实遭黑客入侵](https://www.solidot.org/story?sid=72126)
 
-[奥密克戎亚型毒株BA.5成为美国主流毒株](https://www.solidot.org/story?sid=72114)
+[Google 高管认为 Instagram 和 TikTok 在侵蚀公司核心产品](https://www.solidot.org/story?sid=72125)
 
-[胚胎细胞通过挤压和拉扯设置生长模式](https://www.solidot.org/story?sid=72113)
+[爱因斯坦未清楚定义的质量和角动量得到定义](https://www.solidot.org/story?sid=72124)
 
-[物理学家发现超导石墨烯结构“家族”](https://www.solidot.org/story?sid=72112)
+[游戏增强玩家的大脑活动和决策能力](https://www.solidot.org/story?sid=72123)
 
-[电子游戏成为医生治疗多动症的处方](https://www.solidot.org/story?sid=72111)
+[逾八成美国人尿液中发现除草剂草甘膦](https://www.solidot.org/story?sid=72122)
 
-[日本想将人造重力带到月球](https://www.solidot.org/story?sid=72110)
+[在最近去世的人身上完成转基因猪心脏移植](https://www.solidot.org/story?sid=72121)
 
