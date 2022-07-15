@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-15 16:43:41
+> Update time: 2022-07-16 04:10:24
 
-[微软切换到新的 Windows 开发周期](https://www.solidot.org/story?sid=72134)
+[EA 准备淘汰 BioWare Points，BioWare 旧作的 DLC 全部免费](https://www.solidot.org/story?sid=72144)
 
-[美国律师资格考试软件与英特尔 12 代 CPU 不兼容](https://www.solidot.org/story?sid=72133)
+[俄宇航局长 Dmitry Rogozin 遭解雇](https://www.solidot.org/story?sid=72143)
 
-[部分入京旅客被要求佩戴电子手环](https://www.solidot.org/story?sid=72132)
+[大疆游说美国议员阻止无人机法案](https://www.solidot.org/story?sid=72142)
 
-[联想释出固件更新修复漏洞](https://www.solidot.org/story?sid=72131)
+[多地业主发起停贷行动](https://www.solidot.org/story?sid=72141)
 
-[将旧 PC 和 Mac 变成 Chromebook](https://www.solidot.org/story?sid=72130)
+[印度计划引入维修权法](https://www.solidot.org/story?sid=72140)
 
-[尼康停止单反相机的开发](https://www.solidot.org/story?sid=72129)
+[DALL-E 2 的失败是最有趣的事情](https://www.solidot.org/story?sid=72139)
 
-[ESA 终止与俄罗斯在火星任务 ExoMars 上的合作](https://www.solidot.org/story?sid=72128)
+[芬太尼证明会导致类似自闭症的行为](https://www.solidot.org/story?sid=72138)
 
-[新东方转型直播带货](https://www.solidot.org/story?sid=72127)
+[光污染扰乱植物和树木的季节性节律](https://www.solidot.org/story?sid=72137)
 
-[万代南梦宫证实遭黑客入侵](https://www.solidot.org/story?sid=72126)
+[智能恒温器无意间加剧电网压力](https://www.solidot.org/story?sid=72136)
 
-[Google 高管认为 Instagram 和 TikTok 在侵蚀公司核心产品](https://www.solidot.org/story?sid=72125)
+[被认为泄露 Vault 7 的前 CIA 工程师被判有罪](https://www.solidot.org/story?sid=72135)
 
