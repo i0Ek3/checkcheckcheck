@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-18 16:44:44
+> Update time: 2022-07-19 04:10:31
+
+[欧洲遭遇极端天气](https://www.solidot.org/story?sid=72161)
+
+[研究认为珊瑚发光是为了吸引猎物](https://www.solidot.org/story?sid=72160)
+
+[黑客以工业系统为感染目标](https://www.solidot.org/story?sid=72159)
+
+[天文学家探测到距地球数十亿光年的无线电“心跳”](https://www.solidot.org/story?sid=72158)
+
+[没人愿意周五还留在办公室](https://www.solidot.org/story?sid=72157)
+
+[MIT 科学家发明更好的烧水方法](https://www.solidot.org/story?sid=72156)
+
+[加州树木正在死亡](https://www.solidot.org/story?sid=72155)
+
+[哥伦比亚禁售 5G iPhone 手机](https://www.solidot.org/story?sid=72154)
 
 [GCC 指导委员会批准 GCC Rust](https://www.solidot.org/story?sid=72153)
 
 [NASA 和俄罗斯的宇航员将互相搭乘对方的火箭](https://www.solidot.org/story?sid=72152)
-
-[FSF 如何确保它的服务器都运行自由 BIOS](https://www.solidot.org/story?sid=72151)
-
-[俄罗斯禁止加密货币用于支付](https://www.solidot.org/story?sid=72150)
-
-[卫星数据显示全球小麦产量将显著下降](https://www.solidot.org/story?sid=72149)
-
-[Android 移除大部分 Fuchsia 相关代码](https://www.solidot.org/story?sid=72148)
-
-[微软披露朝鲜黑客组织利用勒索软件获取赎金](https://www.solidot.org/story?sid=72147)
-
-[Tor Browser 11.5 发布](https://www.solidot.org/story?sid=72146)
-
-[美国 FTC 主席提议将宽带最低标准提高到下载 100Mbps 上传 20Mbps](https://www.solidot.org/story?sid=72145)
-
-[EA 准备淘汰 BioWare Points，BioWare 旧作的 DLC 全部免费](https://www.solidot.org/story?sid=72144)
 
