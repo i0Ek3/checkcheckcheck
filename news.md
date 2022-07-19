@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-19 04:38:32
+> Update time: 2022-07-19 16:12:34
 
-[欧洲遭遇极端天气](https://www.solidot.org/story?sid=72161)
+[亚马逊在其仓库循环播放反工会广告](https://www.solidot.org/story?sid=72176)
 
-[研究认为珊瑚发光是为了吸引猎物](https://www.solidot.org/story?sid=72160)
+[B 站宣布将显示 IP 地址](https://www.solidot.org/story?sid=72175)
 
-[黑客以工业系统为感染目标](https://www.solidot.org/story?sid=72159)
+[马斯克准备反诉 Twitter](https://www.solidot.org/story?sid=72174)
 
-[天文学家探测到距地球数十亿光年的无线电“心跳”](https://www.solidot.org/story?sid=72158)
+[Go 语言产品负责人离职](https://www.solidot.org/story?sid=72173)
 
-[没人愿意周五还留在办公室](https://www.solidot.org/story?sid=72157)
+[英国为 40 度高温做准备](https://www.solidot.org/story?sid=72172)
 
-[MIT 科学家发明更好的烧水方法](https://www.solidot.org/story?sid=72156)
+[加纳报告两例类埃博拉致命病毒感染病例](https://www.solidot.org/story?sid=72171)
 
-[加州树木正在死亡](https://www.solidot.org/story?sid=72155)
+[机器狗一小时学会走路](https://www.solidot.org/story?sid=72170)
 
-[哥伦比亚禁售 5G iPhone 手机](https://www.solidot.org/story?sid=72154)
+[智能手机出货量二季度下降 9%](https://www.solidot.org/story?sid=72169)
 
-[GCC 指导委员会批准 GCC Rust](https://www.solidot.org/story?sid=72153)
+[美国起草半导体资助法案](https://www.solidot.org/story?sid=72168)
 
-[NASA 和俄罗斯的宇航员将互相搭乘对方的火箭](https://www.solidot.org/story?sid=72152)
+[Snapchat 将提供桌面版本](https://www.solidot.org/story?sid=72167)
 
