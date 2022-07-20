@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-20 04:38:48
+> Update time: 2022-07-20 16:13:27
 
-[韩国 KF-21 战斗机首飞](https://www.solidot.org/story?sid=72180)
+[奥密克戎亚型毒株BA.5 占到了美国新增病例的 78%](https://www.solidot.org/story?sid=72191)
 
-[苹果将放缓招聘和缩减开支](https://www.solidot.org/story?sid=72178)
+[意大利法庭命令 Cloudflare 的公共 DNS 服务屏蔽三个 BT 网站](https://www.solidot.org/story?sid=72190)
 
-[研究人员发布英特尔微码解密器](https://www.solidot.org/story?sid=72177)
+[Google 和甲骨文的云服务因英国高温天气而下线](https://www.solidot.org/story?sid=72189)
 
-[亚马逊在其仓库循环播放反工会广告](https://www.solidot.org/story?sid=72176)
+[因不符合 GDPR 要求丹麦学校禁止 Google 服务](https://www.solidot.org/story?sid=72188)
 
-[B 站宣布将显示 IP 地址](https://www.solidot.org/story?sid=72175)
+[腾讯云以未说明原因封锁一思维导图在线工具域名](https://www.solidot.org/story?sid=72187)
 
-[马斯克准备反诉 Twitter](https://www.solidot.org/story?sid=72174)
+[亚马逊因虚假评论起诉逾万 Facebook 群组管理员](https://www.solidot.org/story?sid=72186)
 
-[Go 语言产品负责人离职](https://www.solidot.org/story?sid=72173)
+[酒给年轻人带来更大风险](https://www.solidot.org/story?sid=72185)
 
-[英国为 40 度高温做准备](https://www.solidot.org/story?sid=72172)
+[英国气温首次超过 40 摄氏度](https://www.solidot.org/story?sid=72184)
 
-[加纳报告两例类埃博拉致命病毒感染病例](https://www.solidot.org/story?sid=72171)
+[Netflix 在美国和加拿大失去 128 万订户](https://www.solidot.org/story?sid=72183)
 
-[机器狗一小时学会走路](https://www.solidot.org/story?sid=72170)
+[僵尸真菌引诱雄蝇与雌蝇尸体交配](https://www.solidot.org/story?sid=72182)
 
