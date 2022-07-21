@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-21 04:40:35
+> Update time: 2022-07-21 16:12:30
 
-[GNU arch 作者 Tom Lord 去世](https://www.solidot.org/story?sid=72195)
+[极端气温会杀死巨大古树](https://www.solidot.org/story?sid=72205)
 
-[Pegasus 间谍软件被用于攻击泰国抗议者](https://www.solidot.org/story?sid=72194)
+[WordPerfect 移植到 Linux](https://www.solidot.org/story?sid=72204)
 
-[微软再次调整销售开源软件的商店政策](https://www.solidot.org/story?sid=72193)
+[滴滴被罚 80.26 亿元](https://www.solidot.org/story?sid=72203)
 
-[银河系外首次发现休眠黑洞](https://www.solidot.org/story?sid=72192)
+[研究人员演示对苍蝇大脑的遥控技术](https://www.solidot.org/story?sid=72202)
 
-[奥密克戎亚型毒株BA.5 占到了美国新增病例的 78%](https://www.solidot.org/story?sid=72191)
+[Xbox 整合 Discord 语音聊天支持](https://www.solidot.org/story?sid=72201)
 
-[意大利法庭命令 Cloudflare 的公共 DNS 服务屏蔽三个 BT 网站](https://www.solidot.org/story?sid=72190)
+[特斯拉以中国封锁政策为由出售四分之三的比特币](https://www.solidot.org/story?sid=72200)
 
-[Google 和甲骨文的云服务因英国高温天气而下线](https://www.solidot.org/story?sid=72189)
+[OpenAI 邀请用户参与 DALL·E 2 的 Beta 测试](https://www.solidot.org/story?sid=72199)
 
-[因不符合 GDPR 要求丹麦学校禁止 Google 服务](https://www.solidot.org/story?sid=72188)
+[俄罗斯黑客通过假的 DDoS 工具感染支持乌克兰的活动人士](https://www.solidot.org/story?sid=72198)
 
-[腾讯云以未说明原因封锁一思维导图在线工具域名](https://www.solidot.org/story?sid=72187)
+[湖南邵阳学院为何引进同一所菲律宾大学的 23 名博士？](https://www.solidot.org/story?sid=72197)
 
-[亚马逊因虚假评论起诉逾万 Facebook 群组管理员](https://www.solidot.org/story?sid=72186)
+[广泛使用的汽车 GPS 追踪器可通过短信给与黑客管理权限](https://www.solidot.org/story?sid=72196)
 
