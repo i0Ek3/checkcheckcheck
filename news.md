@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-22 16:45:38
+> Update time: 2022-07-23 04:10:50
+
+[锻炼无法抵消低质量饮食的负面影响](https://www.solidot.org/story?sid=72228)
+
+[太阳耀斑会导致火车延误](https://www.solidot.org/story?sid=72227)
+
+[被维基百科驱逐的用户创立的求闻百科开放访问](https://www.solidot.org/story?sid=72226)
+
+[阿尔茨海默病的研究方向可能被误导了 16 年](https://www.solidot.org/story?sid=72225)
+
+[纽约报告多年来美国首例小儿麻痹症](https://www.solidot.org/story?sid=72224)
+
+[机器学习仍然不擅长预测消费者选择](https://www.solidot.org/story?sid=72223)
+
+[拜登新冠阳性](https://www.solidot.org/story?sid=72222)
 
 [林志颖驾驶特斯拉发生车祸](https://www.solidot.org/story?sid=72221)
 
 [关键项目和自愿维护者](https://www.solidot.org/story?sid=72220)
 
 [新版龙与地下城发布预告片](https://www.solidot.org/story?sid=72219)
-
-[最长寿圈养雄性大熊猫去世](https://www.solidot.org/story?sid=72218)
-
-[Twitter 帖子促使 FBI 调查 Coinbase 内幕交易](https://www.solidot.org/story?sid=72217)
-
-[C919 延期交付](https://www.solidot.org/story?sid=72216)
-
-[Google、GitHub 和 Azure 冻结招聘](https://www.solidot.org/story?sid=72215)
-
-[百度发布 L4 级自动驾驶汽车](https://www.solidot.org/story?sid=72214)
-
-[白鲟被宣布灭绝](https://www.solidot.org/story?sid=72213)
-
-[欧盟通过瞄准科技巨头的数字市场法](https://www.solidot.org/story?sid=72212)
 
