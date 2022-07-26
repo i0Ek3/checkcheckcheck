@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-26 16:42:03
+> Update time: 2022-07-27 04:10:36
 
-[《暗黑破坏神：不朽》国区上架](https://www.solidot.org/story?sid=72251)
+[Firefox 103 发布](https://www.solidot.org/story?sid=72261)
 
-[马斯克否认与布林妻子有婚外情](https://www.solidot.org/story?sid=72250)
+[VRChat 禁止 Mod，引发差评潮](https://www.solidot.org/story?sid=72260)
 
-[英特尔将为联发科生产芯片](https://www.solidot.org/story?sid=72249)
+[不明儿童肝炎可能与一种常见病毒有关](https://www.solidot.org/story?sid=72259)
 
-[我们仍然需要哈勃望远镜](https://www.solidot.org/story?sid=72248)
+[比亚迪为何能脱颖而出](https://www.solidot.org/story?sid=72258)
 
-[高水温影响法国核电发电量](https://www.solidot.org/story?sid=72247)
+[Eric Schmidt 将 AI 比作核武器](https://www.solidot.org/story?sid=72257)
 
-[央行数字货币不会具有完全匿名性](https://www.solidot.org/story?sid=72246)
+[微软通过减少开机动画时间加速 Xbox 启动](https://www.solidot.org/story?sid=72256)
 
-[问天实验舱与天宫空间站成功对接](https://www.solidot.org/story?sid=72244)
+[胚胎发育具有纠错潜能](https://www.solidot.org/story?sid=72255)
 
-[国际象棋机器人弄伤了对弈儿童的手指](https://www.solidot.org/story?sid=72243)
+[代码错误劣化英特尔 GPU 光线跟踪性能](https://www.solidot.org/story?sid=72254)
 
-[三星申请在德州建 11 座芯片工厂](https://www.solidot.org/story?sid=72242)
+[UEFI 主板 BIOS 木马发现新变种](https://www.solidot.org/story?sid=72253)
 
-[中国加快建造芯片工厂](https://www.solidot.org/story?sid=72241)
+[软件问题导致大众 CEO 遭到解雇](https://www.solidot.org/story?sid=72252)
 
