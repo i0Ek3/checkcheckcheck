@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-07-28 04:37:16
+> Update time: 2022-07-28 16:12:52
+
+[Google Maps 在印度推出街景](https://www.solidot.org/story?sid=72285)
+
+[Chrome 淘汰第三方 Cookie 的计划推迟到 2024 年](https://www.solidot.org/story?sid=72284)
+
+[盖亚假说作者 James Lovelock 去世](https://www.solidot.org/story?sid=72283)
+
+[拜登新冠检测阴性结束隔离](https://www.solidot.org/story?sid=72282)
+
+[美参议院通过 2800 亿美元芯片法案](https://www.solidot.org/story?sid=72281)
+
+[星战《旧共和国武士》重制版开发搁置](https://www.solidot.org/story?sid=72280)
+
+[Meta 认为闰秒过时了](https://www.solidot.org/story?sid=72279)
+
+[《侠盗猎车 VI》将有一个女性主角](https://www.solidot.org/story?sid=72278)
 
 [美光量产首款 232 层 3D NAND 闪存芯片](https://www.solidot.org/story?sid=72277)
 
 [俄罗斯加强互联网的控制](https://www.solidot.org/story?sid=72276)
-
-[OneWeb 和 Eutelsat 合并以挑战 Starlink](https://www.solidot.org/story?sid=72275)
-
-[为减少流失美国企业致力于在三个月内留住员工](https://www.solidot.org/story?sid=72274)
-
-[在披露 15 分钟内黑客就开始扫描漏洞](https://www.solidot.org/story?sid=72273)
-
-[才两周时间韦伯望远镜就重塑了天文学](https://www.solidot.org/story?sid=72272)
-
-[乌兹别克斯坦断网以平息抗议](https://www.solidot.org/story?sid=72270)
-
-[光缆出现短缺](https://www.solidot.org/story?sid=72269)
-
-[紫光前董事长被调查](https://www.solidot.org/story?sid=72268)
-
-[神秘人士破坏法国网络光缆](https://www.solidot.org/story?sid=72267)
 
