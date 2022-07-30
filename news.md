@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-07-30 16:41:38
+> Update time: 2022-07-31 04:09:15
+
+[印尼封杀 Steam 和 Epic 等游戏平台和在线服务](https://www.solidot.org/story?sid=72312)
+
+[已知质量最重的中子星](https://www.solidot.org/story?sid=72311)
+
+[乔治·RR·马丁新冠阳性](https://www.solidot.org/story?sid=72310)
+
+[俄罗斯告诉 NASA 退出国际空间站并非迫在眉睫](https://www.solidot.org/story?sid=72309)
+
+[漫威电影不再能保证票房大卖](https://www.solidot.org/story?sid=72308)
 
 [阿里巴巴被列入面临摘牌的名单](https://www.solidot.org/story?sid=72307)
 
@@ -10,14 +20,4 @@
 [英特尔二季度营收出现亏损](https://www.solidot.org/story?sid=72304)
 
 [越富有肉吃的越多](https://www.solidot.org/story?sid=72303)
-
-[量子计算机公司声称在 6 分钟内解决宝马有 3854 个变量的优化问题](https://www.solidot.org/story?sid=72302)
-
-[英特尔将终止基于 3D XPoint 技术的 Optane 业务](https://www.solidot.org/story?sid=72301)
-
-[美国众议院通过芯片法案](https://www.solidot.org/story?sid=72300)
-
-[NIST 宣布后量子加密算法竞赛的首批获胜者](https://www.solidot.org/story?sid=72299)
-
-[DeepMind 的 AlphaFold 能预测几乎所有蛋白质结构](https://www.solidot.org/story?sid=72298)
 
