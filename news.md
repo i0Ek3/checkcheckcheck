@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-08-03 04:38:39
+> Update time: 2022-08-03 16:12:17
+
+[Robinhood 裁员 23%](https://www.solidot.org/story?sid=72343)
+
+[AMD 二季度盈利 4.47 亿美元](https://www.solidot.org/story?sid=72342)
+
+[地球转速变快了](https://www.solidot.org/story?sid=72341)
+
+[新西兰想要改名为 Aotearoa](https://www.solidot.org/story?sid=72340)
+
+[美国联邦法官认为 Visa  帮助 Pornhub 货币化儿童色情](https://www.solidot.org/story?sid=72339)
 
 [数十万人跟踪 SPAR19 飞行路线致使网站崩溃](https://www.solidot.org/story?sid=72338)
 
@@ -10,14 +20,4 @@
 [为什么反盗版信息不起作用](https://www.solidot.org/story?sid=72335)
 
 [每日优鲜的困境](https://www.solidot.org/story?sid=72334)
-
-[人脑形状 16 万年基本没变](https://www.solidot.org/story?sid=72333)
-
-[活动人士通过 BT 传播未经审查的新闻](https://www.solidot.org/story?sid=72332)
-
-[SEC 指控加密货币平台 Forsage 从事庞氏骗局](https://www.solidot.org/story?sid=72331)
-
-[Outlook 打开带有表格的邮件会崩溃](https://www.solidot.org/story?sid=72330)
-
-[Docusaurus 2.0 发布](https://www.solidot.org/story?sid=72329)
 
