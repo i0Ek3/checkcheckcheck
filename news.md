@@ -1,23 +1,3 @@
 # Here The News
-> Update time: 2022-08-04 04:38:54
-
-[三星和 SK海力士等重新评估在华业务](https://www.solidot.org/story?sid=72345)
-
-[苹果微软英特尔支持平权法案](https://www.solidot.org/story?sid=72344)
-
-[Robinhood 裁员 23%](https://www.solidot.org/story?sid=72343)
-
-[AMD 二季度盈利 4.47 亿美元](https://www.solidot.org/story?sid=72342)
-
-[地球转速变快了](https://www.solidot.org/story?sid=72341)
-
-[新西兰想要改名为 Aotearoa](https://www.solidot.org/story?sid=72340)
-
-[美国联邦法官认为 Visa  帮助 Pornhub 货币化儿童色情](https://www.solidot.org/story?sid=72339)
-
-[数十万人跟踪 SPAR19 飞行路线致使网站崩溃](https://www.solidot.org/story?sid=72338)
-
-[Google CEO 要求员工提高生产力](https://www.solidot.org/story?sid=72337)
-
-[Winamp 5.9 释出首个 RC 版本](https://www.solidot.org/story?sid=72336)
+> Update time: 2022-08-04 16:14:07
 
