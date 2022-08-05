@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-05 04:38:56
+> Update time: 2022-08-05 16:12:55
+
+[Steam Deck 在东亚地区开放预售](https://www.solidot.org/story?sid=72371)
+
+[下一代数据中心安全：Web3之基础架构](https://www.solidot.org/story?sid=72370)
+
+[中国成功发射可重复使用试验航天器](https://www.solidot.org/story?sid=72369)
+
+[星巴克将在下个月宣布基于 Web3 的积分奖励计划](https://www.solidot.org/story?sid=72368)
+
+[GitLab 宣布不会删除免费用户的不活跃项目](https://www.solidot.org/story?sid=72367)
+
+[澳大利亚推进气候变化法案](https://www.solidot.org/story?sid=72366)
+
+[阿里巴巴上市以来首次收入下降](https://www.solidot.org/story?sid=72365)
+
+[GitLab 计划自动删除免费用户的不活跃项目](https://www.solidot.org/story?sid=72364)
+
+[奥密克戎亚型毒株 BA.5 导致美国住院人数翻了两番](https://www.solidot.org/story?sid=72363)
 
 [GlobalFoundries 加入 Google 开源硅倡议](https://www.solidot.org/story?sid=72362)
-
-[Google 开始将 Duo 变成 Meet](https://www.solidot.org/story?sid=72361)
-
-[拜登特别助理吴修铭即将离职](https://www.solidot.org/story?sid=72360)
-
-[印尼解除对部分在线服务的封锁](https://www.solidot.org/story?sid=72359)
-
-[台积电警告一旦爆发战争全世界都是输家](https://www.solidot.org/story?sid=72358)
-
-[模因股票 AMTD Digital 上市三周市值超过高盛](https://www.solidot.org/story?sid=72357)
-
-[科学家“复活”死猪器官细胞](https://www.solidot.org/story?sid=72356)
-
-[科技巨头意外成为乌克兰对抗俄罗斯的武器](https://www.solidot.org/story?sid=72355)
-
-[今年高温天气为 61 年以来最多](https://www.solidot.org/story?sid=72354)
-
-[儿时有富有朋友长大后更有可能高薪](https://www.solidot.org/story?sid=72353)
 
