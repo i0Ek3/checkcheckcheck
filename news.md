@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-08-08 16:45:23
+> Update time: 2022-08-09 04:10:30
+
+[芯片巨人面临柯达时刻？](https://www.solidot.org/story?sid=72397)
+
+[为何 AlphaFold 不会对新药研制产生革命性影响？](https://www.solidot.org/story?sid=72396)
+
+[夜晚高温增加民众死亡风险](https://www.solidot.org/story?sid=72395)
+
+[IPv6 网络“高速公路”全面建成](https://www.solidot.org/story?sid=72394)
+
+[中国第三次启动土壤普查](https://www.solidot.org/story?sid=72393)
 
 [Argues JSON 作者认为应该退役 JavaScript](https://www.solidot.org/story?sid=72392)
 
@@ -10,14 +20,4 @@
 [当澳一高中禁止手机](https://www.solidot.org/story?sid=72389)
 
 [OpenSUSE 考虑移除 reiserfs 文件系统](https://www.solidot.org/story?sid=72388)
-
-[美国参议院通过气候法案](https://www.solidot.org/story?sid=72387)
-
-[部分中国用户转战 Mastodon](https://www.solidot.org/story?sid=72386)
-
-[爱普生为其打印机设定死亡日期](https://www.solidot.org/story?sid=72385)
-
-[基于syzkaller实现的模糊测试技术分析：来自不是VaultFuzzer故事的部门](https://www.solidot.org/story?sid=72384)
-
-[欧洲最大核电站再次发生爆炸](https://www.solidot.org/story?sid=72383)
 
