@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-08-08 04:37:35
+> Update time: 2022-08-08 16:14:09
+
+[百度将在重庆和武汉提供付费无人驾驶网约车服务](https://www.solidot.org/story?sid=72391)
+
+[东亚国家的新冠死亡人数较低与戴口罩的习惯有关](https://www.solidot.org/story?sid=72390)
+
+[当澳一高中禁止手机](https://www.solidot.org/story?sid=72389)
+
+[OpenSUSE 考虑移除 reiserfs 文件系统](https://www.solidot.org/story?sid=72388)
+
+[美国参议院通过气候法案](https://www.solidot.org/story?sid=72387)
+
+[部分中国用户转战 Mastodon](https://www.solidot.org/story?sid=72386)
 
 [爱普生为其打印机设定死亡日期](https://www.solidot.org/story?sid=72385)
 
@@ -8,16 +20,4 @@
 [欧洲最大核电站再次发生爆炸](https://www.solidot.org/story?sid=72383)
 
 [伊朗对阿尔巴尼亚政府发动网络攻击](https://www.solidot.org/story?sid=72382)
-
-[科学家声称西班牙辣肠是韦伯拍摄的照片](https://www.solidot.org/story?sid=72381)
-
-[梦工厂动画的 MoonRay 将开源](https://www.solidot.org/story?sid=72379)
-
-[Gitlab 禁止使用 Microsoft Windows](https://www.solidot.org/story?sid=72378)
-
-[亚马逊以 17 亿美元收购 iRobot](https://www.solidot.org/story?sid=72377)
-
-[DuckDuckGo 浏览器屏蔽所有微软第三方 cookies](https://www.solidot.org/story?sid=72376)
-
-[马斯克反诉 Twitter 欺诈](https://www.solidot.org/story?sid=72375)
 
