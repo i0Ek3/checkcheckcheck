@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-10 16:42:33
+> Update time: 2022-08-11 04:10:13
+
+[Kali Linux 2022.3 发布](https://www.solidot.org/story?sid=72423)
+
+[中国发现新人畜共患的琅琊病毒](https://www.solidot.org/story?sid=72422)
+
+[字节跳动 15 亿美元收购美中宜和](https://www.solidot.org/story?sid=72421)
+
+[韩国首尔遭遇创记录降雨](https://www.solidot.org/story?sid=72420)
+
+[马斯克抛售特斯拉股票](https://www.solidot.org/story?sid=72419)
+
+[Unity 入华吸引阿里巴巴等公司投资](https://www.solidot.org/story?sid=72418)
+
+[日本人口连续 13 年减少](https://www.solidot.org/story?sid=72417)
+
+[浙大研究发现小鼠被剪胡须出现社交障碍的原因](https://www.solidot.org/story?sid=72416)
 
 [中国论文三大指标跃居世界第一](https://www.solidot.org/story?sid=72415)
 
 [Google 尝试通过公开羞辱施压苹果采用 RCS](https://www.solidot.org/story?sid=72414)
-
-[匿名用户通过 Tornado Cash 向名人发送以太坊](https://www.solidot.org/story?sid=72413)
-
-[Windows 11 加密 bug 会导致数据丢失运行缓慢](https://www.solidot.org/story?sid=72412)
-
-[蜘蛛会打盹甚至可能会做梦](https://www.solidot.org/story?sid=72411)
-
-[拜登签署芯片法案](https://www.solidot.org/story?sid=72410)
-
-[克尔黑洞是稳定的](https://www.solidot.org/story?sid=72409)
-
-[谁拥有特斯拉收集的数据？](https://www.solidot.org/story?sid=72408)
-
-[美国制裁混币器 Tornado Cash，GitHub 删除项目贡献者账号](https://www.solidot.org/story?sid=72407)
-
-[Meta 的 AI 聊天机器人上线数天开始热衷阴谋论](https://www.solidot.org/story?sid=72406)
 
