@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-11 04:38:28
+> Update time: 2022-08-11 16:12:39
+
+[研究人员使用 25 美元的设备入侵 Starlink 终端](https://www.solidot.org/story?sid=72431)
+
+[微软电子书商店停止支持 MOBI 格式](https://www.solidot.org/story?sid=72430)
+
+[美国青少年最爱用的社媒是 YouTube](https://www.solidot.org/story?sid=72429)
+
+[富士康警告智能手机需求放缓](https://www.solidot.org/story?sid=72428)
+
+[地球大陆形成于陨石撞击](https://www.solidot.org/story?sid=72427)
+
+[库班不看好元宇宙里的虚拟房地产](https://www.solidot.org/story?sid=72426)
+
+[尼日利亚对加密货币的兴趣最为浓厚](https://www.solidot.org/story?sid=72425)
+
+[Disney+ 新增加 1440 万订户，将提供广告支持的订阅方案](https://www.solidot.org/story?sid=72424)
 
 [Kali Linux 2022.3 发布](https://www.solidot.org/story?sid=72423)
 
 [中国发现新人畜共患的琅琊病毒](https://www.solidot.org/story?sid=72422)
-
-[字节跳动 15 亿美元收购美中宜和](https://www.solidot.org/story?sid=72421)
-
-[韩国首尔遭遇创记录降雨](https://www.solidot.org/story?sid=72420)
-
-[马斯克抛售特斯拉股票](https://www.solidot.org/story?sid=72419)
-
-[Unity 入华吸引阿里巴巴等公司投资](https://www.solidot.org/story?sid=72418)
-
-[日本人口连续 13 年减少](https://www.solidot.org/story?sid=72417)
-
-[浙大研究发现小鼠被剪胡须出现社交障碍的原因](https://www.solidot.org/story?sid=72416)
-
-[中国论文三大指标跃居世界第一](https://www.solidot.org/story?sid=72415)
-
-[Google 尝试通过公开羞辱施压苹果采用 RCS](https://www.solidot.org/story?sid=72414)
 
