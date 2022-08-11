@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-08-11 16:42:12
+> Update time: 2022-08-12 04:09:46
+
+[独角兽创始人纷纷离开创办的公司](https://www.solidot.org/story?sid=72436)
+
+[OnlyFans 被控贿赂 Meta 员工将成人明星放到恐怖分子观察名单](https://www.solidot.org/story?sid=72435)
+
+[天文学家或发现银河系最年轻行星](https://www.solidot.org/story?sid=72434)
+
+[伊朗用加密货币支付商品进口费用](https://www.solidot.org/story?sid=72433)
+
+[FCC 取消了给予 Starlink 的 8.86 亿美元的拨款](https://www.solidot.org/story?sid=72432)
 
 [研究人员使用 25 美元的设备入侵 Starlink 终端](https://www.solidot.org/story?sid=72431)
 
@@ -10,14 +20,4 @@
 [富士康警告智能手机需求放缓](https://www.solidot.org/story?sid=72428)
 
 [地球大陆形成于陨石撞击](https://www.solidot.org/story?sid=72427)
-
-[库班不看好元宇宙里的虚拟房地产](https://www.solidot.org/story?sid=72426)
-
-[尼日利亚对加密货币的兴趣最为浓厚](https://www.solidot.org/story?sid=72425)
-
-[Disney+ 新增加 1440 万订户，将提供广告支持的订阅方案](https://www.solidot.org/story?sid=72424)
-
-[Kali Linux 2022.3 发布](https://www.solidot.org/story?sid=72423)
-
-[中国发现新人畜共患的琅琊病毒](https://www.solidot.org/story?sid=72422)
 
