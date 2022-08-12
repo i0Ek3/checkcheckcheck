@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-08-12 16:12:25
+> Update time: 2022-08-12 16:42:38
 
 [美国 CDC 放松新冠隔离社交距离要求](https://www.solidot.org/story?sid=72439)
 
