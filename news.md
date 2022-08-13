@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-08-13 16:41:55
+> Update time: 2022-08-14 04:09:52
+
+[中国智能手机黄金时代即将结束](https://www.solidot.org/story?sid=72458)
+
+[北极变暖速度远快于预期](https://www.solidot.org/story?sid=72457)
+
+[哈佛教授相信认第一个撞击地球的星际天体来自外星文明](https://www.solidot.org/story?sid=72456)
+
+[尼泊尔的一种本土语言没有“是”或“否”](https://www.solidot.org/story?sid=72455)
+
+[寒冷环境抑制肿瘤生长](https://www.solidot.org/story?sid=72454)
 
 [《撒旦诗篇》作者萨尔曼·拉什迪纽约州遇刺](https://www.solidot.org/story?sid=72453)
 
@@ -10,14 +20,4 @@
 [Tornado Cash 一开发者在荷兰被捕](https://www.solidot.org/story?sid=72450)
 
 [《生化危机》制作人加盟网易](https://www.solidot.org/story?sid=72449)
-
-[社交媒体的终结？](https://www.solidot.org/story?sid=72448)
-
-[多家国企宣布在美国退市](https://www.solidot.org/story?sid=72447)
-
-[三星李在镕获特赦](https://www.solidot.org/story?sid=72446)
-
-[FBI 从特朗普庄园搜寻核武器相关机密材料](https://www.solidot.org/story?sid=72445)
-
-[Google 的种性歧视问题](https://www.solidot.org/story?sid=72444)
 
