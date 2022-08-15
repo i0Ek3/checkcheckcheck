@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-15 16:43:49
+> Update time: 2022-08-16 04:10:17
+
+[寻找能耗更低更环保的空调](https://www.solidot.org/story?sid=72472)
+
+[自学式 AI 显示与大脑如何工作的相似性](https://www.solidot.org/story?sid=72471)
+
+[Python 高居 TIOBE 语言流行指数榜首](https://www.solidot.org/story?sid=72470)
+
+[苹果和 IBM 都禁止种姓歧视](https://www.solidot.org/story?sid=72469)
+
+[Meta 测试 Messenger 默认启用端对端加密](https://www.solidot.org/story?sid=72468)
+
+[气候变化恶化数百种疾病](https://www.solidot.org/story?sid=72467)
+
+[免疫细胞在抵御感染过程中发生突变](https://www.solidot.org/story?sid=72466)
+
+[单个漏洞穿透 macOS 所有安全防线](https://www.solidot.org/story?sid=72465)
 
 [加州州长提议延长最后一座核电站的使用寿命](https://www.solidot.org/story?sid=72464)
 
 [特斯拉上海工厂生产百万辆汽车](https://www.solidot.org/story?sid=72463)
-
-[17 岁少年设计出不使用稀土磁铁的电机](https://www.solidot.org/story?sid=72462)
-
-[用脑过度后疲劳的原因](https://www.solidot.org/story?sid=72461)
-
-[过量饮酒会缩短端粒](https://www.solidot.org/story?sid=72460)
-
-[ESA 讨论使用 SpaceX 的火箭](https://www.solidot.org/story?sid=72459)
-
-[中国智能手机黄金时代即将结束](https://www.solidot.org/story?sid=72458)
-
-[北极变暖速度远快于预期](https://www.solidot.org/story?sid=72457)
-
-[哈佛教授相信认第一个撞击地球的星际天体来自外星文明](https://www.solidot.org/story?sid=72456)
-
-[尼泊尔的一种本土语言没有“是”或“否”](https://www.solidot.org/story?sid=72455)
 
