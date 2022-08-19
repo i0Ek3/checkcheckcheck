@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-19 16:44:41
+> Update time: 2022-08-20 04:10:45
+
+[日本政府想要年轻人喝更多酒](https://www.solidot.org/story?sid=72521)
+
+[韦伯太空望远镜大量使用 JavaScript 写的脚本](https://www.solidot.org/story?sid=72520)
+
+[Google 更新搜索排名减少低质量非原创内容](https://www.solidot.org/story?sid=72519)
+
+[科学家发现蚊子是如何找到人类的](https://www.solidot.org/story?sid=72518)
+
+[科学家发现侏罗纪时代的巨大海底陨石坑](https://www.solidot.org/story?sid=72517)
+
+[Chrome 和 Safari 引起反垄断调查](https://www.solidot.org/story?sid=72516)
+
+[国内专家讨论下一代 DNS 发展](https://www.solidot.org/story?sid=72515)
 
 [旧笔电硬盘播放《节奏国度》会崩溃](https://www.solidot.org/story?sid=72514)
 
 [百度网盘否认人工审核用户照片](https://www.solidot.org/story?sid=72513)
 
 [中国经历最严峻高温天气](https://www.solidot.org/story?sid=72512)
-
-[美国流媒体收视率首次超过有线电视](https://www.solidot.org/story?sid=72511)
-
-[台积电下个月量产 3 纳米芯片](https://www.solidot.org/story?sid=72510)
-
-[因众筹资金花在加密货币上网游项目停止开发](https://www.solidot.org/story?sid=72509)
-
-[新抗体中和所有已知新冠变种](https://www.solidot.org/story?sid=72508)
-
-[GNOME 项目庆祝诞生 25 周年](https://www.solidot.org/story?sid=72507)
-
-[AirTag 帮助逮捕了盗窃行李的机场工人](https://www.solidot.org/story?sid=72506)
-
-[Windows 11 Widget 现在能触发任务栏通知](https://www.solidot.org/story?sid=72505)
 
