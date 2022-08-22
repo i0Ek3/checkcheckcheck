@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-08-22 04:37:59
+> Update time: 2022-08-22 16:12:38
+
+[GitHub Copilot 可能是完美的编程考试作弊工具](https://www.solidot.org/story?sid=72533)
+
+[腾讯投资的游戏公司逾 180 家](https://www.solidot.org/story?sid=72532)
+
+[日本首相新冠阳性](https://www.solidot.org/story?sid=72531)
+
+[新加坡将男同性行为非罪化](https://www.solidot.org/story?sid=72530)
+
+[自由和隐私：一币两面](https://www.solidot.org/story?sid=72529)
+
+[前总理做直播巴基斯坦封锁 YouTube](https://www.solidot.org/story?sid=72528)
 
 [中国游戏公司大举进军海外市场](https://www.solidot.org/story?sid=72527)
 
@@ -8,16 +20,4 @@
 [越南要求外国科技公司在其境内储存数据和设立办事处](https://www.solidot.org/story?sid=72525)
 
 [黑水创始人力推“安全”智能手机](https://www.solidot.org/story?sid=72524)
-
-[华尔街银行将为使用 WhatsApp 等加密应用罚款逾 10 亿美元](https://www.solidot.org/story?sid=72523)
-
-[苹果旗下的 Shazam 服务诞生 20 年](https://www.solidot.org/story?sid=72522)
-
-[日本政府想要年轻人喝更多酒](https://www.solidot.org/story?sid=72521)
-
-[韦伯太空望远镜大量使用 JavaScript 写的脚本](https://www.solidot.org/story?sid=72520)
-
-[Google 更新搜索排名减少低质量非原创内容](https://www.solidot.org/story?sid=72519)
-
-[科学家发现蚊子是如何找到人类的](https://www.solidot.org/story?sid=72518)
 
