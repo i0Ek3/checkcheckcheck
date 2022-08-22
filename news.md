@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-08-22 16:46:18
+> Update time: 2022-08-23 04:10:29
+
+[包路由算法无法区分网络抖动和拥堵](https://www.solidot.org/story?sid=72538)
+
+[国内专家建议建立元宇宙监管机制](https://www.solidot.org/story?sid=72537)
+
+[北半球遭遇严重干旱](https://www.solidot.org/story?sid=72536)
+
+[质子可能含有一个粲夸克](https://www.solidot.org/story?sid=72535)
+
+[当 Google 认定你在犯罪](https://www.solidot.org/story?sid=72534)
 
 [GitHub Copilot 可能是完美的编程考试作弊工具](https://www.solidot.org/story?sid=72533)
 
@@ -10,14 +20,4 @@
 [新加坡将男同性行为非罪化](https://www.solidot.org/story?sid=72530)
 
 [自由和隐私：一币两面](https://www.solidot.org/story?sid=72529)
-
-[前总理做直播巴基斯坦封锁 YouTube](https://www.solidot.org/story?sid=72528)
-
-[中国游戏公司大举进军海外市场](https://www.solidot.org/story?sid=72527)
-
-[应用内浏览器的安全隐患](https://www.solidot.org/story?sid=72526)
-
-[越南要求外国科技公司在其境内储存数据和设立办事处](https://www.solidot.org/story?sid=72525)
-
-[黑水创始人力推“安全”智能手机](https://www.solidot.org/story?sid=72524)
 
