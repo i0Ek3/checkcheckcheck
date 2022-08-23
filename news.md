@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-23 16:43:29
+> Update time: 2022-08-24 04:10:36
 
-[疫情期间中国出口份额上升](https://www.solidot.org/story?sid=72539)
+[智能手机需求下降但高端型号需求高涨](https://www.solidot.org/story?sid=72551)
 
-[包路由算法无法区分网络抖动和拥堵](https://www.solidot.org/story?sid=72538)
+[汤加火山喷发形成 90 米高海浪](https://www.solidot.org/story?sid=72550)
 
-[国内专家建议建立元宇宙监管机制](https://www.solidot.org/story?sid=72537)
+[索尼 PlayStation 在英面临巨额集体诉讼](https://www.solidot.org/story?sid=72549)
 
-[北半球遭遇严重干旱](https://www.solidot.org/story?sid=72536)
+[陷入困境的《旧共和国武士》重制版转交给东欧游戏工作室开发](https://www.solidot.org/story?sid=72548)
 
-[质子可能含有一个粲夸克](https://www.solidot.org/story?sid=72535)
+[新充电方法能 10 分钟充满 90% 的电](https://www.solidot.org/story?sid=72547)
 
-[当 Google 认定你在犯罪](https://www.solidot.org/story?sid=72534)
+[中国局部地区因高温干旱延长限电](https://www.solidot.org/story?sid=72546)
 
-[GitHub Copilot 可能是完美的编程考试作弊工具](https://www.solidot.org/story?sid=72533)
+[《小黄人》国行版改变结局](https://www.solidot.org/story?sid=72545)
 
-[腾讯投资的游戏公司逾 180 家](https://www.solidot.org/story?sid=72532)
+[Matthew Green 教授在 GitHub 上重新上传 Tornado Cash 代码](https://www.solidot.org/story?sid=72544)
 
-[日本首相新冠阳性](https://www.solidot.org/story?sid=72531)
+[研究发现电流刺激能改进老年人的记忆](https://www.solidot.org/story?sid=72543)
 
-[新加坡将男同性行为非罪化](https://www.solidot.org/story?sid=72530)
+[Elon Musk 传唤 Jack Dorsey](https://www.solidot.org/story?sid=72542)
 
