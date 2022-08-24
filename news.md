@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-24 16:44:38
+> Update time: 2022-08-25 04:10:37
 
-[相似面孔的人可能共享 DNA](https://www.solidot.org/story?sid=72556)
+[韩国低生育率创下记录](https://www.solidot.org/story?sid=72567)
 
-[亚马逊和 Verizon 被发现使用 IPv4 240/4 地址段](https://www.solidot.org/story?sid=72555)
+[中国遭遇史无前例的热浪](https://www.solidot.org/story?sid=72566)
 
-[Chrome 桌面版加入 RSS 阅读器功能](https://www.solidot.org/story?sid=72554)
+[美国法官裁决远程考试中扫描学生房间违宪](https://www.solidot.org/story?sid=72565)
 
-[如果人人都骑自行车](https://www.solidot.org/story?sid=72553)
+[使用 RISC-V 核心的 AI 加速器](https://www.solidot.org/story?sid=72564)
 
-[Firefox 104 释出](https://www.solidot.org/story?sid=72552)
+[前苹果工程师承认窃取苹果汽车机密材料](https://www.solidot.org/story?sid=72563)
 
-[智能手机需求下降但高端型号需求高涨](https://www.solidot.org/story?sid=72551)
+[华为创始人表示公司要进入生存模式](https://www.solidot.org/story?sid=72562)
 
-[汤加火山喷发形成 90 米高海浪](https://www.solidot.org/story?sid=72550)
+[匈牙利因预报不准确解雇气象官员](https://www.solidot.org/story?sid=72561)
 
-[索尼 PlayStation 在英面临巨额集体诉讼](https://www.solidot.org/story?sid=72549)
+[《死亡岛2》发布首个游戏演示视频](https://www.solidot.org/story?sid=72560)
 
-[陷入困境的《旧共和国武士》重制版转交给东欧游戏工作室开发](https://www.solidot.org/story?sid=72548)
+[Google 发布 AI 图像降噪工具 MultiNerf](https://www.solidot.org/story?sid=72559)
 
-[新充电方法能 10 分钟充满 90% 的电](https://www.solidot.org/story?sid=72547)
+[人教插图事件 27 人被处罚](https://www.solidot.org/story?sid=72558)
 
