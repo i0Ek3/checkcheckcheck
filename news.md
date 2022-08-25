@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-08-25 16:45:46
+> Update time: 2022-08-26 04:10:55
+
+[《原神》的反作弊驱动被勒索软件利用杀死杀毒软件](https://www.solidot.org/story?sid=72579)
+
+[Wii U 模拟器 Cemu 开源](https://www.solidot.org/story?sid=72578)
+
+[PS5 涨价](https://www.solidot.org/story?sid=72577)
+
+[AWK 作者为语言加入 Unicode 支持](https://www.solidot.org/story?sid=72576)
+
+[为什么吸烟者早晨想喝咖啡](https://www.solidot.org/story?sid=72575)
+
+[拜登宣布学生贷款减免计划](https://www.solidot.org/story?sid=72574)
 
 [英伟达报告第二财季收入下滑](https://www.solidot.org/story?sid=72573)
 
@@ -8,16 +20,4 @@
 [日本首相提议发展核电](https://www.solidot.org/story?sid=72571)
 
 [Facebook 和 Twitter 移除亲美账号](https://www.solidot.org/story?sid=72570)
-
-[Google Pixel 北美市场份额达到 2%](https://www.solidot.org/story?sid=72569)
-
-[多款安卓手机被发现预装了用于窃听 WhatsApp 的后门软件](https://www.solidot.org/story?sid=72568)
-
-[韩国低生育率创下记录](https://www.solidot.org/story?sid=72567)
-
-[中国遭遇史无前例的热浪](https://www.solidot.org/story?sid=72566)
-
-[美国法官裁决远程考试中扫描学生房间违宪](https://www.solidot.org/story?sid=72565)
-
-[使用 RISC-V 核心的 AI 加速器](https://www.solidot.org/story?sid=72564)
 
