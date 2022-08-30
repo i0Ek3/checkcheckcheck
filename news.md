@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-30 16:44:39
+> Update time: 2022-08-31 04:10:39
+
+[格陵兰冰盖融化难以逆转](https://www.solidot.org/story?sid=72623)
+
+[猴痘病毒颠覆科学家认知](https://www.solidot.org/story?sid=72622)
+
+[Oppo 认为未来有一天智能手机一秒钟就能充满电](https://www.solidot.org/story?sid=72621)
+
+[影迷和影评人的评分日益两级分化](https://www.solidot.org/story?sid=72620)
+
+[每天步行10分钟有助延长老年人寿命](https://www.solidot.org/story?sid=72619)
+
+[法国用 AI 发现未申报的私人水池](https://www.solidot.org/story?sid=72618)
+
+[清华大学提议用分布式 3D 打印机建造水坝](https://www.solidot.org/story?sid=72617)
+
+[巴基斯坦遭遇创记录洪水](https://www.solidot.org/story?sid=72616)
 
 [印度调查 WhatsApp 隐私政策](https://www.solidot.org/story?sid=72615)
 
 [Google Play 禁止 VPN 应用屏蔽广告](https://www.solidot.org/story?sid=72614)
-
-[研究显示迷幻药有助于减少酗酒](https://www.solidot.org/story?sid=72613)
-
-[研究预测八十年后会有逾五十亿人长时间经历热浪](https://www.solidot.org/story?sid=72612)
-
-[为节省天然气德国命令晚上关闭数字广告牌](https://www.solidot.org/story?sid=72611)
-
-[AMD 发布 Ryzen 7000 系列处理器](https://www.solidot.org/story?sid=72610)
-
-[物种灭绝和范围缩小导致全球食物网的崩溃](https://www.solidot.org/story?sid=72609)
-
-[植物也许有智能](https://www.solidot.org/story?sid=72608)
-
-[聆听有 3400 年历史的音乐](https://www.solidot.org/story?sid=72607)
-
-[Google 在实施强制性重返办公室政策后记录到数百例新冠确诊](https://www.solidot.org/story?sid=72606)
 
