@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-08-31 16:45:05
+> Update time: 2022-09-01 04:10:50
+
+[NASA 修复航海者1号数据损坏问题](https://www.solidot.org/story?sid=72636)
+
+[2021 年我国研发经费投入 2.8 万亿元](https://www.solidot.org/story?sid=72635)
+
+[澳门提供自费 mRNA 疫苗接种](https://www.solidot.org/story?sid=72634)
+
+[热浪和空气污染是致命组合](https://www.solidot.org/story?sid=72633)
+
+[美国首次记录到与猴痘相关的死亡病例](https://www.solidot.org/story?sid=72632)
+
+[运行在 Telegram 之上的新闻机构](https://www.solidot.org/story?sid=72631)
+
+[网易收购 Quantic Dream 腾讯入股 FromSoftware](https://www.solidot.org/story?sid=72630)
+
+[2021 年结婚人数首次低于 800 万对](https://www.solidot.org/story?sid=72629)
+
+[特斯拉禁止穿亲工会T恤违法](https://www.solidot.org/story?sid=72628)
 
 [Google Play 禁止特朗普的 Truth Social](https://www.solidot.org/story?sid=72627)
-
-[一窥优麒麟操作系统](https://www.solidot.org/story?sid=72626)
-
-[加州新议案要求社交媒体考虑未成年人健康](https://www.solidot.org/story?sid=72625)
-
-[戈尔巴乔夫去世](https://www.solidot.org/story?sid=72624)
-
-[格陵兰冰盖融化难以逆转](https://www.solidot.org/story?sid=72623)
-
-[猴痘病毒颠覆科学家认知](https://www.solidot.org/story?sid=72622)
-
-[Oppo 认为未来有一天智能手机一秒钟就能充满电](https://www.solidot.org/story?sid=72621)
-
-[影迷和影评人的评分日益两级分化](https://www.solidot.org/story?sid=72620)
-
-[每天步行10分钟有助延长老年人寿命](https://www.solidot.org/story?sid=72619)
-
-[法国用 AI 发现未申报的私人水池](https://www.solidot.org/story?sid=72618)
 
