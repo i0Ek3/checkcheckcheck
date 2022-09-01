@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-09-01 16:46:45
+> Update time: 2022-09-02 04:11:03
+
+[为了拯救深海我们应该在月球采矿](https://www.solidot.org/story?sid=72648)
+
+[日本向软盘宣战](https://www.solidot.org/story?sid=72647)
+
+[美国人均预期寿命继续下降](https://www.solidot.org/story?sid=72646)
+
+[AI 绘画赢得科罗拉多州的艺术竞赛](https://www.solidot.org/story?sid=72645)
+
+[杭州法院与抖音合作精准曝光失信被执行人](https://www.solidot.org/story?sid=72644)
+
+[腾讯计划剥离千亿资产](https://www.solidot.org/story?sid=72643)
 
 [ARM 起诉高通要求毁掉其 Nuvia CPU 设计](https://www.solidot.org/story?sid=72642)
 
@@ -8,16 +20,4 @@
 [阿里巴巴和京东为首批由美国审计的中国上市公司](https://www.solidot.org/story?sid=72640)
 
 [女性晋升更快但难以进入最高管理层](https://www.solidot.org/story?sid=72639)
-
-[WebKit 迁移到 Git 和 GitHub](https://www.solidot.org/story?sid=72638)
-
-[美国禁止向中俄出口 Nvidia A100 和 H100 GPU](https://www.solidot.org/story?sid=72637)
-
-[NASA 修复航海家1号数据损坏问题](https://www.solidot.org/story?sid=72636)
-
-[2021 年我国研发经费投入 2.8 万亿元](https://www.solidot.org/story?sid=72635)
-
-[澳门提供自费 mRNA 疫苗接种](https://www.solidot.org/story?sid=72634)
-
-[热浪和空气污染是致命组合](https://www.solidot.org/story?sid=72633)
 
