@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-09-02 16:44:45
+> Update time: 2022-09-03 04:10:41
+
+[美国学童语数能力大幅下降](https://www.solidot.org/story?sid=72661)
+
+[干细胞生成特定人类胚胎细胞](https://www.solidot.org/story?sid=72660)
+
+[Chrome 扩展秘密跟踪浏览历史和植入跟踪代码](https://www.solidot.org/story?sid=72659)
+
+[USB4 v2 支持最高 80 Gbps 的数据传输](https://www.solidot.org/story?sid=72658)
+
+[利用 AI 更新 MS-DOS 游戏图像](https://www.solidot.org/story?sid=72656)
+
+[PyPI 发现活跃半年以上的供应链攻击](https://www.solidot.org/story?sid=72655)
+
+[2021 年温室气体浓度和海平面高度创纪录](https://www.solidot.org/story?sid=72654)
+
+[跑路的加密货币交易所 Thodex CEO 被捕](https://www.solidot.org/story?sid=72653)
 
 [主要 VPN 服务商关闭印度服务器](https://www.solidot.org/story?sid=72652)
 
 [Twitter 向付费订阅用户提供编辑功能](https://www.solidot.org/story?sid=72651)
-
-[在发生车祸导致乘客受伤后 Cruise 召回了无人驾驶出租车](https://www.solidot.org/story?sid=72650)
-
-[英国挑战微软收购动视暴雪交易](https://www.solidot.org/story?sid=72649)
-
-[为了拯救深海我们应该在月球采矿](https://www.solidot.org/story?sid=72648)
-
-[日本向软盘宣战](https://www.solidot.org/story?sid=72647)
-
-[美国人均预期寿命继续下降](https://www.solidot.org/story?sid=72646)
-
-[AI 绘画赢得科罗拉多州的艺术竞赛](https://www.solidot.org/story?sid=72645)
-
-[杭州法院与抖音合作精准曝光失信被执行人](https://www.solidot.org/story?sid=72644)
-
-[腾讯计划剥离千亿资产](https://www.solidot.org/story?sid=72643)
 
