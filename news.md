@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-09-05 16:44:16
+> Update time: 2022-09-06 04:11:13
+
+[腾讯开发 3A 游戏的雄心](https://www.solidot.org/story?sid=72681)
+
+[海底数据中心准备年内开业](https://www.solidot.org/story?sid=72680)
+
+[360 报告称 NSA 攻击了西北工业大学](https://www.solidot.org/story?sid=72679)
+
+[Cloudflare 停止为极右翼网站提供服务](https://www.solidot.org/story?sid=72678)
+
+[计算机科学家 Peter Eckersley 去世](https://www.solidot.org/story?sid=72677)
 
 [四川发生 6.8 级地震](https://www.solidot.org/story?sid=72676)
 
@@ -10,14 +20,4 @@
 [中国二季度碳排放量下降 8%](https://www.solidot.org/story?sid=72673)
 
 [《指环王：力量之戒》 首映吸引逾 2500 万人观看](https://www.solidot.org/story?sid=72672)
-
-[华为新手机将支持北斗短报文通信](https://www.solidot.org/story?sid=72671)
-
-[知乎在移动和桌面嵌入盲水印](https://www.solidot.org/story?sid=72670)
-
-[阿里巴巴性侵案客户二审维持原判](https://www.solidot.org/story?sid=72669)
-
-[《生化奇兵无限》更新启动器导致众多问题](https://www.solidot.org/story?sid=72668)
-
-[韦伯望远镜首次直接拍摄到系外行星的图像](https://www.solidot.org/story?sid=72667)
 
