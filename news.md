@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-09-06 04:39:34
+> Update time: 2022-09-06 16:13:56
+
+[Instagram 因侵犯儿童隐私罚款 4 亿欧元](https://www.solidot.org/story?sid=72687)
+
+[美国最近流行安静辞职](https://www.solidot.org/story?sid=72686)
+
+[Google Play 测试第三方支付方案](https://www.solidot.org/story?sid=72685)
+
+[TikTok 否认用户数据源代码泄露](https://www.solidot.org/story?sid=72684)
+
+[地壳在地球穿越银河悬臂时形成速度更快](https://www.solidot.org/story?sid=72682)
 
 [腾讯开发 3A 游戏的雄心](https://www.solidot.org/story?sid=72681)
 
@@ -10,14 +20,4 @@
 [Cloudflare 停止为极右翼网站提供服务](https://www.solidot.org/story?sid=72678)
 
 [计算机科学家 Peter Eckersley 去世](https://www.solidot.org/story?sid=72677)
-
-[四川发生 6.8 级地震](https://www.solidot.org/story?sid=72676)
-
-[Arti 1.0.0 释出](https://www.solidot.org/story?sid=72675)
-
-[供应链正转移到东南亚和南亚](https://www.solidot.org/story?sid=72674)
-
-[中国二季度碳排放量下降 8%](https://www.solidot.org/story?sid=72673)
-
-[《指环王：力量之戒》 首映吸引逾 2500 万人观看](https://www.solidot.org/story?sid=72672)
 
