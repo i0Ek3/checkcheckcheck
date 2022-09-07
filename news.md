@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-09-07 16:47:57
+> Update time: 2022-09-08 04:11:25
+
+[Stable Diffusion：你所见到的不再是真的](https://www.solidot.org/story?sid=72706)
+
+[月壤可作月球基地隔热材料](https://www.solidot.org/story?sid=72705)
+
+[泰坦尼克沉船 8K 视频发布](https://www.solidot.org/story?sid=72704)
+
+[巴西停售不提供充电器的苹果手机](https://www.solidot.org/story?sid=72703)
+
+[NASA 现在能在火星上可靠产生一棵树所释放的氧气](https://www.solidot.org/story?sid=72702)
 
 [Chrome 年内第六次修复正被利用的 0day](https://www.solidot.org/story?sid=72701)
 
@@ -10,14 +20,4 @@
 [中国如何塑造 iPhone](https://www.solidot.org/story?sid=72698)
 
 [腾讯投资育碧控股家族](https://www.solidot.org/story?sid=72697)
-
-[美国计划转向每年接种新冠加强针](https://www.solidot.org/story?sid=72696)
-
-[Node.js 作者呼吁甲骨文释放 JavaScript 商标](https://www.solidot.org/story?sid=72695)
-
-[希音如何风靡美国](https://www.solidot.org/story?sid=72694)
-
-[OpenWrt 22.03.0 发布](https://www.solidot.org/story?sid=72693)
-
-[CERN 考虑在电力需求高峰关闭部分加速器](https://www.solidot.org/story?sid=72692)
 
