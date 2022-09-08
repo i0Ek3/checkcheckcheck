@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-09-08 16:46:22
+> Update time: 2022-09-09 04:11:34
+
+[《小猪佩奇》首次出现同性伴侣](https://www.solidot.org/story?sid=72719)
+
+[库克回应苹果不支持 RCS：给妈妈买一部 iPhone](https://www.solidot.org/story?sid=72718)
+
+[天文学家发现一颗可能适宜生命的超级地球](https://www.solidot.org/story?sid=72717)
+
+[Conti 勒索软件黑帮前成员参与对乌克兰的网络战](https://www.solidot.org/story?sid=72716)
+
+[3 万年前的截肢手术](https://www.solidot.org/story?sid=72715)
+
+[勒索软件 DeadBolt 以 QNAP NAS 设备为攻击目标](https://www.solidot.org/story?sid=72714)
+
+[印度考虑对网游赢家征税](https://www.solidot.org/story?sid=72713)
+
+[阿尔巴尼亚因网络攻击切断与伊朗的外交关系](https://www.solidot.org/story?sid=72712)
 
 [Twitter 允许用户编辑推文最多五次](https://www.solidot.org/story?sid=72711)
 
 [韩国超导托卡马克聚变装置实现 1 亿摄氏度运行 30 秒](https://www.solidot.org/story?sid=72710)
-
-[马斯克因担心三战而建议推迟 Twitter 交易](https://www.solidot.org/story?sid=72709)
-
-[苹果发布 iPhone 14，支持卫星 SOS 紧急联络](https://www.solidot.org/story?sid=72708)
-
-[马斯克和 Twitter 在听证会上激烈交锋](https://www.solidot.org/story?sid=72707)
-
-[Stable Diffusion：你所见到的不再是真的](https://www.solidot.org/story?sid=72706)
-
-[月壤可作月球基地隔热材料](https://www.solidot.org/story?sid=72705)
-
-[泰坦尼克沉船 8K 视频发布](https://www.solidot.org/story?sid=72704)
-
-[巴西停售不提供充电器的苹果手机](https://www.solidot.org/story?sid=72703)
-
-[NASA 现在能在火星上可靠产生一棵树所释放的氧气](https://www.solidot.org/story?sid=72702)
 
