@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-09-13 16:48:05
+> Update time: 2022-09-14 04:11:49
+
+[测试显示 Retbleed 补丁造成性能下降高达 70%](https://www.solidot.org/story?sid=72752)
+
+[科技业裁员华尔街再次吸引人才](https://www.solidot.org/story?sid=72751)
+
+[Google 取消下一代 Pixelbook 解散团队](https://www.solidot.org/story?sid=72750)
+
+[Coinbase 前高管的兄弟认罪](https://www.solidot.org/story?sid=72749)
+
+[因纸价格上涨英国实体书以改变应对](https://www.solidot.org/story?sid=72748)
+
+[Google 分拆高速电信网络项目 Aalyria](https://www.solidot.org/story?sid=72747)
 
 [印度将加强对科技公司的监管](https://www.solidot.org/story?sid=72746)
 
@@ -8,16 +20,4 @@
 [Netflix 与育碧合作开发手游](https://www.solidot.org/story?sid=72744)
 
 [英特尔 Chiplet 封装和 AMD 的差异](https://www.solidot.org/story?sid=72743)
-
-[Twitter 股东准备批准马斯克的收购交易](https://www.solidot.org/story?sid=72742)
-
-[当脸是你的护照](https://www.solidot.org/story?sid=72741)
-
-[思科证实阎罗王勒索软件组织窃取了企业数据](https://www.solidot.org/story?sid=72740)
-
-[苹果将使用 Globalstar 85% 的卫星网络容量](https://www.solidot.org/story?sid=72739)
-
-[研究发现部分遭受勒索软件攻击的医院病人死亡率上升](https://www.solidot.org/story?sid=72737)
-
-[Chess.com 封杀被控作弊的 19 岁棋手](https://www.solidot.org/story?sid=72736)
 
