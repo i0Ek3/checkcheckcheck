@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-09-14 04:41:33
+> Update time: 2022-09-14 16:13:49
+
+[南极“末日冰川”加速融化](https://www.solidot.org/story?sid=72758)
+
+[Google 在欧洲面临 250 亿欧元的反垄断罚款](https://www.solidot.org/story?sid=72757)
+
+[Twitter 投资者批准马斯克的收购交易](https://www.solidot.org/story?sid=72756)
+
+[科学家在实验室制造出至今最冷物质](https://www.solidot.org/story?sid=72755)
+
+[《塞尔达传说王国之泪》将于明年五月上市](https://www.solidot.org/story?sid=72754)
+
+[今年的大西洋飓风季很安静](https://www.solidot.org/story?sid=72753)
 
 [测试显示 Retbleed 补丁造成性能下降高达 70%](https://www.solidot.org/story?sid=72752)
 
@@ -8,16 +20,4 @@
 [Google 取消下一代 Pixelbook 解散团队](https://www.solidot.org/story?sid=72750)
 
 [Coinbase 前高管的兄弟认罪](https://www.solidot.org/story?sid=72749)
-
-[因纸价格上涨英国实体书以改变应对](https://www.solidot.org/story?sid=72748)
-
-[Google 分拆高速电信网络项目 Aalyria](https://www.solidot.org/story?sid=72747)
-
-[印度将加强对科技公司的监管](https://www.solidot.org/story?sid=72746)
-
-[PyTorch 成为 Linux 基金会的顶级项目](https://www.solidot.org/story?sid=72745)
-
-[Netflix 与育碧合作开发手游](https://www.solidot.org/story?sid=72744)
-
-[英特尔 Chiplet 封装和 AMD 的差异](https://www.solidot.org/story?sid=72743)
 
