@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-09-15 04:43:22
+> Update time: 2022-09-15 16:14:16
+
+[加州起诉亚马逊涉嫌垄断](https://www.solidot.org/story?sid=72772)
+
+[百度的自然语言图像合成模型有敏感词限制](https://www.solidot.org/story?sid=72771)
+
+[TikTok 高管接受美国参议院的询问](https://www.solidot.org/story?sid=72770)
+
+[美国财政部澄清对 Tornado Cash 的制裁不涉及分享源代码](https://www.solidot.org/story?sid=72769)
+
+[韩国对 Do Kwon 发出逮捕令](https://www.solidot.org/story?sid=72768)
+
+[为什么一部分人不会感染新冠](https://www.solidot.org/story?sid=72767)
 
 [科学家发现空气污染导致肺癌的机制](https://www.solidot.org/story?sid=72766)
 
@@ -8,16 +20,4 @@
 [YouTube 主播用 /pol/ 讨论版内容训练 AI](https://www.solidot.org/story?sid=72764)
 
 [腾讯网易一年来首次获得新游戏版号](https://www.solidot.org/story?sid=72763)
-
-[Google 和 Meta 因非法收集个人信息被韩国罚款千亿韩元](https://www.solidot.org/story?sid=72762)
-
-[Blue Origin 的 New Shepard 火箭发射失败](https://www.solidot.org/story?sid=72761)
-
-[现代操作系统如何启动的魔法](https://www.solidot.org/story?sid=72760)
-
-[无处不在的塑料可能助长了肥胖](https://www.solidot.org/story?sid=72759)
-
-[南极“末日冰川”加速融化](https://www.solidot.org/story?sid=72758)
-
-[Google 在欧洲面临 250 亿欧元的反垄断罚款](https://www.solidot.org/story?sid=72757)
 
