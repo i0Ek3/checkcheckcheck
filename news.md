@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-09-17 16:46:20
+> Update time: 2022-09-18 04:11:18
+
+[为什么 Craigslist 的界面和 25 年前一样](https://www.solidot.org/story?sid=72795)
+
+[两越南黑客出于找乐删除洲际酒店集团的数据库](https://www.solidot.org/story?sid=72794)
+
+[凹语言支持 Chrome 浏览器执行](https://www.solidot.org/story?sid=72793)
+
+[美国司法部成立专门机构打击加密货币犯罪](https://www.solidot.org/story?sid=72792)
+
+[美国司法部成立专门机构打击加密货币犯罪](https://www.solidot.org/story?sid=72791)
+
+[EVGA 终止与英伟达的合作完全退出显卡市场](https://www.solidot.org/story?sid=72790)
 
 [英特尔将弃用奔腾和赛扬品牌](https://www.solidot.org/story?sid=72789)
 
@@ -8,16 +20,4 @@
 [Uber 系统遭黑客入侵](https://www.solidot.org/story?sid=72787)
 
 [黑客使用木马版 PuTTY SSH 客户端植入后门](https://www.solidot.org/story?sid=72786)
-
-[FTC 将打击对零工的剥削](https://www.solidot.org/story?sid=72785)
-
-[惠普为用 DMR 阻止使用第三方墨水而赔偿欧洲客户 135 万美元](https://www.solidot.org/story?sid=72784)
-
-[新冠死亡病例数降至两年半以来的最低水平](https://www.solidot.org/story?sid=72783)
-
-[拜登政府加强审查外国对美科技投资](https://www.solidot.org/story?sid=72782)
-
-[Backblaze 的数据显示固态硬盘可靠性强于机械硬盘](https://www.solidot.org/story?sid=72781)
-
-[Adobe 以 200 亿美元收购 Figma](https://www.solidot.org/story?sid=72780)
 
