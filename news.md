@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-09-19 16:53:35
+> Update time: 2022-09-20 04:11:26
+
+[毅力号漫游车在火星上发现丰富有机物](https://www.solidot.org/story?sid=72811)
+
+[研究显示纳米塑料如何损伤人类肝脏和肺细胞](https://www.solidot.org/story?sid=72810)
+
+[重庆出现首例输入性猴痘病例](https://www.solidot.org/story?sid=72809)
+
+[Google 和 Meta 的广告帝国正面临挑战](https://www.solidot.org/story?sid=72808)
+
+[日本勒索软件攻击数量大幅增长](https://www.solidot.org/story?sid=72807)
+
+[黑客以 1 万美元出售 GTA V 源代码和素材](https://www.solidot.org/story?sid=72806)
+
+[Avast 收购流行扩展 I don't care about cookies](https://www.solidot.org/story?sid=72805)
+
+[GPS 干扰器被用于劫持卡车和干扰无人机](https://www.solidot.org/story?sid=72804)
 
 [中国半导体市场受到经济衰退的影响](https://www.solidot.org/story?sid=72803)
 
 [中国工厂加快自动化](https://www.solidot.org/story?sid=72802)
-
-[新锂金属电池在实验室中能 3 分钟充满电](https://www.solidot.org/story?sid=72801)
-
-[台湾连续两天发生 6 级以上地震](https://www.solidot.org/story?sid=72800)
-
-[黑客泄露 GTA6 测试视频](https://www.solidot.org/story?sid=72799)
-
-[上月集成电路产量大幅下跌](https://www.solidot.org/story?sid=72798)
-
-[仍在销售软盘的商人](https://www.solidot.org/story?sid=72797)
-
-[美国 CISA 下令修补 Stuxnet 攻击使用的漏洞](https://www.solidot.org/story?sid=72796)
-
-[为什么 Craigslist 的界面和 25 年前一样](https://www.solidot.org/story?sid=72795)
-
-[两越南黑客出于找乐删除洲际酒店集团的数据库](https://www.solidot.org/story?sid=72794)
 
