@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-09-20 16:53:39
+> Update time: 2022-09-21 04:11:55
+
+[韩国求助国际刑警组织通缉 Do Kwon](https://www.solidot.org/story?sid=72824)
+
+[儿童每周会因为过度沉迷社交网络损失一个晚上的睡眠](https://www.solidot.org/story?sid=72823)
+
+[软件工程师做增高手术](https://www.solidot.org/story?sid=72822)
+
+[2021 年坠落在英国的陨石中发现水](https://www.solidot.org/story?sid=72821)
+
+[Rust 将进入 Linux 6.1](https://www.solidot.org/story?sid=72820)
+
+[国际象棋比赛现在就像打扑克牌](https://www.solidot.org/story?sid=72819)
+
+[Uber 将入侵归咎于一家承包商](https://www.solidot.org/story?sid=72818)
+
+[从下一代数据中心的角度，谈谈为何Web3终将到来](https://www.solidot.org/story?sid=72817)
+
+[研究估计地球有 2 万万亿只蚂蚁](https://www.solidot.org/story?sid=72816)
 
 [Unicode 15 发布](https://www.solidot.org/story?sid=72815)
-
-[抗议 Mahsa Amini 死亡伊朗部分地区短时间断网](https://www.solidot.org/story?sid=72814)
-
-[自称代表小型应用开发商的游说组织的最大金主是苹果](https://www.solidot.org/story?sid=72813)
-
-[退休工程师开发的二合一计算器应用意外火爆](https://www.solidot.org/story?sid=72812)
-
-[毅力号漫游车在火星上发现丰富有机物](https://www.solidot.org/story?sid=72811)
-
-[研究显示纳米塑料如何损伤人类肝脏和肺细胞](https://www.solidot.org/story?sid=72810)
-
-[重庆出现首例输入性猴痘病例](https://www.solidot.org/story?sid=72809)
-
-[Google 和 Meta 的广告帝国正面临挑战](https://www.solidot.org/story?sid=72808)
-
-[日本勒索软件攻击数量大幅增长](https://www.solidot.org/story?sid=72807)
-
-[黑客以 1 万美元出售 GTA V 源代码和素材](https://www.solidot.org/story?sid=72806)
 
