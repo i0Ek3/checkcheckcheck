@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-09-21 16:52:56
+> Update time: 2022-09-22 04:12:05
+
+[YouTube 的不喜欢按钮对减少类似推荐基本无效](https://www.solidot.org/story?sid=72836)
+
+[微软开始推送 Windows 11 2022](https://www.solidot.org/story?sid=72835)
+
+[《星际公民(Star Citizen)》筹集的资金突破五亿美元](https://www.solidot.org/story?sid=72834)
+
+[Firefox 105.0 释出](https://www.solidot.org/story?sid=72833)
+
+[欧盟开放 Web 搜索项目启动](https://www.solidot.org/story?sid=72832)
 
 [LibreOffice 在 Mac App Store 的版本开始收费](https://www.solidot.org/story?sid=72831)
 
@@ -10,14 +20,4 @@
 [NASA 韦伯望远镜发布火星红外照片](https://www.solidot.org/story?sid=72828)
 
 [Debian 投票是否允许默认加载非自由固件](https://www.solidot.org/story?sid=72827)
-
-[报道否认 TikTok 与母公司保持距离](https://www.solidot.org/story?sid=72826)
-
-[英伟达发布 GeForce RTX 40 系列显卡](https://www.solidot.org/story?sid=72825)
-
-[韩国求助国际刑警组织通缉 Do Kwon](https://www.solidot.org/story?sid=72824)
-
-[儿童每周会因为过度沉迷社交网络损失一个晚上的睡眠](https://www.solidot.org/story?sid=72823)
-
-[软件工程师做增高手术](https://www.solidot.org/story?sid=72822)
 
