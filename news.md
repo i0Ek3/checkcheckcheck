@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-09-22 16:49:59
+> Update time: 2022-09-23 04:12:00
+
+[Ask.FM 3.5 亿用户数据库在黑客论坛出售](https://www.solidot.org/story?sid=72850)
+
+[Telegram 上的人肉搜索问题](https://www.solidot.org/story?sid=72849)
+
+[NASA 准备测试飞行器将小行星撞离轨道](https://www.solidot.org/story?sid=72848)
+
+[中年做噩梦可能是认知衰退的信号](https://www.solidot.org/story?sid=72847)
+
+[研究发现高脂肪饮食会刺激骨骼产生炎症免疫细胞](https://www.solidot.org/story?sid=72846)
+
+[美国 Charter 通信公司因其技工谋杀客户被罚 11 亿美元](https://www.solidot.org/story?sid=72845)
+
+[苹果计划到 2025 年将四分之一的生产转移到印度](https://www.solidot.org/story?sid=72844)
+
+[Getty Images 禁止 AI 生成的图像](https://www.solidot.org/story?sid=72843)
+
+[Larry Page 投资的飞车公司裁员](https://www.solidot.org/story?sid=72842)
 
 [Meta 计划削减至少 10% 的开支](https://www.solidot.org/story?sid=72841)
-
-[英伟达 CEO 称显卡降价早已是过去时](https://www.solidot.org/story?sid=72840)
-
-[伊朗再次切断互联网和移动服务](https://www.solidot.org/story?sid=72839)
-
-[加密货币做市商 Wintermute DeFi 业务遭攻击损失 1.6 亿美元](https://www.solidot.org/story?sid=72838)
-
-[Wasmtime 1.0 发布](https://www.solidot.org/story?sid=72837)
-
-[YouTube 的不喜欢按钮对减少类似推荐基本无效](https://www.solidot.org/story?sid=72836)
-
-[微软开始推送 Windows 11 2022](https://www.solidot.org/story?sid=72835)
-
-[《星际公民(Star Citizen)》筹集的资金突破五亿美元](https://www.solidot.org/story?sid=72834)
-
-[Firefox 105.0 释出](https://www.solidot.org/story?sid=72833)
-
-[欧盟开放 Web 搜索项目启动](https://www.solidot.org/story?sid=72832)
 
