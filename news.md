@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-09-22 04:42:43
+> Update time: 2022-09-22 16:15:47
+
+[Meta 计划削减至少 10% 的开支](https://www.solidot.org/story?sid=72841)
+
+[英伟达 CEO 称显卡降价早已是过去时](https://www.solidot.org/story?sid=72840)
+
+[伊朗再次切断互联网和移动服务](https://www.solidot.org/story?sid=72839)
+
+[加密货币做市商 Wintermute DeFi 业务遭攻击损失 1.6 亿美元](https://www.solidot.org/story?sid=72838)
+
+[Wasmtime 1.0 发布](https://www.solidot.org/story?sid=72837)
 
 [YouTube 的不喜欢按钮对减少类似推荐基本无效](https://www.solidot.org/story?sid=72836)
 
@@ -10,14 +20,4 @@
 [Firefox 105.0 释出](https://www.solidot.org/story?sid=72833)
 
 [欧盟开放 Web 搜索项目启动](https://www.solidot.org/story?sid=72832)
-
-[LibreOffice 在 Mac App Store 的版本开始收费](https://www.solidot.org/story?sid=72831)
-
-[科学家发现端粒 DNA 新结构](https://www.solidot.org/story?sid=72830)
-
-[当 AI 问蠢问题它会更快变聪明](https://www.solidot.org/story?sid=72829)
-
-[NASA 韦伯望远镜发布火星红外照片](https://www.solidot.org/story?sid=72828)
-
-[Debian 投票是否允许默认加载非自由固件](https://www.solidot.org/story?sid=72827)
 
