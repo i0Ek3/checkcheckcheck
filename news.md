@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-09-23 04:43:21
+> Update time: 2022-09-23 16:15:46
+
+[更多华裔科学家返回中国](https://www.solidot.org/story?sid=72856)
+
+[伊朗限制访问 Instagram 和 WhatsApp](https://www.solidot.org/story?sid=72855)
+
+[波音同意支付 2 亿美元和解 737 MAX 坠机相关调查](https://www.solidot.org/story?sid=72854)
+
+[汤加火山喷发短期加剧全球暖化](https://www.solidot.org/story?sid=72853)
+
+[《环球时报》报道指 NSA 入侵电信基础网络设施](https://www.solidot.org/story?sid=72852)
+
+[日本将开放入境](https://www.solidot.org/story?sid=72851)
 
 [Ask.FM 3.5 亿用户数据库在黑客论坛出售](https://www.solidot.org/story?sid=72850)
 
@@ -8,16 +20,4 @@
 [NASA 准备测试飞行器将小行星撞离轨道](https://www.solidot.org/story?sid=72848)
 
 [中年做噩梦可能是认知衰退的信号](https://www.solidot.org/story?sid=72847)
-
-[研究发现高脂肪饮食会刺激骨骼产生炎症免疫细胞](https://www.solidot.org/story?sid=72846)
-
-[美国 Charter 通信公司因其技工谋杀客户被罚 11 亿美元](https://www.solidot.org/story?sid=72845)
-
-[苹果计划到 2025 年将四分之一的生产转移到印度](https://www.solidot.org/story?sid=72844)
-
-[Getty Images 禁止 AI 生成的图像](https://www.solidot.org/story?sid=72843)
-
-[Larry Page 投资的飞车公司裁员](https://www.solidot.org/story?sid=72842)
-
-[Meta 计划削减至少 10% 的开支](https://www.solidot.org/story?sid=72841)
 
