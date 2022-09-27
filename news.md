@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-09-27 16:59:43
+> Update time: 2022-09-28 04:13:05
+
+[苹果开始在印度组装 iPhone 14](https://www.solidot.org/story?sid=72897)
+
+[达斯·维德的声音未来将用 AI 合成](https://www.solidot.org/story?sid=72896)
+
+[iPhone 14 在华销量不及预期](https://www.solidot.org/story?sid=72895)
+
+[NSA 在美国时间对西北工业大学发动攻击](https://www.solidot.org/story?sid=72894)
+
+[开源古战争策略游戏 0 A.D 发布庄子版](https://www.solidot.org/story?sid=72893)
 
 [我国拥有大学文化程度的人口超过 2.18 亿](https://www.solidot.org/story?sid=72892)
 
@@ -10,14 +20,4 @@
 [TikTok 准备与美国政府达成继续在美运营的协议](https://www.solidot.org/story?sid=72889)
 
 [NASA DART 飞船成功撞击小行星](https://www.solidot.org/story?sid=72888)
-
-[普京授予斯诺登俄罗斯公民身份](https://www.solidot.org/story?sid=72887)
-
-[国际刑警组织对 Do Kwon 发出红色通缉令](https://www.solidot.org/story?sid=72886)
-
-[20 年历史的芯片组补丁影响现代 AMD Linux 系统](https://www.solidot.org/story?sid=72885)
-
-[倾听陨石撞击火星表面的声音](https://www.solidot.org/story?sid=72884)
-
-[婴儿在子宫里对味觉和嗅觉有反应](https://www.solidot.org/story?sid=72883)
 
