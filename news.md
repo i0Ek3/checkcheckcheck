@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-09-29 16:54:47
+> Update time: 2022-09-30 04:13:09
 
-[美国研究利用 AI 揭开匿名作者身份](https://www.solidot.org/story?sid=72917)
+[动物研究显示精子组团前进](https://www.solidot.org/story?sid=72929)
 
-[科学家发现了警告泰坦尼克号冰山的船只残骸](https://www.solidot.org/story?sid=72916)
+[Doreen Bogdan-Martin 当选为 ITU 秘书长](https://www.solidot.org/story?sid=72928)
 
-[Google 推迟 Manifest V2 扩展淘汰时间](https://www.solidot.org/story?sid=72915)
+[《原神》两年产生 37 亿美元收入](https://www.solidot.org/story?sid=72927)
 
-[二维材料发现奇异的电子态费米弧](https://www.solidot.org/story?sid=72914)
+[欧盟提出 AI 责任指令更容易就 AI 产品提起诉讼](https://www.solidot.org/story?sid=72926)
 
-[朝鲜启动新冠疫苗接种](https://www.solidot.org/story?sid=72913)
+[加州州长签署了薪酬透明法案](https://www.solidot.org/story?sid=72925)
 
-[OpenAI 将允许任何人立即使用 DALL-E](https://www.solidot.org/story?sid=72912)
+[华尔街银行为使用 WhatsApp 等加密应用缴纳逾 20 亿美元罚款](https://www.solidot.org/story?sid=72924)
 
-[德国将保留剩余三个核电站中的两个至明年 4 月](https://www.solidot.org/story?sid=72911)
+[Google疑似关闭了Google翻译的中国站点](https://www.solidot.org/story?sid=72923)
 
-[国际电联将宣布新秘书长](https://www.solidot.org/story?sid=72910)
+[苹果据报道拒绝了台积电涨价 6% 的提议](https://www.solidot.org/story?sid=72922)
 
-[Netflix 创办自己的游戏工作室](https://www.solidot.org/story?sid=72909)
+[Cloudflare 推出 CAPTCHA 免费替代 Turnstile](https://www.solidot.org/story?sid=72921)
 
-[AI 和机器人帮助设计最佳电池](https://www.solidot.org/story?sid=72908)
+[新恶意程序能感染 Windows、Linux 和 FreeBSD](https://www.solidot.org/story?sid=72920)
 
