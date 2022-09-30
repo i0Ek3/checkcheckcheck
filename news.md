@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-09-30 17:00:44
+> Update time: 2022-10-01 04:12:12
+
+[眼睛如何在一生中改变颜色](https://www.solidot.org/story?sid=72939)
+
+[丰田社长为无纯电战略辩护](https://www.solidot.org/story?sid=72938)
+
+[Google 简化论坛类信息搜索](https://www.solidot.org/story?sid=72937)
+
+[Meta 宣布文本视频生成器 Make-A-Video](https://www.solidot.org/story?sid=72936)
+
+[NASA 和 SpaceX 研究为哈勃望远镜延寿](https://www.solidot.org/story?sid=72935)
+
+[NASA Juno 飞船近距离飞越木星卫星欧罗巴](https://www.solidot.org/story?sid=72934)
+
+[沙特准备在游戏领域投资 378 亿美元](https://www.solidot.org/story?sid=72933)
 
 [比特币挖矿的气候影响相当于牛肉生产](https://www.solidot.org/story?sid=72932)
 
 [Meta 冻结招聘](https://www.solidot.org/story?sid=72931)
 
 [Google 将关闭 Stadia](https://www.solidot.org/story?sid=72930)
-
-[动物研究显示精子组团前进](https://www.solidot.org/story?sid=72929)
-
-[Doreen Bogdan-Martin 当选为 ITU 秘书长](https://www.solidot.org/story?sid=72928)
-
-[《原神》两年产生 37 亿美元收入](https://www.solidot.org/story?sid=72927)
-
-[欧盟提出 AI 责任指令更容易就 AI 产品提起诉讼](https://www.solidot.org/story?sid=72926)
-
-[加州州长签署了薪酬透明法案](https://www.solidot.org/story?sid=72925)
-
-[华尔街银行为使用 WhatsApp 等加密应用缴纳逾 20 亿美元罚款](https://www.solidot.org/story?sid=72924)
-
-[Google疑似关闭了Google翻译的中国站点](https://www.solidot.org/story?sid=72923)
 
