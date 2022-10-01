@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-10-01 16:51:12
+> Update time: 2022-10-02 04:11:19
+
+[深度伪造技术让布鲁斯威利斯重返大银幕](https://www.solidot.org/story?sid=72946)
+
+[Fedora 项目仍然是社区驱动](https://www.solidot.org/story?sid=72945)
+
+[Stadia 员工是在最后一刻才知道服务关闭](https://www.solidot.org/story?sid=72944)
+
+[微软开始启用 Edge 内置的 VPN 服务](https://www.solidot.org/story?sid=72943)
+
+[埃塞俄比亚 Tigray 地区断网两年](https://www.solidot.org/story?sid=72942)
 
 [Matrix 修复端对端加密高危漏洞](https://www.solidot.org/story?sid=72940)
 
@@ -10,14 +20,4 @@
 [Google 简化论坛类信息搜索](https://www.solidot.org/story?sid=72937)
 
 [Meta 宣布文本视频生成器 Make-A-Video](https://www.solidot.org/story?sid=72936)
-
-[NASA 和 SpaceX 研究为哈勃望远镜延寿](https://www.solidot.org/story?sid=72935)
-
-[NASA Juno 飞船近距离飞越木星卫星欧罗巴](https://www.solidot.org/story?sid=72934)
-
-[沙特准备在游戏领域投资 378 亿美元](https://www.solidot.org/story?sid=72933)
-
-[比特币挖矿的气候影响相当于牛肉生产](https://www.solidot.org/story?sid=72932)
-
-[Meta 冻结招聘](https://www.solidot.org/story?sid=72931)
 
