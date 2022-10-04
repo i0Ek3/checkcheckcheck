@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-10-04 16:53:55
+> Update time: 2022-10-05 04:13:10
+
+[Steam Deck 掌机出货量逾一百万部](https://www.solidot.org/story?sid=72960)
+
+[诺贝尔物理学奖授予了三名研究纠缠量子态的科学家](https://www.solidot.org/story?sid=72959)
+
+[美最高法院同意审理挑战科技公司免责的案件](https://www.solidot.org/story?sid=72958)
+
+[印度火星探测器 Mangalyaan 停止工作](https://www.solidot.org/story?sid=72957)
+
+[俄罗斯人试图购买不适合服兵役的证明躲避动员令](https://www.solidot.org/story?sid=72956)
 
 [Linux 6.0 释出](https://www.solidot.org/story?sid=72955)
 
@@ -10,14 +20,4 @@
 [Debian 社区投票允许安装非自由固件](https://www.solidot.org/story?sid=72952)
 
 [Google 以低使用量关闭中国版翻译服务](https://www.solidot.org/story?sid=72951)
-
-[商飞 C919 飞机获颁型号合格证](https://www.solidot.org/story?sid=72950)
-
-[Jingyao Liu 诉刘强东案达成庭外和解](https://www.solidot.org/story?sid=72949)
-
-[印尼足球场发生踩踏事故逾百人死亡](https://www.solidot.org/story?sid=72948)
-
-[深度伪造技术让布鲁斯威利斯重返大银幕](https://www.solidot.org/story?sid=72946)
-
-[Fedora 项目仍然是社区驱动](https://www.solidot.org/story?sid=72945)
 
