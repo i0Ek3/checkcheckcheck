@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-10-05 16:50:32
+> Update time: 2022-10-06 04:12:44
+
+[卡巴斯基发现通过 YouTube 频道传播的恶意 Tor 浏览器](https://www.solidot.org/story?sid=72968)
+
+[美国政府发布 AI 指导方针](https://www.solidot.org/story?sid=72966)
+
+[VideoLAN 威胁起诉印度政府](https://www.solidot.org/story?sid=72965)
+
+[三位化学家获诺贝尔化学奖，其中一位第二次获奖](https://www.solidot.org/story?sid=72964)
+
+[马斯克提议按原提议收购 Twitter](https://www.solidot.org/story?sid=72963)
 
 [天文学家发现银河系死亡恒星墓场](https://www.solidot.org/story?sid=72962)
 
@@ -10,14 +20,4 @@
 [诺贝尔物理学奖授予了三名研究纠缠量子态的科学家](https://www.solidot.org/story?sid=72959)
 
 [美最高法院同意审理挑战科技公司免责的案件](https://www.solidot.org/story?sid=72958)
-
-[印度火星探测器 Mangalyaan 停止工作](https://www.solidot.org/story?sid=72957)
-
-[俄罗斯人试图购买不适合服兵役的证明躲避动员令](https://www.solidot.org/story?sid=72956)
-
-[Linux 6.0 释出](https://www.solidot.org/story?sid=72955)
-
-[瑞典科学家 Svante Pääbo 获 2022 年度诺贝尔生理学或医学奖](https://www.solidot.org/story?sid=72954)
-
-[Tumblr 永远不会再允许色情](https://www.solidot.org/story?sid=72953)
 
