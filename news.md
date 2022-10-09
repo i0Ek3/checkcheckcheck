@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-10-09 16:49:15
+> Update time: 2022-10-10 04:12:09
+
+[伊朗抗议者劫持国有电视台直播](https://www.solidot.org/story?sid=72997)
+
+[美国公司因解雇拒绝打开摄像头的员工被罚 7.5 万欧元](https://www.solidot.org/story?sid=72996)
+
+[Windows 95 有专门的补丁去兼容《模拟城市》](https://www.solidot.org/story?sid=72995)
+
+[伊朗网民的 VPN 和 Tor 使用量增加](https://www.solidot.org/story?sid=72994)
+
+[DeepMind 的 AlphaTensor 找到更快的矩阵乘法算法](https://www.solidot.org/story?sid=72993)
 
 [地球系统模拟的水平分辨率首次达到 1.2 公里](https://www.solidot.org/story?sid=72992)
 
@@ -10,14 +20,4 @@
 [Intel Alder Lake固件整体方案泄漏分析](https://www.solidot.org/story?sid=72989)
 
 [维护 NTP 协议的人](https://www.solidot.org/story?sid=72988)
-
-[杀死恐龙的小行星也引发了全球海啸](https://www.solidot.org/story?sid=72987)
-
-[普林斯顿大学富有到不需要任何外部资金了](https://www.solidot.org/story?sid=72986)
-
-[Google 准备在日本建数据中心](https://www.solidot.org/story?sid=72985)
-
-[中国加大量子计算投资](https://www.solidot.org/story?sid=72984)
-
-[波士顿动力等公司承诺不会武器化机器人](https://www.solidot.org/story?sid=72983)
 
