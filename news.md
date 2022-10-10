@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-10 16:56:46
+> Update time: 2022-10-11 04:12:53
+
+[五角大楼将奇虎和深圳大疆列入黑名单](https://www.solidot.org/story?sid=73010)
+
+[伯南克等三人获诺贝尔经济学家](https://www.solidot.org/story?sid=73009)
+
+[机器学习撼动粒子物理学](https://www.solidot.org/story?sid=73008)
+
+[中国 8 月尝试 90 次人工降雨](https://www.solidot.org/story?sid=73007)
+
+[模拟显示月球可能是在短时间内形成的](https://www.solidot.org/story?sid=73006)
+
+[需求不振内存厂商面临困境](https://www.solidot.org/story?sid=73005)
+
+[研究显示高研发成本不能解释高药品价格](https://www.solidot.org/story?sid=73004)
+
+[Google 演示文本视频 AI 模型 Imagen Video](https://www.solidot.org/story?sid=73003)
 
 [研究显示推荐系统能使用 AI 操纵人的偏好](https://www.solidot.org/story?sid=73002)
 
 [iPhone 14 在机主坐过山车时拨打急救电话](https://www.solidot.org/story?sid=73001)
-
-[美国第四大医院系统遭勒索软件攻击](https://www.solidot.org/story?sid=73000)
-
-[月壤玻璃微球揭秘地月系统小行星撞击事件](https://www.solidot.org/story?sid=72999)
-
-[天河新超算速度提高到 200 PFlops](https://www.solidot.org/story?sid=72998)
-
-[伊朗抗议者劫持国有电视台直播](https://www.solidot.org/story?sid=72997)
-
-[美国公司因解雇拒绝打开摄像头的员工被罚 7.5 万欧元](https://www.solidot.org/story?sid=72996)
-
-[Windows 95 有专门的补丁去兼容《模拟城市》](https://www.solidot.org/story?sid=72995)
-
-[伊朗网民的 VPN 和 Tor 使用量增加](https://www.solidot.org/story?sid=72994)
-
-[DeepMind 的 AlphaTensor 找到更快的矩阵乘法算法](https://www.solidot.org/story?sid=72993)
 
