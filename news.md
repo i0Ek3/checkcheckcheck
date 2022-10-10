@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-10-10 04:43:49
+> Update time: 2022-10-10 16:19:37
+
+[研究显示推荐系统能使用 AI 操纵人的偏好](https://www.solidot.org/story?sid=73002)
+
+[iPhone 14 在机主坐过山车时拨打急救电话](https://www.solidot.org/story?sid=73001)
+
+[美国第四大医院系统遭勒索软件攻击](https://www.solidot.org/story?sid=73000)
+
+[月壤玻璃微球揭秘地月系统小行星撞击事件](https://www.solidot.org/story?sid=72999)
+
+[天河新超算速度提高到 200 PFlops](https://www.solidot.org/story?sid=72998)
 
 [伊朗抗议者劫持国有电视台直播](https://www.solidot.org/story?sid=72997)
 
@@ -10,14 +20,4 @@
 [伊朗网民的 VPN 和 Tor 使用量增加](https://www.solidot.org/story?sid=72994)
 
 [DeepMind 的 AlphaTensor 找到更快的矩阵乘法算法](https://www.solidot.org/story?sid=72993)
-
-[地球系统模拟的水平分辨率首次达到 1.2 公里](https://www.solidot.org/story?sid=72992)
-
-[Valve 最新的 Steam Deck 视频含有任天堂 Switch 模拟器](https://www.solidot.org/story?sid=72991)
-
-[Twitter 称马斯克无法被信任](https://www.solidot.org/story?sid=72990)
-
-[Intel Alder Lake固件整体方案泄漏分析](https://www.solidot.org/story?sid=72989)
-
-[维护 NTP 协议的人](https://www.solidot.org/story?sid=72988)
 
