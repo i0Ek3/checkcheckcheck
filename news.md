@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-10-11 16:55:04
+> Update time: 2022-10-12 04:14:45
+
+[特斯拉和比亚迪电动车交付量破记录](https://www.solidot.org/story?sid=73025)
+
+[科学家发现女性更容易患阿尔茨海默氏症的机制](https://www.solidot.org/story?sid=73024)
+
+[Firefox 如何改进 macOS 版本的响应](https://www.solidot.org/story?sid=73023)
+
+[访问密钥在 GitHub 暴露五年后丰田警告数据泄露](https://www.solidot.org/story?sid=73022)
+
+[调查显示逾四成 Windows PC 无法升级到 Windows 11](https://www.solidot.org/story?sid=73021)
 
 [ISC DHCP Server 寿命终止](https://www.solidot.org/story?sid=73020)
 
@@ -10,14 +20,4 @@
 [科学家在癌症肿瘤中发现真菌](https://www.solidot.org/story?sid=73017)
 
 [Stoke Space 试图设计出完全可重复使用的火箭](https://www.solidot.org/story?sid=73016)
-
-[Google Pixel 再次遭遇无法拨打急救电话的问题](https://www.solidot.org/story?sid=73015)
-
-[美国陆军将使用 Google Workspace 服务](https://www.solidot.org/story?sid=73014)
-
-[VirtualBox 7.0.0 释出支持完全加密](https://www.solidot.org/story?sid=73013)
-
-[Yuri Milner 放弃俄罗斯国籍](https://www.solidot.org/story?sid=73012)
-
-[Linus Torvalds 的内存问题导致 Linux 6.1 补丁合并推迟](https://www.solidot.org/story?sid=73011)
 
