@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-11 04:45:17
+> Update time: 2022-10-11 16:20:09
+
+[科学家在癌症肿瘤中发现真菌](https://www.solidot.org/story?sid=73017)
+
+[Stoke Space 试图设计出完全可重复使用的火箭](https://www.solidot.org/story?sid=73016)
+
+[Google Pixel 再次遭遇无法拨打急救电话的问题](https://www.solidot.org/story?sid=73015)
+
+[美国陆军将使用 Google Workspace 服务](https://www.solidot.org/story?sid=73014)
+
+[VirtualBox 7.0.0 释出支持完全加密](https://www.solidot.org/story?sid=73013)
+
+[Yuri Milner 放弃俄罗斯国籍](https://www.solidot.org/story?sid=73012)
+
+[Linus Torvalds 的内存问题导致 Linux 6.1 补丁合并推迟](https://www.solidot.org/story?sid=73011)
 
 [五角大楼将奇虎和深圳大疆列入黑名单](https://www.solidot.org/story?sid=73010)
 
 [伯南克等三人获诺贝尔经济学家](https://www.solidot.org/story?sid=73009)
 
 [机器学习撼动粒子物理学](https://www.solidot.org/story?sid=73008)
-
-[中国 8 月尝试 90 次人工降雨](https://www.solidot.org/story?sid=73007)
-
-[模拟显示月球可能是在短时间内形成的](https://www.solidot.org/story?sid=73006)
-
-[需求不振内存厂商面临困境](https://www.solidot.org/story?sid=73005)
-
-[研究显示高研发成本不能解释高药品价格](https://www.solidot.org/story?sid=73004)
-
-[Google 演示文本视频 AI 模型 Imagen Video](https://www.solidot.org/story?sid=73003)
-
-[研究显示推荐系统能使用 AI 操纵人的偏好](https://www.solidot.org/story?sid=73002)
-
-[iPhone 14 在机主坐过山车时拨打急救电话](https://www.solidot.org/story?sid=73001)
 
