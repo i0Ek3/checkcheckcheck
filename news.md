@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-13 04:46:33
+> Update time: 2022-10-13 16:15:43
+
+[台积电从美国获得一年的芯片设备出口许可证](https://www.solidot.org/story?sid=73045)
+
+[Netflix 在第三季度发布了 1026 集原创剧](https://www.solidot.org/story?sid=73044)
+
+[Opus 编解码器项目面临专利挑战](https://www.solidot.org/story?sid=73043)
+
+[《科学》期刊论文免费开放获取政策将于 2023 年生效](https://www.solidot.org/story?sid=73042)
+
+[Windows 11 和 Xbox 深度整合苹果服务和应用](https://www.solidot.org/story?sid=73041)
+
+[Google Play 批准特朗普的 Truth Social](https://www.solidot.org/story?sid=73040)
+
+[新加坡成为亚洲加密货币金融中心](https://www.solidot.org/story?sid=73039)
 
 [美国供应商暂停在中国内存厂商的业务](https://www.solidot.org/story?sid=73038)
 
 [TikTok 从难民的乞求捐款中抽取七成](https://www.solidot.org/story?sid=73037)
 
 [Firefox OS 复活](https://www.solidot.org/story?sid=73036)
-
-[NASA 宣布 DART 成功偏转小行星轨道](https://www.solidot.org/story?sid=73035)
-
-[LHAASO观测到迄今为止最高能伽马射线暴](https://www.solidot.org/story?sid=73034)
-
-[印度面临抗生素耐药超级病菌的爆发](https://www.solidot.org/story?sid=73033)
-
-[欧洲人权法庭认为瑞士养老金对男性构成歧视](https://www.solidot.org/story?sid=73032)
-
-[作者名字对审稿人有巨大影响](https://www.solidot.org/story?sid=73031)
-
-[晚进食可能增加肥胖风险](https://www.solidot.org/story?sid=73030)
-
-[编译器/VM项目Animula正式加入HardenedLinux社区](https://www.solidot.org/story?sid=73029)
 
