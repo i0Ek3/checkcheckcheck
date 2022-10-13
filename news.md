@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-13 16:52:25
+> Update time: 2022-10-14 04:12:55
+
+[培养皿中的活体人脑细胞学会玩乒乓](https://www.solidot.org/story?sid=73054)
+
+[Nick Clegg 等人接受了 OnlyFans 的贿赂](https://www.solidot.org/story?sid=73053)
+
+[WhatsApp 非官方应用被发现会窃取用户账号](https://www.solidot.org/story?sid=73052)
+
+[马斯克的交易让 Twitter 员工辗转难安](https://www.solidot.org/story?sid=73051)
+
+[韦伯望远镜捕捉到双星形成的“指纹”](https://www.solidot.org/story?sid=73050)
+
+[复旦大学将推出“非升即走”的替代方案](https://www.solidot.org/story?sid=73049)
+
+[人类迷你大脑植入小鼠](https://www.solidot.org/story?sid=73048)
+
+[导致蛀牙的微生物能形成超有机体](https://www.solidot.org/story?sid=73047)
+
+[外骨骼“靴子”帮助更快走路](https://www.solidot.org/story?sid=73046)
 
 [台积电从美国获得一年的芯片设备出口许可证](https://www.solidot.org/story?sid=73045)
-
-[Netflix 在第三季度发布了 1026 集原创剧](https://www.solidot.org/story?sid=73044)
-
-[Opus 编解码器项目面临专利挑战](https://www.solidot.org/story?sid=73043)
-
-[《科学》期刊论文免费开放获取政策将于 2023 年生效](https://www.solidot.org/story?sid=73042)
-
-[Windows 11 和 Xbox 深度整合苹果服务和应用](https://www.solidot.org/story?sid=73041)
-
-[Google Play 批准特朗普的 Truth Social](https://www.solidot.org/story?sid=73040)
-
-[新加坡成为亚洲加密货币金融中心](https://www.solidot.org/story?sid=73039)
-
-[美国供应商暂停在中国内存厂商的业务](https://www.solidot.org/story?sid=73038)
-
-[TikTok 从难民的乞求捐款中抽取七成](https://www.solidot.org/story?sid=73037)
-
-[Firefox OS 复活](https://www.solidot.org/story?sid=73036)
 
