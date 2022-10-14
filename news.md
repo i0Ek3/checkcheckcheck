@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-14 16:53:26
+> Update time: 2022-10-15 04:12:41
+
+[Microsoft Office 重命名为 Microsoft 365](https://www.solidot.org/story?sid=73064)
+
+[新冠鼻用疫苗在临床试验中被证明无效](https://www.solidot.org/story?sid=73063)
+
+[Firefox Relay 支持生成虚拟电话号码](https://www.solidot.org/story?sid=73062)
+
+[PostgreSQL 15 释出](https://www.solidot.org/story?sid=73061)
+
+[科学家识别影响男女寿命的候选基因](https://www.solidot.org/story?sid=73060)
+
+[从地球追溯地月历史](https://www.solidot.org/story?sid=73059)
+
+[Netflix 的广告支持套餐定价每月 7 美元](https://www.solidot.org/story?sid=73058)
+
+[近半数新冠患者尚未完全康复](https://www.solidot.org/story?sid=73057)
 
 [微软反击称索尼对其合并动视的抗议是“自利的”](https://www.solidot.org/story?sid=73056)
 
 [微软准备将 AI 图像合成带到主流](https://www.solidot.org/story?sid=73055)
-
-[培养皿中的活体人脑细胞学会玩乒乓](https://www.solidot.org/story?sid=73054)
-
-[Nick Clegg 等人接受了 OnlyFans 的贿赂](https://www.solidot.org/story?sid=73053)
-
-[WhatsApp 非官方应用被发现会窃取用户账号](https://www.solidot.org/story?sid=73052)
-
-[马斯克的交易让 Twitter 员工辗转难安](https://www.solidot.org/story?sid=73051)
-
-[韦伯望远镜捕捉到双星形成的“指纹”](https://www.solidot.org/story?sid=73050)
-
-[复旦大学将推出“非升即走”的替代方案](https://www.solidot.org/story?sid=73049)
-
-[人类迷你大脑植入小鼠](https://www.solidot.org/story?sid=73048)
-
-[导致蛀牙的微生物能形成超有机体](https://www.solidot.org/story?sid=73047)
 
