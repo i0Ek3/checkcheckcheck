@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-10-17 04:44:43
+> Update time: 2022-10-17 16:26:12
+
+[现代人类祖先与尼安德特人共存数千年](https://www.solidot.org/story?sid=73078)
+
+[Meta 的元宇宙世界令人失望](https://www.solidot.org/story?sid=73077)
+
+[天文学家展示世界最大数码相机](https://www.solidot.org/story?sid=73076)
+
+[MICROSCOPE 卫星最终结果证实爱因斯坦弱等效原理](https://www.solidot.org/story?sid=73075)
+
+[对华半导体限制也伤及美国企业](https://www.solidot.org/story?sid=73073)
 
 [丹麦新党的领袖是 AI 聊天机器人](https://www.solidot.org/story?sid=73072)
 
@@ -10,14 +20,4 @@
 [猎天使魔女声优发声否认开发商说法呼吁抵制](https://www.solidot.org/story?sid=73069)
 
 [马斯克要求五角大楼支付 Starlink 费用](https://www.solidot.org/story?sid=73068)
-
-[Crew Dragon 过去两年运送的宇航员数量超过其他国家](https://www.solidot.org/story?sid=73067)
-
-[墨西哥毒枭与华人地下钱庄合作洗钱](https://www.solidot.org/story?sid=73066)
-
-[英伟达取消发布 RTX 4080 12GB 显卡](https://www.solidot.org/story?sid=73065)
-
-[Microsoft Office 重命名为 Microsoft 365](https://www.solidot.org/story?sid=73064)
-
-[新冠鼻用疫苗在临床试验中被证明无效](https://www.solidot.org/story?sid=73063)
 
