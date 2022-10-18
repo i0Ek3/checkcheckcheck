@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-18 17:01:04
+> Update time: 2022-10-19 04:12:48
+
+[CCC 取消 37C3](https://www.solidot.org/story?sid=73097)
+
+[黑客入侵香港政府机构网络](https://www.solidot.org/story?sid=73096)
+
+[德国三座核电站的运营时间将延长到明年四月](https://www.solidot.org/story?sid=73095)
+
+[世界第二大富豪卖掉私人飞机以避开跟踪](https://www.solidot.org/story?sid=73094)
+
+[芯片交付周期缩短显示供应紧张缓解](https://www.solidot.org/story?sid=73093)
+
+[BioNTech 创始人预测到 2030 年疫苗可能治疗癌症](https://www.solidot.org/story?sid=73092)
+
+[超加工食品可能比以前认为的更不健康](https://www.solidot.org/story?sid=73091)
 
 [微软裁员近千人](https://www.solidot.org/story?sid=73089)
 
 [Linus Torvalds 呼吁内核开发者不要在截止日期前递交补丁](https://www.solidot.org/story?sid=73088)
 
 [比特币单个区块开采时间超过一小时](https://www.solidot.org/story?sid=73087)
-
-[Kanye West 将收购保守派社媒 Parler](https://www.solidot.org/story?sid=73086)
-
-[数据中心火灾导致韩国网络巨头下线](https://www.solidot.org/story?sid=73085)
-
-[凹语言支持 JetBrains Fleet 语法高亮](https://www.solidot.org/story?sid=73084)
-
-[美国购房者在选房时开始考虑气候风险](https://www.solidot.org/story?sid=73083)
-
-[新冠奥密克戎亚型 BQ.1 和 BQ.1.1 逐渐走向主流](https://www.solidot.org/story?sid=73082)
-
-[Linux 6.1-rc1 释出](https://www.solidot.org/story?sid=73081)
-
-[Google 宣布安全操作系统 KataOS 及其实现 Sparrow](https://www.solidot.org/story?sid=73080)
 
