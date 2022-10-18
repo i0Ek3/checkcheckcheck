@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-18 04:46:15
+> Update time: 2022-10-18 16:20:32
 
-[现代人类祖先与尼安德特人共存数千年](https://www.solidot.org/story?sid=73078)
+[微软裁员近千人](https://www.solidot.org/story?sid=73089)
 
-[Meta 的元宇宙世界令人失望](https://www.solidot.org/story?sid=73077)
+[Linus Torvalds 呼吁内核开发者不要在截止日期前递交补丁](https://www.solidot.org/story?sid=73088)
 
-[天文学家展示世界最大数码相机](https://www.solidot.org/story?sid=73076)
+[比特币单个区块开采时间超过一小时](https://www.solidot.org/story?sid=73087)
 
-[MICROSCOPE 卫星最终结果证实爱因斯坦弱等效原理](https://www.solidot.org/story?sid=73075)
+[Kanye West 将收购保守派社媒 Parler](https://www.solidot.org/story?sid=73086)
 
-[对华半导体限制也伤及美国企业](https://www.solidot.org/story?sid=73073)
+[数据中心火灾导致韩国网络巨头下线](https://www.solidot.org/story?sid=73085)
 
-[丹麦新党的领袖是 AI 聊天机器人](https://www.solidot.org/story?sid=73072)
+[凹语言支持 JetBrains Fleet 语法高亮](https://www.solidot.org/story?sid=73084)
 
-[Google Pixel 7 只支持 64 位应用](https://www.solidot.org/story?sid=73071)
+[美国购房者在选房时开始考虑气候风险](https://www.solidot.org/story?sid=73083)
 
-[Google 搜索 emojis 相关短语会发生崩溃](https://www.solidot.org/story?sid=73070)
+[新冠奥密克戎亚型 BQ.1 和 BQ.1.1 逐渐走向主流](https://www.solidot.org/story?sid=73082)
 
-[猎天使魔女声优发声否认开发商说法呼吁抵制](https://www.solidot.org/story?sid=73069)
+[Linux 6.1-rc1 释出](https://www.solidot.org/story?sid=73081)
 
-[马斯克要求五角大楼支付 Starlink 费用](https://www.solidot.org/story?sid=73068)
+[Google 宣布安全操作系统 KataOS 及其实现 Sparrow](https://www.solidot.org/story?sid=73080)
 
