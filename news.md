@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-10-19 17:00:23
+> Update time: 2022-10-20 04:13:02
+
+[黄柳霜将出现在 25 美分硬币上](https://www.solidot.org/story?sid=73109)
+
+[台积电考虑扩大日本产能](https://www.solidot.org/story?sid=73108)
+
+[Tails 5.5 发布](https://www.solidot.org/story?sid=73107)
+
+[Firefox 106 发布](https://www.solidot.org/story?sid=73106)
+
+[AMD 宣布开源全局光照技术 GI-1.0](https://www.solidot.org/story?sid=73105)
+
+[五小时睡眠是健康恶化的临界点](https://www.solidot.org/story?sid=73104)
 
 [Windows 11 默认使用开源的 Windows Terminal](https://www.solidot.org/story?sid=73103)
 
@@ -8,16 +20,4 @@
 [支付宝上线微信好友转账功能](https://www.solidot.org/story?sid=73101)
 
 [Tiktok 日活突破 10 亿](https://www.solidot.org/story?sid=73100)
-
-[印媒称 Meta 允许执政党高官审查内容，Meta 否认](https://www.solidot.org/story?sid=73099)
-
-[Ubuntu 终端广告惹恼用户](https://www.solidot.org/story?sid=73098)
-
-[CCC 取消 37C3](https://www.solidot.org/story?sid=73097)
-
-[黑客入侵香港政府机构网络](https://www.solidot.org/story?sid=73096)
-
-[德国三座核电站的运营时间将延长到明年四月](https://www.solidot.org/story?sid=73095)
-
-[世界第二大富豪卖掉私人飞机以避开跟踪](https://www.solidot.org/story?sid=73094)
 
