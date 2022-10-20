@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-10-20 04:46:14
+> Update time: 2022-10-20 16:15:46
+
+[马斯克称对 Twitter 收购价过高](https://www.solidot.org/story?sid=73115)
+
+[NASA 公布韦伯拍摄的创生之柱图像](https://www.solidot.org/story?sid=73114)
+
+[时隔半年芯片行业水深火热](https://www.solidot.org/story?sid=73113)
+
+[新方法揭示学习时大脑的变化](https://www.solidot.org/story?sid=73112)
+
+[治愈艾滋病跨出重要一步](https://www.solidot.org/story?sid=73111)
+
+[深度学习识别显微照片中的细菌](https://www.solidot.org/story?sid=73110)
 
 [黄柳霜将出现在 25 美分硬币上](https://www.solidot.org/story?sid=73109)
 
@@ -8,16 +20,4 @@
 [Tails 5.5 发布](https://www.solidot.org/story?sid=73107)
 
 [Firefox 106 发布](https://www.solidot.org/story?sid=73106)
-
-[AMD 宣布开源全局光照技术 GI-1.0](https://www.solidot.org/story?sid=73105)
-
-[五小时睡眠是健康恶化的临界点](https://www.solidot.org/story?sid=73104)
-
-[Windows 11 默认使用开源的 Windows Terminal](https://www.solidot.org/story?sid=73103)
-
-[Google 加大对 Pixel 硬件的投资](https://www.solidot.org/story?sid=73102)
-
-[支付宝上线微信好友转账功能](https://www.solidot.org/story?sid=73101)
-
-[Tiktok 日活突破 10 亿](https://www.solidot.org/story?sid=73100)
 
