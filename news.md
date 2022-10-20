@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-20 16:54:47
+> Update time: 2022-10-21 04:12:50
+
+[卡塔尔世界杯官方应用被指是间谍软件](https://www.solidot.org/story?sid=73123)
+
+[绘画社区 pixiv 将为 AI 生成作品单独划分属性](https://www.solidot.org/story?sid=73122)
+
+[Kakao 联席 CEO 因服务故障辞职](https://www.solidot.org/story?sid=73121)
+
+[流行广告过滤规则 EasyList 正遭受拒绝服务攻击](https://www.solidot.org/story?sid=73120)
+
+[新研究认为我们的大脑使用了量子计算](https://www.solidot.org/story?sid=73119)
+
+[微软透露正在创建手游应用商店](https://www.solidot.org/story?sid=73118)
+
+[律师宣布调查 GitHub Copilot 版权侵犯问题](https://www.solidot.org/story?sid=73117)
+
+[AI 将会首先取代企业的中层管理人员](https://www.solidot.org/story?sid=73116)
 
 [马斯克称对 Twitter 收购价过高](https://www.solidot.org/story?sid=73115)
 
 [NASA 公布韦伯拍摄的创生之柱图像](https://www.solidot.org/story?sid=73114)
-
-[时隔半年芯片行业水深火热](https://www.solidot.org/story?sid=73113)
-
-[新方法揭示学习时大脑的变化](https://www.solidot.org/story?sid=73112)
-
-[治愈艾滋病跨出重要一步](https://www.solidot.org/story?sid=73111)
-
-[深度学习识别显微照片中的细菌](https://www.solidot.org/story?sid=73110)
-
-[黄柳霜将出现在 25 美分硬币上](https://www.solidot.org/story?sid=73109)
-
-[台积电考虑扩大日本产能](https://www.solidot.org/story?sid=73108)
-
-[Tails 5.5 发布](https://www.solidot.org/story?sid=73107)
-
-[Firefox 106 发布](https://www.solidot.org/story?sid=73106)
 
