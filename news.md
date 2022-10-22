@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-10-23 04:12:20
+> Update time: 2022-10-23 04:44:37
 
 [Ubuntu 22.10 Kinetic Kudu 发布](https://www.solidot.org/story?sid=73140)
 
