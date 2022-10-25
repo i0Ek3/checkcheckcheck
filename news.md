@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-25 04:46:37
+> Update time: 2022-10-25 16:21:34
+
+[玩游戏的儿童在大脑功能测试中得分更高](https://www.solidot.org/story?sid=73160)
+
+[科学家发现一颗无大气层类地行星](https://www.solidot.org/story?sid=73159)
+
+[Python 3.11 发布](https://www.solidot.org/story?sid=73158)
+
+[共和党全国委员会因垃圾邮件过滤器起诉 Google](https://www.solidot.org/story?sid=73157)
+
+[黑死病改变免疫系统](https://www.solidot.org/story?sid=73156)
+
+[Linux 考虑淘汰对英特尔 i486 CPU 的支持](https://www.solidot.org/story?sid=73155)
+
+[美国学生的数学成绩出现大幅下滑](https://www.solidot.org/story?sid=73154)
 
 [远程工作员工不早起](https://www.solidot.org/story?sid=73153)
 
 [小行星龙宫沙粒样本中检测出气体](https://www.solidot.org/story?sid=73152)
 
 [新加坡研究发现高糖饮食有助于延长线虫寿命](https://www.solidot.org/story?sid=73151)
-
-[入侵歌手账号窃取未发现歌曲的黑客被判 18 个月](https://www.solidot.org/story?sid=73150)
-
-[黑客组织入侵伊朗核电企业的电邮系统](https://www.solidot.org/story?sid=73149)
-
-[Steam 同时在线人数突破三千万](https://www.solidot.org/story?sid=73148)
-
-[Facebook 威胁禁止加拿大新闻分享](https://www.solidot.org/story?sid=73146)
-
-[物理学家获得希格斯玻色子“宽度”至今最精确测量](https://www.solidot.org/story?sid=73145)
-
-[Das U-Boot 创始人去世](https://www.solidot.org/story?sid=73144)
-
-[科学家利用光缆和光子芯片实现 1.84 Petabit/s 传输率](https://www.solidot.org/story?sid=73143)
 
