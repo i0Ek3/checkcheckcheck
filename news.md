@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-10-26 04:47:14
+> Update time: 2022-10-26 16:13:55
+
+[微软利润下滑](https://www.solidot.org/story?sid=73172)
+
+[无需变温步骤的PCR](https://www.solidot.org/story?sid=73171)
+
+[火星表面下可能有古代细菌](https://www.solidot.org/story?sid=73170)
+
+[微软 称 GitHub 年收入 10 亿美元有 9 千万活跃用户](https://www.solidot.org/story?sid=73169)
+
+[马斯克将需要在本周五完成对 Twitter 的收购](https://www.solidot.org/story?sid=73168)
+
+[猫咪能区分对它们和其他人类的呼叫](https://www.solidot.org/story?sid=73167)
 
 [RTX 4090 显卡用户报告 16-pin 电源连接器烧毁问题](https://www.solidot.org/story?sid=73166)
 
@@ -8,16 +20,4 @@
 [NASA 启动独立 UFO 研究](https://www.solidot.org/story?sid=73164)
 
 [WhatsApp 全球宕机](https://www.solidot.org/story?sid=73163)
-
-[Google Chrome 将停止支持 Windows 7 / 8.1](https://www.solidot.org/story?sid=73162)
-
-[SpaceX 等将为 NASA 未来登月计划提供火箭和飞船](https://www.solidot.org/story?sid=73161)
-
-[玩游戏的儿童在大脑功能测试中得分更高](https://www.solidot.org/story?sid=73160)
-
-[科学家发现一颗无大气层类地行星](https://www.solidot.org/story?sid=73159)
-
-[Python 3.11 发布](https://www.solidot.org/story?sid=73158)
-
-[共和党全国委员会因垃圾邮件过滤器起诉 Google](https://www.solidot.org/story?sid=73157)
 
