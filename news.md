@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-10-28 04:40:54
+> Update time: 2022-10-28 16:14:19
+
+[CD Projekt 用虚幻5 重制第一代猎魔人](https://www.solidot.org/story?sid=73197)
+
+[苹果收入继续增长势头](https://www.solidot.org/story?sid=73196)
+
+[英特尔销售额下滑五分之一](https://www.solidot.org/story?sid=73195)
+
+[墨西哥取消夏令时，靠近美的边境城市可保留](https://www.solidot.org/story?sid=73194)
+
+[马斯克控制 Twitter，解雇 CEO 和 CFO](https://www.solidot.org/story?sid=73193)
+
+[美国起诉一位运营恶意程序即服务的乌克兰男子](https://www.solidot.org/story?sid=73192)
+
+[Gitea 项目成立公司](https://www.solidot.org/story?sid=73191)
+
+[日本加大量子计算机研发投资](https://www.solidot.org/story?sid=73190)
+
+[披着羊皮的狼：利用流行乐扩散致命病原体](https://www.solidot.org/story?sid=73189)
 
 [世界最“肮脏”男子以 94 岁高龄去世](https://www.solidot.org/story?sid=73188)
-
-[现在用户可以请求 Google 移除个人身份信息](https://www.solidot.org/story?sid=73187)
-
-[苹果从中国走向南亚和东南亚](https://www.solidot.org/story?sid=73186)
-
-[苹果确认将采用 USB-C 接口](https://www.solidot.org/story?sid=73185)
-
-[Signal 表示拒绝帮助解密考虑退出印度市场](https://www.solidot.org/story?sid=73184)
-
-[苹果开发 16 英寸 iPad](https://www.solidot.org/story?sid=73183)
-
-[美国司法部就自主驾驶功能宣传对特斯拉发起刑事调查](https://www.solidot.org/story?sid=73182)
-
-[马斯克访问 Twitter 总部自称 Chief Twit](https://www.solidot.org/story?sid=73181)
-
-[澳洲保险公司 Medibank 称黑客访问了所有客户个人信息](https://www.solidot.org/story?sid=73180)
-
-[Facebook 开发 Android 应用使用的语言迁移到 Kotlin](https://www.solidot.org/story?sid=73179)
 
