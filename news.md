@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-10-28 16:51:09
+> Update time: 2022-10-29 04:11:40
+
+[一窥退役的 Netflix 缓存服务器](https://www.solidot.org/story?sid=73203)
+
+[NASA InSight 探测到迄今火星遭遇的最强陨石撞击](https://www.solidot.org/story?sid=73202)
+
+[南极臭氧空洞继续缩小](https://www.solidot.org/story?sid=73201)
+
+[乌干达的埃博拉确诊病例突破百例](https://www.solidot.org/story?sid=73200)
+
+[基因突变可能是“喝水都胖”的原因](https://www.solidot.org/story?sid=73199)
+
+[Fedora Linux 37 为修复高危漏洞推迟发布](https://www.solidot.org/story?sid=73198)
 
 [CD Projekt 用虚幻5 重制第一代猎魔人](https://www.solidot.org/story?sid=73197)
 
@@ -8,16 +20,4 @@
 [英特尔销售额下滑五分之一](https://www.solidot.org/story?sid=73195)
 
 [墨西哥取消夏令时，靠近美的边境城市可保留](https://www.solidot.org/story?sid=73194)
-
-[马斯克控制 Twitter，解雇 CEO 和 CFO](https://www.solidot.org/story?sid=73193)
-
-[美国起诉一位运营恶意程序即服务的乌克兰男子](https://www.solidot.org/story?sid=73192)
-
-[Gitea 项目成立公司](https://www.solidot.org/story?sid=73191)
-
-[日本加大量子计算机研发投资](https://www.solidot.org/story?sid=73190)
-
-[披着羊皮的狼：利用流行乐扩散致命病原体](https://www.solidot.org/story?sid=73189)
-
-[世界最“肮脏”男子以 94 岁高龄去世](https://www.solidot.org/story?sid=73188)
 
