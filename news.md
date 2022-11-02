@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-02 16:46:19
+> Update time: 2022-11-03 04:10:29
+
+[钓鱼网站在 Google 上伪装成 GIMP 打广告](https://www.solidot.org/story?sid=73245)
+
+[Meta 的 AI 驱动音频编解码器压缩率十倍于 MP3](https://www.solidot.org/story?sid=73244)
+
+[联通与腾讯合作设立混改新公司](https://www.solidot.org/story?sid=73243)
+
+[TomTom 宣布与 OpenStreetMap 合作](https://www.solidot.org/story?sid=73242)
+
+[一只小鸟打破不间断飞行纪录：11天零1小时](https://www.solidot.org/story?sid=73241)
+
+[研究发现亚特兰大禁止电滑板和电动自行车后拥堵增加](https://www.solidot.org/story?sid=73240)
 
 [英国监管机构准备废除传真机相关立法](https://www.solidot.org/story?sid=73239)
 
@@ -8,16 +20,4 @@
 [Google Hangouts 正式死亡](https://www.solidot.org/story?sid=73237)
 
 [OpenSSL 3 漏洞补丁释出，漏洞等级略降](https://www.solidot.org/story?sid=73236)
-
-[马斯克计划将 Twitter 订阅费用上涨至每月 8 美元](https://www.solidot.org/story?sid=73235)
-
-[香港考虑放开散户交易加密货币](https://www.solidot.org/story?sid=73234)
-
-[是时候重新思考浏览器了](https://www.solidot.org/story?sid=73233)
-
-[Mozilla 公布它的 Manifest V3 扩展方案](https://www.solidot.org/story?sid=73232)
-
-[PS5 游戏机销量突破 2500 万台](https://www.solidot.org/story?sid=73231)
-
-[美国工人今年上半年的生产力大幅下降](https://www.solidot.org/story?sid=73230)
 
