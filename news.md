@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-11-04 04:33:40
+> Update time: 2022-11-04 16:14:23
+
+[TikTok 告诉欧洲用户其它国家的员工能访问用户数据](https://www.solidot.org/story?sid=73260)
+
+[Google 开始公测其文本图像 AI 系统](https://www.solidot.org/story?sid=73258)
+
+[沃顿商学院、伯克利和纽约大学首次提供网上 MBA 课程](https://www.solidot.org/story?sid=73257)
+
+[开源 Linux 平板电脑，预装 FydeOS 出货](https://www.solidot.org/story?sid=73256)
+
+[苹果市值超过 Amazon、Alphabet 和 Meta 之和](https://www.solidot.org/story?sid=73255)
 
 [开源游戏引擎 Godot 成立了自己的基金会](https://www.solidot.org/story?sid=73254)
 
@@ -10,14 +20,4 @@
 [英特尔下一代志强处理器将在明年 1 月发布](https://www.solidot.org/story?sid=73251)
 
 [PyPI 发现数十个恶意软件包](https://www.solidot.org/story?sid=73250)
-
-[加拿大逾五分之一人口是移民](https://www.solidot.org/story?sid=73249)
-
-[Windows 11 的普及度仍然远落后于 Windows 10](https://www.solidot.org/story?sid=73248)
-
-[阿塔卡马亚毫米波干涉阵望远镜遭受严重网络攻击](https://www.solidot.org/story?sid=73247)
-
-[Meta AI 模型预测蛋白质结构的速度 60 倍于 AlphaFold](https://www.solidot.org/story?sid=73246)
-
-[钓鱼网站在 Google 上伪装成 GIMP 打广告](https://www.solidot.org/story?sid=73245)
 
