@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-11-04 16:47:21
+> Update time: 2022-11-05 04:11:25
 
-[TikTok 告诉欧洲用户其它国家的员工能访问用户数据](https://www.solidot.org/story?sid=73260)
+[BioNTech 疫苗获准可向在华向德国侨民接种](https://www.solidot.org/story?sid=73272)
 
-[Google 开始公测其文本图像 AI 系统](https://www.solidot.org/story?sid=73258)
+[印度首都遭遇空气末日](https://www.solidot.org/story?sid=73271)
 
-[沃顿商学院、伯克利和纽约大学首次提供网上 MBA 课程](https://www.solidot.org/story?sid=73257)
+[Signal 将推出仿 Snapchat 的“故事”功能](https://www.solidot.org/story?sid=73270)
 
-[开源 Linux 平板电脑，预装 FydeOS 出货](https://www.solidot.org/story?sid=73256)
+[微软考虑广告和订阅支持的廉价 PC](https://www.solidot.org/story?sid=73269)
 
-[苹果市值超过 Amazon、Alphabet 和 Meta 之和](https://www.solidot.org/story?sid=73255)
+[富士康与沙特主权财富合作造电动车](https://www.solidot.org/story?sid=73268)
 
-[开源游戏引擎 Godot 成立了自己的基金会](https://www.solidot.org/story?sid=73254)
+[昆虫也爱玩游戏](https://www.solidot.org/story?sid=73267)
 
-[在马斯克掌控 Twitter 之后 Mastodon 吸引了逾七万新用户](https://www.solidot.org/story?sid=73253)
+[科学家合成出抑制转录因子靶点的化合物](https://www.solidot.org/story?sid=73266)
 
-[全球暖化增加冷血动物热衰竭风险](https://www.solidot.org/story?sid=73252)
+[COVID-19 封锁期间沿海并不安静](https://www.solidot.org/story?sid=73265)
 
-[英特尔下一代志强处理器将在明年 1 月发布](https://www.solidot.org/story?sid=73251)
+[AMD 宣布 RX 7900 系列高端显卡](https://www.solidot.org/story?sid=73264)
 
-[PyPI 发现数十个恶意软件包](https://www.solidot.org/story?sid=73250)
+[Z-Library 服务全面宕机](https://www.solidot.org/story?sid=73263)
 
