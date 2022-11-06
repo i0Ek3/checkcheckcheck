@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-11-06 04:39:25
+> Update time: 2022-11-06 16:12:43
 
 [越南要求社媒平台在 24 小时内删除“虚假信息”](https://www.solidot.org/story?sid=73278)
 
