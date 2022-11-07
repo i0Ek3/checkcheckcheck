@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-07 04:38:06
+> Update time: 2022-11-07 16:14:45
+
+[生育永久改变女性骨骼](https://www.solidot.org/story?sid=73287)
+
+[强化版mRNA疫苗能抵御多种流感病毒](https://www.solidot.org/story?sid=73286)
+
+[GitHub Copilot 被控从事大规模软件盗版](https://www.solidot.org/story?sid=73285)
+
+[中国开发者在 GitHub 和 npm 上储存逾千本电子书](https://www.solidot.org/story?sid=73284)
+
+[Meta 计划本周开始裁员数千名员工](https://www.solidot.org/story?sid=73283)
+
+[苹果证实富士康郑州工厂疫情影响新 iPhone 生产](https://www.solidot.org/story?sid=73282)
 
 [多达三成的在线评价是虚假的](https://www.solidot.org/story?sid=73281)
 
@@ -8,16 +20,4 @@
 [Mastodon 迎来更多用户](https://www.solidot.org/story?sid=73279)
 
 [越南要求社媒平台在 24 小时内删除“虚假信息”](https://www.solidot.org/story?sid=73278)
-
-[凹语言开源季度总结](https://www.solidot.org/story?sid=73277)
-
-[蒂姆·伯纳斯-李称 Web3 根本不是 Web](https://www.solidot.org/story?sid=73276)
-
-[HBO 砍掉了《西部世界》](https://www.solidot.org/story?sid=73275)
-
-[AMD Ryzen 7000 系列处理器大幅降价](https://www.solidot.org/story?sid=73274)
-
-[Twitter 开始发裁员通知](https://www.solidot.org/story?sid=73273)
-
-[BioNTech 疫苗获准可向在华向德国侨民接种](https://www.solidot.org/story?sid=73272)
 
