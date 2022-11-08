@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-11-08 16:46:15
+> Update time: 2022-11-09 04:12:10
+
+[GNU Texinfo 7.0 发布](https://www.solidot.org/story?sid=73305)
+
+[日本政府寻求获得远程关闭私人住宅空调的能力](https://www.solidot.org/story?sid=73304)
+
+[索尼将从产品中全面去除塑料包装](https://www.solidot.org/story?sid=73303)
+
+[欧洲鼹鼠的大脑会在冬季萎缩](https://www.solidot.org/story?sid=73302)
+
+[天文学家发现已知最近的黑洞](https://www.solidot.org/story?sid=73301)
 
 [Paxlovid 可能有助于降低长新冠风险](https://www.solidot.org/story?sid=73300)
 
@@ -10,14 +20,4 @@
 [印度 4.15 亿人口脱贫](https://www.solidot.org/story?sid=73297)
 
 [温室气体浓度再创新高](https://www.solidot.org/story?sid=73296)
-
-[阿里巴巴和壁仞等降低芯片速度](https://www.solidot.org/story?sid=73295)
-
-[汤加火山创史上最高羽流记录](https://www.solidot.org/story?sid=73294)
-
-[实验室培育的血液首次输入人体](https://www.solidot.org/story?sid=73293)
-
-[过去八年是有记录以来最热的八年](https://www.solidot.org/story?sid=73292)
-
-[张益唐发表朗道-西格尔零点猜想论文](https://www.solidot.org/story?sid=73291)
 
