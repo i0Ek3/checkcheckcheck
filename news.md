@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-10 16:50:32
+> Update time: 2022-11-11 04:11:40
+
+[入侵 Medibank 的黑客索要 1 千万美元赎金](https://www.solidot.org/story?sid=73331)
+
+[WHO 称新冠死亡人数九个月以来下降了 90%](https://www.solidot.org/story?sid=73330)
+
+[联想更新笔记本固件修复允许禁用 UEFI 的漏洞](https://www.solidot.org/story?sid=73329)
+
+[TikTok 最大的资产不是其算法而是你的手机](https://www.solidot.org/story?sid=73328)
+
+[研究证实加工食品是肥胖增加的关键](https://www.solidot.org/story?sid=73327)
+
+[Gmail 将不再允许回到旧界面](https://www.solidot.org/story?sid=73326)
 
 [Google 将其 VPN 服务带到 Windows 和 Mac](https://www.solidot.org/story?sid=73325)
 
@@ -8,16 +20,4 @@
 [卫健委计划到 2025 年给每个居民一个电子健康码](https://www.solidot.org/story?sid=73323)
 
 [IBM 宣布 433 个量子比特的 Osprey 芯片](https://www.solidot.org/story?sid=73322)
-
-[台积电计划在美亚利桑那造另一座芯片厂](https://www.solidot.org/story?sid=73321)
-
-[币安表示不再寻求收购竞争对手 FTX](https://www.solidot.org/story?sid=73320)
-
-[微软发布 .NET 7](https://www.solidot.org/story?sid=73319)
-
-[FTX CEO 的资产净值一天之内蒸发 93%](https://www.solidot.org/story?sid=73318)
-
-[Meta 裁员 1.1 万](https://www.solidot.org/story?sid=73317)
-
-[中子星碰撞可能产生夸克物质](https://www.solidot.org/story?sid=73316)
 
