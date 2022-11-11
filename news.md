@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-11 16:46:35
+> Update time: 2022-11-12 04:10:49
+
+[挑战者航天飞机残骸在海床上发现](https://www.solidot.org/story?sid=73343)
+
+[FXT 申请破产](https://www.solidot.org/story?sid=73342)
+
+[卫健委宣布放宽部分防疫规定](https://www.solidot.org/story?sid=73341)
+
+[天文学家确定银河系最古老的恒星](https://www.solidot.org/story?sid=73340)
+
+[亚马逊缩减未盈利业务](https://www.solidot.org/story?sid=73339)
+
+[电刺激如何帮助瘫痪者恢复行走能力](https://www.solidot.org/story?sid=73338)
 
 [AMD 宣布第四代 EPYC 处理器](https://www.solidot.org/story?sid=73337)
 
@@ -8,16 +20,4 @@
 [开发者将 Stable Diffusion 带到 iPhone 上](https://www.solidot.org/story?sid=73335)
 
 [Xcode 14 意外导致应用体积大增](https://www.solidot.org/story?sid=73334)
-
-[章鱼被发现会互相投掷](https://www.solidot.org/story?sid=73333)
-
-[马斯克废除 Twitter 的远程办公政策](https://www.solidot.org/story?sid=73332)
-
-[入侵 Medibank 的黑客索要 1 千万美元赎金](https://www.solidot.org/story?sid=73331)
-
-[WHO 称新冠死亡人数九个月以来下降了 90%](https://www.solidot.org/story?sid=73330)
-
-[联想更新笔记本固件修复允许禁用 UEFI 的漏洞](https://www.solidot.org/story?sid=73329)
-
-[TikTok 最大的资产不是其算法而是你的手机](https://www.solidot.org/story?sid=73328)
 
