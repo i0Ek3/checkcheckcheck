@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-11 04:39:44
+> Update time: 2022-11-11 16:14:44
+
+[AMD 宣布第四代 EPYC 处理器](https://www.solidot.org/story?sid=73337)
+
+[CRISPR 癌症试验取得初步成功](https://www.solidot.org/story?sid=73336)
+
+[开发者将 Stable Diffusion 带到 iPhone 上](https://www.solidot.org/story?sid=73335)
+
+[Xcode 14 意外导致应用体积大增](https://www.solidot.org/story?sid=73334)
+
+[章鱼被发现会互相投掷](https://www.solidot.org/story?sid=73333)
+
+[马斯克废除 Twitter 的远程办公政策](https://www.solidot.org/story?sid=73332)
 
 [入侵 Medibank 的黑客索要 1 千万美元赎金](https://www.solidot.org/story?sid=73331)
 
@@ -8,16 +20,4 @@
 [联想更新笔记本固件修复允许禁用 UEFI 的漏洞](https://www.solidot.org/story?sid=73329)
 
 [TikTok 最大的资产不是其算法而是你的手机](https://www.solidot.org/story?sid=73328)
-
-[研究证实加工食品是肥胖增加的关键](https://www.solidot.org/story?sid=73327)
-
-[Gmail 将不再允许回到旧界面](https://www.solidot.org/story?sid=73326)
-
-[Google 将其 VPN 服务带到 Windows 和 Mac](https://www.solidot.org/story?sid=73325)
-
-[苹果修改国行 AirDrop 默认设置](https://www.solidot.org/story?sid=73324)
-
-[卫健委计划到 2025 年给每个居民一个电子健康码](https://www.solidot.org/story?sid=73323)
-
-[IBM 宣布 433 个量子比特的 Osprey 芯片](https://www.solidot.org/story?sid=73322)
 
