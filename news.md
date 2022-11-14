@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-11-14 16:46:13
+> Update time: 2022-11-15 04:10:50
 
-[过去一年中国亿万富翁财富缩水逾五千亿美元](https://www.solidot.org/story?sid=73353)
+[贝索斯表示将会捐出大部分财富](https://www.solidot.org/story?sid=73364)
 
-[为什么男性睾酮水平下降？](https://www.solidot.org/story?sid=73352)
+[研究认为很难发现新冠病毒的祖先](https://www.solidot.org/story?sid=73363)
 
-[幽灵必须死：漏洞利用幽灵'msg_msg'以及VED的防护策略](https://www.solidot.org/story?sid=73351)
+[美国大学毕业生后悔学习新闻、社会和传播学等专业](https://www.solidot.org/story?sid=73362)
 
-[苹果公司在加州遭集体诉讼](https://www.solidot.org/story?sid=73350)
+[调查显示 Java、Python、Kotlin 和 Rust 的流行度都在快速增长](https://www.solidot.org/story?sid=73361)
 
-[研究发现金钱能买到快乐](https://www.solidot.org/story?sid=73349)
+[X-37B 创造在轨飞行 908 天新记录](https://www.solidot.org/story?sid=73360)
 
-[Crypto.com 五分之一的加密货币资产是柴犬币](https://www.solidot.org/story?sid=73348)
+[11 月 15 日全球人口将达到 80 亿](https://www.solidot.org/story?sid=73358)
 
-[微软证实 Windows 11 22H2 存在游戏性能问题](https://www.solidot.org/story?sid=73347)
+[FTX 只剩 9 亿美元容易销售的资产](https://www.solidot.org/story?sid=73357)
 
-[FTX 声称遭黑客入侵，逾 6 亿美元资产流出](https://www.solidot.org/story?sid=73346)
+[北溪管道泄露地点附近曾出现神秘船舶](https://www.solidot.org/story?sid=73356)
 
-[微软关联俄罗斯军方情报部门与对波兰和乌克兰的网络攻击](https://www.solidot.org/story?sid=73345)
+[全球海运集装箱短缺变成了过剩](https://www.solidot.org/story?sid=73355)
 
-[LibreOffice 支持 RISC-V 64 位处理器](https://www.solidot.org/story?sid=73344)
+[澳大利亚考虑禁止向勒索软件黑客支付赎金](https://www.solidot.org/story?sid=73354)
 
