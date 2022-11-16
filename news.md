@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-16 16:44:30
+> Update time: 2022-11-17 04:10:28
+
+[安全研究人员发现黑客入侵 CA 机构](https://www.solidot.org/story?sid=73390)
+
+[网信办发布修订版的《互联网跟帖评论服务管理规定》](https://www.solidot.org/story?sid=73389)
+
+[Firefox 107 发布](https://www.solidot.org/story?sid=73388)
+
+[Fedora 37 发布](https://www.solidot.org/story?sid=73387)
+
+[世界人口达到 80 亿](https://www.solidot.org/story?sid=73386)
+
+[NASA 成功发射登月火箭 Artemis I](https://www.solidot.org/story?sid=73385)
 
 [地球第一次大规模生物灭绝事件的新视角](https://www.solidot.org/story?sid=73384)
 
@@ -8,16 +20,4 @@
 [马斯克解雇在 Twitter 和 Slack 上纠正和批评他的员工](https://www.solidot.org/story?sid=73382)
 
 [数字书的磨损速度快于实体书](https://www.solidot.org/story?sid=73381)
-
-[苹果计划在 2024 年采购在亚利桑那州芯片工厂制造的芯片](https://www.solidot.org/story?sid=73380)
-
-[法庭文件显示 FTX 的债权人多达百万](https://www.solidot.org/story?sid=73379)
-
-[凹语言 v0.3.1 发布，支持多包](https://www.solidot.org/story?sid=73378)
-
-[立方体卫星 CAPSTONE 进入月球轨道](https://www.solidot.org/story?sid=73377)
-
-[科学家在实验室中制造出地球不存在的磁性材料](https://www.solidot.org/story?sid=73376)
-
-[无人愿意谈论的一个气候问题：畜牧业](https://www.solidot.org/story?sid=73375)
 
