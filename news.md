@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-11-16 04:37:29
+> Update time: 2022-11-16 16:13:52
 
-[Googe 奖励发现 Pixel 锁屏绕过漏洞的研究人员七万美元](https://www.solidot.org/story?sid=73373)
+[地球第一次大规模生物灭绝事件的新视角](https://www.solidot.org/story?sid=73384)
 
-[Google 就隐私问题与美国 40 个州达成 3.91 亿美元和解](https://www.solidot.org/story?sid=73372)
+[苹果开始在美国加拿大提供卫星紧急通信服务](https://www.solidot.org/story?sid=73383)
 
-[巴菲特的公司向台积电投资 41 亿美元](https://www.solidot.org/story?sid=73371)
+[马斯克解雇在 Twitter 和 Slack 上纠正和批评他的员工](https://www.solidot.org/story?sid=73382)
 
-[意大利禁止使用面部识别技术，犯罪调查例外](https://www.solidot.org/story?sid=73370)
+[数字书的磨损速度快于实体书](https://www.solidot.org/story?sid=73381)
 
-[基因变异或能解释一名母亲四个孩子的死亡](https://www.solidot.org/story?sid=73369)
+[苹果计划在 2024 年采购在亚利桑那州芯片工厂制造的芯片](https://www.solidot.org/story?sid=73380)
 
-[科学家发现用字母书写的已知最古老句子](https://www.solidot.org/story?sid=73368)
+[法庭文件显示 FTX 的债权人多达百万](https://www.solidot.org/story?sid=73379)
 
-[印度解除 VideoLAN 禁令](https://www.solidot.org/story?sid=73367)
+[凹语言 v0.3.1 发布，支持多包](https://www.solidot.org/story?sid=73378)
 
-[人类在社媒上的行为类似自然界中的群行](https://www.solidot.org/story?sid=73366)
+[立方体卫星 CAPSTONE 进入月球轨道](https://www.solidot.org/story?sid=73377)
 
-[亚马逊计划裁减上万员工](https://www.solidot.org/story?sid=73365)
+[科学家在实验室中制造出地球不存在的磁性材料](https://www.solidot.org/story?sid=73376)
 
-[贝索斯表示将会捐出大部分财富](https://www.solidot.org/story?sid=73364)
+[无人愿意谈论的一个气候问题：畜牧业](https://www.solidot.org/story?sid=73375)
 
