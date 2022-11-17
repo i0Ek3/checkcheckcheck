@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-11-17 16:44:19
+> Update time: 2022-11-18 04:10:35
+
+[Z-Library 两位创始人在阿根廷被捕](https://www.solidot.org/story?sid=73401)
+
+[为什么儿童学习速度更快](https://www.solidot.org/story?sid=73400)
+
+[英伟达因 RTX 4090 电源连接器问题面临集体诉讼](https://www.solidot.org/story?sid=73399)
+
+[淡马锡减记对 FTX 的 2.75 亿美元投资](https://www.solidot.org/story?sid=73398)
+
+[Meta 开源其内部源码管理系统 Sapling](https://www.solidot.org/story?sid=73397)
 
 [蝙蝠生境变化或促使人畜共患病毒出现](https://www.solidot.org/story?sid=73396)
 
@@ -10,14 +20,4 @@
 [亚马逊证实将裁约万名员工](https://www.solidot.org/story?sid=73393)
 
 [暴雪宣布与网易停止合作](https://www.solidot.org/story?sid=73392)
-
-[马斯克给 Twitter 员工下达最后通牒](https://www.solidot.org/story?sid=73391)
-
-[安全研究人员发现黑客入侵 CA 机构](https://www.solidot.org/story?sid=73390)
-
-[网信办发布修订版的《互联网跟帖评论服务管理规定》](https://www.solidot.org/story?sid=73389)
-
-[Firefox 107 发布](https://www.solidot.org/story?sid=73388)
-
-[Fedora 37 发布](https://www.solidot.org/story?sid=73387)
 
