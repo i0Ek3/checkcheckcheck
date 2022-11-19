@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-11-19 16:41:20
+> Update time: 2022-11-20 04:09:40
+
+[美国空军和 FBI 突击搜查一位 51 区博主的家](https://www.solidot.org/story?sid=73418)
+
+[Theranos 创始人被判 11.25 年](https://www.solidot.org/story?sid=73417)
+
+[Epic 称 Google 为防止动视暴雪推出应用商店而支付了 3.6 亿美元，动视否认](https://www.solidot.org/story?sid=73416)
+
+[巴哈马政府扣押了 FTX 4.77 亿美元资产](https://www.solidot.org/story?sid=73415)
+
+[安全研究人员悄悄破解勒索软件 Zeppelin](https://www.solidot.org/story?sid=73414)
 
 [体长近 4 米的海龟新化石现世](https://www.solidot.org/story?sid=73413)
 
@@ -10,14 +20,4 @@
 [中日科学家在中国重新发现鉴真的《鉴上人秘方》](https://www.solidot.org/story?sid=73410)
 
 [Google 将要求经理增加低绩效员工比例](https://www.solidot.org/story?sid=73409)
-
-[Waymo 展示其下一代全自动无人驾驶原型车](https://www.solidot.org/story?sid=73408)
-
-[印度要求在该国销售的所有智能设备使用 USB-C 端口](https://www.solidot.org/story?sid=73407)
-
-[马约拉纳费米子论文被撤回](https://www.solidot.org/story?sid=73406)
-
-[Google 和亚马逊遵守搜查令帮助识别 Z-Library 运营者身份](https://www.solidot.org/story?sid=73405)
-
-[索尼克之父中裕司因涉嫌内幕交易被捕](https://www.solidot.org/story?sid=73404)
 
