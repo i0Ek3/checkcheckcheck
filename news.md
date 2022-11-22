@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-22 16:45:21
+> Update time: 2022-11-23 04:09:59
+
+[辉瑞称其新冠疫苗将继续对美国人免费](https://www.solidot.org/story?sid=73449)
+
+[龙芯称其第四代产品将达到主流 CPU 性能](https://www.solidot.org/story?sid=73448)
+
+[京东高管降薪提高普通员工福利](https://www.solidot.org/story?sid=73447)
+
+[NASA 猎户座飞船抵达月球](https://www.solidot.org/story?sid=73446)
+
+[英伟达 Magic3D 能从文本生成 3D 模型](https://www.solidot.org/story?sid=73445)
+
+[新研究揭示基因与身高的联系](https://www.solidot.org/story?sid=73444)
 
 [微软如何判断你的网络是否受限](https://www.solidot.org/story?sid=73443)
 
@@ -8,16 +20,4 @@
 [台积电亚利桑那工厂将生产最先进芯片](https://www.solidot.org/story?sid=73441)
 
 [Z-Library 团队回应美国逮捕创始成员](https://www.solidot.org/story?sid=73440)
-
-[李小龙可能死于饮水过多](https://www.solidot.org/story?sid=73439)
-
-[加密货币也侵蚀 mastodon 了](https://www.solidot.org/story?sid=73438)
-
-[Tumblr 将加入对 ActivityPub 协议的支持](https://www.solidot.org/story?sid=73437)
-
-[Tumblr 将加入对 ActivityPub 协议的支持](https://www.solidot.org/story?sid=73436)
-
-[记者想在 Mastodon 上重造 Twitter，但 Mastodon 不想参合](https://www.solidot.org/story?sid=73435)
-
-[解雇八成工程师后公司仍然能生存下来？](https://www.solidot.org/story?sid=73434)
 
