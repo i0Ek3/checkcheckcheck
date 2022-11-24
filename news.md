@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-11-24 04:35:01
+> Update time: 2022-11-24 16:12:13
+
+[美国海军为违反软件许可证赔偿 15.4 万美元](https://www.solidot.org/story?sid=73471)
+
+[Stable Diffusion 2.0 发布](https://www.solidot.org/story?sid=73470)
+
+[Redox OS 0.8 发布](https://www.solidot.org/story?sid=73469)
+
+[微软收购动视暴雪的交易面临更多监管部门的审查](https://www.solidot.org/story?sid=73468)
+
+[Firefox 如何改进在 Windows 平台的稳定性](https://www.solidot.org/story?sid=73465)
 
 [蒋尚义加盟富士康](https://www.solidot.org/story?sid=73462)
 
@@ -10,14 +20,4 @@
 [Android TV 将要求采用 Android App Bundles 文件格式](https://www.solidot.org/story?sid=73459)
 
 [惠普裁员最多 6000 人](https://www.solidot.org/story?sid=73458)
-
-[全球游戏玩家人数达到 32 亿](https://www.solidot.org/story?sid=73457)
-
-[东京都知事督促居民穿高领毛衣节能](https://www.solidot.org/story?sid=73454)
-
-[高强度有氧运动或能大幅降低癌转移风险](https://www.solidot.org/story?sid=73453)
-
-[《阿凡达2》将同步上映](https://www.solidot.org/story?sid=73452)
-
-[微软称 WSL 达到了 GA 阶段](https://www.solidot.org/story?sid=73451)
 
