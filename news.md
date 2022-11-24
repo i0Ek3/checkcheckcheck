@@ -1,5 +1,13 @@
 # Here The News
-> Update time: 2022-11-24 16:40:05
+> Update time: 2022-11-25 04:09:12
+
+[细菌感染是全球第二大死因](https://www.solidot.org/story?sid=73475)
+
+[天文学家首次观测到超大质量黑洞喷射高能粒子](https://www.solidot.org/story?sid=73474)
+
+[美国计划在月球上生活和开采资源](https://www.solidot.org/story?sid=73473)
+
+[Meta 透露在《外交》游戏中达到人类水平的 AI Cicero](https://www.solidot.org/story?sid=73472)
 
 [美国海军为违反软件许可证赔偿 15.4 万美元](https://www.solidot.org/story?sid=73471)
 
@@ -9,15 +17,7 @@
 
 [微软收购动视暴雪的交易面临更多监管部门的审查](https://www.solidot.org/story?sid=73468)
 
+[Stable Diffusion 2.0 发布](https://www.solidot.org/story?sid=73467)
+
 [Firefox 如何改进在 Windows 平台的稳定性](https://www.solidot.org/story?sid=73465)
-
-[蒋尚义加盟富士康](https://www.solidot.org/story?sid=73462)
-
-[美国数据显示新冠二价加强针能有效抵抗感染](https://www.solidot.org/story?sid=73461)
-
-[大萧条期间出生的人细胞衰老速度更快](https://www.solidot.org/story?sid=73460)
-
-[Android TV 将要求采用 Android App Bundles 文件格式](https://www.solidot.org/story?sid=73459)
-
-[惠普裁员最多 6000 人](https://www.solidot.org/story?sid=73458)
 
