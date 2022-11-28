@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-11-28 16:40:41
+> Update time: 2022-11-29 04:09:30
+
+[富士康郑州工厂问题可能导致苹果手机产量减少 600 万部](https://www.solidot.org/story?sid=73501)
+
+[不同的人饮水量差异巨大](https://www.solidot.org/story?sid=73500)
+
+[法国科学家破译神圣罗马皇帝的密码信](https://www.solidot.org/story?sid=73499)
+
+[540 万 Twitter 账号信息在黑客论坛免费共享](https://www.solidot.org/story?sid=73498)
+
+[SpaceX 向国际空间站送去西红柿种子](https://www.solidot.org/story?sid=73497)
+
+[银河系冬眠者指南](https://www.solidot.org/story?sid=73496)
 
 [调查发现电脑维修店员工会访问客户个人数据](https://www.solidot.org/story?sid=73495)
 
@@ -8,16 +20,4 @@
 [为什么大部分混合工作模式不成功](https://www.solidot.org/story?sid=73493)
 
 [手机上瘾与低认知能力和低自控相关](https://www.solidot.org/story?sid=73492)
-
-[德国隐私监管机构认为 Microsoft 365 不兼容 GDPR](https://www.solidot.org/story?sid=73491)
-
-[Google Chrome 释出紧急更新修复年内的第 8 个 0day](https://www.solidot.org/story?sid=73490)
-
-[2022 年最常用的密码仍然是 password](https://www.solidot.org/story?sid=73489)
-
-[币安公布其资产储备证明系统](https://www.solidot.org/story?sid=73488)
-
-[Google 称互联网的六成是重复内容](https://www.solidot.org/story?sid=73487)
-
-[mRNA 通用流感疫苗在动物实验中取得初步成功](https://www.solidot.org/story?sid=73486)
 
