@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-01 16:41:17
+> Update time: 2022-12-02 04:09:20
+
+[Cloudflare 如何为中国客户实现全球访问](https://www.solidot.org/story?sid=73535)
+
+[缺乏 Y 染色体的奄美刺鼠如何生存？](https://www.solidot.org/story?sid=73534)
+
+[天文学家观测到黑洞正在吞噬一颗恒星](https://www.solidot.org/story?sid=73533)
+
+[台积电亚利桑那工厂将为苹果英伟达 AMD 生产 4 纳米芯片](https://www.solidot.org/story?sid=73532)
+
+[迪士尼研究人员演示改变演员年龄的神经网络](https://www.solidot.org/story?sid=73531)
+
+[DASH 饮食有助于降低心血管病风险](https://www.solidot.org/story?sid=73530)
+
+[研究人员利用 Google 量子处理器模拟全息虫洞](https://www.solidot.org/story?sid=73529)
+
+[主要浏览器停止信任 TrustCor 的证书](https://www.solidot.org/story?sid=73528)
+
+[印度央行开始面向个人用户试点数字卢比](https://www.solidot.org/story?sid=73527)
 
 [LastPass 披露最新安全事故](https://www.solidot.org/story?sid=73525)
-
-[谁控制了互联网？](https://www.solidot.org/story?sid=73524)
-
-[Mastodon 的安全性如何？](https://www.solidot.org/story?sid=73523)
-
-[Snapchat 要求从明年开始员工每周回办公室工作四天](https://www.solidot.org/story?sid=73522)
-
-[罗尔斯·罗伊斯成功测试氢气为燃料的飞机引擎](https://www.solidot.org/story?sid=73521)
-
-[Let’s Encrypt 签发了逾三十亿证书](https://www.solidot.org/story?sid=73520)
-
-[Anker 未经用户同意向云端上传信息](https://www.solidot.org/story?sid=73518)
-
-[Emacs 29 开发基本完成](https://www.solidot.org/story?sid=73517)
-
-[神舟十五号发射与空间站对接](https://www.solidot.org/story?sid=73516)
-
-[Sam Bankman-Fried 称他完全不懂编程](https://www.solidot.org/story?sid=73515)
 
