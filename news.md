@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-02 16:37:28
+> Update time: 2022-12-03 04:09:15
+
+[OpenAI 的新聊天机器人能聊代码写情景喜剧但仍然容易受骗](https://www.solidot.org/story?sid=73544)
+
+[Steam Linux 市场份额达到 1.44%](https://www.solidot.org/story?sid=73543)
+
+[三星 LG 联发科的证书被用于签名恶意程序](https://www.solidot.org/story?sid=73542)
+
+[成年大脑中含有数百万“沉默突触”](https://www.solidot.org/story?sid=73541)
+
+[Android 13 的内存安全漏洞大幅减少](https://www.solidot.org/story?sid=73540)
+
+[Kanye West 不再收购保守派社媒 Parler](https://www.solidot.org/story?sid=73539)
+
+[研究人员在陨石重发现两种新矿物质](https://www.solidot.org/story?sid=73538)
+
+[科学家发现新型抗生素耐药机制](https://www.solidot.org/story?sid=73537)
+
+[FTC 批准 SpaceX 发射 7500 颗 Starlink 卫星](https://www.solidot.org/story?sid=73536)
 
 [Cloudflare 如何为中国客户实现全球访问](https://www.solidot.org/story?sid=73535)
-
-[缺乏 Y 染色体的奄美刺鼠如何生存？](https://www.solidot.org/story?sid=73534)
-
-[天文学家观测到黑洞正在吞噬一颗恒星](https://www.solidot.org/story?sid=73533)
-
-[台积电亚利桑那工厂将为苹果英伟达 AMD 生产 4 纳米芯片](https://www.solidot.org/story?sid=73532)
-
-[迪士尼研究人员演示改变演员年龄的神经网络](https://www.solidot.org/story?sid=73531)
-
-[DASH 饮食有助于降低心血管病风险](https://www.solidot.org/story?sid=73530)
-
-[研究人员利用 Google 量子处理器模拟全息虫洞](https://www.solidot.org/story?sid=73529)
-
-[主要浏览器停止信任 TrustCor 的证书](https://www.solidot.org/story?sid=73528)
-
-[印度央行开始面向个人用户试点数字卢比](https://www.solidot.org/story?sid=73527)
-
-[LastPass 披露最新安全事故](https://www.solidot.org/story?sid=73525)
 
