@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-12-03 16:36:22
+> Update time: 2022-12-04 04:08:20
+
+[斯诺登获得俄罗斯护照并宣誓入籍](https://www.solidot.org/story?sid=73550)
+
+[美国南达科他州禁止在政府发放的设备上安装 TikTok](https://www.solidot.org/story?sid=73549)
+
+[美国空军宣布 B-21 Raider 隐形轰炸机](https://www.solidot.org/story?sid=73548)
+
+[英国 22% 的技术人员年龄 50 岁或以上](https://www.solidot.org/story?sid=73547)
+
+[全世界男性精子数比我们预想的更快减少](https://www.solidot.org/story?sid=73546)
+
+[个人可能宁愿伤害自己的群体而不是帮助敌对群体](https://www.solidot.org/story?sid=73545)
 
 [OpenAI 的新聊天机器人能聊代码写情景喜剧但仍然容易受骗](https://www.solidot.org/story?sid=73544)
 
@@ -8,16 +20,4 @@
 [三星 LG 联发科的证书被用于签名恶意程序](https://www.solidot.org/story?sid=73542)
 
 [成年大脑中含有数百万“沉默突触”](https://www.solidot.org/story?sid=73541)
-
-[Android 13 的内存安全漏洞大幅减少](https://www.solidot.org/story?sid=73540)
-
-[Kanye West 不再收购保守派社媒 Parler](https://www.solidot.org/story?sid=73539)
-
-[研究人员在陨石重发现两种新矿物质](https://www.solidot.org/story?sid=73538)
-
-[科学家发现新型抗生素耐药机制](https://www.solidot.org/story?sid=73537)
-
-[FTC 批准 SpaceX 发射 7500 颗 Starlink 卫星](https://www.solidot.org/story?sid=73536)
-
-[Cloudflare 如何为中国客户实现全球访问](https://www.solidot.org/story?sid=73535)
 
