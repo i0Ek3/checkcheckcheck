@@ -1,5 +1,11 @@
 # Here The News
-> Update time: 2022-12-04 16:36:38
+> Update time: 2022-12-05 04:08:42
+
+[开源软件托管商 Fosshost 关闭，CEO 失联](https://www.solidot.org/story?sid=73553)
+
+[Android Messages 群聊将支持端对端加密](https://www.solidot.org/story?sid=73552)
+
+[苹果计划将 iPhone Pro 的生产加快转移到印度](https://www.solidot.org/story?sid=73551)
 
 [斯诺登获得俄罗斯护照并宣誓入籍](https://www.solidot.org/story?sid=73550)
 
@@ -14,10 +20,4 @@
 [个人可能宁愿伤害自己的群体而不是帮助敌对群体](https://www.solidot.org/story?sid=73545)
 
 [OpenAI 的新聊天机器人能聊代码写情景喜剧但仍然容易受骗](https://www.solidot.org/story?sid=73544)
-
-[Steam Linux 市场份额达到 1.44%](https://www.solidot.org/story?sid=73543)
-
-[三星 LG 联发科的证书被用于签名恶意程序](https://www.solidot.org/story?sid=73542)
-
-[成年大脑中含有数百万“沉默突触”](https://www.solidot.org/story?sid=73541)
 
