@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-12-05 16:39:08
+> Update time: 2022-12-06 04:09:00
+
+[随着北极暖化河狸向北迁移](https://www.solidot.org/story?sid=73564)
+
+[俄罗斯法庭和市长办公室遭到破坏性恶意程序攻击](https://www.solidot.org/story?sid=73563)
+
+[ICON 将为 NASA 研发月球用的 3D 打印机](https://www.solidot.org/story?sid=73560)
+
+[美国参议员呼吁汽车厂商保留 AM 广播](https://www.solidot.org/story?sid=73559)
+
+[实验性疫苗让 97% 的人产生 HIV 抗体](https://www.solidot.org/story?sid=73558)
+
+[考古学家呼吁 Netflix 将 Graham Hancock 纪录片归类为虚构](https://www.solidot.org/story?sid=73557)
 
 [女子假装孕妇走私英特尔 CPU](https://www.solidot.org/story?sid=73556)
 
@@ -8,16 +20,4 @@
 [抗衰老药物对不同性别可能有不同影响](https://www.solidot.org/story?sid=73554)
 
 [开源软件托管商 Fosshost 关闭，CEO 失联](https://www.solidot.org/story?sid=73553)
-
-[Android Messages 群聊将支持端对端加密](https://www.solidot.org/story?sid=73552)
-
-[苹果计划将 iPhone Pro 的生产加快转移到印度](https://www.solidot.org/story?sid=73551)
-
-[斯诺登获得俄罗斯护照并宣誓入籍](https://www.solidot.org/story?sid=73550)
-
-[美国南达科他州禁止在政府发放的设备上安装 TikTok](https://www.solidot.org/story?sid=73549)
-
-[美国空军宣布 B-21 Raider 隐形轰炸机](https://www.solidot.org/story?sid=73548)
-
-[英国 22% 的技术人员年龄 50 岁或以上](https://www.solidot.org/story?sid=73547)
 
