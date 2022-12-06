@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-06 16:38:15
+> Update time: 2022-12-07 04:09:31
 
-[牛津英语词典的年度词是 goblin mode](https://www.solidot.org/story?sid=73566)
+[亚马逊提议以每月 2 美元允许它监视手机流量](https://www.solidot.org/story?sid=73578)
 
-[Adobe 将销售 AI 生成的图片库](https://www.solidot.org/story?sid=73565)
+[宇宙星系的分布是不对称的](https://www.solidot.org/story?sid=73577)
 
-[随着北极暖化河狸向北迁移](https://www.solidot.org/story?sid=73564)
+[美欧同意协调半导体补贴方案](https://www.solidot.org/story?sid=73576)
 
-[俄罗斯法庭和市长办公室遭到破坏性恶意程序攻击](https://www.solidot.org/story?sid=73563)
+[《矮人要塞》图像升级版发布](https://www.solidot.org/story?sid=73575)
 
-[ICON 将为 NASA 研发月球用的 3D 打印机](https://www.solidot.org/story?sid=73560)
+[FDA 批准第一种粪便移植产品](https://www.solidot.org/story?sid=73574)
 
-[美国参议员呼吁汽车厂商保留 AM 广播](https://www.solidot.org/story?sid=73559)
+[微塑料可能增加其他污染物的毒性](https://www.solidot.org/story?sid=73573)
 
-[实验性疫苗让 97% 的人产生 HIV 抗体](https://www.solidot.org/story?sid=73558)
+[平方公里阵列(SKA)开始动工建造](https://www.solidot.org/story?sid=73572)
 
-[考古学家呼吁 Netflix 将 Graham Hancock 纪录片归类为虚构](https://www.solidot.org/story?sid=73557)
+[Thunderbird For Android 展示新消息视图设计](https://www.solidot.org/story?sid=73571)
 
-[女子假装孕妇走私英特尔 CPU](https://www.solidot.org/story?sid=73556)
+[微软向索尼提出一份十年的新使命召唤游戏合同](https://www.solidot.org/story?sid=73570)
 
-[Stack Overflow 临时封杀 ChatGPT](https://www.solidot.org/story?sid=73555)
+[英伟达 GTX 1060 不再是 Steam 平台使用率最高的显卡](https://www.solidot.org/story?sid=73569)
 
