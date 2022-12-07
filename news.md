@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-07 16:38:41
+> Update time: 2022-12-08 04:09:19
 
-[亚马逊提议以每月 2 美元允许它监视手机流量](https://www.solidot.org/story?sid=73578)
+[Winamp 新版加入了对 Music NFT 的支持](https://www.solidot.org/story?sid=73588)
 
-[宇宙星系的分布是不对称的](https://www.solidot.org/story?sid=73577)
+[GCC 即将加入对 Rust 的支持](https://www.solidot.org/story?sid=73587)
 
-[美欧同意协调半导体补贴方案](https://www.solidot.org/story?sid=73576)
+[法国将限制短途航班以增加高速火车使用率](https://www.solidot.org/story?sid=73586)
 
-[《矮人要塞》图像升级版发布](https://www.solidot.org/story?sid=73575)
+[联合国可能在 2024 年达成限塑令](https://www.solidot.org/story?sid=73585)
 
-[FDA 批准第一种粪便移植产品](https://www.solidot.org/story?sid=73574)
+[美国推迟航空旅客实名制实施时间至 2025 年](https://www.solidot.org/story?sid=73584)
 
-[微塑料可能增加其他污染物的毒性](https://www.solidot.org/story?sid=73573)
+[AI 在 Stratego 游戏中达到专业人类玩家水平](https://www.solidot.org/story?sid=73583)
 
-[平方公里阵列(SKA)开始动工建造](https://www.solidot.org/story?sid=73572)
+[Telegram Premium 订户突破百万](https://www.solidot.org/story?sid=73582)
 
-[Thunderbird For Android 展示新消息视图设计](https://www.solidot.org/story?sid=73571)
+[国务院公布新冠防疫新措施](https://www.solidot.org/story?sid=73581)
 
-[微软向索尼提出一份十年的新使命召唤游戏合同](https://www.solidot.org/story?sid=73570)
+[苹果推迟自动驾驶电动汽车发布时间](https://www.solidot.org/story?sid=73580)
 
-[英伟达 GTX 1060 不再是 Steam 平台使用率最高的显卡](https://www.solidot.org/story?sid=73569)
+[台积电加大在美国的投资](https://www.solidot.org/story?sid=73579)
 
