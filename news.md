@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-08 16:38:36
+> Update time: 2022-12-09 04:08:47
+
+[研究人员从格陵兰岛提取出最古老 DNA](https://www.solidot.org/story?sid=73601)
+
+[Blender 3.4 发布](https://www.solidot.org/story?sid=73600)
+
+[因为抗议旧金山撤回了受争议的致命机器人政策](https://www.solidot.org/story?sid=73598)
+
+[尼日利亚减少现金取款金额以增加央行数字货币使用](https://www.solidot.org/story?sid=73597)
+
+[台积电创始人认为全球化几乎已死](https://www.solidot.org/story?sid=73596)
+
+[费米实验室和 CERN 选择 AlmaLinux](https://www.solidot.org/story?sid=73595)
+
+[英特尔 Arc GPU DX 9 驱动使用了开源代码 DXVK](https://www.solidot.org/story?sid=73594)
+
+[Tor Browser 12.0 发布](https://www.solidot.org/story?sid=73593)
 
 [苹果 iCloud 备份将支持端对端加密](https://www.solidot.org/story?sid=73592)
 
 [苹果放弃了扫描手机上儿童色情的 CSAM 计划](https://www.solidot.org/story?sid=73591)
-
-[波音最后一架 747 出厂](https://www.solidot.org/story?sid=73590)
-
-[甲龙的尾槌可能是用来互相捶打](https://www.solidot.org/story?sid=73589)
-
-[Winamp 新版加入了对 Music NFT 的支持](https://www.solidot.org/story?sid=73588)
-
-[GCC 即将加入对 Rust 的支持](https://www.solidot.org/story?sid=73587)
-
-[法国将限制短途航班以增加高速火车使用率](https://www.solidot.org/story?sid=73586)
-
-[联合国可能在 2024 年达成限塑令](https://www.solidot.org/story?sid=73585)
-
-[美国推迟航空旅客实名制实施时间至 2025 年](https://www.solidot.org/story?sid=73584)
-
-[AI 在 Stratego 游戏中达到专业人类玩家水平](https://www.solidot.org/story?sid=73583)
 
