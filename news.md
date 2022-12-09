@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-09 16:38:13
+> Update time: 2022-12-10 04:09:30
 
-[新千新星让科学家重新思考伽马射线暴](https://www.solidot.org/story?sid=73603)
+[PHP 8.2.0 发布](https://www.solidot.org/story?sid=73614)
 
-[FTC 寻求阻止微软收购动视暴雪](https://www.solidot.org/story?sid=73602)
+[上海研究称国产疫苗对老年人重症保护率达九成](https://www.solidot.org/story?sid=73613)
 
-[研究人员从格陵兰岛提取出最古老 DNA](https://www.solidot.org/story?sid=73601)
+[太平洋岛国瓦努阿图离线逾一个月](https://www.solidot.org/story?sid=73612)
 
-[Blender 3.4 发布](https://www.solidot.org/story?sid=73600)
+[Windows 11 终于提供了内置的屏幕录像工具](https://www.solidot.org/story?sid=73611)
 
-[因为抗议旧金山撤回了受争议的致命机器人政策](https://www.solidot.org/story?sid=73598)
+[五角大楼将其云计算合同分给四家公司](https://www.solidot.org/story?sid=73610)
 
-[尼日利亚减少现金取款金额以增加央行数字货币使用](https://www.solidot.org/story?sid=73597)
+[日本亿万富翁前泽友作为其绕月飞行挑选了 8 位艺术家](https://www.solidot.org/story?sid=73609)
 
-[台积电创始人认为全球化几乎已死](https://www.solidot.org/story?sid=73596)
+[Chrome 引入节能和节省内存模式](https://www.solidot.org/story?sid=73608)
 
-[费米实验室和 CERN 选择 AlmaLinux](https://www.solidot.org/story?sid=73595)
+[韩国修改了年龄计算方法](https://www.solidot.org/story?sid=73607)
 
-[英特尔 Arc GPU DX 9 驱动使用了开源代码 DXVK](https://www.solidot.org/story?sid=73594)
+[Vivaldi 在其桌面浏览器中集成 Mastodon](https://www.solidot.org/story?sid=73606)
 
-[Tor Browser 12.0 发布](https://www.solidot.org/story?sid=73593)
+[首架 C919 交付给东方航空](https://www.solidot.org/story?sid=73605)
 
