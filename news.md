@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-12-13 04:33:37
+> Update time: 2022-12-13 16:12:14
+
+[美国将宣布核聚变研究的一项重大突破](https://www.solidot.org/story?sid=73635)
+
+[OpenShot 3.0 发布](https://www.solidot.org/story?sid=73633)
+
+[网信办发布深度合成管理规定](https://www.solidot.org/story?sid=73632)
+
+[FTX 创始人 Sam Bankman-Fried 被捕](https://www.solidot.org/story?sid=73631)
+
+[美国司法部在指控币安上存在分歧](https://www.solidot.org/story?sid=73630)
+
+[天文学家确认至今观测到的最古老星系](https://www.solidot.org/story?sid=73629)
 
 [恐惧的记忆如何长期保存下来](https://www.solidot.org/story?sid=73628)
 
@@ -8,16 +20,4 @@
 [日本商业月球登陆器升空](https://www.solidot.org/story?sid=73626)
 
 [小岛秀夫在经历新冠疫情之后重写《死亡搁浅2》的剧情](https://www.solidot.org/story?sid=73625)
-
-[DeepMind 的 AlphaCode 在编程竞赛中达到人类水平](https://www.solidot.org/story?sid=73624)
-
-[SpaceX 首次为 OneWeb 发射卫星](https://www.solidot.org/story?sid=73623)
-
-[NASA 猎户座飞船溅落在太平洋](https://www.solidot.org/story?sid=73622)
-
-[Linux 6.1 释出](https://www.solidot.org/story?sid=73621)
-
-[碱基编辑技术治愈女孩的恶性白血病](https://www.solidot.org/story?sid=73620)
-
-[华为授权 OPPO 使用其 5G 技术](https://www.solidot.org/story?sid=73619)
 
