@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-14 04:34:05
+> Update time: 2022-12-14 16:11:43
+
+[中国开展第四针新冠疫苗加强针接种](https://www.solidot.org/story?sid=73645)
+
+[Sam Bankman-Fried 被控金融欺诈](https://www.solidot.org/story?sid=73644)
+
+[激光核聚变首次实现输出能量超过输入能量](https://www.solidot.org/story?sid=73643)
+
+[报告估计软件质量问题导致美国今年损失 2.4 万亿美元](https://www.solidot.org/story?sid=73642)
+
+[Bugzilla 项目宣布了未来计划](https://www.solidot.org/story?sid=73641)
+
+[开源框架 SkyPilot 帮助你减少云计算费用](https://www.solidot.org/story?sid=73640)
+
+[美国成功测试高超音速导弹原型](https://www.solidot.org/story?sid=73639)
 
 [空气中的微塑料](https://www.solidot.org/story?sid=73638)
 
 [研究认为每天一分钟的剧烈活动有助于延寿](https://www.solidot.org/story?sid=73637)
 
 [越南庆祝连接国际互联网 25 周年](https://www.solidot.org/story?sid=73636)
-
-[美国将宣布核聚变研究的一项重大突破](https://www.solidot.org/story?sid=73635)
-
-[OpenShot 3.0 发布](https://www.solidot.org/story?sid=73633)
-
-[网信办发布深度合成管理规定](https://www.solidot.org/story?sid=73632)
-
-[FTX 创始人 Sam Bankman-Fried 被捕](https://www.solidot.org/story?sid=73631)
-
-[美国司法部在指控币安上存在分歧](https://www.solidot.org/story?sid=73630)
-
-[天文学家确认至今观测到的最古老星系](https://www.solidot.org/story?sid=73629)
-
-[恐惧的记忆如何长期保存下来](https://www.solidot.org/story?sid=73628)
 
