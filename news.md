@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-12-15 16:38:53
+> Update time: 2022-12-16 04:08:27
+
+[印尼新刑法禁止在网上侮辱总统](https://www.solidot.org/story?sid=73664)
+
+[火星沙尘暴高达 118 米](https://www.solidot.org/story?sid=73663)
+
+[Jack Dorsey 承诺每年向 Signal App 捐百万美元](https://www.solidot.org/story?sid=73662)
+
+[Gccrs 代码合并到 GCC 13 主支](https://www.solidot.org/story?sid=73661)
+
+[苹果考虑在欧盟允许第三方应用商店，允许浏览器不使用 WebKit](https://www.solidot.org/story?sid=73660)
 
 [新西兰禁止向 2008 年后出生的人出售香烟](https://www.solidot.org/story?sid=73659)
 
@@ -10,14 +20,4 @@
 [分析预测到 2024 年 Twitter 将失去逾 3200 万用户](https://www.solidot.org/story?sid=73656)
 
 [特斯拉汽车开始支持 Steam 游戏](https://www.solidot.org/story?sid=73655)
-
-[冲刷马桶会喷出气溶胶羽流](https://www.solidot.org/story?sid=73653)
-
-[FTX 首席工程师秘密修改软件允许使用客户的资金](https://www.solidot.org/story?sid=73652)
-
-[《矮人要塞》开发者现在都是百万富翁了](https://www.solidot.org/story?sid=73651)
-
-[勒索软件使用了微软签名的恶意 Windows 驱动](https://www.solidot.org/story?sid=73650)
-
-[Firefox 108 发布](https://www.solidot.org/story?sid=73649)
 
