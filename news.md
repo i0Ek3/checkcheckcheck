@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2022-12-16 16:36:17
+> Update time: 2022-12-17 04:08:22
+
+[研究称锻炼欲望与某种肠道细菌相关](https://www.solidot.org/story?sid=73678)
+
+[Linux 内核贡献成熟度模型](https://www.solidot.org/story?sid=73677)
+
+[OCaml 5.0.0 发布](https://www.solidot.org/story?sid=73676)
+
+[GitHub 详述逐步推广 2FA 的流程](https://www.solidot.org/story?sid=73675)
+
+[NIST 建议 2030 年底前淘汰 SHA-1 加密算法](https://www.solidot.org/story?sid=73674)
+
+[报道称 FTX 内部有一个名叫“Wirefraud”的秘密聊天群](https://www.solidot.org/story?sid=73673)
+
+[WHO 预计明年新冠将不再是全球卫生紧急事件](https://www.solidot.org/story?sid=73672)
 
 [亚马逊成为《古墓丽影》游戏的发行商](https://www.solidot.org/story?sid=73671)
 
 [天文学家在附近恒星的宜居带探测到两颗地球大小的行星](https://www.solidot.org/story?sid=73670)
 
 [长江存储被美国列入出口黑名单](https://www.solidot.org/story?sid=73669)
-
-[Twitter 以恶意程序为由限制用户在其用户名添加 Mastodon 链接](https://www.solidot.org/story?sid=73668)
-
-[Atom 项目存档进入只读模式](https://www.solidot.org/story?sid=73667)
-
-[Boom Supersonic 披露其超音速客机引擎设计](https://www.solidot.org/story?sid=73666)
-
-[国际空间站联盟飞船发生泄露事故](https://www.solidot.org/story?sid=73665)
-
-[印尼新刑法禁止在网上侮辱总统](https://www.solidot.org/story?sid=73664)
-
-[火星沙尘暴高达 118 米](https://www.solidot.org/story?sid=73663)
-
-[Jack Dorsey 承诺每年向 Signal App 捐百万美元](https://www.solidot.org/story?sid=73662)
 
