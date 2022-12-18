@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2022-12-19 04:08:02
+> Update time: 2022-12-19 04:32:57
 
 [Let's Encrypt 支持 ACME-CAA](https://www.solidot.org/story?sid=73685)
 
