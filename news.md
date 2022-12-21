@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-12-21 04:33:03
+> Update time: 2022-12-21 16:11:12
+
+[《福尔摩斯档案簿》《纽约黑帮》等进入公有领域](https://www.solidot.org/story?sid=73714)
+
+[微软上周释出的补丁导致部分 Windows 10 机器蓝屏死机](https://www.solidot.org/story?sid=73713)
+
+[马斯克表示在为 Twitter 寻找新 CEO](https://www.solidot.org/story?sid=73712)
+
+[蔚来用户数据泄露](https://www.solidot.org/story?sid=73711)
+
+[Mozilla 将在明年推出去中心化实例 Mozilla.Social](https://www.solidot.org/story?sid=73710)
 
 [英国银行因 IT 系统宕机被罚 4900 万英镑](https://www.solidot.org/story?sid=73709)
 
@@ -10,14 +20,4 @@
 [SpaceX 在 34 小时内完成三次发射](https://www.solidot.org/story?sid=73706)
 
 [Valve 付费给 Steam Deck 软件的开源开发者](https://www.solidot.org/story?sid=73705)
-
-[韦伯望远镜首次观测 7 行星系统](https://www.solidot.org/story?sid=73704)
-
-[ChatGPT 引发对学生作弊的担忧](https://www.solidot.org/story?sid=73703)
-
-[WSA 支持 Android 13](https://www.solidot.org/story?sid=73702)
-
-[Google 现在能帮你识别医生的潦草药方](https://www.solidot.org/story?sid=73701)
-
-[中国科学家在母乳中发现微塑料](https://www.solidot.org/story?sid=73700)
 
