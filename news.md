@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2022-12-22 16:36:25
+> Update time: 2022-12-23 04:08:46
+
+[科学家首次从一个人身上生成 XX 和 XY 细胞](https://www.solidot.org/story?sid=73733)
+
+[新冠症状与身体活动相关](https://www.solidot.org/story?sid=73732)
+
+[严重肥胖儿童与基因重排相关联](https://www.solidot.org/story?sid=73731)
+
+[教父恶意程序不攻击俄语用户](https://www.solidot.org/story?sid=73730)
+
+[NASA InSight 火星任务结束](https://www.solidot.org/story?sid=73729)
 
 [因人手短缺酒店开始使用机器人](https://www.solidot.org/story?sid=73728)
 
@@ -10,14 +20,4 @@
 [你的大脑在看程序时会发生什么？](https://www.solidot.org/story?sid=73725)
 
 [155 个新基因表明人类仍在演化](https://www.solidot.org/story?sid=73724)
-
-[币安依旧是一个黑箱](https://www.solidot.org/story?sid=73723)
-
-[部分 2023 年款 MacBook 将是越南制造](https://www.solidot.org/story?sid=73722)
-
-[研究认为 2017 年美国青少年自杀率上升不是热播剧《十三个原因》导致的](https://www.solidot.org/story?sid=73721)
-
-[富国银行被罚 37 亿美元](https://www.solidot.org/story?sid=73720)
-
-[Okta 私有代码库被入侵源代码被盗](https://www.solidot.org/story?sid=73719)
 
