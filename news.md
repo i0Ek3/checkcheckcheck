@@ -1,19 +1,19 @@
 # Here The News
-> Update time: 2022-12-27 16:36:05
+> Update time: 2022-12-28 04:08:33
+
+[阿斯巴甜与焦虑行为相关](https://www.solidot.org/story?sid=73759)
+
+[Mozilla 修复了一个 18 年历史的 Firefox Bug](https://www.solidot.org/story?sid=73758)
+
+[上周比特币网络哈希率因美国致命暴风雪下跌近四成](https://www.solidot.org/story?sid=73757)
+
+[哺乳动物体温维持 37℃ 的关键神经元](https://www.solidot.org/story?sid=73756)
+
+[知网因垄断行为被罚 8760 万元](https://www.solidot.org/story?sid=73755)
 
 [Ruby 3.2.0 释出](https://www.solidot.org/story?sid=73754)
 
 [黑客出售 4 亿 Twitter 用户数据库](https://www.solidot.org/story?sid=73753)
 
 [为什么你应该接种有效疫苗而不只是靠感染？](https://www.solidot.org/story?sid=73752)
-
-[亚裔美国人罹患肺癌的风险异常高](https://www.solidot.org/story?sid=73751)
-
-[微软证实 Bethesda 即将发布的三款作品将是 PC 和 Xbox 独占](https://www.solidot.org/story?sid=73750)
-
-[美国国会通过拨款法案禁止政府设备安装 TikTok](https://www.solidot.org/story?sid=73749)
-
-[腾讯今年关闭逾 40 个项目](https://www.solidot.org/story?sid=73748)
-
-[华为与诺基亚延长技术授权协议](https://www.solidot.org/story?sid=73747)
 
