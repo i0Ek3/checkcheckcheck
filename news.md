@@ -1,21 +1,23 @@
 # Here The News
-> Update time: 2022-12-29 16:36:14
+> Update time: 2022-12-30 04:08:47
+
+[黑客滥用 Google Ads 将恶意程序传播给搜索合法软件的用户](https://www.solidot.org/story?sid=73770)
+
+[NASA 考虑使用 SpaceX 的 Crew Dragon 作为宇航员的备用飞船](https://www.solidot.org/story?sid=73769)
+
+[六成 Netflix 订户今年看过至少一部韩剧](https://www.solidot.org/story?sid=73768)
+
+[韩国月球探测器进入绕月轨道](https://www.solidot.org/story?sid=73767)
+
+[72 岁美国议员在攻读机器学习硕士课程](https://www.solidot.org/story?sid=73766)
+
+[Mastodon 拒绝硅谷风投以维持非盈利地位](https://www.solidot.org/story?sid=73765)
+
+[你的手机将成为卫星电话](https://www.solidot.org/story?sid=73764)
 
 [中国恢复进口游戏审批](https://www.solidot.org/story?sid=73763)
 
 [中国显卡制造商的崛起](https://www.solidot.org/story?sid=73762)
 
 [男性可能不像女性那样“认为”需要做家务](https://www.solidot.org/story?sid=73761)
-
-[印度正成为制造业的新生产基地](https://www.solidot.org/story?sid=73760)
-
-[阿斯巴甜与焦虑行为相关](https://www.solidot.org/story?sid=73759)
-
-[Mozilla 修复了一个 18 年历史的 Firefox Bug](https://www.solidot.org/story?sid=73758)
-
-[上周比特币网络哈希率因美国致命暴风雪下跌近四成](https://www.solidot.org/story?sid=73757)
-
-[哺乳动物体温维持 37℃ 的关键神经元](https://www.solidot.org/story?sid=73756)
-
-[知网因垄断行为被罚 8760 万元](https://www.solidot.org/story?sid=73755)
 
