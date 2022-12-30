@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2022-12-30 16:35:11
+> Update time: 2022-12-31 04:08:49
+
+[因 IE11 Mozilla 冻结部分用户代理字符串](https://www.solidot.org/story?sid=73776)
+
+[台积电开始量产 3 纳米芯片](https://www.solidot.org/story?sid=73775)
+
+[印度设定智能手机必须使用 USB-C 充电端口的最后期限](https://www.solidot.org/story?sid=73774)
+
+[新发现解释胎动的原因](https://www.solidot.org/story?sid=73773)
+
+[软件工程师称受电影《Office Space》的启发盗取公司帐户的钱](https://www.solidot.org/story?sid=73772)
+
+[父系辐射暴露的 DNA 损伤如何影响后代](https://www.solidot.org/story?sid=73771)
 
 [黑客滥用 Google Ads 将恶意程序传播给搜索合法软件的用户](https://www.solidot.org/story?sid=73770)
 
@@ -8,16 +20,4 @@
 [六成 Netflix 订户今年看过至少一部韩剧](https://www.solidot.org/story?sid=73768)
 
 [韩国月球探测器进入绕月轨道](https://www.solidot.org/story?sid=73767)
-
-[72 岁美国议员在攻读机器学习硕士课程](https://www.solidot.org/story?sid=73766)
-
-[Mastodon 拒绝硅谷风投以维持非盈利地位](https://www.solidot.org/story?sid=73765)
-
-[你的手机将成为卫星电话](https://www.solidot.org/story?sid=73764)
-
-[中国恢复进口游戏审批](https://www.solidot.org/story?sid=73763)
-
-[中国显卡制造商的崛起](https://www.solidot.org/story?sid=73762)
-
-[男性可能不像女性那样“认为”需要做家务](https://www.solidot.org/story?sid=73761)
 
