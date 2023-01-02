@@ -1,5 +1,7 @@
 # Here The News
-> Update time: 2023-01-02 04:33:05
+> Update time: 2023-01-02 16:11:38
+
+[竹书纪年披露已知最古老的候选极光记录](https://www.solidot.org/story?sid=73783)
 
 [马斯克成为第一位财富蒸发 2000 亿美元的亿万富翁](https://www.solidot.org/story?sid=73782)
 
@@ -18,6 +20,4 @@
 [台积电开始量产 3 纳米芯片](https://www.solidot.org/story?sid=73775)
 
 [印度设定智能手机必须使用 USB-C 充电端口的最后期限](https://www.solidot.org/story?sid=73774)
-
-[新发现解释胎动的原因](https://www.solidot.org/story?sid=73773)
 
