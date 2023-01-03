@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-01-03 16:36:47
+> Update time: 2023-01-04 04:09:07
+
+[中国研究发现含糖饮料与脱发相关](https://www.solidot.org/story?sid=73795)
+
+[特斯拉因夸大行驶距离被韩国罚款 220 万美元](https://www.solidot.org/story?sid=73794)
+
+[NASA 局长警告中美月球竞赛](https://www.solidot.org/story?sid=73793)
+
+[墨尔本的反涂鸦二维码被涂鸦](https://www.solidot.org/story?sid=73792)
+
+[Debian 移除 Python 2](https://www.solidot.org/story?sid=73791)
 
 [DistroWatch 的二十年](https://www.solidot.org/story?sid=73790)
 
@@ -10,14 +20,4 @@
 [LineageOS 20 发布](https://www.solidot.org/story?sid=73787)
 
 [如果外星人联络人类，谁决定我们接下来怎么做？](https://www.solidot.org/story?sid=73786)
-
-[古代猫咪与人类一同迁徙到世界各地](https://www.solidot.org/story?sid=73785)
-
-[逾四十个国家和地区提供数字游牧民签证](https://www.solidot.org/story?sid=73784)
-
-[竹书纪年披露已知最古老的候选极光记录](https://www.solidot.org/story?sid=73783)
-
-[马斯克成为第一位财富蒸发 2000 亿美元的亿万富翁](https://www.solidot.org/story?sid=73782)
-
-[桌面显卡销量创 20 年以来新低](https://www.solidot.org/story?sid=73781)
 
