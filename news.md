@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-01-04 04:33:12
+> Update time: 2023-01-04 16:11:22
+
+[廉价电视机的隐藏成本](https://www.solidot.org/story?sid=73800)
+
+[Sam Bankman-Fried 对欺诈指控不认罪](https://www.solidot.org/story?sid=73799)
+
+[苹果市值跌破 2 万亿美元](https://www.solidot.org/story?sid=73798)
+
+[美国路易斯安那州观看成人内容将需要年龄验证](https://www.solidot.org/story?sid=73797)
+
+[Google 指控印度反垄断机构拷贝了欧盟的部分裁决](https://www.solidot.org/story?sid=73796)
 
 [中国研究发现含糖饮料与脱发相关](https://www.solidot.org/story?sid=73795)
 
@@ -10,14 +20,4 @@
 [墨尔本的反涂鸦二维码被涂鸦](https://www.solidot.org/story?sid=73792)
 
 [Debian 移除 Python 2](https://www.solidot.org/story?sid=73791)
-
-[DistroWatch 的二十年](https://www.solidot.org/story?sid=73790)
-
-[电动车占挪威新车销量的八成](https://www.solidot.org/story?sid=73789)
-
-[为何科学家挖出遗传学之父孟德尔的尸体进行测序](https://www.solidot.org/story?sid=73788)
-
-[LineageOS 20 发布](https://www.solidot.org/story?sid=73787)
-
-[如果外星人联络人类，谁决定我们接下来怎么做？](https://www.solidot.org/story?sid=73786)
 
