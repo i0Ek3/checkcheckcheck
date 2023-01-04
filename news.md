@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-01-04 16:37:01
+> Update time: 2023-01-05 04:09:15
+
+[中国研究人员报告能用现有量子计算机破解 2048 位 RSA](https://www.solidot.org/story?sid=73807)
+
+[XBB.1.5 亚种占到了美国新增病例的 40.5%](https://www.solidot.org/story?sid=73806)
+
+[研究显示足量饮水降低慢性病风险](https://www.solidot.org/story?sid=73805)
+
+[Google 想要 RISC-V 成为 Android 的 T1 级支持架构](https://www.solidot.org/story?sid=73804)
+
+[qBittorrent 新版的颜色引发批评](https://www.solidot.org/story?sid=73803)
+
+[微软考虑在必应中加入 ChatGPT](https://www.solidot.org/story?sid=73802)
 
 [比特币核心开发者求助于 FBI 去找回被盗的加密货币](https://www.solidot.org/story?sid=73801)
 
@@ -8,16 +20,4 @@
 [Sam Bankman-Fried 对欺诈指控不认罪](https://www.solidot.org/story?sid=73799)
 
 [苹果市值跌破 2 万亿美元](https://www.solidot.org/story?sid=73798)
-
-[美国路易斯安那州观看成人内容将需要年龄验证](https://www.solidot.org/story?sid=73797)
-
-[Google 指控印度反垄断机构拷贝了欧盟的部分裁决](https://www.solidot.org/story?sid=73796)
-
-[中国研究发现含糖饮料与脱发相关](https://www.solidot.org/story?sid=73795)
-
-[特斯拉因夸大行驶距离被韩国罚款 220 万美元](https://www.solidot.org/story?sid=73794)
-
-[NASA 局长警告中美月球竞赛](https://www.solidot.org/story?sid=73793)
-
-[墨尔本的反涂鸦二维码被涂鸦](https://www.solidot.org/story?sid=73792)
 
