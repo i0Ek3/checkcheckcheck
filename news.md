@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-01-05 16:37:49
+> Update time: 2023-01-06 04:09:12
+
+[丹麦银行庆祝一整年没有抢劫案发生](https://www.solidot.org/story?sid=73815)
+
+[AMD 宣布首款配备 AI 引擎的移动处理器](https://www.solidot.org/story?sid=73814)
+
+[AMD 宣布三款采用 3D 缓存的 Ryzen 7000 系列处理器](https://www.solidot.org/story?sid=73813)
+
+[儿童学习效率优于成年人的可能解释](https://www.solidot.org/story?sid=73812)
+
+[PyTorch 遭遇依赖混淆攻击，相关人士表示是研究项目出差错了](https://www.solidot.org/story?sid=73811)
 
 [黑客泄露 2.35 亿 Twitter 账号信息](https://www.solidot.org/story?sid=73810)
 
@@ -10,14 +20,4 @@
 [中国研究人员报告能用现有量子计算机破解 2048 位 RSA](https://www.solidot.org/story?sid=73807)
 
 [XBB.1.5 亚种占到了美国新增病例的 40.5%](https://www.solidot.org/story?sid=73806)
-
-[研究显示足量饮水降低慢性病风险](https://www.solidot.org/story?sid=73805)
-
-[Google 想要 RISC-V 成为 Android 的 T1 级支持架构](https://www.solidot.org/story?sid=73804)
-
-[qBittorrent 新版的颜色引发批评](https://www.solidot.org/story?sid=73803)
-
-[微软考虑在必应中加入 ChatGPT](https://www.solidot.org/story?sid=73802)
-
-[比特币核心开发者求助于 FBI 去找回被盗的加密货币](https://www.solidot.org/story?sid=73801)
 
