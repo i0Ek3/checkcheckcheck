@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-01-06 04:33:42
+> Update time: 2023-01-06 16:11:03
+
+[减肥药的最新突破让研究人员倍感震惊](https://www.solidot.org/story?sid=73822)
+
+[美国政府尝试扣押 Sam Bankman-Frie 收购的 Robinhood 的股份](https://www.solidot.org/story?sid=73821)
+
+[FTC 提议禁止针对员工的竞业禁止条款](https://www.solidot.org/story?sid=73820)
+
+[沙特逮捕了两名维基百科管理员](https://www.solidot.org/story?sid=73819)
+
+[在加密货币税之后印度人向外转移了逾 38 亿美元](https://www.solidot.org/story?sid=73818)
+
+[松下将在日本停产电饭煲](https://www.solidot.org/story?sid=73817)
+
+[纽约市禁止学生教师使用 ChatGPT](https://www.solidot.org/story?sid=73816)
 
 [丹麦银行庆祝一整年没有抢劫案发生](https://www.solidot.org/story?sid=73815)
 
 [AMD 宣布首款配备 AI 引擎的移动处理器](https://www.solidot.org/story?sid=73814)
 
 [AMD 宣布三款采用 3D 缓存的 Ryzen 7000 系列处理器](https://www.solidot.org/story?sid=73813)
-
-[儿童学习效率优于成年人的可能解释](https://www.solidot.org/story?sid=73812)
-
-[PyTorch 遭遇依赖混淆攻击，相关人士表示是研究项目出差错了](https://www.solidot.org/story?sid=73811)
-
-[黑客泄露 2.35 亿 Twitter 账号信息](https://www.solidot.org/story?sid=73810)
-
-[欧盟对 Meta 开出 4.11 亿美元罚单](https://www.solidot.org/story?sid=73809)
-
-[亚马逊裁员人数将超过 1.7 万](https://www.solidot.org/story?sid=73808)
-
-[中国研究人员报告能用现有量子计算机破解 2048 位 RSA](https://www.solidot.org/story?sid=73807)
-
-[XBB.1.5 亚种占到了美国新增病例的 40.5%](https://www.solidot.org/story?sid=73806)
 
