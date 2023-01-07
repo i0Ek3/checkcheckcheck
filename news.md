@@ -1,7 +1,17 @@
 # Here The News
-> Update time: 2023-01-07 16:35:03
+> Update time: 2023-01-08 04:08:16
+
+[亚马逊 S3 将默认用 AES-256 加密数据](https://www.solidot.org/story?sid=73832)
+
+[小鼠研究显示长期运动可延缓器官衰老](https://www.solidot.org/story?sid=73831)
+
+[垂直放置 PS5 可能会导致硬件故障](https://www.solidot.org/story?sid=73830)
+
+[康希诺开始试产 mRNA 疫苗](https://www.solidot.org/story?sid=73829)
 
 [研究建议减少氮的使用](https://www.solidot.org/story?sid=73828)
+
+[Slack 和 CircleCI 先后披露安全事故](https://www.solidot.org/story?sid=73827)
 
 [WhatsApp 加入代理支持](https://www.solidot.org/story?sid=73826)
 
@@ -10,14 +20,4 @@
 [加州理工演示空间太阳能发电技术](https://www.solidot.org/story?sid=73824)
 
 [社交媒体使用与青少年大脑改变相关](https://www.solidot.org/story?sid=73823)
-
-[减肥药的最新突破让研究人员倍感震惊](https://www.solidot.org/story?sid=73822)
-
-[美国政府尝试扣押 Sam Bankman-Frie 收购的 Robinhood 的股份](https://www.solidot.org/story?sid=73821)
-
-[FTC 提议禁止针对员工的竞业禁止条款](https://www.solidot.org/story?sid=73820)
-
-[沙特逮捕了两名维基百科管理员](https://www.solidot.org/story?sid=73819)
-
-[在加密货币税之后印度人向外转移了逾 38 亿美元](https://www.solidot.org/story?sid=73818)
 
