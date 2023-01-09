@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-01-09 16:38:18
+> Update time: 2023-01-10 04:09:59
+
+[微软新文本语音模型能在 3 秒内复制任何人的声音](https://www.solidot.org/story?sid=73846)
+
+[美国最快乐的工作是伐木工](https://www.solidot.org/story?sid=73845)
+
+[物理学家确认太空中的有效波增长理论](https://www.solidot.org/story?sid=73844)
+
+[Twitter 进入 2023 年后继续裁员](https://www.solidot.org/story?sid=73843)
+
+[戴尔计划停止使用中国造芯片](https://www.solidot.org/story?sid=73842)
+
+[“2023 年不要把我拍进视频里”](https://www.solidot.org/story?sid=73841)
 
 [棋手作弊疑云背后的 AI 身影](https://www.solidot.org/story?sid=73840)
 
@@ -8,16 +20,4 @@
 [网络罪犯让 ChatGPT 写恶意代码](https://www.solidot.org/story?sid=73838)
 
 [微软将在本周二释出 Windows 8.1 的最后一次安全更新](https://www.solidot.org/story?sid=73837)
-
-[声霸卡创始人去世](https://www.solidot.org/story?sid=73836)
-
-[只有最富有的古希腊人纳税，他们还为此炫耀](https://www.solidot.org/story?sid=73835)
-
-[量子计算机分解大数仍然只存在于理论上](https://www.solidot.org/story?sid=73834)
-
-[50 万 Celsius Network 投资人不拥有他们的账号](https://www.solidot.org/story?sid=73833)
-
-[亚马逊 S3 将默认用 AES-256 加密数据](https://www.solidot.org/story?sid=73832)
-
-[小鼠研究显示长期运动可延缓器官衰老](https://www.solidot.org/story?sid=73831)
 
