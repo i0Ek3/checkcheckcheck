@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-01-10 16:37:29
+> Update time: 2023-01-11 04:09:06
+
+[美国儿科医生现在可以推荐肥胖儿童吃减肥药和做手术](https://www.solidot.org/story?sid=73856)
+
+[美国的新冠疫苗接受度在提高](https://www.solidot.org/story?sid=73855)
+
+[Fairphone 2 在七年更新之后结束支持](https://www.solidot.org/story?sid=73854)
+
+[微软洽谈向 OpenAI 投资百亿美元](https://www.solidot.org/story?sid=73853)
+
+[ChatGPT 续写福尔摩斯探案](https://www.solidot.org/story?sid=73852)
+
+[币安资产不到两个月损失 120 亿美元](https://www.solidot.org/story?sid=73851)
 
 [学生创建应用帮助识别作文是否是 AI 撰写](https://www.solidot.org/story?sid=73850)
 
@@ -8,16 +20,4 @@
 [联合国报告称臭氧层开始恢复](https://www.solidot.org/story?sid=73848)
 
 [马云不再拥有蚂蚁集团的控制权](https://www.solidot.org/story?sid=73847)
-
-[微软新文本语音模型能在 3 秒内复制任何人的声音](https://www.solidot.org/story?sid=73846)
-
-[美国最快乐的工作是伐木工](https://www.solidot.org/story?sid=73845)
-
-[物理学家确认太空中的有效波增长理论](https://www.solidot.org/story?sid=73844)
-
-[Twitter 进入 2023 年后继续裁员](https://www.solidot.org/story?sid=73843)
-
-[戴尔计划停止使用中国造芯片](https://www.solidot.org/story?sid=73842)
-
-[“2023 年不要把我拍进视频里”](https://www.solidot.org/story?sid=73841)
 
