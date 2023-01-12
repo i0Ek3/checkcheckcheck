@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-01-12 16:40:02
+> Update time: 2023-01-13 04:09:47
+
+[OpenAI 准备推出付费版 ChatGPT](https://www.solidot.org/story?sid=73881)
+
+[微软向其美国雇员提供“无限制”休假时间](https://www.solidot.org/story?sid=73880)
+
+[江西抚州一挖矿公司的用电量一度占到全市的 10%](https://www.solidot.org/story?sid=73879)
+
+[FAA 系统中断原因是数据库文件损坏](https://www.solidot.org/story?sid=73878)
+
+[美国原住民组织呼吁 Apache 软件基金会改名](https://www.solidot.org/story?sid=73877)
 
 [研究显示肥胖也可能影响到眼睛](https://www.solidot.org/story?sid=73876)
 
@@ -10,14 +20,4 @@
 [Discourse 3.0 释出](https://www.solidot.org/story?sid=73873)
 
 [特斯拉车祸凸显了半自主驾驶的缺陷](https://www.solidot.org/story?sid=73872)
-
-[愿意通过电刺激肌肉来健身吗？](https://www.solidot.org/story?sid=73871)
-
-[Paramount+ 预定龙与地下城真人剧集](https://www.solidot.org/story?sid=73870)
-
-[梅赛德斯奔驰成为第一家在美国提供 L3 级自动驾驶的汽车厂商](https://www.solidot.org/story?sid=73869)
-
-[Larry Ellison 在自己的岛上因闯红灯超速被拦下](https://www.solidot.org/story?sid=73868)
-
-[微软一月安全更新修复了一个正被利用的 0day](https://www.solidot.org/story?sid=73867)
 
