@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-01-16 16:37:47
+> Update time: 2023-01-17 04:08:51
+
+[英伟达 CUDA 对机器学习的垄断正逐步瓦解](https://www.solidot.org/story?sid=73904)
+
+[网易解散大部分运营暴雪游戏的团队](https://www.solidot.org/story?sid=73903)
+
+[巧克力口感与润滑有关](https://www.solidot.org/story?sid=73902)
+
+[银河系普通物质比例少于宇宙其它地方](https://www.solidot.org/story?sid=73901)
+
+[滴滴恢复新用户注册](https://www.solidot.org/story?sid=73900)
+
+[Z 世代开始流行翻盖手机](https://www.solidot.org/story?sid=73899)
+
+[美国 2022 年可更新能源发电量超过煤炭](https://www.solidot.org/story?sid=73898)
+
+[Linux 准备禁用微软的 RNDIS 协议驱动](https://www.solidot.org/story?sid=73897)
 
 [CNET 用 AI 写了 75 篇文章](https://www.solidot.org/story?sid=73896)
 
 [比尔盖茨谈 AI、气候变化和在微软的时光](https://www.solidot.org/story?sid=73895)
-
-[年长父亲将更多突变遗传给后代可能是因为突变无法修复](https://www.solidot.org/story?sid=73894)
-
-[2022 年全球气温为史上第五热](https://www.solidot.org/story?sid=73893)
-
-[飞行器成功撞击小行星将轨道周转时间缩短 33 分钟](https://www.solidot.org/story?sid=73892)
-
-[比特币币值重新回到 2 万美元以上](https://www.solidot.org/story?sid=73891)
-
-[韦伯望远镜发现了太多早期星系](https://www.solidot.org/story?sid=73889)
-
-[梅尔·布鲁克斯的《世界历史第二部》即将登陆 Hulu](https://www.solidot.org/story?sid=73888)
-
-[因苹果股票表现不佳库克将减薪五成](https://www.solidot.org/story?sid=73887)
-
-[每天六分钟高强度运动有助于延缓认知衰退](https://www.solidot.org/story?sid=73886)
 
