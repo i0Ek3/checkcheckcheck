@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2023-01-16 16:12:01
+> Update time: 2023-01-16 16:37:47
 
 [CNET 用 AI 写了 75 篇文章](https://www.solidot.org/story?sid=73896)
 
