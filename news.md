@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-01-17 16:37:53
+> Update time: 2023-01-18 04:09:04
 
-[英伟达 CUDA 对机器学习的垄断正逐步瓦解](https://www.solidot.org/story?sid=73904)
+[漫威电影在 2019 年之后重返中国大陆](https://www.solidot.org/story?sid=73914)
 
-[网易解散大部分运营暴雪游戏的团队](https://www.solidot.org/story?sid=73903)
+[黑洞将其捕获的恒星扭曲成圆环形](https://www.solidot.org/story?sid=73913)
 
-[巧克力口感与润滑有关](https://www.solidot.org/story?sid=73902)
+[激光可以将闪电引导到安全地点](https://www.solidot.org/story?sid=73912)
 
-[银河系普通物质比例少于宇宙其它地方](https://www.solidot.org/story?sid=73901)
+[微软开始提供更多 OpenAI 服务](https://www.solidot.org/story?sid=73911)
 
-[滴滴恢复新用户注册](https://www.solidot.org/story?sid=73900)
+[暴雪中国称它请求网易延长游戏服务半年但遭到拒绝](https://www.solidot.org/story?sid=73910)
 
-[Z 世代开始流行翻盖手机](https://www.solidot.org/story?sid=73899)
+[蜂鸟悬停能力与基因缺失相关](https://www.solidot.org/story?sid=73909)
 
-[美国 2022 年可更新能源发电量超过煤炭](https://www.solidot.org/story?sid=73898)
+[艺术家对 AI 图像生成公司提起集体诉讼](https://www.solidot.org/story?sid=73908)
 
-[Linux 准备禁用微软的 RNDIS 协议驱动](https://www.solidot.org/story?sid=73897)
+[Twitter 有意杀死第三方客户端](https://www.solidot.org/story?sid=73907)
 
-[CNET 用 AI 写了 75 篇文章](https://www.solidot.org/story?sid=73896)
+[Avast 公布变脸勒索软件解密器](https://www.solidot.org/story?sid=73906)
 
-[比尔盖茨谈 AI、气候变化和在微软的时光](https://www.solidot.org/story?sid=73895)
+[中国人口自 1960 年代以来首次减少](https://www.solidot.org/story?sid=73905)
 
