@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-01-19 04:33:17
+> Update time: 2023-01-19 16:12:20
+
+[波士顿动力演示双足机器人抓抛物品的能力](https://www.solidot.org/story?sid=73927)
+
+[Twitter 拍卖总部办公用品](https://www.solidot.org/story?sid=73926)
+
+[微软宣布裁员一万人](https://www.solidot.org/story?sid=73925)
+
+[维基百科启用新界面](https://www.solidot.org/story?sid=73924)
+
+[亚马逊关闭 AmazonSmile 慈善项目](https://www.solidot.org/story?sid=73923)
+
+[美国联邦选举委员会驳回了 Google 歧视共和党竞选广告的投诉](https://www.solidot.org/story?sid=73922)
 
 [微星主板的 BIOS 设置被发现不安全](https://www.solidot.org/story?sid=73921)
 
@@ -8,16 +20,4 @@
 [基因变异增加近视风险](https://www.solidot.org/story?sid=73919)
 
 [苹果推出搭载 M2 Pro 与 M2 Max 芯片的 MacBook Pro](https://www.solidot.org/story?sid=73918)
-
-[Firefox 109 释出](https://www.solidot.org/story?sid=73917)
-
-[网易指责暴雪蛮横](https://www.solidot.org/story?sid=73916)
-
-[微软计划裁员 1.1 万人](https://www.solidot.org/story?sid=73915)
-
-[漫威电影在 2019 年之后重返中国大陆](https://www.solidot.org/story?sid=73914)
-
-[黑洞将其捕获的恒星扭曲成圆环形](https://www.solidot.org/story?sid=73913)
-
-[激光可以将闪电引导到安全地点](https://www.solidot.org/story?sid=73912)
 
