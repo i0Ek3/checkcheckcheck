@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-01-20 16:37:45
+> Update time: 2023-01-21 04:08:47
+
+[暗网市场 Solaris 被竞争对手劫持](https://www.solidot.org/story?sid=73935)
+
+[苹果公开 Lisa 操作系统源代码](https://www.solidot.org/story?sid=73934)
+
+[Google 将裁员 1.2 万人](https://www.solidot.org/story?sid=73933)
+
+[因夜晚亮度增加肉眼能看到的星星在减少](https://www.solidot.org/story?sid=73932)
+
+[社交网络上虚假信息传播的关键原因是其奖励机制](https://www.solidot.org/story?sid=73931)
 
 [研究发现在电视上打广告的药品治疗价值低](https://www.solidot.org/story?sid=73930)
 
@@ -10,14 +20,4 @@
 [波士顿动力演示双足机器人抓抛物品的能力](https://www.solidot.org/story?sid=73927)
 
 [Twitter 拍卖总部办公用品](https://www.solidot.org/story?sid=73926)
-
-[微软宣布裁员一万人](https://www.solidot.org/story?sid=73925)
-
-[维基百科启用新界面](https://www.solidot.org/story?sid=73924)
-
-[亚马逊关闭 AmazonSmile 慈善项目](https://www.solidot.org/story?sid=73923)
-
-[美国联邦选举委员会驳回了 Google 歧视共和党竞选广告的投诉](https://www.solidot.org/story?sid=73922)
-
-[微星主板的 BIOS 设置被发现不安全](https://www.solidot.org/story?sid=73921)
 
