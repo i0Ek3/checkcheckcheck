@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-01-26 16:36:38
+> Update time: 2023-01-27 04:08:15
+
+[人类律师杀死了 AI 律师](https://www.solidot.org/story?sid=73959)
+
+[Shutterstock 发布了自己的生成式 AI 图像工具](https://www.solidot.org/story?sid=73958)
+
+[Meta 将恢复特朗普的账号](https://www.solidot.org/story?sid=73957)
+
+[2022 年智能手机出货量为近十年最低](https://www.solidot.org/story?sid=73956)
+
+[IBM 裁员 3900 人](https://www.solidot.org/story?sid=73955)
 
 [WINE 8.0 释出](https://www.solidot.org/story?sid=73954)
 
@@ -10,14 +20,4 @@
 [日本首相警告因生育率下降国家处于无法正常运作的边缘](https://www.solidot.org/story?sid=73950)
 
 [天文学家探测到来自最遥远星系的射电信号](https://www.solidot.org/story?sid=73949)
-
-[GitHub 赞助人将不再能使用 PayPal](https://www.solidot.org/story?sid=73948)
-
-[微软向 OpenAI 投资数十亿美元](https://www.solidot.org/story?sid=73947)
-
-[Twitter 修改开发者协议明确禁止第三方客户端](https://www.solidot.org/story?sid=73946)
-
-[马斯克的 Twitter 拒绝支付迫使马斯克收购 Twitter 的咨询公司的费用](https://www.solidot.org/story?sid=73945)
-
-[因软件故障美国高中一天 24 小时开着灯](https://www.solidot.org/story?sid=73944)
 
