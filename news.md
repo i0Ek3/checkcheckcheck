@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-01-28 16:35:33
+> Update time: 2023-01-29 04:07:55
+
+[Google 裁掉了很多开源开发者](https://www.solidot.org/story?sid=73970)
+
+[梅赛德斯的 L3 自动驾驶获得内华达州的批准](https://www.solidot.org/story?sid=73969)
+
+[在引发争议之后威世智在 CC 下发布龙与地下城的 SRD](https://www.solidot.org/story?sid=73968)
+
+[Google 演示从文本描述生成音乐的 AI](https://www.solidot.org/story?sid=73967)
+
+[主要科学期刊出版商禁止将 ChatGPT 列为署名作者](https://www.solidot.org/story?sid=73966)
+
+[亚马逊制作古墓丽影电视剧](https://www.solidot.org/story?sid=73965)
 
 [在财报公布之后英特尔市值蒸发 80 亿美元](https://www.solidot.org/story?sid=73964)
 
@@ -8,16 +20,4 @@
 [警方称一荷兰黑客获得了几乎所有奥地利人的个人数据](https://www.solidot.org/story?sid=73962)
 
 [Yandex 称前雇员泄露源代码](https://www.solidot.org/story?sid=73961)
-
-[英特尔砍掉了 Pathfinder for RISC-V 项目](https://www.solidot.org/story?sid=73960)
-
-[人类律师杀死了 AI 律师](https://www.solidot.org/story?sid=73959)
-
-[Shutterstock 发布了自己的生成式 AI 图像工具](https://www.solidot.org/story?sid=73958)
-
-[Meta 将恢复特朗普的账号](https://www.solidot.org/story?sid=73957)
-
-[2022 年智能手机出货量为近十年最低](https://www.solidot.org/story?sid=73956)
-
-[IBM 裁员 3900 人](https://www.solidot.org/story?sid=73955)
 
