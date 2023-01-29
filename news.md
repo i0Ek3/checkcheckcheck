@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-01-29 04:32:54
+> Update time: 2023-01-29 16:10:11
+
+[受害者拒绝支付赎金，勒索者的收入下降](https://www.solidot.org/story?sid=73975)
+
+[《阿凡达：水之道》全球票房跃居史上第四](https://www.solidot.org/story?sid=73974)
+
+[Canonical 宣布 Ubuntu Pro GA，对五台以内 PC 免费](https://www.solidot.org/story?sid=73973)
+
+[五家加密货币交易所处理了大部分黑市套现](https://www.solidot.org/story?sid=73972)
+
+[沃顿商学院副教授拥抱 ChatGPT](https://www.solidot.org/story?sid=73971)
 
 [Google 裁掉了很多开源开发者](https://www.solidot.org/story?sid=73970)
 
@@ -10,14 +20,4 @@
 [Google 演示从文本描述生成音乐的 AI](https://www.solidot.org/story?sid=73967)
 
 [主要科学期刊出版商禁止将 ChatGPT 列为署名作者](https://www.solidot.org/story?sid=73966)
-
-[亚马逊制作古墓丽影电视剧](https://www.solidot.org/story?sid=73965)
-
-[在财报公布之后英特尔市值蒸发 80 亿美元](https://www.solidot.org/story?sid=73964)
-
-[亚马逊 AWS、微软和 Google 都是 FTX 的债权人](https://www.solidot.org/story?sid=73963)
-
-[警方称一荷兰黑客获得了几乎所有奥地利人的个人数据](https://www.solidot.org/story?sid=73962)
-
-[Yandex 称前雇员泄露源代码](https://www.solidot.org/story?sid=73961)
 
