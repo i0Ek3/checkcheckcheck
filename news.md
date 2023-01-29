@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-01-29 16:34:53
+> Update time: 2023-01-30 04:08:15
+
+[GitHub 用户数突破 1 亿](https://www.solidot.org/story?sid=73981)
+
+[自然摄影师将其所有作品发布到公有领域](https://www.solidot.org/story?sid=73980)
+
+[AutoHotkey v2 正式释出](https://www.solidot.org/story?sid=73979)
+
+[狼消灭了鹿学会捕捉海獭](https://www.solidot.org/story?sid=73978)
+
+[GitHub、微软和 OpenAI 以合理使用反驳集体诉讼](https://www.solidot.org/story?sid=73977)
+
+[通用汽车向被硅谷裁掉的员工伸出橄榄枝](https://www.solidot.org/story?sid=73976)
 
 [受害者拒绝支付赎金，勒索者的收入下降](https://www.solidot.org/story?sid=73975)
 
@@ -8,16 +20,4 @@
 [Canonical 宣布 Ubuntu Pro GA，对五台以内 PC 免费](https://www.solidot.org/story?sid=73973)
 
 [五家加密货币交易所处理了大部分黑市套现](https://www.solidot.org/story?sid=73972)
-
-[沃顿商学院副教授拥抱 ChatGPT](https://www.solidot.org/story?sid=73971)
-
-[Google 裁掉了很多开源开发者](https://www.solidot.org/story?sid=73970)
-
-[梅赛德斯的 L3 自动驾驶获得内华达州的批准](https://www.solidot.org/story?sid=73969)
-
-[在引发争议之后威世智在 CC 下发布龙与地下城的 SRD](https://www.solidot.org/story?sid=73968)
-
-[Google 演示从文本描述生成音乐的 AI](https://www.solidot.org/story?sid=73967)
-
-[主要科学期刊出版商禁止将 ChatGPT 列为署名作者](https://www.solidot.org/story?sid=73966)
 
