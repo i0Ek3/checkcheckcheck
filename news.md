@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-01-31 16:36:50
+> Update time: 2023-02-01 04:10:00
+
+[AI 系统设计出全新的抗菌蛋白质](https://www.solidot.org/story?sid=74002)
+
+[月球上的时间如何制定？](https://www.solidot.org/story?sid=74001)
+
+[Impossible Foods 计划裁员五分之一](https://www.solidot.org/story?sid=74000)
+
+[研究发现疫情期间学生损失三分之一学年](https://www.solidot.org/story?sid=73999)
+
+[TikTok CEO 周受资将出席美国国会听证会](https://www.solidot.org/story?sid=73998)
+
+[为什么肥胖对男性更危险？](https://www.solidot.org/story?sid=73997)
 
 [逾三分之一亚马逊雨林退化](https://www.solidot.org/story?sid=73996)
 
@@ -8,16 +20,4 @@
 [美国政府考虑完全停止向华为发放出口许可证](https://www.solidot.org/story?sid=73994)
 
 [黑客窃取 GitHub 的代码签名证书](https://www.solidot.org/story?sid=73993)
-
-[咖啡没有给你额外的能量，它只是一种借债](https://www.solidot.org/story?sid=73992)
-
-[斯坦福研究人员推出 DetectGPT 检测 ChatGPT 生成的文本](https://www.solidot.org/story?sid=73991)
-
-[互联网档案馆上线旧计算器模拟器](https://www.solidot.org/story?sid=73990)
-
-[Yandex 的搜索引擎使用了 1922 个排名因子](https://www.solidot.org/story?sid=73989)
-
-[旧金山想遏制无人驾驶出租车的扩张](https://www.solidot.org/story?sid=73988)
-
-[百度准备发布类似 ChatGPT 的聊天机器人](https://www.solidot.org/story?sid=73987)
 
