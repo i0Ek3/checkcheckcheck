@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-02-02 04:33:00
+> Update time: 2023-02-02 16:11:22
+
+[Google 开始测试类似 ChatGPT 的 AI 机器人](https://www.solidot.org/story?sid=74020)
+
+[波音最后一架 747 飞机的交付飞行在空中留下了一个彩蛋](https://www.solidot.org/story?sid=74019)
+
+[AMD 减少供应 CPU 和 GPU 以平衡供需](https://www.solidot.org/story?sid=74018)
+
+[巴基斯坦以亵渎为由对维基百科限速 48 小时](https://www.solidot.org/story?sid=74017)
+
+[OpenAI 发布月费 20 美元的 ChatGPT Plus](https://www.solidot.org/story?sid=74016)
 
 [麦当劳威尔士播放古典音乐遏制反社会行为](https://www.solidot.org/story?sid=74015)
 
@@ -10,14 +20,4 @@
 [Instagram 联合创始人推出新社交应用 Artifact](https://www.solidot.org/story?sid=74012)
 
 [波音交付最后一架 747 飞机](https://www.solidot.org/story?sid=74011)
-
-[科学家演示靠风飞行由光控制的机器人](https://www.solidot.org/story?sid=74010)
-
-[特斯拉在比特币投资上亏损 1.4 亿美元](https://www.solidot.org/story?sid=74009)
-
-[OpenAI 发布检测机器生成文本的工具](https://www.solidot.org/story?sid=74008)
-
-[PET 胶带导致电池自放电](https://www.solidot.org/story?sid=74007)
-
-[Spotify 订阅用户数突破 2 亿](https://www.solidot.org/story?sid=74006)
 
