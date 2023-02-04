@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-02-04 16:35:08
+> Update time: 2023-02-05 04:08:35
+
+[最新观测再次预示标准模型可能存在缺失](https://www.solidot.org/story?sid=74044)
+
+[Servo 项目公布未来计划](https://www.solidot.org/story?sid=74043)
+
+[停在斜坡上时宝马汽车不会更新软件](https://www.solidot.org/story?sid=74041)
+
+[Google 将在下周透露挑战 ChatGPT 的 AI 工具](https://www.solidot.org/story?sid=74040)
+
+[巴基斯坦屏蔽维基百科](https://www.solidot.org/story?sid=74039)
 
 [是否应该每年接种新冠疫苗？](https://www.solidot.org/story?sid=74038)
 
@@ -10,14 +20,4 @@
 [雷蛇推出最轻的游戏鼠标](https://www.solidot.org/story?sid=74035)
 
 [去中心化社交平台 Damus 上架苹果和 Google 应用商店](https://www.solidot.org/story?sid=74034)
-
-[微软将利用 OpenAI 的技术帮助销售写邮件](https://www.solidot.org/story?sid=74033)
-
-[LibreOffice 7.5 Community 发布](https://www.solidot.org/story?sid=74032)
-
-[温暖的气候可能驱动真菌变得更致命](https://www.solidot.org/story?sid=74031)
-
-[截至 2018 年四个人控制了 86% 的泰达币](https://www.solidot.org/story?sid=74030)
-
-[Alphabet 第四季度净利润下滑 34%](https://www.solidot.org/story?sid=74029)
 
