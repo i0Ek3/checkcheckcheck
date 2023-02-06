@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-02-06 16:37:55
+> Update time: 2023-02-07 04:09:34
+
+[OpenTTD 13.0 释出](https://www.solidot.org/story?sid=74058)
+
+[新冠免疫力的衰退有多快？](https://www.solidot.org/story?sid=74057)
+
+[最古老的脊椎动物完整大脑化石](https://www.solidot.org/story?sid=74056)
+
+[土耳其南部发生 7.8 级强地震，数百人死亡](https://www.solidot.org/story?sid=74055)
+
+[《刺客信条英灵殿：诸神黄昏》赢得首届格莱美游戏/互动媒体最佳音乐奖](https://www.solidot.org/story?sid=74054)
+
+[Twitter 计划对企业客户每月收取 1000 美元品牌认证费](https://www.solidot.org/story?sid=74053)
+
+[AI 帮助搜索地外智能生命](https://www.solidot.org/story?sid=74052)
 
 [ChatGPT 通过了 Google 的编程面试考验](https://www.solidot.org/story?sid=74051)
 
 [低性欲的新治疗方法](https://www.solidot.org/story?sid=74050)
 
 [芬兰最臭名昭著的黑客在法国被捕](https://www.solidot.org/story?sid=74049)
-
-[必应 ChatGPT 功能短暂亮相](https://www.solidot.org/story?sid=74048)
-
-[欧洲警方破解加密消息应用 Exclu 逮捕 42 人](https://www.solidot.org/story?sid=74047)
-
-[Vinton Cerf 被授予 IEEE 荣誉勋章](https://www.solidot.org/story?sid=74046)
-
-[法官使用 ChatGPT 做出法庭裁决](https://www.solidot.org/story?sid=74045)
-
-[最新观测再次预示标准模型可能存在缺失](https://www.solidot.org/story?sid=74044)
-
-[Servo 项目公布未来计划](https://www.solidot.org/story?sid=74043)
-
-[停在斜坡上时宝马汽车不会更新软件](https://www.solidot.org/story?sid=74041)
 
