@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-02-09 16:38:46
+> Update time: 2023-02-10 04:09:30
+
+[工信部不再审批传真机调制解调器等电信设备](https://www.solidot.org/story?sid=74093)
+
+[英国监管机构认为微软收购动视会伤害到玩家](https://www.solidot.org/story?sid=74092)
+
+[赫梯帝国可能因干旱灭亡](https://www.solidot.org/story?sid=74091)
+
+[NIST 挑选 ASCON 为物联网数据保护加密算法](https://www.solidot.org/story?sid=74090)
+
+[Linux 6.1 被选为 LTS 长期支持内核](https://www.solidot.org/story?sid=74088)
+
+[Android 14 Preview 1 释出，禁止安装旧应用](https://www.solidot.org/story?sid=74087)
 
 [英国法庭裁决 Craig Wright 不能主张对比特币文件格式拥有版权](https://www.solidot.org/story?sid=74086)
 
@@ -8,16 +20,4 @@
 [Twitter 开始允许美国订户发长推文](https://www.solidot.org/story?sid=74083)
 
 [Disney+ 订户数减少，迪士尼宣布裁员 7 千人](https://www.solidot.org/story?sid=74082)
-
-[ChatGPT 可能是数据隐私的噩梦](https://www.solidot.org/story?sid=74081)
-
-[土耳其屏蔽 Twitter](https://www.solidot.org/story?sid=74080)
-
-[密码破译者破译玛丽女王的逾 50 封信](https://www.solidot.org/story?sid=74079)
-
-[三菱重工放弃支线客机开发](https://www.solidot.org/story?sid=74078)
-
-[任天堂将提高员工的基础工资](https://www.solidot.org/story?sid=74077)
-
-[科学家在小鼠腿上发现超高速肌肉](https://www.solidot.org/story?sid=74076)
 
