@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-02-13 04:33:22
+> Update time: 2023-02-13 16:12:37
+
+[卫星观测显示强地震后地壳出现了 300 公里长的裂缝](https://www.solidot.org/story?sid=74115)
+
+[祛魅 SMPC 和它的威胁模型](https://www.solidot.org/story?sid=74114)
+
+[Google AI 机器人 Bard 演示广告出错，市值蒸发千亿美元](https://www.solidot.org/story?sid=74113)
+
+[数十亿国内快递信息泄露](https://www.solidot.org/story?sid=74112)
 
 [科学家称年轻血液延长了实验鼠的寿命](https://www.solidot.org/story?sid=74111)
 
 [ChatGPT 等 AI 模型将冲击印度 IT 外包公司](https://www.solidot.org/story?sid=74110)
 
-[俄罗斯又一艘停靠在空间站的飞船发生冷却剂泄露](https://www.solidot.org/story?sid=74109)
+[俄罗斯又一艘停靠在空间站的飞船发生冷却剂泄漏](https://www.solidot.org/story?sid=74109)
 
 [PC CPU 出货量创 30 年来最大跌幅](https://www.solidot.org/story?sid=74108)
 
 [微软 Surface、HoloLens 和 Xbox 部门裁员](https://www.solidot.org/story?sid=74107)
 
 [亚马逊制作暗影蜘蛛侠真人剧集](https://www.solidot.org/story?sid=74106)
-
-[阿里巴巴腾讯网易京东都宣布了各自的 AI 计划](https://www.solidot.org/story?sid=74105)
-
-[ChatGPT 是互联网的有损压缩](https://www.solidot.org/story?sid=74104)
-
-[科学家发现两个 HIV 病毒潜伏位置](https://www.solidot.org/story?sid=74103)
-
-[科学家发现阻止新冠病毒感染的受体](https://www.solidot.org/story?sid=74102)
 
