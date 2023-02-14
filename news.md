@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-02-14 04:34:16
+> Update time: 2023-02-14 16:12:14
+
+[微软证实其订阅服务影响了游戏销量](https://www.solidot.org/story?sid=74127)
+
+[北京支持头部企业打造对标 ChatGPT 的大模型](https://www.solidot.org/story?sid=74126)
+
+[Z-Library 回归，推出私密域名](https://www.solidot.org/story?sid=74125)
+
+[Google 员工内部批评 CEO 对 ChatGPT 的反应太极端](https://www.solidot.org/story?sid=74124)
+
+[Twitter 开始向所有人展示马斯克的推文](https://www.solidot.org/story?sid=74123)
 
 [丰田因电池软件故障召回 2021 年款 RAV4 Prime](https://www.solidot.org/story?sid=74122)
 
@@ -10,14 +20,4 @@
 [20 亿年前仙女座合并曾导致大规模星系迁移](https://www.solidot.org/story?sid=74119)
 
 [达芬奇笔记显示他曾研究过引力和加速度关系](https://www.solidot.org/story?sid=74118)
-
-[Opera 将在浏览器中整合 ChatGPT](https://www.solidot.org/story?sid=74117)
-
-[微软为 Windows 11 向第三方服务发送数据辩护](https://www.solidot.org/story?sid=74116)
-
-[卫星观测显示强地震后地壳出现了 300 公里长的裂缝](https://www.solidot.org/story?sid=74115)
-
-[祛魅 SMPC 和它的威胁模型](https://www.solidot.org/story?sid=74114)
-
-[Google AI 机器人 Bard 演示广告出错，市值蒸发千亿美元](https://www.solidot.org/story?sid=74113)
 
