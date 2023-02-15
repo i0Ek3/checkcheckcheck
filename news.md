@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-02-15 16:39:27
+> Update time: 2023-02-16 04:09:51
+
+[气候变化扩大蚊子活动范围](https://www.solidot.org/story?sid=74146)
+
+[Rust 如何从业余项目变成世界最热门的语言之一](https://www.solidot.org/story?sid=74145)
+
+[Thunderbird 预览新 UI](https://www.solidot.org/story?sid=74144)
+
+[ChatGPT 能做什么，为什么它做到了](https://www.solidot.org/story?sid=74143)
+
+[微软释出更新从 Windows 10 PC 上永久移除 IE](https://www.solidot.org/story?sid=74142)
+
+[指纹是如何形成的](https://www.solidot.org/story?sid=74141)
 
 [马斯克如何大幅提高其推文的曝光度](https://www.solidot.org/story?sid=74140)
 
@@ -8,16 +20,4 @@
 [现代和起亚被迫更新软件以应对 TikTok 病毒式传播的“起亚挑战”视频](https://www.solidot.org/story?sid=74138)
 
 [GitHub Copilot 推出企业版](https://www.solidot.org/story?sid=74137)
-
-[Firefox 110 释出](https://www.solidot.org/story?sid=74136)
-
-[大西洋理事会谈开源政策](https://www.solidot.org/story?sid=74135)
-
-[印度税务官员突击搜查 BBC 印度办事处](https://www.solidot.org/story?sid=74134)
-
-[DDoS 攻击频率在增加](https://www.solidot.org/story?sid=74133)
-
-[中国科学家报告最年轻的痴呆症病例](https://www.solidot.org/story?sid=74132)
-
-[WSL 开始支持 GPU 视频加速](https://www.solidot.org/story?sid=74131)
 
