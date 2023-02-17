@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-02-17 16:39:03
+> Update time: 2023-02-18 04:09:50
+
+[联想利润下降警告可能裁员](https://www.solidot.org/story?sid=74169)
+
+[研究显示冬季我们可能需要更长的睡眠时间](https://www.solidot.org/story?sid=74168)
+
+[研究发现睡眠时间低于六小时会影响学习成绩](https://www.solidot.org/story?sid=74167)
+
+[研究发现群居哺乳动物普遍寿命更长](https://www.solidot.org/story?sid=74165)
+
+[恶意程序滥用微软 IIS 功能在 Windows 上执行恶意代码](https://www.solidot.org/story?sid=74164)
 
 [SEC 指控 Terraform 及其 CEO Do Kwon 欺骗投资者](https://www.solidot.org/story?sid=74163)
 
@@ -10,14 +20,4 @@
 [Valve 称 Steam 去年下载量相当于人人下载 5.5 GB](https://www.solidot.org/story?sid=74159)
 
 [Facebook 的新办公隔间能降噪](https://www.solidot.org/story?sid=74158)
-
-[YouTube CEO Susan Wojcicki 辞职](https://www.solidot.org/story?sid=74157)
-
-[内核开发者讨论移除安腾架构](https://www.solidot.org/story?sid=74156)
-
-[赤道几内亚爆发青猴病疫情](https://www.solidot.org/story?sid=74155)
-
-[Meta 开发能自我修正的 AI 语言模型](https://www.solidot.org/story?sid=74154)
-
-[科学家发现黑洞是暗能量来源的首个证据](https://www.solidot.org/story?sid=74153)
 
