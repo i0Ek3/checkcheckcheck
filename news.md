@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-02-17 04:33:17
+> Update time: 2023-02-17 16:11:52
+
+[SEC 指控 Terraform 及其 CEO Do Kwon 欺骗投资者](https://www.solidot.org/story?sid=74163)
+
+[苹果发布俄罗斯方块电影的首个预告片](https://www.solidot.org/story?sid=74162)
+
+[币安曾从美国合作伙伴的账号向赵长鹏控制的公司转移 4 亿美元](https://www.solidot.org/story?sid=74161)
+
+[Valve 称 Steam 去年下载量相当于人人下载 5.5 GB](https://www.solidot.org/story?sid=74159)
+
+[Facebook 的新办公隔间能降噪](https://www.solidot.org/story?sid=74158)
+
+[YouTube CEO Susan Wojcicki 辞职](https://www.solidot.org/story?sid=74157)
 
 [内核开发者讨论移除安腾架构](https://www.solidot.org/story?sid=74156)
 
@@ -8,16 +20,4 @@
 [Meta 开发能自我修正的 AI 语言模型](https://www.solidot.org/story?sid=74154)
 
 [科学家发现黑洞是暗能量来源的首个证据](https://www.solidot.org/story?sid=74153)
-
-[葛兰素在长达 40 年里对雷尼替丁的致癌风险保持沉默](https://www.solidot.org/story?sid=74152)
-
-[美国司法部认为 John Deere 应该允许农民维修他们的拖拉机](https://www.solidot.org/story?sid=74151)
-
-[巴菲特的公司大幅减持台积电股份](https://www.solidot.org/story?sid=74150)
-
-[Google 失去了方向](https://www.solidot.org/story?sid=74149)
-
-[Google CEO 要求员工投入 2-4 小时时间帮助改进 Bard](https://www.solidot.org/story?sid=74148)
-
-[新避孕药降低了雄性实验鼠精子的活力](https://www.solidot.org/story?sid=74147)
 
