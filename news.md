@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-02-20 04:32:50
+> Update time: 2023-02-20 16:12:19
+
+[业余棋手利用软件弱点击败围棋 AI](https://www.solidot.org/story?sid=74181)
+
+[南极海冰面积创新低](https://www.solidot.org/story?sid=74180)
+
+[硅谷财富严重两级分化](https://www.solidot.org/story?sid=74179)
+
+[Steam 允许从本地网络中的一台设备向另一台设备传输游戏文件](https://www.solidot.org/story?sid=74178)
+
+[Facebook 推出付费订阅服务 Meta Verified](https://www.solidot.org/story?sid=74177)
+
+[Debian 12 Bookworm 进入软冻结](https://www.solidot.org/story?sid=74176)
 
 [亚马逊要求员工每周会办公室工作三天](https://www.solidot.org/story?sid=74175)
 
@@ -8,16 +20,4 @@
 [NASA 和开源软件](https://www.solidot.org/story?sid=74173)
 
 [Google 与苹果分享 Chrome iOS 搜索广告收入](https://www.solidot.org/story?sid=74172)
-
-[Twitter 宣布基于短信的 2FA 身份验证仅限于付费用户](https://www.solidot.org/story?sid=74171)
-
-[GoDaddy 源代码失窃服务器被安装恶意程序](https://www.solidot.org/story?sid=74170)
-
-[联想利润下降警告可能裁员](https://www.solidot.org/story?sid=74169)
-
-[研究显示冬季我们可能需要更长的睡眠时间](https://www.solidot.org/story?sid=74168)
-
-[研究发现睡眠时间低于六小时会影响学习成绩](https://www.solidot.org/story?sid=74167)
-
-[研究发现群居哺乳动物普遍寿命更长](https://www.solidot.org/story?sid=74165)
 
