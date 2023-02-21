@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-02-21 04:32:58
+> Update time: 2023-02-21 16:11:36
+
+[新闻机构批评 OpenAI 使用其文章训练 ChatGPT](https://www.solidot.org/story?sid=74189)
+
+[好莱坞标志树立一百年](https://www.solidot.org/story?sid=74188)
+
+[历史学教授用 ChatGPT 生成文章让学生修改](https://www.solidot.org/story?sid=74187)
+
+[Linux 6.2 kernel 释出](https://www.solidot.org/story?sid=74186)
+
+[Ruby 语言为何没有成功](https://www.solidot.org/story?sid=74185)
 
 [长时间盯着手机屏幕可能会导致颈椎问题](https://www.solidot.org/story?sid=74184)
 
@@ -10,14 +20,4 @@
 [业余棋手利用软件弱点击败围棋 AI](https://www.solidot.org/story?sid=74181)
 
 [南极海冰面积创新低](https://www.solidot.org/story?sid=74180)
-
-[硅谷财富严重两级分化](https://www.solidot.org/story?sid=74179)
-
-[Steam 允许从本地网络中的一台设备向另一台设备传输游戏文件](https://www.solidot.org/story?sid=74178)
-
-[Facebook 推出付费订阅服务 Meta Verified](https://www.solidot.org/story?sid=74177)
-
-[Debian 12 Bookworm 进入软冻结](https://www.solidot.org/story?sid=74176)
-
-[亚马逊要求员工每周会办公室工作三天](https://www.solidot.org/story?sid=74175)
 
