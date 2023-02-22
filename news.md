@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-02-22 16:38:04
+> Update time: 2023-02-23 04:09:23
+
+[FTX 日本用户现在可以提款](https://www.solidot.org/story?sid=74209)
+
+[美国共和党议员提议将使用 mRNA 疫苗视为犯罪](https://www.solidot.org/story?sid=74208)
+
+[西雅图立法禁止种性歧视](https://www.solidot.org/story?sid=74207)
+
+[苹果拿下了台积电 3 纳米芯片的初期全部产能](https://www.solidot.org/story?sid=74206)
+
+[《心跳文学部》付费《Plus》版售出一百万份拷贝](https://www.solidot.org/story?sid=74205)
+
+[AMD CEO 认为计算机领域的下一个最重要挑战是能效](https://www.solidot.org/story?sid=74204)
+
+[美国森林首次种植转基因树](https://www.solidot.org/story?sid=74203)
+
+[亚马逊 Kindle 商店数百本电子书将 ChatGPT 列为合作者](https://www.solidot.org/story?sid=74202)
+
+[戏仿的付费认证功能上线后 Tumblr iOS 收入增长 125%](https://www.solidot.org/story?sid=74201)
 
 [参与四天工作制试点的英国公司大部分都顺延](https://www.solidot.org/story?sid=74200)
-
-[因涌入大量 AI 撰写的作品科幻杂志暂停短篇投稿](https://www.solidot.org/story?sid=74199)
-
-[黑客窃取到数据中心的登陆凭证](https://www.solidot.org/story?sid=74198)
-
-[人人都在尝试生成式 AI](https://www.solidot.org/story?sid=74197)
-
-[中国科学家在穿山甲发现可感染人类的新冠状病毒](https://www.solidot.org/story?sid=74196)
-
-[Adobe 移除对 Type 1 字体格式的支持](https://www.solidot.org/story?sid=74195)
-
-[Linux 6.3 合并了硬件噪声工具 hwnoise](https://www.solidot.org/story?sid=74194)
-
-[摄影师捕捉到手鱼的罕见照片](https://www.solidot.org/story?sid=74193)
-
-[对冲基金 Galois Capital 因半数资产困在破产的 FTX 而宣布关闭](https://www.solidot.org/story?sid=74192)
-
-[Google Chrome 推出减少内存占用和耗电的工具](https://www.solidot.org/story?sid=74191)
 
