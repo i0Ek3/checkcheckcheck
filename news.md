@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-02-24 16:39:09
+> Update time: 2023-02-25 04:09:33
+
+[米兰居民平均身高两千年几无变化](https://www.solidot.org/story?sid=74231)
+
+[性、食物还是水？小鼠如何做决定](https://www.solidot.org/story?sid=74230)
+
+[早晨禁食可能影响免疫系统](https://www.solidot.org/story?sid=74229)
+
+[微软 .NET 运行时加入初步支持 RISC-V 处理器的代码](https://www.solidot.org/story?sid=74228)
+
+[欧盟委员会禁止在工作设备上使用 TikTok](https://www.solidot.org/story?sid=74227)
 
 [Blender 将每年发布三个版本](https://www.solidot.org/story?sid=74226)
 
@@ -10,14 +20,4 @@
 [Valve 利用蜜罐封杀了 4 万 Dota 作弊者账号](https://www.solidot.org/story?sid=74223)
 
 [ChatGPT 的错误答案给 OpenCage 短暂增加新用户](https://www.solidot.org/story?sid=74222)
-
-[ChatGPT 式搜索对 Google 微软而言意味着成本增加 10 倍](https://www.solidot.org/story?sid=74221)
-
-[美国近三成的工作仍然是远程工作](https://www.solidot.org/story?sid=74220)
-
-[乌克兰希望在该国禁止俄罗斯资助的游戏《原子之心》](https://www.solidot.org/story?sid=74219)
-
-[Google 在量子纠错上取得进步](https://www.solidot.org/story?sid=74218)
-
-[Ubuntu 下一个版本默认不再支持 Flatpak](https://www.solidot.org/story?sid=74217)
 
