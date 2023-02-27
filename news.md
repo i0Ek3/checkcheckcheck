@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-02-27 16:40:17
+> Update time: 2023-02-28 04:09:58
+
+[Steam Deck 发售一周年](https://www.solidot.org/story?sid=74249)
+
+[Meta 新语言模型能运行在单张显卡上](https://www.solidot.org/story?sid=74248)
+
+[摩托罗拉将月费 5 美元的卫星消息服务带给所有用户](https://www.solidot.org/story?sid=74247)
+
+[2050 年全球塑料消费量预计将增加七成](https://www.solidot.org/story?sid=74246)
+
+[研究称男性体力劳动者的精子数更多](https://www.solidot.org/story?sid=74245)
+
+[2022 年勒索软件攻击频率和勒索金额下降](https://www.solidot.org/story?sid=74244)
 
 [龙芯的 LSX 和 LASX 向量扩展](https://www.solidot.org/story?sid=74243)
 
@@ -8,16 +20,4 @@
 [Linux 和开源软件由谁开发](https://www.solidot.org/story?sid=74241)
 
 [Twitter 突然关闭内部使用的 Slack 频道](https://www.solidot.org/story?sid=74240)
-
-[龙宫沙粒样本富含数万种有机化合物](https://www.solidot.org/story?sid=74239)
-
-[Mozilla 发现八成的 Google Play 应用安全标签是不精确的](https://www.solidot.org/story?sid=74238)
-
-[诺基亚推出可在家自己维修的 Android 手机](https://www.solidot.org/story?sid=74237)
-
-[亚马逊上的驴肉问题](https://www.solidot.org/story?sid=74236)
-
-[AI 对资本家最有用](https://www.solidot.org/story?sid=74235)
-
-[华纳兄弟宣布制作新魔戒电影](https://www.solidot.org/story?sid=74234)
 
