@@ -1,5 +1,7 @@
 # Here The News
-> Update time: 2023-02-28 16:12:28
+> Update time: 2023-02-28 16:40:23
+
+[FFmpeg 6.0 释出](https://www.solidot.org/story?sid=74253)
 
 [大众拒绝跟踪车内有绑架儿童的汽车](https://www.solidot.org/story?sid=74252)
 
@@ -18,6 +20,4 @@
 [研究称男性体力劳动者的精子数更多](https://www.solidot.org/story?sid=74245)
 
 [2022 年勒索软件攻击频率和勒索金额下降](https://www.solidot.org/story?sid=74244)
-
-[龙芯的 LSX 和 LASX 向量扩展](https://www.solidot.org/story?sid=74243)
 
