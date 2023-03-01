@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-01 16:39:27
+> Update time: 2023-03-02 04:10:02
+
+[OpenAI 走向了它所承诺的反面](https://www.solidot.org/story?sid=74270)
+
+[新闻集团称黑客入侵其网络长达两年时间](https://www.solidot.org/story?sid=74269)
+
+[Windows 11 在 2023 年的首个重大更新将包含 Bing Chat](https://www.solidot.org/story?sid=74268)
+
+[美国考虑撤销对华为的出口许可证](https://www.solidot.org/story?sid=74267)
+
+[现代鸟类的翅膀如何演化而来](https://www.solidot.org/story?sid=74266)
+
+[YouTube 视频导致 Pixel 手机立即重启](https://www.solidot.org/story?sid=74265)
 
 [Google 开始向部分 Gmail 和 Calendar 用户提供客户端加密](https://www.solidot.org/story?sid=74264)
 
 [2022 年政府断网次数创新记录](https://www.solidot.org/story?sid=74263)
 
+[俄罗斯以传播虚假军事信息对维基百科罚款 200 万卢布](https://www.solidot.org/story?sid=74262)
+
 [英伟达释出驱动支持视频超分辨率](https://www.solidot.org/story?sid=74261)
-
-[脸盲症可能比此前认为的更普遍](https://www.solidot.org/story?sid=74260)
-
-[Twitter 裁员大约 200 人](https://www.solidot.org/story?sid=74259)
-
-[宇宙最早的星系比预期的质量更大](https://www.solidot.org/story?sid=74258)
-
-[中子星的内部仍然是一个谜团](https://www.solidot.org/story?sid=74257)
-
-[科学家发现有 2.5 亿年历史的入睡植物](https://www.solidot.org/story?sid=74256)
-
-[拼多多靠低价抢占美国市场](https://www.solidot.org/story?sid=74255)
-
-[亚马逊因电子书出现在盗版网站而将其从 Kindle Unlimited 中移除](https://www.solidot.org/story?sid=74254)
 
