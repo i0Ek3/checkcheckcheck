@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-03-02 04:34:53
+> Update time: 2023-03-02 16:12:10
+
+[美众议院委员会通过 TikTok 禁令法案](https://www.solidot.org/story?sid=74276)
+
+[Godot 4.0 发布](https://www.solidot.org/story?sid=74275)
+
+[小行星与 DART 撞击之后短暂改变颜色](https://www.solidot.org/story?sid=74274)
+
+[Humble Bundle 推出土耳其叙利亚地震慈善包](https://www.solidot.org/story?sid=74273)
+
+[每天 11 分钟快走降低早死风险](https://www.solidot.org/story?sid=74272)
+
+[Ubuntu 是 Canonical 公司的产品](https://www.solidot.org/story?sid=74271)
 
 [OpenAI 走向了它所承诺的反面](https://www.solidot.org/story?sid=74270)
 
@@ -8,16 +20,4 @@
 [Windows 11 在 2023 年的首个重大更新将包含 Bing Chat](https://www.solidot.org/story?sid=74268)
 
 [美国考虑撤销对华为的出口许可证](https://www.solidot.org/story?sid=74267)
-
-[现代鸟类的翅膀如何演化而来](https://www.solidot.org/story?sid=74266)
-
-[YouTube 视频导致 Pixel 手机立即重启](https://www.solidot.org/story?sid=74265)
-
-[Google 开始向部分 Gmail 和 Calendar 用户提供客户端加密](https://www.solidot.org/story?sid=74264)
-
-[2022 年政府断网次数创新记录](https://www.solidot.org/story?sid=74263)
-
-[俄罗斯以传播虚假军事信息对维基百科罚款 200 万卢布](https://www.solidot.org/story?sid=74262)
-
-[英伟达释出驱动支持视频超分辨率](https://www.solidot.org/story?sid=74261)
 
