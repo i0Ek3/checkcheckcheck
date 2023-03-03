@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-03 16:38:20
+> Update time: 2023-03-04 04:09:32
+
+[伊朗将视频游戏作为宣传工具](https://www.solidot.org/story?sid=74297)
+
+[黑客的新后门程序利用了 MQTT 协议](https://www.solidot.org/story?sid=74296)
+
+[美国人文教育的衰落](https://www.solidot.org/story?sid=74295)
+
+[数百万临近退休的美国人没有储蓄](https://www.solidot.org/story?sid=74294)
+
+[国产 APP 利用 Android 漏洞提权使其难以卸载](https://www.solidot.org/story?sid=74293)
+
+[报告预测到 2035 年逾半数人口将超重或肥胖](https://www.solidot.org/story?sid=74292)
+
+[日本研究称一同锻炼带来的效果更好](https://www.solidot.org/story?sid=74291)
+
+[科学家在沃尔玛超市发现罕见的侏罗纪时代昆虫](https://www.solidot.org/story?sid=74290)
 
 [欧洲早期定居者的基因交流始于农业时代](https://www.solidot.org/story?sid=74289)
 
 [俄罗斯禁止政府机构使用外国消息应用](https://www.solidot.org/story?sid=74288)
-
-[F-Droid 更新库索引格式减少更新体积](https://www.solidot.org/story?sid=74287)
-
-[苹果担忧 AI 应用可能生成成人内容](https://www.solidot.org/story?sid=74286)
-
-[日美实现磁约束氢硼聚变](https://www.solidot.org/story?sid=74285)
-
-[AMD 最大的客户是索尼](https://www.solidot.org/story?sid=74284)
-
-[微软新 AI 模型能理解图像内容解决视觉难题](https://www.solidot.org/story?sid=74283)
-
-[英国皇家天文学会从 2024 年起所有期刊开放获取](https://www.solidot.org/story?sid=74282)
-
-[SpaceX 火箭完成连续 101 次成功着陆](https://www.solidot.org/story?sid=74281)
-
-[日本用 ARM 超算富岳预测暴雨](https://www.solidot.org/story?sid=74280)
 
