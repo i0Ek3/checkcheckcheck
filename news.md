@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-07 04:34:50
+> Update time: 2023-03-07 16:12:34
+
+[科学家发现柠檬汁干预结石形成的原因](https://www.solidot.org/story?sid=74318)
+
+[研究发现过去数世纪绘画中的男性生殖器在变大](https://www.solidot.org/story?sid=74317)
+
+[一位工程师改动配置导致 Twitter 周一宕机](https://www.solidot.org/story?sid=74316)
+
+[ChatGPT 是如何构建的](https://www.solidot.org/story?sid=74315)
+
+[探测木星卫星是否支持生命的探测器即将发射](https://www.solidot.org/story?sid=74314)
+
+[科学家调查切尔诺贝利核辐射对流浪犬的影响](https://www.solidot.org/story?sid=74313)
+
+[LastPass 工程师被利用的软件漏洞有近三年历史](https://www.solidot.org/story?sid=74312)
+
+[得州法案想要 ISP 屏蔽堕胎网站](https://www.solidot.org/story?sid=74311)
+
+[币安躲避美国监管的计划](https://www.solidot.org/story?sid=74310)
 
 [Linux Kernel 6.3-rc1 释出](https://www.solidot.org/story?sid=74309)
-
-[Valve 在开发《反恐精英 2》](https://www.solidot.org/story?sid=74308)
-
-[SCO 诉 IBM 20 年后](https://www.solidot.org/story?sid=74307)
-
-[Waymo 今年内裁员了 8%](https://www.solidot.org/story?sid=74306)
-
-[“问客”诞生，第四次工业革命才算石锤了](https://www.solidot.org/story?sid=74305)
-
-[详解 Steam Deck 的梵高 APU](https://www.solidot.org/story?sid=74304)
-
-[研究发现老年人每天多走 500 步可减少患心脏病中风等的风险](https://www.solidot.org/story?sid=74303)
-
-[研究显示海鸟避开了风力涡轮机叶片](https://www.solidot.org/story?sid=74302)
-
-[社交网络上的虚假互动服务](https://www.solidot.org/story?sid=74301)
-
-[佛罗里达法案要求撰写州长相关内容的博主必须登记](https://www.solidot.org/story?sid=74300)
 
