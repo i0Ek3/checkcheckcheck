@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-08 16:39:42
+> Update time: 2023-03-09 04:09:55
+
+[Bethesda 宣布《星空》于 9 月 6 日发售](https://www.solidot.org/story?sid=74338)
+
+[Google 演示能完成多项任务的通用 AI 模型 PaLM-E](https://www.solidot.org/story?sid=74337)
+
+[宏碁证实遭黑客入侵数据被盗](https://www.solidot.org/story?sid=74336)
+
+[让 LLaMa 能运行在 CPU 上](https://www.solidot.org/story?sid=74335)
+
+[报道披露全球逾千个甲烷超级排放点](https://www.solidot.org/story?sid=74334)
+
+[惠普更新打印机固件禁止非惠普墨盒](https://www.solidot.org/story?sid=74333)
+
+[马斯克为嘲笑残疾员工道歉](https://www.solidot.org/story?sid=74332)
+
+[英特尔称它完成了 18A 和 20A 生产节点的开发](https://www.solidot.org/story?sid=74331)
+
+[域名注册商 Freenom 暂停域名注册](https://www.solidot.org/story?sid=74330)
 
 [Rust for Linux 维护者谈未来计划](https://www.solidot.org/story?sid=74329)
-
-[Meta 的大语言模型 LLaMA 泄露](https://www.solidot.org/story?sid=74328)
-
-[在囚犯越狱之后毛里塔尼亚切断了整个国家的移动网络](https://www.solidot.org/story?sid=74327)
-
-[《城市：天际线 II》宣布](https://www.solidot.org/story?sid=74326)
-
-[今年的 PC 销量可能更糟](https://www.solidot.org/story?sid=74325)
-
-[Google 支持一千种语言的大 AI 模型取得进展](https://www.solidot.org/story?sid=74324)
-
-[企业软件创业公司拥抱生成式 AI](https://www.solidot.org/story?sid=74323)
-
-[德国政府考虑禁用华为中兴的 5G 技术](https://www.solidot.org/story?sid=74322)
-
-[软盘为何还没有彻底淘汰？](https://www.solidot.org/story?sid=74321)
-
-[中国组建国家数据局](https://www.solidot.org/story?sid=74320)
 
