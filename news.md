@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-03-08 04:34:27
+> Update time: 2023-03-08 16:12:05
+
+[Rust for Linux 维护者谈未来计划](https://www.solidot.org/story?sid=74329)
+
+[Meta 的大语言模型 LLaMA 泄露](https://www.solidot.org/story?sid=74328)
+
+[在囚犯越狱之后毛里塔尼亚切断了整个国家的移动网络](https://www.solidot.org/story?sid=74327)
+
+[《城市：天际线 II》宣布](https://www.solidot.org/story?sid=74326)
+
+[今年的 PC 销量可能更糟](https://www.solidot.org/story?sid=74325)
+
+[Google 支持一千种语言的大 AI 模型取得进展](https://www.solidot.org/story?sid=74324)
 
 [企业软件创业公司拥抱生成式 AI](https://www.solidot.org/story?sid=74323)
 
@@ -8,16 +20,4 @@
 [软盘为何还没有彻底淘汰？](https://www.solidot.org/story?sid=74321)
 
 [中国组建国家数据局](https://www.solidot.org/story?sid=74320)
-
-[日本 H3 运载火箭的首次发射失败](https://www.solidot.org/story?sid=74319)
-
-[科学家发现柠檬汁干预结石形成的原因](https://www.solidot.org/story?sid=74318)
-
-[研究发现过去数世纪绘画中的男性生殖器在变大](https://www.solidot.org/story?sid=74317)
-
-[一位工程师改动配置导致 Twitter 周一宕机](https://www.solidot.org/story?sid=74316)
-
-[ChatGPT 是如何构建的](https://www.solidot.org/story?sid=74315)
-
-[探测木星卫星是否支持生命的探测器即将发射](https://www.solidot.org/story?sid=74314)
 
