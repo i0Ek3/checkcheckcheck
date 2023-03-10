@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-10 16:39:39
+> Update time: 2023-03-11 04:09:15
+
+[CRISPR 疗法准备就绪](https://www.solidot.org/story?sid=74360)
+
+[小行星在 2046 年有 1/560 几率与地球相撞](https://www.solidot.org/story?sid=74359)
+
+[cURL 庆祝 25 周年](https://www.solidot.org/story?sid=74358)
+
+[多模态 GPT-4 大语言模型将在下周发布](https://www.solidot.org/story?sid=74357)
+
+[微软必应日活跃用户突破 1 亿](https://www.solidot.org/story?sid=74356)
+
+[Google 掏出失败的 Google+ 剧本去对抗 ChatGPT](https://www.solidot.org/story?sid=74355)
+
+[字节跳动支持自由固件](https://www.solidot.org/story?sid=74354)
 
 [澳大利亚的丛林大火如何撕裂臭氧层](https://www.solidot.org/story?sid=74353)
 
 [AI 聊天机器人带来的挑战](https://www.solidot.org/story?sid=74352)
 
 [日本科学家将雄鼠体细胞变成卵细胞并产下后代](https://www.solidot.org/story?sid=74351)
-
-[Valve 称下一代 Steam Deck 要过好几年才会发布](https://www.solidot.org/story?sid=74350)
-
-[美国 FBI 承认购买过位置数据](https://www.solidot.org/story?sid=74349)
-
-[Google Groups 被任其死亡](https://www.solidot.org/story?sid=74348)
-
-[百度的 “文心一言”还在加紧测试](https://www.solidot.org/story?sid=74347)
-
-[Google 通知员工今年减少升职加薪](https://www.solidot.org/story?sid=74346)
-
-[荷兰限制出口先进光刻机](https://www.solidot.org/story?sid=74345)
-
-[大众宣布汽车跟踪紧急服务免费](https://www.solidot.org/story?sid=74344)
 
