@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-03-14 04:33:20
+> Update time: 2023-03-14 16:12:45
+
+[研究称美国人的 IQ 得分近一个世纪以来首次下滑](https://www.solidot.org/story?sid=74384)
+
+[Automattic 收购 ActivityPub 插件 WordPress 加入联邦平台](https://www.solidot.org/story?sid=74383)
+
+[你现在可以在笔记本电脑、手机和树莓派上运行 AI 模型 LLaMA](https://www.solidot.org/story?sid=74382)
+
+[Google 对 AI 的谨慎导致其落在微软后面](https://www.solidot.org/story?sid=74381)
+
+[Google 杀死 Reader 十周年](https://www.solidot.org/story?sid=74380)
 
 [美国青少年盗窃汽车的现象大幅增长](https://www.solidot.org/story?sid=74379)
 
@@ -10,14 +20,4 @@
 [俄罗斯黑客威胁泄露开发中的《潜行者2》游戏素材](https://www.solidot.org/story?sid=74376)
 
 [科学家复活在永久冻土中发现的十余种新病毒](https://www.solidot.org/story?sid=74375)
-
-[汇丰以 1 英镑价格收购硅谷银行英国分行](https://www.solidot.org/story?sid=74374)
-
-[微塑料影响新陈代谢和发育](https://www.solidot.org/story?sid=74373)
-
-[网信办启动自媒体专项整治行动](https://www.solidot.org/story?sid=74372)
-
-[苹果富士康说服印度邦放松劳工法律](https://www.solidot.org/story?sid=74371)
-
-[《瞬息全宇宙》赢得奥斯卡最佳影片](https://www.solidot.org/story?sid=74370)
 
