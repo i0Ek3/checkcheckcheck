@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-14 16:41:09
+> Update time: 2023-03-15 04:11:57
+
+[皮尤调查显示人们对 AI 更可能感到担忧而不是兴奋](https://www.solidot.org/story?sid=74392)
+
+[美国司法部调查 TerraUSD 稳定币的崩溃](https://www.solidot.org/story?sid=74390)
+
+[机器人律师公司被律所起诉无证执业](https://www.solidot.org/story?sid=74389)
+
+[微软投资数亿美元建造驱动 ChatGPT 的超算](https://www.solidot.org/story?sid=74388)
+
+[研究显示极端气候强度过去二十年急剧增加](https://www.solidot.org/story?sid=74387)
+
+[谭咏文认为广告商偷走了互联网](https://www.solidot.org/story?sid=74386)
+
+[加州上诉法庭裁决零工是独立合同工](https://www.solidot.org/story?sid=74385)
 
 [研究称美国人的 IQ 得分近一个世纪以来首次下滑](https://www.solidot.org/story?sid=74384)
 
 [Automattic 收购 ActivityPub 插件 WordPress 加入联邦平台](https://www.solidot.org/story?sid=74383)
 
 [你现在可以在笔记本电脑、手机和树莓派上运行 AI 模型 LLaMA](https://www.solidot.org/story?sid=74382)
-
-[Google 对 AI 的谨慎导致其落在微软后面](https://www.solidot.org/story?sid=74381)
-
-[Google 杀死 Reader 十周年](https://www.solidot.org/story?sid=74380)
-
-[美国青少年盗窃汽车的现象大幅增长](https://www.solidot.org/story?sid=74379)
-
-[通用汽车探索将 ChatGPT 带到汽车上](https://www.solidot.org/story?sid=74378)
-
-[Meta 探索构建去中心化微博服务挑战 Twitter](https://www.solidot.org/story?sid=74377)
-
-[俄罗斯黑客威胁泄露开发中的《潜行者2》游戏素材](https://www.solidot.org/story?sid=74376)
-
-[科学家复活在永久冻土中发现的十余种新病毒](https://www.solidot.org/story?sid=74375)
 
