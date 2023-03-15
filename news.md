@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-03-15 16:37:44
+> Update time: 2023-03-16 04:09:22
+
+[《游戏分发与推广基本要求》征求意见发布](https://www.solidot.org/story?sid=74403)
+
+[Firefox 111.0 启用文件系统访问 API](https://www.solidot.org/story?sid=74402)
+
+[华硕发布第一款 RISC-V 单板电脑 Tinker V](https://www.solidot.org/story?sid=74401)
+
+[勒索软件攻击进入到了令人发指的新阶段](https://www.solidot.org/story?sid=74400)
+
+[AI 棋手帮助人类棋手进步](https://www.solidot.org/story?sid=74399)
+
+[亚马逊计划在 2024 年推出卫星宽带服务](https://www.solidot.org/story?sid=74398)
 
 [Kali Linux 发布防御安全发行版 Purple](https://www.solidot.org/story?sid=74397)
 
@@ -8,16 +20,4 @@
 [Meta 将再次裁员上万名员工](https://www.solidot.org/story?sid=74395)
 
 [OpenAI 宣布 GPT-4](https://www.solidot.org/story?sid=74394)
-
-[Stack Overflow 调查显示开源、云计算和机器学习是最得到认可的技术](https://www.solidot.org/story?sid=74393)
-
-[皮尤调查显示人们对 AI 更可能感到担忧而不是兴奋](https://www.solidot.org/story?sid=74392)
-
-[美国司法部调查 TerraUSD 稳定币的崩溃](https://www.solidot.org/story?sid=74390)
-
-[机器人律师公司被律所起诉无证执业](https://www.solidot.org/story?sid=74389)
-
-[微软投资数亿美元建造驱动 ChatGPT 的超算](https://www.solidot.org/story?sid=74388)
-
-[研究显示极端气候强度过去二十年急剧增加](https://www.solidot.org/story?sid=74387)
 
