@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-03-16 16:38:15
+> Update time: 2023-03-17 04:09:20
+
+[三星将斥资 2300 亿美元建造芯片基地](https://www.solidot.org/story?sid=74414)
+
+[日本公司强制新员工使用 ChatGPT](https://www.solidot.org/story?sid=74413)
+
+[微软释出更新修复两个正被利用的 0day](https://www.solidot.org/story?sid=74412)
+
+[富士康将减少对中国收入的依赖](https://www.solidot.org/story?sid=74411)
+
+[百度宣布文心一言](https://www.solidot.org/story?sid=74410)
+
+[Jonathan Carter 第四次竞选 Debian 项目领导人](https://www.solidot.org/story?sid=74409)
 
 [PyTorch 2.0 释出](https://www.solidot.org/story?sid=74408)
 
@@ -8,16 +20,4 @@
 [Docker 将删除开源组织的所有镜像除非他们付钱](https://www.solidot.org/story?sid=74406)
 
 [美国要求字节跳动出售其持有的 TikTok 股份](https://www.solidot.org/story?sid=74405)
-
-[梦工厂公开 MoonRay 源代码](https://www.solidot.org/story?sid=74404)
-
-[《游戏分发与推广基本要求》征求意见发布](https://www.solidot.org/story?sid=74403)
-
-[Firefox 111.0 启用文件系统访问 API](https://www.solidot.org/story?sid=74402)
-
-[华硕发布第一款 RISC-V 单板电脑 Tinker V](https://www.solidot.org/story?sid=74401)
-
-[勒索软件攻击进入到了令人发指的新阶段](https://www.solidot.org/story?sid=74400)
-
-[AI 棋手帮助人类棋手进步](https://www.solidot.org/story?sid=74399)
 
