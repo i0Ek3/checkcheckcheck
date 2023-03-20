@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-03-20 04:33:09
+> Update time: 2023-03-20 16:12:21
+
+[2022 年度的自由软件奖宣布](https://www.solidot.org/story?sid=74435)
+
+[curl 作者回顾过去二十五年](https://www.solidot.org/story?sid=74434)
+
+[LLVM 编辑器套件释出 v16.0.0](https://www.solidot.org/story?sid=74433)
+
+[中国二手市场出现假冒的三星 980 Pro SSD](https://www.solidot.org/story?sid=74432)
+
+[Mastodon 用户数突破一千万](https://www.solidot.org/story?sid=74431)
+
+[硅谷银行和 Peter Thiel](https://www.solidot.org/story?sid=74430)
 
 [暗网数据泄密网站 BreachForums 站长被捕](https://www.solidot.org/story?sid=74429)
 
@@ -8,16 +20,4 @@
 [负面情绪驱动了在线新闻消费](https://www.solidot.org/story?sid=74427)
 
 [婴儿食用花生酱能大幅减少花生过敏](https://www.solidot.org/story?sid=74426)
-
-[三星 Exynos 芯片漏洞影响数十款 Android 设备](https://www.solidot.org/story?sid=74425)
-
-[大语言模型涌现无法预测的能力](https://www.solidot.org/story?sid=74424)
-
-[Godot 登陆 Epic Games Store](https://www.solidot.org/story?sid=74423)
-
-[FTX 称创始人拿走了 22 亿美元](https://www.solidot.org/story?sid=74422)
-
-[完全由 AI 生成的作品仍然不受版权保护](https://www.solidot.org/story?sid=74421)
-
-[咖啡因或有助于降低体脂肪和 2 型糖尿病风险](https://www.solidot.org/story?sid=74420)
 
