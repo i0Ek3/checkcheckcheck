@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-20 16:38:06
+> Update time: 2023-03-21 04:08:56
+
+[褐寡妇打败黑寡妇](https://www.solidot.org/story?sid=74444)
+
+[新基因编辑技术成功逆转小鼠视力损失](https://www.solidot.org/story?sid=74443)
+
+[科学家找到方法控制雄蚊的精子](https://www.solidot.org/story?sid=74442)
+
+[Curl 8.0.0 释出](https://www.solidot.org/story?sid=74441)
+
+[鸟儿搭乘海上船只的便车](https://www.solidot.org/story?sid=74440)
+
+[北海鳕鱼在变小](https://www.solidot.org/story?sid=74439)
+
+[转基因水稻可能能在火星上生长](https://www.solidot.org/story?sid=74438)
+
+[Ken Thompson 称他正从 Mac 切换到 Linux](https://www.solidot.org/story?sid=74437)
 
 [Web3 基础设施基金会于香港成立：欢迎来到真实的荒漠](https://www.solidot.org/story?sid=74436)
 
 [2022 年度的自由软件奖宣布](https://www.solidot.org/story?sid=74435)
-
-[curl 作者回顾过去二十五年](https://www.solidot.org/story?sid=74434)
-
-[LLVM 编辑器套件释出 v16.0.0](https://www.solidot.org/story?sid=74433)
-
-[中国二手市场出现假冒的三星 980 Pro SSD](https://www.solidot.org/story?sid=74432)
-
-[Mastodon 用户数突破一千万](https://www.solidot.org/story?sid=74431)
-
-[硅谷银行和 Peter Thiel](https://www.solidot.org/story?sid=74430)
-
-[暗网数据泄密网站 BreachForums 站长被捕](https://www.solidot.org/story?sid=74429)
-
-[马斯克宣布将在 3 月 31 日公开 Twitter 推荐算法源代码](https://www.solidot.org/story?sid=74428)
-
-[负面情绪驱动了在线新闻消费](https://www.solidot.org/story?sid=74427)
 
