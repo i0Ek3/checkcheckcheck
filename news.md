@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-22 04:33:09
+> Update time: 2023-03-22 16:10:32
+
+[Java 20 / JDK 20 释出](https://www.solidot.org/story?sid=74460)
+
+[英特尔 GPU 高管 Raja Koduri 离职创办 AI 公司](https://www.solidot.org/story?sid=74459)
+
+[现代承诺会保留汽车的物理按钮](https://www.solidot.org/story?sid=74458)
+
+[微软推出 Bing Image Creator](https://www.solidot.org/story?sid=74457)
+
+[英特尔取消 Thunder Bay，相关 Linux 代码将移除](https://www.solidot.org/story?sid=74456)
+
+[Adobe 发布 AI 图像生成工具 Firefly](https://www.solidot.org/story?sid=74455)
+
+[美国公司将测试一种新型无工质太空推进系统](https://www.solidot.org/story?sid=74454)
+
+[BBC 建议员工从工作手机上卸载 TikTok](https://www.solidot.org/story?sid=74453)
+
+[Google 开始向部分用户预览 Bard](https://www.solidot.org/story?sid=74452)
 
 [生成式 AI 的下一个前沿是视频](https://www.solidot.org/story?sid=74451)
-
-[微软开源 Visual ChatGPT](https://www.solidot.org/story?sid=74450)
-
-[AI 面部重建和 DNA 揭示了澳大利亚最著名悬案的身份](https://www.solidot.org/story?sid=74449)
-
-[亚马逊将再次裁员 9 千](https://www.solidot.org/story?sid=74448)
-
-[印度为搜捕分离分子领导人切断了旁遮普省的互联网](https://www.solidot.org/story?sid=74447)
-
-[以 BitTorrent 的方式在家用电脑上运行大语言模型](https://www.solidot.org/story?sid=74446)
-
-[Google 将拼多多应用标记为恶意程序](https://www.solidot.org/story?sid=74445)
-
-[褐寡妇打败黑寡妇](https://www.solidot.org/story?sid=74444)
-
-[新基因编辑技术成功逆转小鼠视力损失](https://www.solidot.org/story?sid=74443)
-
-[科学家找到方法控制雄蚊的精子](https://www.solidot.org/story?sid=74442)
 
