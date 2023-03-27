@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-03-27 16:37:18
+> Update time: 2023-03-28 04:10:33
+
+[Lookout 确认拼多多的非 Play 版本包含恶意代码](https://www.solidot.org/story?sid=74503)
+
+[ARM 想要改变芯片授权模式](https://www.solidot.org/story?sid=74502)
+
+[为什么美国儿童不再热爱阅读？](https://www.solidot.org/story?sid=74501)
+
+[电子竞技走向主流](https://www.solidot.org/story?sid=74500)
+
+[亚马逊拒绝 3 万员工反对强制性重返办公室的请愿](https://www.solidot.org/story?sid=74499)
 
 [盖茨预言 AI 新时代正在开启](https://www.solidot.org/story?sid=74498)
 
@@ -10,14 +20,4 @@
 [Twitter 源代码泄露](https://www.solidot.org/story?sid=74495)
 
 [微软研究员称 GPT-4 是 AGI 的雏形](https://www.solidot.org/story?sid=74494)
-
-[阿尔法狼是一种神话](https://www.solidot.org/story?sid=74493)
-
-[大众车载软件将支持 15 年左右](https://www.solidot.org/story?sid=74492)
-
-[W 玻色子的最新测量再次支持标准模型](https://www.solidot.org/story?sid=74491)
-
-[法国禁止政府工作手机安装娱乐应用](https://www.solidot.org/story?sid=74490)
-
-[美国犹他州通过法律青少年使用社交媒体需要父母批准](https://www.solidot.org/story?sid=74489)
 
