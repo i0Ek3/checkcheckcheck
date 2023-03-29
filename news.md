@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-29 04:33:35
+> Update time: 2023-03-29 16:11:38
+
+[高盛估计生成式 AI 影响全球 3 亿工作岗位](https://www.solidot.org/story?sid=74521)
+
+[英特尔赢下消费端，但工作站惨败给 AMD](https://www.solidot.org/story?sid=74520)
+
+[亚马逊开始对经常退货的商品警告用户](https://www.solidot.org/story?sid=74519)
+
+[广东报告一例人感染 H3N8 禽流感病例](https://www.solidot.org/story?sid=74518)
+
+[SBF 被控贿赂中国官员](https://www.solidot.org/story?sid=74517)
+
+[阿里巴巴重组，各集团可独立 IPO](https://www.solidot.org/story?sid=74516)
+
+[美国可更新能源发电量首次超过燃煤火电](https://www.solidot.org/story?sid=74515)
 
 [Steam 从明年起将停止支持 Windows 7、8 和 8.1](https://www.solidot.org/story?sid=74514)
 
 [ChatGPT 在文本标注任务中的表现超过了众包工人](https://www.solidot.org/story?sid=74513)
 
 [Google 的 AI 加速芯片设计论文引发质疑](https://www.solidot.org/story?sid=74512)
-
-[节食后大脑会放大饥饿信号](https://www.solidot.org/story?sid=74511)
-
-[英伟达表示加密货币没有给社会带来任何有用的东西](https://www.solidot.org/story?sid=74510)
-
-[百度投资 RISC-V 数据中心芯片创业公司](https://www.solidot.org/story?sid=74509)
-
-[美国禁止联邦机构采购商业间谍软件](https://www.solidot.org/story?sid=74508)
-
-[美国监管机构起诉币安及其CEO 赵长鹏](https://www.solidot.org/story?sid=74507)
-
-[黑客组织以中国核能机构为攻击目标](https://www.solidot.org/story?sid=74506)
-
-[俄罗斯去匿名化 Telegram 用户](https://www.solidot.org/story?sid=74505)
 
