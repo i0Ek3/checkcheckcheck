@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-03-30 16:36:29
+> Update time: 2023-03-31 04:08:55
+
+[彭博社向 curl 项目捐赠一万美金](https://www.solidot.org/story?sid=74540)
+
+[发改委督促苹果加强数据安全和个人隐私保护](https://www.solidot.org/story?sid=74539)
+
+[乌克兰空袭警报应用使用 Mark Hamill 的声音](https://www.solidot.org/story?sid=74538)
+
+[城市青少年和儿童的生长发育优势可能已经消失](https://www.solidot.org/story?sid=74537)
+
+[天文学家发现已知质量最大的黑洞](https://www.solidot.org/story?sid=74536)
+
+[Twitter 获得法庭传票要求 GitHub 披露其源代码上传者的身份](https://www.solidot.org/story?sid=74535)
+
+[间谍软件供应商利用 0day 和 Nday 漏洞攻击流行平台](https://www.solidot.org/story?sid=74534)
+
+[美国共和党参议员 Rand Paul 反对 TikTok 禁令](https://www.solidot.org/story?sid=74533)
 
 [印度奥里萨邦警方仍然在用信鸽传递信息](https://www.solidot.org/story?sid=74532)
 
 [SBF 的辩护费用部分来自于他送给父亲的钱](https://www.solidot.org/story?sid=74531)
-
-[马斯克等呼吁暂停开发更强大的 AI 系统](https://www.solidot.org/story?sid=74530)
-
-[Bing chat 引入广告](https://www.solidot.org/story?sid=74529)
-
-[快速射电暴首次发现关联引力波](https://www.solidot.org/story?sid=74528)
-
-[因为 TikTok 的数据中心挪威兵工厂无法扩大生产](https://www.solidot.org/story?sid=74527)
-
-[Windows 11 可选补丁给开始菜单加入广告](https://www.solidot.org/story?sid=74526)
-
-[研究人员近距离记录到避雷针与闪电之间的互动](https://www.solidot.org/story?sid=74525)
-
-[韦伯望远镜未在 TRAPPIST-1b 观察到大气层](https://www.solidot.org/story?sid=74524)
-
-[《卫报》所有者为创办人与奴隶交易历史道歉](https://www.solidot.org/story?sid=74523)
 
