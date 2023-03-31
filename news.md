@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-03-31 16:35:19
+> Update time: 2023-04-01 04:08:12
+
+[迄今最明亮伽马射线暴令天文学家困惑](https://www.solidot.org/story?sid=74550)
+
+[植物在压力下会发出声音](https://www.solidot.org/story?sid=74549)
+
+[Virgin Orbit 裁员 85%](https://www.solidot.org/story?sid=74548)
+
+[AI 图像生成服务 Midjourney 以滥用为由暂停免费试用](https://www.solidot.org/story?sid=74547)
+
+[香港海关破获了近年最大金额的电子产品陆路走私案](https://www.solidot.org/story?sid=74546)
+
+[Google Assistant 部门重组专注于 Bard](https://www.solidot.org/story?sid=74545)
 
 [在日本投诉之后中国关闭了一家盗版动漫网站](https://www.solidot.org/story?sid=74544)
 
@@ -8,16 +20,4 @@
 [开源聊天机器人在质量评估上能达到 ChatGPT 的九成](https://www.solidot.org/story?sid=74542)
 
 [E3 2023 取消](https://www.solidot.org/story?sid=74541)
-
-[彭博社向 curl 项目捐赠一万美金](https://www.solidot.org/story?sid=74540)
-
-[发改委督促苹果加强数据安全和个人隐私保护](https://www.solidot.org/story?sid=74539)
-
-[乌克兰空袭警报应用使用 Mark Hamill 的声音](https://www.solidot.org/story?sid=74538)
-
-[城市青少年和儿童的生长发育优势可能已经消失](https://www.solidot.org/story?sid=74537)
-
-[天文学家发现已知质量最大的黑洞](https://www.solidot.org/story?sid=74536)
-
-[Twitter 获得法庭传票要求 GitHub 披露其源代码上传者的身份](https://www.solidot.org/story?sid=74535)
 
