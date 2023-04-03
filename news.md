@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-03 16:35:17
+> Update time: 2023-04-04 04:08:23
+
+[Tor 项目推出捆绑 VPN 的隐私浏览器](https://www.solidot.org/story?sid=74572)
+
+[3CX 公司最初以为供应链攻击是误报](https://www.solidot.org/story?sid=74571)
+
+[数学家证明高维度黑洞形状可以是无限的](https://www.solidot.org/story?sid=74570)
+
+[维基百科创始人谈用 AI 写文章](https://www.solidot.org/story?sid=74569)
+
+[华为净利润大幅下滑](https://www.solidot.org/story?sid=74568)
+
+[韦伯发现宇宙已知最古老黑洞](https://www.solidot.org/story?sid=74567)
+
+[巴黎禁止共享电动滑板车](https://www.solidot.org/story?sid=74566)
+
+[天文学家利用 AI 挖掘孕育银河系的古老恒星](https://www.solidot.org/story?sid=74565)
 
 [黑客正在利用一个广泛使用的 WordPress 插件漏洞](https://www.solidot.org/story?sid=74564)
 
 [拼多多解散了在应用中加入恶意功能的团队](https://www.solidot.org/story?sid=74563)
-
-[运动或可减少不健康睡眠时间对寿命的负面影响](https://www.solidot.org/story?sid=74562)
-
-[用脑过度如何导致疲劳](https://www.solidot.org/story?sid=74561)
-
-[细胞衰老可能与基因表达错误率上升有关](https://www.solidot.org/story?sid=74560)
-
-[音乐家坂本龙一去世](https://www.solidot.org/story?sid=74559)
-
-[旧金山面临税收大幅减少的困境](https://www.solidot.org/story?sid=74558)
-
-[Google Drive 对用户储存的文件数量设定了上限](https://www.solidot.org/story?sid=74557)
-
-[Mozilla 诞生 25 周年](https://www.solidot.org/story?sid=74556)
-
-[方滨兴称 ChatGPT 可能会造成知识茧房](https://www.solidot.org/story?sid=74555)
 
