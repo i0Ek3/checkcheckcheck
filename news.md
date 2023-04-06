@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-06 16:34:22
+> Update time: 2023-04-07 04:08:11
 
-[思科退出俄罗斯市场，销毁百万美元设备](https://www.solidot.org/story?sid=74587)
+[AMD 和 JEDEC 标准化 DDR5 MRDIMM](https://www.solidot.org/story?sid=74597)
 
-[硅谷知名高管 Bob Lee 遇刺身亡](https://www.solidot.org/story?sid=74586)
+[华为和阿里巴巴准备发布各自的 AI 聊天机器人](https://www.solidot.org/story?sid=74596)
 
-[Chrome 112 发布，支持 WASM 垃圾收集](https://www.solidot.org/story?sid=74585)
+[Google 搜索引擎将加入 AI 聊天功能](https://www.solidot.org/story?sid=74595)
 
-[美国青少年对虚拟现实缺乏兴趣](https://www.solidot.org/story?sid=74584)
+[Meta 的新 AI 模型能分割出图像中的特定对象](https://www.solidot.org/story?sid=74594)
 
-[AI 进入企业控制的时代](https://www.solidot.org/story?sid=74583)
+[比特币白皮书隐藏在 macOS Mojave 之后的所有版本中](https://www.solidot.org/story?sid=74593)
 
-[Google 将削减提供给员工的各种福利](https://www.solidot.org/story?sid=74582)
+[研究发现南极冰原的消融速度能达到每天 600 米](https://www.solidot.org/story?sid=74592)
 
-[西部数据遭黑客入侵数据被盗](https://www.solidot.org/story?sid=74581)
+[研究揭示寒冷有利于延寿的一个机制](https://www.solidot.org/story?sid=74591)
 
-[Google 将近距离文件共享带到 Windows](https://www.solidot.org/story?sid=74580)
+[研究发现错误记忆能在几秒钟内形成](https://www.solidot.org/story?sid=74590)
 
-[科学家完成基于时间的双缝实验](https://www.solidot.org/story?sid=74579)
+[Google 称其 TPU 超算比英伟达 A100 更快更环保](https://www.solidot.org/story?sid=74589)
 
-[报告称全球六分之一人口受到不孕不育症影响](https://www.solidot.org/story?sid=74578)
+[全世界最富有的男性和女性都来自奢饰品行业](https://www.solidot.org/story?sid=74588)
 
