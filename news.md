@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-04-10 16:33:37
+> Update time: 2023-04-11 04:08:24
+
+[韦伯望远镜捕捉到天王星光环图像](https://www.solidot.org/story?sid=74624)
+
+[被裁的科技员工选择稳定甚于其它](https://www.solidot.org/story?sid=74623)
+
+[一季度 PC 出货量同比下跌近三成](https://www.solidot.org/story?sid=74622)
+
+[OpenAI 计划在日本设立办事处](https://www.solidot.org/story?sid=74621)
+
+[台积电出现月营收大幅下降](https://www.solidot.org/story?sid=74620)
+
+[Moderna 称能在五年内为癌症和心脏疾病提供疫苗](https://www.solidot.org/story?sid=74619)
 
 [空气污染与痴呆症相关](https://www.solidot.org/story?sid=74618)
 
@@ -8,16 +20,4 @@
 [美国考虑对卡巴斯基采取执法行动](https://www.solidot.org/story?sid=74616)
 
 [马斯克将 NPR 的标签从官方媒体改为政府资助媒体](https://www.solidot.org/story?sid=74615)
-
-[美国调查机密文件泄露](https://www.solidot.org/story?sid=74614)
-
-[Z-Library 计划支持实体书共享](https://www.solidot.org/story?sid=74613)
-
-[女性作者占据了美国图书出版业半壁以上的江山](https://www.solidot.org/story?sid=74612)
-
-[微星承认遭到网络攻击源代码被盗](https://www.solidot.org/story?sid=74611)
-
-[开源 VPN 帮助俄罗斯用户绕过封锁](https://www.solidot.org/story?sid=74610)
-
-[三星工程师使用 ChatGPT 调试机密代码](https://www.solidot.org/story?sid=74609)
 
