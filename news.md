@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-12 16:34:05
+> Update time: 2023-04-13 04:08:33
+
+[Databricks 发布开源指令微调大语言模型 Dolly 2.0](https://www.solidot.org/story?sid=74648)
+
+[NPR 宣布退出 Twitter](https://www.solidot.org/story?sid=74647)
+
+[NASA 官员用卡尔萨根的作品宣誓](https://www.solidot.org/story?sid=74646)
+
+[微软四月例行更新修复了一个正被利用的 0day 漏洞](https://www.solidot.org/story?sid=74645)
+
+[计算机科学家尝试让 ChatGPT 玩《模拟人生》](https://www.solidot.org/story?sid=74644)
+
+[开发者利用 AI 创造出能自我修复的程序](https://www.solidot.org/story?sid=74643)
+
+[研究发现怀孕期间感染新冠症状轻微不会减缓婴儿大脑发育](https://www.solidot.org/story?sid=74642)
 
 [韩国以反竞争为由罚款 Google 3200 万美元](https://www.solidot.org/story?sid=74641)
 
 [GPT-4 在量子计算期末考试中拿到了 B](https://www.solidot.org/story?sid=74640)
 
 [日本大学限制学生使用 ChatGPT 写文章](https://www.solidot.org/story?sid=74639)
-
-[以色列间谍软件公司 QuaDream 利用零点击漏洞入侵 iPhone](https://www.solidot.org/story?sid=74638)
-
-[Substack 发布了它的微博客服务 Notes](https://www.solidot.org/story?sid=74637)
-
-[泄露的美国军方机密文件包含了桌游角色数值](https://www.solidot.org/story?sid=74636)
-
-[可汗学院创始人认为 GPT-4 做好了做导师的准备](https://www.solidot.org/story?sid=74635)
-
-[AI 生成的成人照片达到以假乱真](https://www.solidot.org/story?sid=74634)
-
-[阿里云向企业开放通义千问](https://www.solidot.org/story?sid=74633)
-
-[龙芯 3D5000 CPU 支持 32 个核心](https://www.solidot.org/story?sid=74632)
 
