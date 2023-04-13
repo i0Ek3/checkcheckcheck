@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-13 16:34:38
+> Update time: 2023-04-14 04:08:47
 
-[日本人口连续 12 年减少](https://www.solidot.org/story?sid=74653)
+[亚马逊参与生成式 AI 竞赛](https://www.solidot.org/story?sid=74663)
 
-[法庭命令成人视频网站删除所有未经被拍摄者同意发布的视频](https://www.solidot.org/story?sid=74652)
+[Bob Lee 的疑凶是其熟人](https://www.solidot.org/story?sid=74662)
 
-[地球之水如何起源？](https://www.solidot.org/story?sid=74651)
+[微软开源 DeepSpeed Chat](https://www.solidot.org/story?sid=74661)
 
-[PBS 退出 Twitter](https://www.solidot.org/story?sid=74650)
+[广东报告首例 H3N8 禽流感死亡病例](https://www.solidot.org/story?sid=74660)
 
-[英特尔将代工 ARM 芯片](https://www.solidot.org/story?sid=74649)
+[苹果宣布其电池将使用 100% 再生钴](https://www.solidot.org/story?sid=74659)
 
-[Databricks 发布开源指令微调大语言模型 Dolly 2.0](https://www.solidot.org/story?sid=74648)
+[亚马逊编程助手 CodeWhispere 免费供个人开发者使用](https://www.solidot.org/story?sid=74658)
 
-[NPR 宣布退出 Twitter](https://www.solidot.org/story?sid=74647)
+[美国军方情报泄密者是一位拥枪的年轻人](https://www.solidot.org/story?sid=74657)
 
-[NASA 官员用卡尔萨根的作品宣誓](https://www.solidot.org/story?sid=74646)
+[一头动物园大象学会剥香蕉](https://www.solidot.org/story?sid=74656)
 
-[微软四月例行更新修复了一个正被利用的 0day 漏洞](https://www.solidot.org/story?sid=74645)
+[详细分析龙芯 3A5000 CPU](https://www.solidot.org/story?sid=74655)
 
-[计算机科学家尝试让 ChatGPT 玩《模拟人生》](https://www.solidot.org/story?sid=74644)
+[Android 14 首个 Beta 版本释出](https://www.solidot.org/story?sid=74654)
 
