@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-14 16:34:04
+> Update time: 2023-04-15 04:08:45
+
+[OpenAI CEO 确认该公司目前没有在训练 GPT-5](https://www.solidot.org/story?sid=74674)
+
+[ESA 成功发射木星卫星探测器 Juice](https://www.solidot.org/story?sid=74673)
+
+[中国计划大幅削减火箭发射费用以迎接 SpaceX 的挑战](https://www.solidot.org/story?sid=74672)
+
+[苹果早晨 7 点给员工发邮件调查混合办公](https://www.solidot.org/story?sid=74671)
+
+[研究发现高铁略微增加了幸福感](https://www.solidot.org/story?sid=74670)
+
+[天文学家发现了一个诞生于创世大爆炸后 5 亿年的小星系](https://www.solidot.org/story?sid=74669)
+
+[中国沿海海平面上升创下记录](https://www.solidot.org/story?sid=74668)
+
+[黑客从西部数据窃取到了 10 TB 数据](https://www.solidot.org/story?sid=74667)
 
 [千禧世代花在游戏上的时间比 Z 世代和青少年更多](https://www.solidot.org/story?sid=74666)
 
 [Servo 项目计划迁移到 Layout 2020](https://www.solidot.org/story?sid=74665)
-
-[EAST 实现 403 秒高约束模等离子体运行](https://www.solidot.org/story?sid=74664)
-
-[亚马逊参与生成式 AI 竞赛](https://www.solidot.org/story?sid=74663)
-
-[Bob Lee 的疑凶是其熟人](https://www.solidot.org/story?sid=74662)
-
-[微软开源 DeepSpeed Chat](https://www.solidot.org/story?sid=74661)
-
-[广东报告首例 H3N8 禽流感死亡病例](https://www.solidot.org/story?sid=74660)
-
-[苹果宣布其电池将使用 100% 再生钴](https://www.solidot.org/story?sid=74659)
-
-[亚马逊编程助手 CodeWhispere 免费供个人开发者使用](https://www.solidot.org/story?sid=74658)
-
-[美国军方情报泄密者是一位拥枪的年轻人](https://www.solidot.org/story?sid=74657)
 
