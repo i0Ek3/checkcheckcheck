@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-17 16:35:25
+> Update time: 2023-04-18 04:08:49
+
+[Moderna 和默克的癌症疫苗帮助预防黑色素瘤患者的复发](https://www.solidot.org/story?sid=74692)
+
+[世嘉证实报价收购愤怒小鸟开发商 Rovio](https://www.solidot.org/story?sid=74691)
+
+[三星考虑 Galaxy 系列设备默认使用 Bing 搜索引擎](https://www.solidot.org/story?sid=74690)
+
+[Google Chrome 释出紧急更新修复正被利用的 0day](https://www.solidot.org/story?sid=74689)
+
+[欧洲最大的核电机组投入运营](https://www.solidot.org/story?sid=74688)
+
+[旧 Twitter 已死新 Twitter 万岁](https://www.solidot.org/story?sid=74687)
+
+[德国关闭最后三座核电站](https://www.solidot.org/story?sid=74686)
 
 [小鼠研究发现超重母亲在怀孕和哺乳期间所生孩子更容易肥胖](https://www.solidot.org/story?sid=74685)
 
 [Valve 限制差评点赞用户的做法引发争议](https://www.solidot.org/story?sid=74684)
 
 [SpaceX 将于周一首飞其重型火箭 Starship](https://www.solidot.org/story?sid=74683)
-
-[美国 CISA 对被拼多多利用的 Android 漏洞发出警告](https://www.solidot.org/story?sid=74682)
-
-[Bethesda 在游戏被破解一年之后给《幽灵线东京》加入 Denuvo](https://www.solidot.org/story?sid=74681)
-
-[自由软件基金会批评 Google 移除对 JPEG-XL 支持的决定](https://www.solidot.org/story?sid=74680)
-
-[研究人员认为长新冠与酸碱失衡相关](https://www.solidot.org/story?sid=74679)
-
-[Linux 的早期历史](https://www.solidot.org/story?sid=74678)
-
-[美国蒙大拿州众议院投票全面禁止 TikTok](https://www.solidot.org/story?sid=74677)
-
-[盗窃丝绸之路逾 30 亿美元比特币的男子被判一年零一天](https://www.solidot.org/story?sid=74676)
 
