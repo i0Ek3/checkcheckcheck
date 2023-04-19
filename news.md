@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-19 16:35:13
+> Update time: 2023-04-20 04:08:56
+
+[Netflix 结束 DVD 邮寄业务](https://www.solidot.org/story?sid=74716)
+
+[英特尔停产 Blockscale ASIC 矿机](https://www.solidot.org/story?sid=74715)
+
+[Google 准备推出其首款可折叠智能手机 Pixel Fold](https://www.solidot.org/story?sid=74714)
+
+[瑞典公共广播电台退出 Twitter](https://www.solidot.org/story?sid=74713)
+
+[研究人员发现大脑的社会知觉神经网络](https://www.solidot.org/story?sid=74712)
+
+[研究发现养成健身习惯平均需要半年](https://www.solidot.org/story?sid=74711)
+
+[研究发现每周工作四天对健康有益](https://www.solidot.org/story?sid=74710)
+
+[日本横须贺市率先在政府工作时使用 ChatGPT](https://www.solidot.org/story?sid=74709)
 
 [杨紫琼主演新《星际迷航》电影](https://www.solidot.org/story?sid=74708)
 
 [Fedora 38 释出](https://www.solidot.org/story?sid=74707)
-
-[JCRE 中的内存污染：无法修补的 HSM 可能会偷吃您的私钥](https://www.solidot.org/story?sid=74706)
-
-[澳军用直升机坠毁被指原因是未能打软件补丁](https://www.solidot.org/story?sid=74705)
-
-[摩尔线程开发者向 VA-API 和 FFmpeg 项目贡献代码](https://www.solidot.org/story?sid=74704)
-
-[苹果印度首家自营商店开业](https://www.solidot.org/story?sid=74703)
-
-[美国 GS1 将条形码升级为二维码](https://www.solidot.org/story?sid=74702)
-
-[CBC 暂停在 Twitter 的活动](https://www.solidot.org/story?sid=74701)
-
-[Discord 如何帮助 FBI 逮捕机密文件的泄密者](https://www.solidot.org/story?sid=74700)
-
-[Google CEO 谈 AI 时代的不作恶信条](https://www.solidot.org/story?sid=74699)
 
