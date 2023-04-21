@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-21 16:33:51
+> Update time: 2023-04-22 04:08:31
+
+[3CX 安全事件是双重供应链攻击](https://www.solidot.org/story?sid=74743)
+
+[ChatGPT 每日运营成本超过 70 万美元](https://www.solidot.org/story?sid=74742)
+
+[盗车贼用旧诺基亚手机盗车](https://www.solidot.org/story?sid=74741)
+
+[马斯克声称他自己掏钱给几位名人订阅了 Twitter Blue](https://www.solidot.org/story?sid=74740)
+
+[美国农民进口小型日本皮卡](https://www.solidot.org/story?sid=74739)
+
+[Ubuntu 23.04 (Lunar Lobster)释出](https://www.solidot.org/story?sid=74738)
+
+[Proton 发布端对端加密密码管理器](https://www.solidot.org/story?sid=74737)
 
 [华为用自己开发的 ERP 系统取代了甲骨文的产品](https://www.solidot.org/story?sid=74736)
 
 [苹果被控在合作名义下剽窃对方创意](https://www.solidot.org/story?sid=74735)
 
 [宇航员的骨质流失可能与微生物群变化有关](https://www.solidot.org/story?sid=74734)
-
-[天文学家估计银河系的质量](https://www.solidot.org/story?sid=74733)
-
-[Google 重组 AI 研究部门](https://www.solidot.org/story?sid=74732)
-
-[张文宏建议脆弱人群再次接种新冠疫苗](https://www.solidot.org/story?sid=74731)
-
-[SpaceX Starship 完成首次轨道飞行测试](https://www.solidot.org/story?sid=74730)
-
-[《CS:GO》AK-47 超罕见皮肤卖出了逾 40 万美元](https://www.solidot.org/story?sid=74729)
-
-[ICANN 和 Verisign 提议允许任何政府扣押域名](https://www.solidot.org/story?sid=74728)
-
-[Imgur 将从下个月开始禁止上传色情图像](https://www.solidot.org/story?sid=74727)
 
