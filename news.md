@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-04-22 16:32:39
+> Update time: 2023-04-23 04:08:21
+
+[Google CEO Sundar Pichai 收到了 2.26 亿美元的补偿金](https://www.solidot.org/story?sid=74749)
+
+[ChatGPT 生成的大部分代码是不安全的](https://www.solidot.org/story?sid=74748)
+
+[通用流感候选疫苗在第一阶段临床表现良好](https://www.solidot.org/story?sid=74747)
+
+[科学家探测到逾 1.9 万海底山](https://www.solidot.org/story?sid=74746)
+
+[ChatGPT 让肯尼亚的论文枪手失业](https://www.solidot.org/story?sid=74745)
+
+[拼多多商家反击平台的仅退款政策](https://www.solidot.org/story?sid=74744)
 
 [3CX 安全事件是双重供应链攻击](https://www.solidot.org/story?sid=74743)
 
@@ -8,16 +20,4 @@
 [盗车贼用旧诺基亚手机盗车](https://www.solidot.org/story?sid=74741)
 
 [马斯克声称他自己掏钱给几位名人订阅了 Twitter Blue](https://www.solidot.org/story?sid=74740)
-
-[美国农民进口小型日本皮卡](https://www.solidot.org/story?sid=74739)
-
-[Ubuntu 23.04 (Lunar Lobster)释出](https://www.solidot.org/story?sid=74738)
-
-[Proton 发布端对端加密密码管理器](https://www.solidot.org/story?sid=74737)
-
-[华为用自己开发的 ERP 系统取代了甲骨文的产品](https://www.solidot.org/story?sid=74736)
-
-[苹果被控在合作名义下剽窃对方创意](https://www.solidot.org/story?sid=74735)
-
-[宇航员的骨质流失可能与微生物群变化有关](https://www.solidot.org/story?sid=74734)
 
