@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-04-23 16:09:55
+> Update time: 2023-04-23 16:32:41
+
+[2015-2022 年是有记录以来最暖的八年](https://www.solidot.org/story?sid=74755)
+
+[生物年龄在压力下增加也能通过缓解压力恢复](https://www.solidot.org/story?sid=74754)
+
+[美国国土安全部研究如何使用 AI](https://www.solidot.org/story?sid=74753)
+
+[iOS 17 的应用侧载支持可能只提供给欧盟用户](https://www.solidot.org/story?sid=74752)
+
+[美国军方机密文件泄露者去年 2 月就在 Discord 上发布机密情报](https://www.solidot.org/story?sid=74751)
 
 [Mullvad VPN 称警方搜查了其办公室但没找到任何用户数据](https://www.solidot.org/story?sid=74750)
 
@@ -10,14 +20,4 @@
 [通用流感候选疫苗在第一阶段临床表现良好](https://www.solidot.org/story?sid=74747)
 
 [科学家探测到逾 1.9 万海底山](https://www.solidot.org/story?sid=74746)
-
-[ChatGPT 让肯尼亚的论文枪手失业](https://www.solidot.org/story?sid=74745)
-
-[拼多多商家反击平台的仅退款政策](https://www.solidot.org/story?sid=74744)
-
-[3CX 安全事件是双重供应链攻击](https://www.solidot.org/story?sid=74743)
-
-[ChatGPT 每日运营成本超过 70 万美元](https://www.solidot.org/story?sid=74742)
-
-[盗车贼用旧诺基亚手机盗车](https://www.solidot.org/story?sid=74741)
 
