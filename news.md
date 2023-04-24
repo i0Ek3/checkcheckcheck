@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-04-24 04:33:05
+> Update time: 2023-04-24 16:11:10
+
+[微塑料能进入大脑](https://www.solidot.org/story?sid=74766)
+
+[Linux 6.3 kernel 释出](https://www.solidot.org/story?sid=74765)
+
+[苏丹断网](https://www.solidot.org/story?sid=74764)
+
+[科学家创造至今最重的“薛定谔的猫”](https://www.solidot.org/story?sid=74763)
+
+[盖茨预言 AI 在 18 个月内能教儿童阅读和写作](https://www.solidot.org/story?sid=74762)
+
+[ARM 将制造自己的芯片](https://www.solidot.org/story?sid=74761)
 
 [MSI Afterburner 时隔一年多发布新版](https://www.solidot.org/story?sid=74760)
 
@@ -8,16 +20,4 @@
 [Stack Overflow 将对使用其数据训练 AI 收费](https://www.solidot.org/story?sid=74758)
 
 [Chromebook 不耐用](https://www.solidot.org/story?sid=74757)
-
-[更温暖的星球，营养物质更少的植物，更少的昆虫](https://www.solidot.org/story?sid=74756)
-
-[2015-2022 年是有记录以来最暖的八年](https://www.solidot.org/story?sid=74755)
-
-[生物年龄在压力下增加也能通过缓解压力恢复](https://www.solidot.org/story?sid=74754)
-
-[美国国土安全部研究如何使用 AI](https://www.solidot.org/story?sid=74753)
-
-[iOS 17 的应用侧载支持可能只提供给欧盟用户](https://www.solidot.org/story?sid=74752)
-
-[美国军方机密文件泄露者去年 2 月就在 Discord 上发布机密情报](https://www.solidot.org/story?sid=74751)
 
