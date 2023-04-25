@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-04-25 04:33:01
+> Update time: 2023-04-25 16:10:52
+
+[加州居民购买了逾 100 万辆电动汽车](https://www.solidot.org/story?sid=74780)
+
+[MIT 开发出“疫苗打印机”](https://www.solidot.org/story?sid=74779)
+
+[网易起诉暴雪要求退还 3 亿欠款](https://www.solidot.org/story?sid=74778)
+
+[微软同意停止在 Office 中捆绑 Teams](https://www.solidot.org/story?sid=74777)
+
+[苹果赢得对 Epic 的上诉](https://www.solidot.org/story?sid=74776)
+
+[PARC 加入 SRI International](https://www.solidot.org/story?sid=74775)
+
+[常熟将用数字人民币给政府工作人员发工资](https://www.solidot.org/story?sid=74774)
+
+[OpenAI 申请 GPT 商标](https://www.solidot.org/story?sid=74773)
+
+[亚马逊静静的拥抱开源](https://www.solidot.org/story?sid=74772)
 
 [当 Windows 用户在恐慌下删除 system32\curl.exe](https://www.solidot.org/story?sid=74771)
-
-[高中教师和他的开源图像数据集](https://www.solidot.org/story?sid=74770)
-
-[计算机科学家认为不应神化 AI](https://www.solidot.org/story?sid=74769)
-
-[英特尔驱动程序 bug 导致  I219-LM Gigabit Ethernet 适配器在特定模式下以六成速率运行](https://www.solidot.org/story?sid=74768)
-
-[比特币不再具有匿名性](https://www.solidot.org/story?sid=74767)
-
-[微塑料能进入大脑](https://www.solidot.org/story?sid=74766)
-
-[Linux 6.3 kernel 释出](https://www.solidot.org/story?sid=74765)
-
-[苏丹断网](https://www.solidot.org/story?sid=74764)
-
-[科学家创造至今最重的“薛定谔的猫”](https://www.solidot.org/story?sid=74763)
-
-[盖茨预言 AI 在 18 个月内能教儿童阅读和写作](https://www.solidot.org/story?sid=74762)
 
