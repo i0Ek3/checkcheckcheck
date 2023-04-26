@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-04-26 16:34:17
+> Update time: 2023-04-27 04:07:13
+
+[英国反对微软收购动视暴雪](https://www.solidot.org/story?sid=74800)
+
+[AI 图像抓取工具引发争议](https://www.solidot.org/story?sid=74799)
+
+[美国国会尝试使用 ChatGPT](https://www.solidot.org/story?sid=74798)
+
+[养殖业中抗生素使用危及人体免疫系统](https://www.solidot.org/story?sid=74797)
+
+[微软游戏业务收入下降，Xbox 硬件销售暴跌](https://www.solidot.org/story?sid=74796)
 
 [ChatGPT 允许禁用聊天历史和导出数据](https://www.solidot.org/story?sid=74795)
 
@@ -10,14 +20,4 @@
 [WhatsApp 允许用户在多个设备上使同一账号](https://www.solidot.org/story?sid=74792)
 
 [Google 云计算业务首次盈利](https://www.solidot.org/story?sid=74791)
-
-[Microsoft Edge 将用户访问的每一个网址发送给必应](https://www.solidot.org/story?sid=74790)
-
-[日本 ispace 首次商业太空舱月球登陆失败](https://www.solidot.org/story?sid=74789)
-
-[Terra 联合创始人 Daniel Shin 在韩国被起诉](https://www.solidot.org/story?sid=74788)
-
-[AMD 宣布了掌机用的芯片 Ryzen Z1 和 Z1 Extreme](https://www.solidot.org/story?sid=74787)
-
-[NASA 演示 3D 打印的高温合金](https://www.solidot.org/story?sid=74786)
 
