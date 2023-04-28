@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-04-28 16:33:52
+> Update time: 2023-04-29 04:08:00
+
+[乌克兰逮捕一名出售逾三亿人数据的男子](https://www.solidot.org/story?sid=74827)
+
+[站在中美芯片战中心的 ASML](https://www.solidot.org/story?sid=74826)
+
+[微软品牌外设被 Surface 品牌外设取代](https://www.solidot.org/story?sid=74825)
+
+[科学家在系外行星大气中发现稀有元素铽](https://www.solidot.org/story?sid=74824)
+
+[旅行者2号延长其搭载的科学仪器关闭时间](https://www.solidot.org/story?sid=74823)
+
+[ispace 登月失败可能是高度出错](https://www.solidot.org/story?sid=74822)
 
 [微软用 Rust 重写核心 Windows 代码](https://www.solidot.org/story?sid=74821)
 
@@ -8,16 +20,4 @@
 [马斯克的 Twitter 遵守了更多政府命令](https://www.solidot.org/story?sid=74819)
 
 [天涯社区因拖欠服务器费用关闭访问](https://www.solidot.org/story?sid=74818)
-
-[欧盟将要求 ChatGPT 等披露数据来源](https://www.solidot.org/story?sid=74817)
-
-[英特尔第一财季亏损 27.6 亿美元](https://www.solidot.org/story?sid=74816)
-
-[Dropbox 裁员 500 人](https://www.solidot.org/story?sid=74815)
-
-[总设计师称祝融号火星车可能因沙尘累积过多无法唤醒](https://www.solidot.org/story?sid=74814)
-
-[微软的黑客组织新命名方式](https://www.solidot.org/story?sid=74813)
-
-[研究发现生成式 AI 提高了生产力减少了压力](https://www.solidot.org/story?sid=74812)
 
