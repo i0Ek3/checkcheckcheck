@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-05-04 04:33:26
+> Update time: 2023-05-04 16:10:42
+
+[Google 员工不满 CEO 的高薪酬](https://www.solidot.org/story?sid=74852)
+
+[Angular v16 释出](https://www.solidot.org/story?sid=74851)
+
+[Gmail 加入发件人蓝勾标记](https://www.solidot.org/story?sid=74850)
+
+[FTC 提议限制 Meta 利用青少年用户数据获利](https://www.solidot.org/story?sid=74849)
+
+[AMD 一季度亏损 1.39 亿美元](https://www.solidot.org/story?sid=74848)
 
 [韦伯望远镜在系外行星周围探测到水蒸气](https://www.solidot.org/story?sid=74847)
 
@@ -10,14 +20,4 @@
 [Steam 平台简体中文占有率恢复正常](https://www.solidot.org/story?sid=74844)
 
 [Windows 11 默认文件系统将用 ReFS 取代 NTFS](https://www.solidot.org/story?sid=74843)
-
-[Debian 12 Bookworm 将于 6 月 10 日发布](https://www.solidot.org/story?sid=74842)
-
-[IBM 将暂停招聘可被 AI 取代的 7800 个岗位](https://www.solidot.org/story?sid=74841)
-
-[Pornhub 屏蔽犹他州居民访问网站](https://www.solidot.org/story?sid=74840)
-
-[Jack Dorsey 批评 Twitter 出售给马斯克的交易](https://www.solidot.org/story?sid=74839)
-
-[被解雇的 Google 工程师称人类在与 AI 互动时要牢记它们是有感知的](https://www.solidot.org/story?sid=74838)
 
