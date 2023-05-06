@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-06 16:32:51
+> Update time: 2023-05-07 04:07:50
 
-[Slack 整合生成式 AI](https://www.solidot.org/story?sid=74871)
+[Hugging Face 和 ServiceNow 发布免费代码生成模型 StarCoder](https://www.solidot.org/story?sid=74882)
 
-[印度封杀 Matrix 客户端 Element](https://www.solidot.org/story?sid=74870)
+[OpenAI 不再使用 API 客户数据训练 ChatGPT](https://www.solidot.org/story?sid=74881)
 
-[中美数字科技论文引用量差4%，但缺顶尖人才](https://www.solidot.org/story?sid=74869)
+[Vice Media  准备申请破产以 4 亿美元出售](https://www.solidot.org/story?sid=74880)
 
-[墨西哥考虑将每周工作时间缩短到 40 小时](https://www.solidot.org/story?sid=74868)
+[白宫提议对加密货币挖矿使用的电力征 30% 的税](https://www.solidot.org/story?sid=74879)
 
-[厄尔尼诺回归或将带来全球变暖新高峰](https://www.solidot.org/story?sid=74867)
+[微星固件签名密钥泄露](https://www.solidot.org/story?sid=74878)
 
-[FDA 批准首个 RSV 疫苗](https://www.solidot.org/story?sid=74866)
+[美国连续五个季度生产率下降](https://www.solidot.org/story?sid=74877)
 
-[Google 宣布折叠手机 Pixel Fold](https://www.solidot.org/story?sid=74865)
+[TikTok 曾跟踪观看 LGBT 内容的用户](https://www.solidot.org/story?sid=74876)
 
-[TikTok 通过其猫咪账号跟踪金融时报记者](https://www.solidot.org/story?sid=74864)
+[Gmail 开始展示更多广告](https://www.solidot.org/story?sid=74875)
 
-[Google 将缩减 AI 论文发表数量](https://www.solidot.org/story?sid=74863)
+[WHO 降低新冠疫情风险等级](https://www.solidot.org/story?sid=74874)
 
-[Google 和 OpenAI 都未建立 AI 的护城河](https://www.solidot.org/story?sid=74862)
+[天王星最大的四颗卫星可能有地下海洋](https://www.solidot.org/story?sid=74872)
 
