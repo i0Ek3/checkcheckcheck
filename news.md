@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-05-08 04:33:03
+> Update time: 2023-05-08 16:10:45
+
+[医生谈新冠二次感染风险](https://www.solidot.org/story?sid=74895)
+
+[西部数据称黑客在 3 月的网络攻击中窃取了客户数据](https://www.solidot.org/story?sid=74894)
+
+[Vint Cerf 谈他在 TCP/IP 设计中犯下的三大错误](https://www.solidot.org/story?sid=74893)
+
+[北京完成首例非人灵长类介入式脑机接口试验](https://www.solidot.org/story?sid=74892)
+
+[ChatGPT 的流量增长放缓](https://www.solidot.org/story?sid=74891)
 
 [科学家辞职抗议期刊出版商的“贪婪”](https://www.solidot.org/story?sid=74890)
 
@@ -10,14 +20,4 @@
 [信息素阻止蝗虫同类相食](https://www.solidot.org/story?sid=74887)
 
 [活得更长可能意味着等死的时间更长](https://www.solidot.org/story?sid=74886)
-
-[苹果零售店工会员工想要客户付小费](https://www.solidot.org/story?sid=74885)
-
-[梅赛德斯考虑要求对电动车引擎额外动力额外付费](https://www.solidot.org/story?sid=74884)
-
-[巴西树蛙可能是已知第一种授粉两栖动物](https://www.solidot.org/story?sid=74883)
-
-[Hugging Face 和 ServiceNow 发布免费代码生成模型 StarCoder](https://www.solidot.org/story?sid=74882)
-
-[OpenAI 不再使用 API 客户数据训练 ChatGPT](https://www.solidot.org/story?sid=74881)
 
