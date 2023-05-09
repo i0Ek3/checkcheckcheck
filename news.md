@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-05-09 16:33:00
+> Update time: 2023-05-10 04:08:27
+
+[Facebook 的 30 亿用户年龄渐长](https://www.solidot.org/story?sid=74913)
+
+[领英将关闭中国求职应用 InCareer](https://www.solidot.org/story?sid=74912)
+
+[微软给 Windows 11 设置面板加入了广告](https://www.solidot.org/story?sid=74911)
+
+[DEF CON 将举办大语言模型黑客马拉松](https://www.solidot.org/story?sid=74910)
+
+[亚裔美国人有异常高比例的心血管和糖尿病发生率](https://www.solidot.org/story?sid=74909)
 
 [RHEL 10 将不包含 Xorg](https://www.solidot.org/story?sid=74908)
 
@@ -10,14 +20,4 @@
 [GitHub 新代码搜索 GA](https://www.solidot.org/story?sid=74905)
 
 [AMD 计划到 2026 年用开源的 openSIL 取代 AGESA 固件](https://www.solidot.org/story?sid=74904)
-
-[基于 Unity 引擎的 RPG 制作大师发布](https://www.solidot.org/story?sid=74903)
-
-[中国公司寻求不依赖最先进芯片开发 AI](https://www.solidot.org/story?sid=74902)
-
-[宝德推出规格与英特尔 10 代处理器基本相同的芯片暴芯](https://www.solidot.org/story?sid=74901)
-
-[美国更多地方图书馆取消逾期罚款](https://www.solidot.org/story?sid=74900)
-
-[科学家发现光合作用和玻色爱因斯坦凝聚态存在关联](https://www.solidot.org/story?sid=74899)
 
