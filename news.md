@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-09 04:33:18
+> Update time: 2023-05-09 16:10:33
+
+[邓宁-克鲁格效应可能只是一种统计偏差](https://www.solidot.org/story?sid=74907)
+
+[Twitter 将清除不活跃用户账号](https://www.solidot.org/story?sid=74906)
+
+[GitHub 新代码搜索 GA](https://www.solidot.org/story?sid=74905)
+
+[AMD 计划到 2026 年用开源的 openSIL 取代 AGESA 固件](https://www.solidot.org/story?sid=74904)
+
+[基于 Unity 引擎的 RPG 制作大师发布](https://www.solidot.org/story?sid=74903)
+
+[中国公司寻求不依赖最先进芯片开发 AI](https://www.solidot.org/story?sid=74902)
+
+[宝德推出规格与英特尔 10 代处理器基本相同的芯片暴芯](https://www.solidot.org/story?sid=74901)
+
+[美国更多地方图书馆取消逾期罚款](https://www.solidot.org/story?sid=74900)
 
 [科学家发现光合作用和玻色爱因斯坦凝聚态存在关联](https://www.solidot.org/story?sid=74899)
 
 [Mail.ru 的邮件应用被发现传输用户明文密码](https://www.solidot.org/story?sid=74898)
-
-[揭秘月壤中的玻璃物质](https://www.solidot.org/story?sid=74897)
-
-[中国可重复使用试验航天器在轨飞行 276 天后着陆](https://www.solidot.org/story?sid=74896)
-
-[医生谈新冠二次感染风险](https://www.solidot.org/story?sid=74895)
-
-[西部数据称黑客在 3 月的网络攻击中窃取了客户数据](https://www.solidot.org/story?sid=74894)
-
-[Vint Cerf 谈他在 TCP/IP 设计中犯下的三大错误](https://www.solidot.org/story?sid=74893)
-
-[北京完成首例非人灵长类介入式脑机接口试验](https://www.solidot.org/story?sid=74892)
-
-[ChatGPT 的流量增长放缓](https://www.solidot.org/story?sid=74891)
-
-[科学家辞职抗议期刊出版商的“贪婪”](https://www.solidot.org/story?sid=74890)
 
