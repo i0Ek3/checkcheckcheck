@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-10 16:33:31
+> Update time: 2023-05-11 04:11:24
+
+[美国切断俄罗斯间谍软件网络 Snake](https://www.solidot.org/story?sid=74928)
+
+[Roblox 反作弊软件屏蔽了 Wine](https://www.solidot.org/story?sid=74927)
+
+[欧洲可能要到 2030 年代才有可重复使用火箭](https://www.solidot.org/story?sid=74926)
+
+[甘肃警方逮捕首位利用 ChatGPT 制造假新闻的男子](https://www.solidot.org/story?sid=74925)
+
+[土库曼斯坦甲烷超级排放点披露](https://www.solidot.org/story?sid=74924)
+
+[Firefox 113.0 释出](https://www.solidot.org/story?sid=74923)
+
+[Linux 6.4-rc1 释出](https://www.solidot.org/story?sid=74922)
 
 [日本艺人协会认为 AI 剥夺工作机会](https://www.solidot.org/story?sid=74921)
 
 [WordPress 流行插件漏洞影响两百万网站](https://www.solidot.org/story?sid=74920)
 
 [粪便移植治疗艰难梭菌感染的效果好于抗生素](https://www.solidot.org/story?sid=74919)
-
-[Coinbase 前经理因内幕交易被判两年徒刑](https://www.solidot.org/story?sid=74918)
-
-[前总理 Imran Khan 被捕巴基斯坦断网](https://www.solidot.org/story?sid=74917)
-
-[单一突变在一代内将蚂蚁变成寄生生物](https://www.solidot.org/story?sid=74916)
-
-[新加坡立法加强对网络内容的审查](https://www.solidot.org/story?sid=74915)
-
-[Google IO 将公布 PaLM 2 大模型](https://www.solidot.org/story?sid=74914)
-
-[Facebook 的 30 亿用户年龄渐长](https://www.solidot.org/story?sid=74913)
-
-[领英将关闭中国求职应用 InCareer](https://www.solidot.org/story?sid=74912)
 
