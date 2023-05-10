@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-10 04:33:01
+> Update time: 2023-05-10 16:10:20
+
+[日本艺人协会认为 AI 剥夺工作机会](https://www.solidot.org/story?sid=74921)
+
+[WordPress 流行插件漏洞影响两百万网站](https://www.solidot.org/story?sid=74920)
+
+[粪便移植治疗艰难梭菌感染的效果好于抗生素](https://www.solidot.org/story?sid=74919)
+
+[Coinbase 前经理因内幕交易被判两年徒刑](https://www.solidot.org/story?sid=74918)
+
+[前总理 Imran Khan 被捕巴基斯坦断网](https://www.solidot.org/story?sid=74917)
+
+[单一突变在一代内将蚂蚁变成寄生生物](https://www.solidot.org/story?sid=74916)
+
+[新加坡立法加强对网络内容的审查](https://www.solidot.org/story?sid=74915)
+
+[Google IO 将公布 PaLM 2 大模型](https://www.solidot.org/story?sid=74914)
 
 [Facebook 的 30 亿用户年龄渐长](https://www.solidot.org/story?sid=74913)
 
 [领英将关闭中国求职应用 InCareer](https://www.solidot.org/story?sid=74912)
-
-[微软给 Windows 11 设置面板加入了广告](https://www.solidot.org/story?sid=74911)
-
-[DEF CON 将举办大语言模型黑客马拉松](https://www.solidot.org/story?sid=74910)
-
-[亚裔美国人有异常高比例的心血管和糖尿病发生率](https://www.solidot.org/story?sid=74909)
-
-[RHEL 10 将不包含 Xorg](https://www.solidot.org/story?sid=74908)
-
-[邓宁-克鲁格效应可能只是一种统计偏差](https://www.solidot.org/story?sid=74907)
-
-[Twitter 将清除不活跃用户账号](https://www.solidot.org/story?sid=74906)
-
-[GitHub 新代码搜索 GA](https://www.solidot.org/story?sid=74905)
-
-[AMD 计划到 2026 年用开源的 openSIL 取代 AGESA 固件](https://www.solidot.org/story?sid=74904)
 
