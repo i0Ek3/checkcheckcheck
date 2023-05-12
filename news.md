@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-12 04:33:12
+> Update time: 2023-05-12 16:33:07
+
+[苹果市值超过大部分国家股票市场总市值](https://www.solidot.org/story?sid=74946)
+
+[饮食与中年人健康相关](https://www.solidot.org/story?sid=74945)
+
+[台湾缺工程师人才](https://www.solidot.org/story?sid=74944)
+
+[Stability AI 发布 Stable Animation SDK](https://www.solidot.org/story?sid=74943)
+
+[SpaceX 的 Falcon 火箭连续成功发射 200 次](https://www.solidot.org/story?sid=74942)
+
+[故意坠毁飞机的 YouTube 主播面临最长 20 年徒刑](https://www.solidot.org/story?sid=74941)
+
+[软银退出阿里巴巴](https://www.solidot.org/story?sid=74940)
+
+[英国风力发电首次超过天然气](https://www.solidot.org/story?sid=74939)
+
+[意大利黑手党使用的加密手机](https://www.solidot.org/story?sid=74938)
 
 [写时复制文件系统 Bcachefs 准备进入内核主线](https://www.solidot.org/story?sid=74937)
-
-[Google 再次制造平板电脑](https://www.solidot.org/story?sid=74936)
-
-[Thunderbird 项目公布 2022 年财务报告](https://www.solidot.org/story?sid=74935)
-
-[Google 以开放标准提供照片级 Google Earth 3D 模型](https://www.solidot.org/story?sid=74934)
-
-[科学家发现能在较低温度下消化塑料的微生物](https://www.solidot.org/story?sid=74933)
-
-[微软押注核聚变发电](https://www.solidot.org/story?sid=74932)
-
-[YouTube 开始屏蔽广告屏蔽工具](https://www.solidot.org/story?sid=74931)
-
-[Google 开放其 AI 聊天机器人 Bard](https://www.solidot.org/story?sid=74930)
-
-[Google 发布 Pixel 7a 和 1799 美元的折叠手机 Pixel Fold](https://www.solidot.org/story?sid=74929)
-
-[美国切断俄罗斯间谍软件网络 Snake](https://www.solidot.org/story?sid=74928)
 
