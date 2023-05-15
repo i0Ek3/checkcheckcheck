@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-05-15 16:33:02
+> Update time: 2023-05-16 04:07:54
+
+[因刹车风险特斯拉在中国召回逾百万辆汽车](https://www.solidot.org/story?sid=74967)
+
+[新包装材料能通过变色指示食物变质](https://www.solidot.org/story?sid=74966)
+
+[研究认为饥饿感本身就能减缓衰老](https://www.solidot.org/story?sid=74965)
+
+[苹果准备推出混合现实装置](https://www.solidot.org/story?sid=74964)
+
+[Pixel 6 和 7 用户报告过热和耗电量增加](https://www.solidot.org/story?sid=74962)
 
 [Asahi Linux 督促用户停止使用 X.Org](https://www.solidot.org/story?sid=74961)
 
@@ -10,14 +20,4 @@
 [天文学家发现土星 62 颗新卫星](https://www.solidot.org/story?sid=74958)
 
 [微软将用一年时间完成对一个 0day 漏洞的修补](https://www.solidot.org/story?sid=74957)
-
-[Anthropic 的 Claude AI 能在一分钟内分析整本书](https://www.solidot.org/story?sid=74956)
-
-[Google 发布 AI 文本音乐生成工具 MusicLM](https://www.solidot.org/story?sid=74955)
-
-[微软考虑竞标 Firefox 的默认搜索引擎](https://www.solidot.org/story?sid=74954)
-
-[HardenedVault 于 AWS 云平台上推出 Linux 安全加固版](https://www.solidot.org/story?sid=74953)
-
-[马斯克任命 Linda Yaccarino 为 Twitter CEO](https://www.solidot.org/story?sid=74952)
 
