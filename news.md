@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-05-17 16:33:23
+> Update time: 2023-05-18 04:07:50
+
+[恶意程序将家用路由器变成黑客组织的代理服务器](https://www.solidot.org/story?sid=74987)
+
+[Twitter 因沙特间谍活动导致用户被捕而遭到起诉](https://www.solidot.org/story?sid=74986)
+
+[前苹果工程师被控窃取公司自动驾驶汽车研发机密](https://www.solidot.org/story?sid=74985)
+
+[室温超导验证研究未成功](https://www.solidot.org/story?sid=74984)
+
+[OpenAI 准备发布新开源模型](https://www.solidot.org/story?sid=74983)
+
+[苹果注册了 xrOS 商标](https://www.solidot.org/story?sid=74982)
 
 [Steam 开始提供 90 分钟的游戏试玩](https://www.solidot.org/story?sid=74981)
 
@@ -8,16 +20,4 @@
 [OpenAI 创始人呼吁制定 AI 安全标准](https://www.solidot.org/story?sid=74979)
 
 [Google 将删除超过两年时间不活跃的账号](https://www.solidot.org/story?sid=74978)
-
-[常用化学物三氯乙烯与帕金森病强相关](https://www.solidot.org/story?sid=74977)
-
-[科学家发现第二例“免疫”阿尔茨海默病的人](https://www.solidot.org/story?sid=74976)
-
-[初步研究发现童年用智能手机的时间越早成年精神健康越糟](https://www.solidot.org/story?sid=74975)
-
-[北京考虑对 AI 训练所需的算力推行统筹供给](https://www.solidot.org/story?sid=74974)
-
-[美国 mRNA 通用流感候选疫苗启动临床试验](https://www.solidot.org/story?sid=74973)
-
-[Google 认为 AI 不应该被视为发明人](https://www.solidot.org/story?sid=74972)
 
