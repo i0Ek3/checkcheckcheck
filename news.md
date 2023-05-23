@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-05-23 04:32:54
+> Update time: 2023-05-23 16:10:43
+
+[WhatsApp 允许用户编辑信息](https://www.solidot.org/story?sid=75029)
+
+[中国批准微软收购动视暴雪](https://www.solidot.org/story?sid=75028)
+
+[TikTok 起诉蒙大拿州](https://www.solidot.org/story?sid=75027)
+
+[英特尔透露 Aurora 超算完整规格](https://www.solidot.org/story?sid=75026)
+
+[深度睡眠可能是预防阿尔茨海默症的最佳方法](https://www.solidot.org/story?sid=75025)
 
 [美国大学 CS 专业人数大增人文专业人数大减](https://www.solidot.org/story?sid=75024)
 
@@ -10,14 +20,4 @@
 [SpaceX 完成第三次商业载人飞行任务](https://www.solidot.org/story?sid=75021)
 
 [印度的统一数字支付系统](https://www.solidot.org/story?sid=75020)
-
-[惠普打印机遭遇蓝屏死机](https://www.solidot.org/story?sid=75019)
-
-[Freenet 想要打造一个完全去中心化的 Web 替代](https://www.solidot.org/story?sid=75018)
-
-[Google Chrome 将能检测网址拼写错误](https://www.solidot.org/story?sid=75017)
-
-[华硕修复导致路由器故障的远程推送](https://www.solidot.org/story?sid=75016)
-
-[日本警方首次逮捕了一名上传游戏视频的 YouTube 主播](https://www.solidot.org/story?sid=75015)
 
