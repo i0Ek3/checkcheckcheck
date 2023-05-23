@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-05-23 16:33:07
+> Update time: 2023-05-24 04:08:31
+
+[研究人员披露对 Android 设备指纹解锁的暴力破解攻击](https://www.solidot.org/story?sid=75035)
+
+[OpenAI 呼吁设立监管超级智能的国际机构](https://www.solidot.org/story?sid=75034)
+
+[市场监管总局公布新国际单位制中文名](https://www.solidot.org/story?sid=75033)
+
+[研究发现 48% 的物种数量出现下降](https://www.solidot.org/story?sid=75032)
+
+[WMO 称过去五十年逾 200 万人死于气候灾害](https://www.solidot.org/story?sid=75031)
+
+[Meta 的新模型能识别和生成逾千种语言的声音](https://www.solidot.org/story?sid=75030)
 
 [WhatsApp 允许用户编辑信息](https://www.solidot.org/story?sid=75029)
 
@@ -8,16 +20,4 @@
 [TikTok 起诉蒙大拿州](https://www.solidot.org/story?sid=75027)
 
 [英特尔透露 Aurora 超算完整规格](https://www.solidot.org/story?sid=75026)
-
-[深度睡眠可能是预防阿尔茨海默症的最佳方法](https://www.solidot.org/story?sid=75025)
-
-[美国大学 CS 专业人数大增人文专业人数大减](https://www.solidot.org/story?sid=75024)
-
-[Frontier 再次登顶 Top500 超算榜单](https://www.solidot.org/story?sid=75023)
-
-[Meta 被欧盟隐私监管机构罚款 13 亿美元](https://www.solidot.org/story?sid=75022)
-
-[SpaceX 完成第三次商业载人飞行任务](https://www.solidot.org/story?sid=75021)
-
-[印度的统一数字支付系统](https://www.solidot.org/story?sid=75020)
 
