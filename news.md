@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-05-24 04:33:18
+> Update time: 2023-05-24 16:10:38
+
+[Windows 11 将原生支持 Tar、7-zip、rar、gz 等格式的压缩文件](https://www.solidot.org/story?sid=75041)
+
+[日本限制最先进半导体出口](https://www.solidot.org/story?sid=75040)
+
+[Windows 11 将加入 AI 辅助功能 Windows Copilot](https://www.solidot.org/story?sid=75039)
+
+[五角大楼“爆炸”假照片在 Twitter 上引发混乱](https://www.solidot.org/story?sid=75038)
+
+[Waymo 和 Uber 在自动驾驶上展开合作](https://www.solidot.org/story?sid=75037)
+
+[泄密文件显示西班牙想要禁止端对端加密](https://www.solidot.org/story?sid=75036)
 
 [研究人员披露对 Android 设备指纹解锁的暴力破解攻击](https://www.solidot.org/story?sid=75035)
 
@@ -8,16 +20,4 @@
 [市场监管总局公布新国际单位制中文名](https://www.solidot.org/story?sid=75033)
 
 [研究发现 48% 的物种数量出现下降](https://www.solidot.org/story?sid=75032)
-
-[WMO 称过去五十年逾 200 万人死于气候灾害](https://www.solidot.org/story?sid=75031)
-
-[Meta 的新模型能识别和生成逾千种语言的声音](https://www.solidot.org/story?sid=75030)
-
-[WhatsApp 允许用户编辑信息](https://www.solidot.org/story?sid=75029)
-
-[中国批准微软收购动视暴雪](https://www.solidot.org/story?sid=75028)
-
-[TikTok 起诉蒙大拿州](https://www.solidot.org/story?sid=75027)
-
-[英特尔透露 Aurora 超算完整规格](https://www.solidot.org/story?sid=75026)
 
