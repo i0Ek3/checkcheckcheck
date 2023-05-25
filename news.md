@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-25 16:33:14
+> Update time: 2023-05-26 04:08:33
 
-[Thunderbird 发布全新 Logo](https://www.solidot.org/story?sid=75050)
+[韩国成功发射其自研火箭世界号](https://www.solidot.org/story?sid=75060)
 
-[Windows 11 将能在隔离模式下运行 Win32 应用](https://www.solidot.org/story?sid=75049)
+[研究称中国芬太尼前体供应商用加密货币收款](https://www.solidot.org/story?sid=75059)
 
-[PyPI 收到法庭传票](https://www.solidot.org/story?sid=75048)
+[联想利润下降 75%](https://www.solidot.org/story?sid=75058)
 
-[Meta 公布革命性可扩展模型架构 Megabyte](https://www.solidot.org/story?sid=75047)
+[研究称反复观看食物图片会产生饱腹感](https://www.solidot.org/story?sid=75057)
 
-[创业公司测试地球同步轨道宽带卫星](https://www.solidot.org/story?sid=75046)
+[瘫痪者利用脑脊柱接口恢复行走能力](https://www.solidot.org/story?sid=75056)
 
-[人类和哺乳动物的生殖不平等](https://www.solidot.org/story?sid=75045)
+[睡觉磨牙与食物纤维摄入相关](https://www.solidot.org/story?sid=75055)
 
-[Meta 开源计算机视觉基础模型 DINOv2](https://www.solidot.org/story?sid=75044)
+[人造云从稀薄空气中发电](https://www.solidot.org/story?sid=75054)
 
-[马斯克准备在 AI 领域挑战微软和 Google](https://www.solidot.org/story?sid=75043)
+[微软警告美关岛基础设施遭中国黑客攻击](https://www.solidot.org/story?sid=75053)
 
-[研究显示如果对手先做了那么美国人会支持反民主手段](https://www.solidot.org/story?sid=75042)
+[小鼠研究发现限制氧气摄入量与更长寿命相关](https://www.solidot.org/story?sid=75052)
 
-[Windows 11 将原生支持 Tar、7-zip、rar、gz 等格式的压缩文件](https://www.solidot.org/story?sid=75041)
+[弓头鲸抵抗癌症的能力可能来自其超强的 DNA 修复能力](https://www.solidot.org/story?sid=75051)
 
