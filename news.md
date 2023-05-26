@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-05-26 16:33:01
+> Update time: 2023-05-27 04:08:02
+
+[Bcrypt 准备说再见](https://www.solidot.org/story?sid=75070)
+
+[Windows XP 激活算法被破解](https://www.solidot.org/story?sid=75069)
+
+[动物研究发现微塑料损害肠道健康](https://www.solidot.org/story?sid=75068)
+
+[因全球暖化冬眠的雌性北极地松鼠比雄性提前 10 天醒来](https://www.solidot.org/story?sid=75067)
+
+[亚马逊将关闭中国版应用商店](https://www.solidot.org/story?sid=75066)
+
+[Google 搜索开始加入类似 ChatGPT 的 AI 生成结果](https://www.solidot.org/story?sid=75065)
 
 [特斯拉 Model Y 是今年一季度最畅销车型](https://www.solidot.org/story?sid=75064)
 
@@ -8,16 +20,4 @@
 [FDA 批准了 Neuralink 的脑芯片植入人体研究](https://www.solidot.org/story?sid=75062)
 
 [英国 IT 雇员冒充勒索软件黑帮试图勒索雇主](https://www.solidot.org/story?sid=75061)
-
-[韩国成功发射其自研火箭世界号](https://www.solidot.org/story?sid=75060)
-
-[研究称中国芬太尼前体供应商用加密货币收款](https://www.solidot.org/story?sid=75059)
-
-[联想利润下降 75%](https://www.solidot.org/story?sid=75058)
-
-[研究称反复观看食物图片会产生饱腹感](https://www.solidot.org/story?sid=75057)
-
-[瘫痪者利用脑脊柱接口恢复行走能力](https://www.solidot.org/story?sid=75056)
-
-[睡觉磨牙与食物纤维摄入相关](https://www.solidot.org/story?sid=75055)
 
