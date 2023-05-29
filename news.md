@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-29 16:33:15
+> Update time: 2023-05-30 04:08:18
+
+[为什么说网络安全无解？](https://www.solidot.org/story?sid=75090)
+
+[旁观者量子比特减少计算错误](https://www.solidot.org/story?sid=75089)
+
+[哲学家伊恩·哈金去世](https://www.solidot.org/story?sid=75088)
+
+[微软 Azure Linux GA](https://www.solidot.org/story?sid=75087)
+
+[网信办公布自媒体专项整治行动成果](https://www.solidot.org/story?sid=75086)
+
+[火星的地壳比地球更厚](https://www.solidot.org/story?sid=75085)
+
+[北京智源推出通用视觉分割模型 SegGPT](https://www.solidot.org/story?sid=75084)
+
+[日本将尝试从太空向地面传输电力](https://www.solidot.org/story?sid=75083)
 
 [中国计划 2030 年前载人登月](https://www.solidot.org/story?sid=75082)
 
 [今年出生人数可能低于 800 万](https://www.solidot.org/story?sid=75081)
-
-[新冠第二波疫情高峰预计发生在 6 月底](https://www.solidot.org/story?sid=75080)
-
-[WordPress 诞生二十周年](https://www.solidot.org/story?sid=75079)
-
-[Mosfilm 免费公开塔尔科夫斯基的六部作品](https://www.solidot.org/story?sid=75078)
-
-[科学家使用 AI 发现对抗超级细菌的新抗生素](https://www.solidot.org/story?sid=75077)
-
-[特斯拉内部文件泄露](https://www.solidot.org/story?sid=75076)
-
-[报道称雷亚游戏用 AI 取代了所有画师](https://www.solidot.org/story?sid=75075)
-
-[印度官员命令抽干水库以找回掉水里的手机](https://www.solidot.org/story?sid=75074)
-
-[因用户抱怨 Mozilla 停止在 Firefox 展示全屏 VPN 广告](https://www.solidot.org/story?sid=75073)
 
