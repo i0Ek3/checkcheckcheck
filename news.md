@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-05-30 04:33:28
+> Update time: 2023-05-30 16:10:30
+
+[机智号在火星安全度过两年，其冒险还在继续](https://www.solidot.org/story?sid=75095)
+
+[淡马锡削减投资 FTX 的工作人员薪酬](https://www.solidot.org/story?sid=75094)
+
+[印度 JioCinema 打破了现场直播同时观看人数记录](https://www.solidot.org/story?sid=75093)
+
+[LHC 实验观察到希格斯玻色子衰变的首个证据](https://www.solidot.org/story?sid=75092)
+
+[神舟十六号发射成功](https://www.solidot.org/story?sid=75091)
 
 [为什么说网络安全无解？](https://www.solidot.org/story?sid=75090)
 
@@ -10,14 +20,4 @@
 [微软 Azure Linux GA](https://www.solidot.org/story?sid=75087)
 
 [网信办公布自媒体专项整治行动成果](https://www.solidot.org/story?sid=75086)
-
-[火星的地壳比地球更厚](https://www.solidot.org/story?sid=75085)
-
-[北京智源推出通用视觉分割模型 SegGPT](https://www.solidot.org/story?sid=75084)
-
-[日本将尝试从太空向地面传输电力](https://www.solidot.org/story?sid=75083)
-
-[中国计划 2030 年前载人登月](https://www.solidot.org/story?sid=75082)
-
-[今年出生人数可能低于 800 万](https://www.solidot.org/story?sid=75081)
 
