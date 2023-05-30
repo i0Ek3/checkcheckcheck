@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-05-30 16:33:05
+> Update time: 2023-05-31 04:08:14
+
+[英伟达成为第一家市值突破 1 万亿美元的芯片公司](https://www.solidot.org/story?sid=75104)
+
+[AI 变成一种侮辱](https://www.solidot.org/story?sid=75103)
+
+[Rust 项目回应 RustConf 主题演讲争议](https://www.solidot.org/story?sid=75102)
+
+[研究揭示一位女子无痛觉的分子机制](https://www.solidot.org/story?sid=75101)
+
+[Mullvad 移除对端口转发的支持](https://www.solidot.org/story?sid=75100)
+
+[黄仁勋称 AI 意味着人人都能成为程序员](https://www.solidot.org/story?sid=75099)
+
+[英特尔将在其 Meteor Lake CPU 中引入 VPU](https://www.solidot.org/story?sid=75098)
+
+[Twitter 的算法放大了愤怒、敌意和情绪极化](https://www.solidot.org/story?sid=75097)
 
 [AI 繁荣催生芯片荒](https://www.solidot.org/story?sid=75096)
 
 [机智号在火星安全度过两年，其冒险还在继续](https://www.solidot.org/story?sid=75095)
-
-[淡马锡削减投资 FTX 的工作人员薪酬](https://www.solidot.org/story?sid=75094)
-
-[印度 JioCinema 打破了现场直播同时观看人数记录](https://www.solidot.org/story?sid=75093)
-
-[LHC 实验观察到希格斯玻色子衰变的首个证据](https://www.solidot.org/story?sid=75092)
-
-[神舟十六号发射成功](https://www.solidot.org/story?sid=75091)
-
-[为什么说网络安全无解？](https://www.solidot.org/story?sid=75090)
-
-[旁观者量子比特减少计算错误](https://www.solidot.org/story?sid=75089)
-
-[哲学家伊恩·哈金去世](https://www.solidot.org/story?sid=75088)
-
-[微软 Azure Linux GA](https://www.solidot.org/story?sid=75087)
 
