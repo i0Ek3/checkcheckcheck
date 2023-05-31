@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-05-31 16:33:11
+> Update time: 2023-06-01 04:08:37
+
+[技嘉主板固件被发现内置了后门](https://www.solidot.org/story?sid=75115)
+
+[知名 BT 网站 RARBG 宣布关闭](https://www.solidot.org/story?sid=75114)
+
+[南方高温刷新历史同期最高值](https://www.solidot.org/story?sid=75113)
+
+[美国 DEA 使用与 NSO Pegasus 类似的间谍软件](https://www.solidot.org/story?sid=75112)
+
+[梭子鱼网络高危漏洞被利用了 8 个月](https://www.solidot.org/story?sid=75111)
+
+[Ubuntu 将在明年提供基于 Snap 的桌面版本](https://www.solidot.org/story?sid=75110)
 
 [律师引用 ChatGPT 伪造的六个案例，将面临法官惩罚](https://www.solidot.org/story?sid=75109)
 
@@ -8,16 +20,4 @@
 [英超盗版流媒体服务提供者被判 3-11 年徒刑](https://www.solidot.org/story?sid=75107)
 
 [WMO 警告地球冰冻圈正在快速变化](https://www.solidot.org/story?sid=75106)
-
-[英特尔的芯片代工业务遭遇挫折](https://www.solidot.org/story?sid=75105)
-
-[英伟达成为第一家市值突破 1 万亿美元的芯片公司](https://www.solidot.org/story?sid=75104)
-
-[AI 变成一种侮辱](https://www.solidot.org/story?sid=75103)
-
-[Rust 项目回应 RustConf 主题演讲争议](https://www.solidot.org/story?sid=75102)
-
-[研究揭示一位女子无痛觉的分子机制](https://www.solidot.org/story?sid=75101)
-
-[Mullvad 移除对端口转发的支持](https://www.solidot.org/story?sid=75100)
 
