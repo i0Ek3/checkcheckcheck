@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-06-01 16:32:54
+> Update time: 2023-06-02 04:08:10
+
+[Meta 宣布 Quest 3 VR 头显](https://www.solidot.org/story?sid=75129)
+
+[荷兰政府网站必须强制遵守 Security.txt 标准](https://www.solidot.org/story?sid=75128)
+
+[Meta 威胁在加州地区撤下新闻内容](https://www.solidot.org/story?sid=75127)
+
+[Windows 7、8 和 8.1 的 Firefox 用户将迁移到 ESR 版本](https://www.solidot.org/story?sid=75126)
+
+[科学家拍摄单个原子的 X 射线成像](https://www.solidot.org/story?sid=75125)
+
+[一岁男婴比女婴发出更多声音](https://www.solidot.org/story?sid=75124)
+
+[AI 最大的风险来自控制它的人而不是技术本身](https://www.solidot.org/story?sid=75123)
+
+[日本表示版权不适用于 AI 训练](https://www.solidot.org/story?sid=75121)
 
 [任天堂关闭俄区 eShop](https://www.solidot.org/story?sid=75120)
 
 [微型机器人有朝一日能在你体内穿梭](https://www.solidot.org/story?sid=75119)
-
-[Reddit 准备杀死第三方客户端](https://www.solidot.org/story?sid=75117)
-
-[Twitter 估值跌至马斯克收购价的三分之一](https://www.solidot.org/story?sid=75116)
-
-[技嘉主板固件被发现内置了后门](https://www.solidot.org/story?sid=75115)
-
-[知名 BT 网站 RARBG 宣布关闭](https://www.solidot.org/story?sid=75114)
-
-[南方高温刷新历史同期最高值](https://www.solidot.org/story?sid=75113)
-
-[美国 DEA 使用与 NSO Pegasus 类似的间谍软件](https://www.solidot.org/story?sid=75112)
-
-[梭子鱼网络高危漏洞被利用了 8 个月](https://www.solidot.org/story?sid=75111)
-
-[Ubuntu 将在明年提供基于 Snap 的桌面版本](https://www.solidot.org/story?sid=75110)
 
