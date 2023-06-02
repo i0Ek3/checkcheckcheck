@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-02 16:33:19
+> Update time: 2023-06-03 04:08:04
+
+[华为计划提供 AI 服务器租赁服务](https://www.solidot.org/story?sid=75140)
+
+[USAF 模拟测试中 AI 无人机会杀死人类操作员](https://www.solidot.org/story?sid=75139)
+
+[AMD 准备在 AI 领域向英伟达发起挑战](https://www.solidot.org/story?sid=75138)
+
+[韦伯望远镜观测到至今最黯淡的星系](https://www.solidot.org/story?sid=75137)
+
+[首次来自火星的直播](https://www.solidot.org/story?sid=75136)
+
+[俄罗斯指 NSA 利用 iOS 无点击漏洞入侵该国数千部 iPhone](https://www.solidot.org/story?sid=75135)
 
 [Brave 向桌面用户提供垂直标签](https://www.solidot.org/story?sid=75134)
 
@@ -8,16 +20,4 @@
 [索尼克之父中裕司因内幕交易面临 2 年半徒刑](https://www.solidot.org/story?sid=75132)
 
 [人脑形状对其功能至关重要](https://www.solidot.org/story?sid=75131)
-
-[NASA 委员会称无令人信服的证据表明 UAP 与外星生命相关](https://www.solidot.org/story?sid=75130)
-
-[Meta 宣布 Quest 3 VR 头显](https://www.solidot.org/story?sid=75129)
-
-[荷兰政府网站必须强制遵守 Security.txt 标准](https://www.solidot.org/story?sid=75128)
-
-[Meta 威胁在加州地区撤下新闻内容](https://www.solidot.org/story?sid=75127)
-
-[Windows 7、8 和 8.1 的 Firefox 用户将迁移到 ESR 版本](https://www.solidot.org/story?sid=75126)
-
-[科学家拍摄单个原子的 X 射线成像](https://www.solidot.org/story?sid=75125)
 
