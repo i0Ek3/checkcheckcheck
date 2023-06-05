@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-06-05 16:33:22
+> Update time: 2023-06-06 04:08:29
+
+[战雷玩家发起抵制活动，当天组织者被发现在玩游戏](https://www.solidot.org/story?sid=75157)
+
+[英国试点每月 1600 英镑的 UBI](https://www.solidot.org/story?sid=75156)
+
+[美国家庭中的新冠传播逾七成源自儿童](https://www.solidot.org/story?sid=75155)
+
+[健康饮食或有助于减缓大脑衰老](https://www.solidot.org/story?sid=75154)
+
+[铠侠与西部数据协商合并](https://www.solidot.org/story?sid=75153)
+
+[人造皮肤能自我修复](https://www.solidot.org/story?sid=75152)
+
+[全世界的鸟儿数量出现显著下降](https://www.solidot.org/story?sid=75151)
 
 [Reddit 封杀参与抗议的 Moderator 账号](https://www.solidot.org/story?sid=75150)
 
 [美国消费者金融保护局警告 Venmo、PayPal 和 CashApp 中的存款不受保险保护](https://www.solidot.org/story?sid=75149)
 
 [印度铁路因信号问题发生导致 275 人死亡的相撞事故](https://www.solidot.org/story?sid=75148)
-
-[为什么好莱坞担忧生成式 AI](https://www.solidot.org/story?sid=75147)
-
-[Red Hat 企业发行版将不再支持 LibreOffice](https://www.solidot.org/story?sid=75146)
-
-[AMD EPYC Rome 芯片会在连续运行 1044 天后崩溃](https://www.solidot.org/story?sid=75145)
-
-[因使用相同的钢尺四篇论文被撤稿或面临撤稿](https://www.solidot.org/story?sid=75144)
-
-[上海研究发现儿童发育性语言障碍发病率 8.5%](https://www.solidot.org/story?sid=75143)
-
-[盖蒂要求英国法庭下令停售 Stability AI 系统](https://www.solidot.org/story?sid=75142)
-
-[微软将在 Windows 中终止对 Cortana 的支持](https://www.solidot.org/story?sid=75141)
 
