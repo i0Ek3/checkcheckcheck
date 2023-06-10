@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-06-10 16:33:18
+> Update time: 2023-06-11 04:09:00
+
+[Debian 12 bookworm 释出](https://www.solidot.org/story?sid=75214)
+
+[计算机图形行业始于犹他大学](https://www.solidot.org/story?sid=75213)
+
+[Microsoft Edge 移除删除云端同步数据的选项](https://www.solidot.org/story?sid=75212)
+
+[Meta 首个 AI 工具将是 AI 文本生成贴纸](https://www.solidot.org/story?sid=75211)
+
+[《黑镜》制片人尝试用 ChatGPT 写剧本](https://www.solidot.org/story?sid=75210)
 
 [ArchiveTeam 正在存档 Reddit 内容](https://www.solidot.org/story?sid=75209)
 
@@ -10,14 +20,4 @@
 [美国路易斯安那州禁止儿童未经父母同意访问社交网络](https://www.solidot.org/story?sid=75206)
 
 [科学家在水下生活一百天](https://www.solidot.org/story?sid=75205)
-
-[梭子鱼网络督促客户替换设备而不是打补丁](https://www.solidot.org/story?sid=75204)
-
-[特斯拉泄密文件显示 Cybertruck 受困于设计问题](https://www.solidot.org/story?sid=75203)
-
-[扎克伯格评论苹果 Vision Pro](https://www.solidot.org/story?sid=75202)
-
-[希捷将推出最高 40 TB 的硬盘](https://www.solidot.org/story?sid=75201)
-
-[跨国偷拍团伙被曝光](https://www.solidot.org/story?sid=75200)
 
