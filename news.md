@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-12 16:33:21
+> Update time: 2023-06-13 04:08:29
+
+[Debian GNU/Hurd 2023 释出](https://www.solidot.org/story?sid=75227)
+
+[新冠封锁政策改变了世界哺乳动物的活动](https://www.solidot.org/story?sid=75226)
+
+[英特尔演示新的芯片背面供电技术](https://www.solidot.org/story?sid=75225)
+
+[OpenAI CEO 呼吁在应对 AI 风险上与中国合作](https://www.solidot.org/story?sid=75224)
+
+[飞机颠簸源自空气湍流显著增加](https://www.solidot.org/story?sid=75223)
+
+[Twitter 拒绝支付 Google Cloud 账单](https://www.solidot.org/story?sid=75222)
 
 [美科技巨头限制香港用户访问其 AI 工具](https://www.solidot.org/story?sid=75221)
 
@@ -8,16 +20,4 @@
 [300 人出席 AI 布道](https://www.solidot.org/story?sid=75219)
 
 [Reddit 社区开始大规模抗议](https://www.solidot.org/story?sid=75218)
-
-[宝德称其 CPU 是在英特尔支持下开发的](https://www.solidot.org/story?sid=75217)
-
-[英特尔开源 One Mono 字体](https://www.solidot.org/story?sid=75216)
-
-[大学航空炸弹客 Ted Kaczynski 在狱中去世](https://www.solidot.org/story?sid=75215)
-
-[Debian 12 bookworm 释出](https://www.solidot.org/story?sid=75214)
-
-[计算机图形行业始于犹他大学](https://www.solidot.org/story?sid=75213)
-
-[Microsoft Edge 移除删除云端同步数据的选项](https://www.solidot.org/story?sid=75212)
 
