@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-13 16:33:16
+> Update time: 2023-06-14 04:08:43
+
+[研究揭示减肥反弹的大脑秘密](https://www.solidot.org/story?sid=75239)
+
+[丰田计划在 2027 年推出电动汽车用全固态电池](https://www.solidot.org/story?sid=75238)
+
+[日本向更多海外劳工开放大门](https://www.solidot.org/story?sid=75237)
+
+[西部数据对开机三年的硬盘发出更换警告引发争议](https://www.solidot.org/story?sid=75236)
+
+[太空飞行会对人脑结构产生无法恢复的影响](https://www.solidot.org/story?sid=75235)
+
+[伊朗的“量子”设备被发现是开发板](https://www.solidot.org/story?sid=75234)
 
 [欧盟监管机构考虑分拆 Google 的广告技术业务](https://www.solidot.org/story?sid=75233)
 
@@ -8,16 +20,4 @@
 [大规模抗议导致 Reddit 崩溃三小时](https://www.solidot.org/story?sid=75231)
 
 [FTC 寻求阻止微软收购动视暴雪](https://www.solidot.org/story?sid=75230)
-
-[唯一仍然出版的实体百科全书](https://www.solidot.org/story?sid=75229)
-
-[Reddit 发生宕机事故](https://www.solidot.org/story?sid=75228)
-
-[Debian GNU/Hurd 2023 释出](https://www.solidot.org/story?sid=75227)
-
-[新冠封锁政策改变了世界哺乳动物的活动](https://www.solidot.org/story?sid=75226)
-
-[英特尔演示新的芯片背面供电技术](https://www.solidot.org/story?sid=75225)
-
-[OpenAI CEO 呼吁在应对 AI 风险上与中国合作](https://www.solidot.org/story?sid=75224)
 
