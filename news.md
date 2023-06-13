@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-13 04:33:20
+> Update time: 2023-06-13 16:10:35
+
+[欧盟监管机构考虑分拆 Google 的广告技术业务](https://www.solidot.org/story?sid=75233)
+
+[《自然》期刊禁止 AI 生成艺术](https://www.solidot.org/story?sid=75232)
+
+[大规模抗议导致 Reddit 崩溃三小时](https://www.solidot.org/story?sid=75231)
+
+[FTC 寻求阻止微软收购动视暴雪](https://www.solidot.org/story?sid=75230)
+
+[唯一仍然出版的实体百科全书](https://www.solidot.org/story?sid=75229)
+
+[Reddit 发生宕机事故](https://www.solidot.org/story?sid=75228)
 
 [Debian GNU/Hurd 2023 释出](https://www.solidot.org/story?sid=75227)
 
@@ -8,16 +20,4 @@
 [英特尔演示新的芯片背面供电技术](https://www.solidot.org/story?sid=75225)
 
 [OpenAI CEO 呼吁在应对 AI 风险上与中国合作](https://www.solidot.org/story?sid=75224)
-
-[飞机颠簸源自空气湍流显著增加](https://www.solidot.org/story?sid=75223)
-
-[Twitter 拒绝支付 Google Cloud 账单](https://www.solidot.org/story?sid=75222)
-
-[美科技巨头限制香港用户访问其 AI 工具](https://www.solidot.org/story?sid=75221)
-
-[测试 JPEG XL 和 AVIF 图像格式](https://www.solidot.org/story?sid=75220)
-
-[300 人出席 AI 布道](https://www.solidot.org/story?sid=75219)
-
-[Reddit 社区开始大规模抗议](https://www.solidot.org/story?sid=75218)
 
