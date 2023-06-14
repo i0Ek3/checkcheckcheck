@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-14 04:33:21
+> Update time: 2023-06-14 16:10:15
+
+[微软向美国政府客户提供 GPT-4 模型](https://www.solidot.org/story?sid=75245)
+
+[Meta 发布类人 AI 图像创造模型 I-JEPA](https://www.solidot.org/story?sid=75244)
+
+[亚马逊用生成式 AI 概述产品评论](https://www.solidot.org/story?sid=75243)
+
+[印度政府要求中国手机厂商任命印裔人士担任高管](https://www.solidot.org/story?sid=75242)
+
+[美国法官暂时阻止微软完成对动视暴雪的收购](https://www.solidot.org/story?sid=75241)
+
+[Reddit CEO 告诉雇员 API 价格抗议不会影响收入](https://www.solidot.org/story?sid=75240)
 
 [研究揭示减肥反弹的大脑秘密](https://www.solidot.org/story?sid=75239)
 
@@ -8,16 +20,4 @@
 [日本向更多海外劳工开放大门](https://www.solidot.org/story?sid=75237)
 
 [西部数据对开机三年的硬盘发出更换警告引发争议](https://www.solidot.org/story?sid=75236)
-
-[太空飞行会对人脑结构产生无法恢复的影响](https://www.solidot.org/story?sid=75235)
-
-[伊朗的“量子”设备被发现是开发板](https://www.solidot.org/story?sid=75234)
-
-[欧盟监管机构考虑分拆 Google 的广告技术业务](https://www.solidot.org/story?sid=75233)
-
-[《自然》期刊禁止 AI 生成艺术](https://www.solidot.org/story?sid=75232)
-
-[大规模抗议导致 Reddit 崩溃三小时](https://www.solidot.org/story?sid=75231)
-
-[FTC 寻求阻止微软收购动视暴雪](https://www.solidot.org/story?sid=75230)
 
