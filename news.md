@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-15 16:33:20
+> Update time: 2023-06-16 04:08:25
+
+[俄罗斯黑客利用 U 盘在乌克兰传播恶意程序](https://www.solidot.org/story?sid=75259)
+
+[欧洲议会通过 AI Act 草案](https://www.solidot.org/story?sid=75258)
+
+[英特尔将酷睿 i3/i5/i7/i9 改名为酷睿 3/5/7/9](https://www.solidot.org/story?sid=75257)
+
+[德州禁止儿童未经父母同意使用社交网络](https://www.solidot.org/story?sid=75256)
+
+[Google 将从 AOSP 项目淘汰拨号和消息应用](https://www.solidot.org/story?sid=75255)
+
+[美科学家称复现了室温超导研究](https://www.solidot.org/story?sid=75254)
 
 [AMD 发布开源固件 openSIL POC](https://www.solidot.org/story?sid=75253)
 
@@ -8,16 +20,4 @@
 [发现 Linux 内核的随机挂起 Bug](https://www.solidot.org/story?sid=75251)
 
 [AMD 公布 Instinct MI300X 加速器](https://www.solidot.org/story?sid=75250)
-
-[麦当劳发布新 GBC 游戏](https://www.solidot.org/story?sid=75249)
-
-[微软与 OpenAI 貌合神离](https://www.solidot.org/story?sid=75248)
-
-[免疫恢复力与长寿和抵抗感染相关](https://www.solidot.org/story?sid=75246)
-
-[微软向美国政府客户提供 GPT-4 模型](https://www.solidot.org/story?sid=75245)
-
-[Meta 发布类人 AI 图像创造模型 I-JEPA](https://www.solidot.org/story?sid=75244)
-
-[亚马逊用生成式 AI 概述产品评论](https://www.solidot.org/story?sid=75243)
 
