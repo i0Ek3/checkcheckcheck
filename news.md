@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-19 16:34:05
+> Update time: 2023-06-20 04:08:55
+
+[单个光子可启动光合作用](https://www.solidot.org/story?sid=75285)
+
+[华为要求 30 家日本通信企业支付专利费](https://www.solidot.org/story?sid=75284)
+
+[新建核电机组七成来自中俄](https://www.solidot.org/story?sid=75283)
+
+[FreeBSD 项目诞生三十周年](https://www.solidot.org/story?sid=75282)
+
+[早段限时饮食有助于改善代谢健康](https://www.solidot.org/story?sid=75281)
+
+[AI 让硅谷利用他人的作品赚钱](https://www.solidot.org/story?sid=75280)
 
 [ChatGPT 和 Google Bard 能分享 Windows 11 和 10 专业版的 KMS 密钥](https://www.solidot.org/story?sid=75279)
 
@@ -8,16 +20,4 @@
 [BlackCat 声称入侵了 Reddit 窃取了数据](https://www.solidot.org/story?sid=75277)
 
 [GPT-4 生成的商业计划书更受投资者青睐](https://www.solidot.org/story?sid=75276)
-
-[Windows 11 更新导致 Chrome 无法启动](https://www.solidot.org/story?sid=75275)
-
-[欧盟投票要求智能手机电池可替换](https://www.solidot.org/story?sid=75274)
-
-[harbian-audit v0.7 发布，支持 Debian 12](https://www.solidot.org/story?sid=75273)
-
-[众包工人用 AI 做数据标注等零工](https://www.solidot.org/story?sid=75272)
-
-[Reddit CEO 向马斯克学习](https://www.solidot.org/story?sid=75271)
-
-[美国军方机密文件泄密者收到六项指控](https://www.solidot.org/story?sid=75270)
 
