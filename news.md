@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-06-20 04:33:10
+> Update time: 2023-06-20 16:10:30
+
+[一位罹患 12 种癌症的幸存者](https://www.solidot.org/story?sid=75292)
+
+[韩政府要求高考不要出太难的考题](https://www.solidot.org/story?sid=75291)
+
+[Google 警告员工不要使用 Bard 生成的代码](https://www.solidot.org/story?sid=75290)
+
+[抽取地下水导致极地每年移动数厘米](https://www.solidot.org/story?sid=75289)
+
+[加州山景城批准 Google 在其总部附近建造一个综合社区](https://www.solidot.org/story?sid=75288)
+
+[BentoML 发布大模型开放平台 OpenLLM](https://www.solidot.org/story?sid=75287)
+
+[当人们互动时候脑电波会同步](https://www.solidot.org/story?sid=75286)
 
 [单个光子可启动光合作用](https://www.solidot.org/story?sid=75285)
 
 [华为要求 30 家日本通信企业支付专利费](https://www.solidot.org/story?sid=75284)
 
 [新建核电机组七成来自中俄](https://www.solidot.org/story?sid=75283)
-
-[FreeBSD 项目诞生三十周年](https://www.solidot.org/story?sid=75282)
-
-[早段限时饮食有助于改善代谢健康](https://www.solidot.org/story?sid=75281)
-
-[AI 让硅谷利用他人的作品赚钱](https://www.solidot.org/story?sid=75280)
-
-[ChatGPT 和 Google Bard 能分享 Windows 11 和 10 专业版的 KMS 密钥](https://www.solidot.org/story?sid=75279)
-
-[Swing VPN 是 DDoS 僵尸网络](https://www.solidot.org/story?sid=75278)
-
-[BlackCat 声称入侵了 Reddit 窃取了数据](https://www.solidot.org/story?sid=75277)
-
-[GPT-4 生成的商业计划书更受投资者青睐](https://www.solidot.org/story?sid=75276)
 
