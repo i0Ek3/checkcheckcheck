@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-21 16:33:06
+> Update time: 2023-06-22 04:08:08
+
+[新 DDoS 僵尸网络基于普联 AX21 路由器](https://www.solidot.org/story?sid=75311)
+
+[尼日利亚工科学生最受欢迎的老师是 YouTube 上的印度主播](https://www.solidot.org/story?sid=75310)
+
+[广告业眼中的 AI](https://www.solidot.org/story?sid=75309)
+
+[GCC 公布行为准则草案](https://www.solidot.org/story?sid=75308)
+
+[《楚门的世界》的真正教训](https://www.solidot.org/story?sid=75307)
+
+[当 Reddit 用户涌入 Lemmy](https://www.solidot.org/story?sid=75306)
 
 [运动如何影响体内的细胞](https://www.solidot.org/story?sid=75305)
 
@@ -8,16 +20,4 @@
 [格莱美奖禁止完全由 AI 创作的作品](https://www.solidot.org/story?sid=75303)
 
 [泰坦尼克号观光潜艇使用了罗技手柄](https://www.solidot.org/story?sid=75302)
-
-[蔡崇信担任阿里巴巴董事会主席](https://www.solidot.org/story?sid=75301)
-
-[当可供 AI 训练的人造数据愈来愈少](https://www.solidot.org/story?sid=75299)
-
-[苹果联合创始人出售大农场它将变成自然保护区](https://www.solidot.org/story?sid=75298)
-
-[Mullvad 浏览器使用的搜索引擎 Mullvad Leta](https://www.solidot.org/story?sid=75297)
-
-[本世纪末喜马拉雅冰川可能会消融八成](https://www.solidot.org/story?sid=75296)
-
-[微软证实本月初其服务遭网络攻击](https://www.solidot.org/story?sid=75295)
 
