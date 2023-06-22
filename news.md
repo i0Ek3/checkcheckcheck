@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-06-22 16:33:05
+> Update time: 2023-06-23 04:09:36
+
+[DuckDuckGo 发布 Beta 版 Windows 浏览器](https://www.solidot.org/story?sid=75318)
+
+[人类尚未在精神上做好准备迎接 AI 渗透的后真相世界](https://www.solidot.org/story?sid=75317)
+
+[FAST 发现轨道周期最短的脉冲星双星](https://www.solidot.org/story?sid=75316)
+
+[Google 就云计算领域的反竞争行为向 FTC 投诉微软](https://www.solidot.org/story?sid=75315)
+
+[FTC 指控亚马逊诱骗用户注册 Prime 会员增加取消会员的难度](https://www.solidot.org/story?sid=75314)
+
+[Red Hat 限制 RHEL 源码可得性](https://www.solidot.org/story?sid=75313)
+
+[逾 10 万 ChatGPT 账号凭证在暗网出售](https://www.solidot.org/story?sid=75312)
 
 [新 DDoS 僵尸网络基于普联 AX21 路由器](https://www.solidot.org/story?sid=75311)
 
 [尼日利亚工科学生最受欢迎的老师是 YouTube 上的印度主播](https://www.solidot.org/story?sid=75310)
 
 [广告业眼中的 AI](https://www.solidot.org/story?sid=75309)
-
-[GCC 公布行为准则草案](https://www.solidot.org/story?sid=75308)
-
-[《楚门的世界》的真正教训](https://www.solidot.org/story?sid=75307)
-
-[当 Reddit 用户涌入 Lemmy](https://www.solidot.org/story?sid=75306)
-
-[运动如何影响体内的细胞](https://www.solidot.org/story?sid=75305)
-
-[DeepMind 联合创始人提出新图灵测试](https://www.solidot.org/story?sid=75304)
-
-[格莱美奖禁止完全由 AI 创作的作品](https://www.solidot.org/story?sid=75303)
-
-[泰坦尼克号观光潜艇使用了罗技手柄](https://www.solidot.org/story?sid=75302)
 
