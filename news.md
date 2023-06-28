@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-28 04:32:48
+> Update time: 2023-06-28 16:11:24
+
+[研究称男性在感染新冠后精液质量会长时间下降](https://www.solidot.org/story?sid=75360)
+
+[网信办启动未成年人网络环境专项整治](https://www.solidot.org/story?sid=75359)
+
+[美国最高法院削弱对网络跟踪受害者的保护](https://www.solidot.org/story?sid=75358)
+
+[美国考虑对华进一步限制 AI 芯片出口](https://www.solidot.org/story?sid=75357)
+
+[微软内部文档显示它想将 Windows 完整转移到云端](https://www.solidot.org/story?sid=75356)
+
+[澳大利亚总理建议居民每晚手机关机五分钟](https://www.solidot.org/story?sid=75355)
 
 [开发者将 ChatGPT 移植到 Windows 3.1](https://www.solidot.org/story?sid=75354)
 
@@ -8,16 +20,4 @@
 [AI 在杀死旧 Web？](https://www.solidot.org/story?sid=75352)
 
 [Red Hat 恪守对开源的承诺](https://www.solidot.org/story?sid=75351)
-
-[古代玛雅城市藏身丛林逾千年](https://www.solidot.org/story?sid=75350)
-
-[Z-Library 发布桌面应用以改进可及性](https://www.solidot.org/story?sid=75349)
-
-[社交应用 IRL 在承认 95% 的用户是机器人后关闭](https://www.solidot.org/story?sid=75348)
-
-[Google DeepMind CEO 称其开发的新 AI 系统将让 ChatGPT 黯然失色](https://www.solidot.org/story?sid=75347)
-
-[TRAPPIST-1c 可能只有稀薄大气层](https://www.solidot.org/story?sid=75346)
-
-[海康威视和大华的摄像头有多安全？](https://www.solidot.org/story?sid=75345)
 
