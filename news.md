@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-06-28 16:38:05
+> Update time: 2023-06-29 04:09:26
+
+[表观遗传在藏族人高原适应过程发挥作用](https://www.solidot.org/story?sid=75369)
+
+[木马版超级马里奥被用于传播恶意程序](https://www.solidot.org/story?sid=75368)
+
+[苹果在 Twitter 上公开《羊毛战记》的完整一集](https://www.solidot.org/story?sid=75367)
+
+[Twitter 黑客被判五年徒刑](https://www.solidot.org/story?sid=75366)
+
+[AMD 从 Chiplet 中得到的教训](https://www.solidot.org/story?sid=75365)
+
+[汤加火山喷发创造出至今探测到的最极端的闪电活动](https://www.solidot.org/story?sid=75364)
 
 [AI 设计新药在中美启动临床试验](https://www.solidot.org/story?sid=75363)
 
@@ -8,16 +20,4 @@
 [Google 高管称在 Reddit 社区抗议之后用户对搜索体验不满意](https://www.solidot.org/story?sid=75361)
 
 [研究称男性在感染新冠后精液质量会长时间下降](https://www.solidot.org/story?sid=75360)
-
-[网信办启动未成年人网络环境专项整治](https://www.solidot.org/story?sid=75359)
-
-[美国最高法院削弱对网络跟踪受害者的保护](https://www.solidot.org/story?sid=75358)
-
-[美国考虑对华进一步限制 AI 芯片出口](https://www.solidot.org/story?sid=75357)
-
-[微软内部文档显示它想将 Windows 完整转移到云端](https://www.solidot.org/story?sid=75356)
-
-[澳大利亚总理建议居民每晚手机关机五分钟](https://www.solidot.org/story?sid=75355)
-
-[开发者将 ChatGPT 移植到 Windows 3.1](https://www.solidot.org/story?sid=75354)
 
