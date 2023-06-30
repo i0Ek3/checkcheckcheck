@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-06-30 04:33:29
+> Update time: 2023-06-30 16:11:02
+
+[Windows Copilot 预览版发布](https://www.solidot.org/story?sid=75383)
+
+[美最高法院裁定大学招生考虑种族因素违宪](https://www.solidot.org/story?sid=75382)
+
+[Kindle 中国电子书店的最后一天](https://www.solidot.org/story?sid=75381)
+
+[Valve 拒绝在 Steam 上发行包含 AI 生成内容的游戏](https://www.solidot.org/story?sid=75380)
+
+[阿斯巴甜可能有致癌风险](https://www.solidot.org/story?sid=75379)
 
 [NASA 取消了实验性电动飞机项目 X-57](https://www.solidot.org/story?sid=75378)
 
@@ -10,14 +20,4 @@
 [GitHub DDoS 开源网站遭批评](https://www.solidot.org/story?sid=75375)
 
 [Brave 将自动屏蔽浏览器端口扫描](https://www.solidot.org/story?sid=75374)
-
-[维生素D 或有助于降低老年人的心脏病风险](https://www.solidot.org/story?sid=75373)
-
-[英伟达不赞同扩大对华 AI 芯片出口限制](https://www.solidot.org/story?sid=75372)
-
-[Reddit 施压抗议 Mod，Minecraft 开发者宣布退出 Subreddit](https://www.solidot.org/story?sid=75371)
-
-[ReactOS 项目还活着](https://www.solidot.org/story?sid=75370)
-
-[表观遗传在藏族人高原适应过程发挥作用](https://www.solidot.org/story?sid=75369)
 
