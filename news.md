@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-06-30 16:35:54
+> Update time: 2023-07-01 04:08:55
+
+[Twitter 开始限制未注册用户访问](https://www.solidot.org/story?sid=75391)
+
+[台积电遭勒索软件组织攻击](https://www.solidot.org/story?sid=75390)
+
+[富达降低 Reddit 的估值](https://www.solidot.org/story?sid=75389)
+
+[美国高中将所有学生的密码重置为 Ch@ngeme!](https://www.solidot.org/story?sid=75388)
+
+[气候变化放缓臭氧层的恢复](https://www.solidot.org/story?sid=75387)
+
+[科学家首次观测到“引力波背景”证据](https://www.solidot.org/story?sid=75386)
+
+[为什么 Mastodon 无法取代 Twtter](https://www.solidot.org/story?sid=75385)
+
+[Google 和 Facebook 都决定不展示加拿大新闻](https://www.solidot.org/story?sid=75384)
 
 [Windows Copilot 预览版发布](https://www.solidot.org/story?sid=75383)
 
 [美最高法院裁定大学招生考虑种族因素违宪](https://www.solidot.org/story?sid=75382)
-
-[Kindle 中国电子书店的最后一天](https://www.solidot.org/story?sid=75381)
-
-[Valve 拒绝在 Steam 上发行包含 AI 生成内容的游戏](https://www.solidot.org/story?sid=75380)
-
-[阿斯巴甜可能有致癌风险](https://www.solidot.org/story?sid=75379)
-
-[NASA 取消了实验性电动飞机项目 X-57](https://www.solidot.org/story?sid=75378)
-
-[FAST 观察到引力波踪迹](https://www.solidot.org/story?sid=75377)
-
-[国家地理裁掉了所有专职作家](https://www.solidot.org/story?sid=75376)
-
-[GitHub DDoS 开源网站遭批评](https://www.solidot.org/story?sid=75375)
-
-[Brave 将自动屏蔽浏览器端口扫描](https://www.solidot.org/story?sid=75374)
 
