@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-07-04 04:32:59
+> Update time: 2023-07-04 16:12:27
+
+[TweetDeck 将只提供给付费用户使用](https://www.solidot.org/story?sid=75415)
+
+[Google 更新隐私政策将抓取所有 Web 内容训练 AI](https://www.solidot.org/story?sid=75414)
+
+[AMA 社区成为 Reddit API 价格抗议的最新受害者](https://www.solidot.org/story?sid=75413)
+
+[中国限制出口镓和锗](https://www.solidot.org/story?sid=75412)
+
+[Meta 发布其微博客应用 Threads](https://www.solidot.org/story?sid=75411)
 
 [Valve 确认它限制使用 AI 生成内容的游戏](https://www.solidot.org/story?sid=75410)
 
@@ -10,14 +20,4 @@
 [维基百科切换到 CC BY-SA 4.0 许可证](https://www.solidot.org/story?sid=75407)
 
 [2200 台被遗忘的古董电脑重获新生](https://www.solidot.org/story?sid=75406)
-
-[胎盘哺乳动物幸免于小行星撞击地球](https://www.solidot.org/story?sid=75405)
-
-[Perl 5.38 释出](https://www.solidot.org/story?sid=75404)
-
-[科学家公布首位接受转基因猪心脏移植患者的死因](https://www.solidot.org/story?sid=75403)
-
-[Steam Linux 玩家中近七成使用 AMD CPU](https://www.solidot.org/story?sid=75402)
-
-[为什么美国人开着字幕看电视？](https://www.solidot.org/story?sid=75401)
 
