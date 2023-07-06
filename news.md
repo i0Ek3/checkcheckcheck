@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-06 16:39:32
+> Update time: 2023-07-07 04:09:45
+
+[上海 AI 实验室发布开源模型 InternLM-7B](https://www.solidot.org/story?sid=75443)
+
+[亚马逊 CEO 质问旗下好莱坞工作室钱花哪儿去了](https://www.solidot.org/story?sid=75442)
+
+[孤独者感知世界的方式与众不同](https://www.solidot.org/story?sid=75441)
+
+[ChatGPT 的流量首次出现下降](https://www.solidot.org/story?sid=75440)
+
+[当流媒体上的内容消失](https://www.solidot.org/story?sid=75439)
+
+[跑步有助于在衰老过程中保持记忆功能](https://www.solidot.org/story?sid=75438)
+
+[牙齿疾病与脑健康相关](https://www.solidot.org/story?sid=75437)
+
+[加拿大计划建造世界最大核电站](https://www.solidot.org/story?sid=75436)
 
 [《超越善恶2》创意总监去世，年仅 40 岁](https://www.solidot.org/story?sid=75435)
 
 [Threads 上线两小时注册量突破 200 万](https://www.solidot.org/story?sid=75434)
-
-[微软否认 3000 万客户账号凭证被盗](https://www.solidot.org/story?sid=75433)
-
-[GoFundMe 拒绝取消被控杀死 Nahel M 的警官的筹款活动](https://www.solidot.org/story?sid=75432)
-
-[马克龙考虑情况失控时切断社交媒体访问](https://www.solidot.org/story?sid=75431)
-
-[腾讯程序员因窃取人大数据库创建外貌打分平台被捕](https://www.solidot.org/story?sid=75430)
-
-[欧盟法院要求 Facebook 需在用户同意下才能展示个性化广告](https://www.solidot.org/story?sid=75429)
-
-[结合大数据与 AI 创建数字孪生城市](https://www.solidot.org/story?sid=75428)
-
-[NASA 与机智号直升飞机恢复通讯](https://www.solidot.org/story?sid=75427)
-
-[如果人类突然一起消失](https://www.solidot.org/story?sid=75426)
 
