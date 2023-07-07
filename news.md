@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-07-07 04:33:45
+> Update time: 2023-07-07 16:12:54
+
+[索尼克之父中裕司因内幕交易被判 2 年半徒刑缓刑四年](https://www.solidot.org/story?sid=75448)
+
+[中兴智能手机努比亚红魔8S Pro+ 内存达到 24 GB](https://www.solidot.org/story?sid=75447)
+
+[Twitter 指控 Meta 的 Threads 侵犯其知识产权威胁起诉](https://www.solidot.org/story?sid=75446)
+
+[周二的全球气温打破了周一的记录](https://www.solidot.org/story?sid=75445)
+
+[WordPress 插件 0day 威胁 20 万网站](https://www.solidot.org/story?sid=75444)
 
 [上海 AI 实验室发布开源模型 InternLM-7B](https://www.solidot.org/story?sid=75443)
 
@@ -10,14 +20,4 @@
 [ChatGPT 的流量首次出现下降](https://www.solidot.org/story?sid=75440)
 
 [当流媒体上的内容消失](https://www.solidot.org/story?sid=75439)
-
-[跑步有助于在衰老过程中保持记忆功能](https://www.solidot.org/story?sid=75438)
-
-[牙齿疾病与脑健康相关](https://www.solidot.org/story?sid=75437)
-
-[加拿大计划建造世界最大核电站](https://www.solidot.org/story?sid=75436)
-
-[《超越善恶2》创意总监去世，年仅 40 岁](https://www.solidot.org/story?sid=75435)
-
-[Threads 上线两小时注册量突破 200 万](https://www.solidot.org/story?sid=75434)
 
