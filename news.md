@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-10 16:38:41
+> Update time: 2023-07-11 04:09:53
+
+[网信办宣布加强“自媒体”管理](https://www.solidot.org/story?sid=75474)
+
+[Thunderbird 115 新特性](https://www.solidot.org/story?sid=75473)
+
+[日本警方将利用 AI 强化监视能力](https://www.solidot.org/story?sid=75472)
+
+[研究人员发现新内核提权漏洞 StackRot](https://www.solidot.org/story?sid=75471)
+
+[在删除数据前如何通知客户](https://www.solidot.org/story?sid=75470)
+
+[Google 探索 robots.txt 的替代](https://www.solidot.org/story?sid=75469)
+
+[Starlink 干扰到天文观测](https://www.solidot.org/story?sid=75468)
 
 [Sarah Silverman 起诉 Meta 和 OpenAI 侵犯版权](https://www.solidot.org/story?sid=75467)
 
 [迄今对电子的最精确测量证实它接近完美圆球形](https://www.solidot.org/story?sid=75466)
 
 [Minecraft Wiki 考虑迁移出 Fandom](https://www.solidot.org/story?sid=75465)
-
-[PEP 703 如果接受 Meta 将向 Python 项目分配全职开发者](https://www.solidot.org/story?sid=75464)
-
-[22 岁玩家因 Swatting 育碧被判三年社区服务](https://www.solidot.org/story?sid=75463)
-
-[Reddit 向使用 NSFW 抗议策略的 Subreddit 发出最后警告](https://www.solidot.org/story?sid=75462)
-
-[马斯克起诉帮助 Twitter 完成被马斯克收购的律所，索赔 9000 万美元](https://www.solidot.org/story?sid=75461)
-
-[韦伯望远镜探测到至今最遥远的活跃超大质量黑洞](https://www.solidot.org/story?sid=75460)
-
-[Meta 开源 Intermediate Graphics Library](https://www.solidot.org/story?sid=75459)
-
-[俄罗斯短暂切断与全球互联网的接入](https://www.solidot.org/story?sid=75458)
 
