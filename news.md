@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-11 16:38:02
+> Update time: 2023-07-12 04:09:41
+
+[Raspberry Pi 基金会开源其面向儿童的代码编辑器](https://www.solidot.org/story?sid=75486)
+
+[Anthropic 宣布 Claude 2](https://www.solidot.org/story?sid=75485)
+
+[约六成美国人认为 TikTok 威胁国家安全](https://www.solidot.org/story?sid=75484)
+
+[Fairphone 3 获得七年操作系统支持](https://www.solidot.org/story?sid=75483)
+
+[GPT-4 有 1.8 万亿参数](https://www.solidot.org/story?sid=75482)
+
+[报告称到 2030 年会有 24 家央行发行数字货币](https://www.solidot.org/story?sid=75481)
+
+[消失的经典游戏](https://www.solidot.org/story?sid=75480)
 
 [走私者尝试捆绑 306 个 CPU 入境](https://www.solidot.org/story?sid=75479)
 
 [Bcachefs 文件系统未能合并到 Linux 6.5 内核](https://www.solidot.org/story?sid=75478)
 
 [Threads 用户数突破 1 亿](https://www.solidot.org/story?sid=75477)
-
-[Bending Spoons 证实它接管了印象笔记的运营](https://www.solidot.org/story?sid=75476)
-
-[SpaceX Falcon 9 火箭第一级完成了创记录的 16 次发射](https://www.solidot.org/story?sid=75475)
-
-[网信办宣布加强“自媒体”管理](https://www.solidot.org/story?sid=75474)
-
-[Thunderbird 115 新特性](https://www.solidot.org/story?sid=75473)
-
-[日本警方将利用 AI 强化监视能力](https://www.solidot.org/story?sid=75472)
-
-[研究人员发现新内核提权漏洞 StackRot](https://www.solidot.org/story?sid=75471)
-
-[在删除数据前如何通知客户](https://www.solidot.org/story?sid=75470)
 
