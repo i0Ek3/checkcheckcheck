@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-07-12 16:37:29
+> Update time: 2023-07-13 04:09:30
+
+[丝绸之路二号人物被判 20 年徒刑](https://www.solidot.org/story?sid=75497)
+
+[米兰·昆德拉去世享年 94 岁](https://www.solidot.org/story?sid=75496)
+
+[科学家尝试利用微生物对抗肿瘤](https://www.solidot.org/story?sid=75495)
+
+[受伤乌克兰士兵感染六种耐药细菌](https://www.solidot.org/story?sid=75494)
+
+[日本不再认为现金为王](https://www.solidot.org/story?sid=75493)
+
+[多伦多动物园督促游客不要给大猩猩看手机视频](https://www.solidot.org/story?sid=75492)
 
 [Linux 桌面份额突破 3%](https://www.solidot.org/story?sid=75491)
 
@@ -8,16 +20,4 @@
 [SUSE 将创建 Red Hat Enterprise Linux 的一个分支](https://www.solidot.org/story?sid=75489)
 
 [法官允许微软完成对动视暴雪的收购](https://www.solidot.org/story?sid=75488)
-
-[英特尔终止 NUC 业务](https://www.solidot.org/story?sid=75487)
-
-[Raspberry Pi 基金会开源其面向儿童的代码编辑器](https://www.solidot.org/story?sid=75486)
-
-[Anthropic 宣布 Claude 2](https://www.solidot.org/story?sid=75485)
-
-[约六成美国人认为 TikTok 威胁国家安全](https://www.solidot.org/story?sid=75484)
-
-[Fairphone 3 获得七年操作系统支持](https://www.solidot.org/story?sid=75483)
-
-[GPT-4 有 1.8 万亿参数](https://www.solidot.org/story?sid=75482)
 
