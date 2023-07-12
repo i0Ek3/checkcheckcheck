@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-07-12 04:33:23
+> Update time: 2023-07-12 16:12:15
+
+[Linux 桌面份额突破 3%](https://www.solidot.org/story?sid=75491)
+
+[英伟达对 AI 的垄断面临挑战](https://www.solidot.org/story?sid=75490)
+
+[SUSE 将创建 Red Hat Enterprise Linux 的一个分支](https://www.solidot.org/story?sid=75489)
+
+[法官允许微软完成对动视暴雪的收购](https://www.solidot.org/story?sid=75488)
+
+[英特尔终止 NUC 业务](https://www.solidot.org/story?sid=75487)
 
 [Raspberry Pi 基金会开源其面向儿童的代码编辑器](https://www.solidot.org/story?sid=75486)
 
@@ -10,14 +20,4 @@
 [Fairphone 3 获得七年操作系统支持](https://www.solidot.org/story?sid=75483)
 
 [GPT-4 有 1.8 万亿参数](https://www.solidot.org/story?sid=75482)
-
-[报告称到 2030 年会有 24 家央行发行数字货币](https://www.solidot.org/story?sid=75481)
-
-[消失的经典游戏](https://www.solidot.org/story?sid=75480)
-
-[走私者尝试捆绑 306 个 CPU 入境](https://www.solidot.org/story?sid=75479)
-
-[Bcachefs 文件系统未能合并到 Linux 6.5 内核](https://www.solidot.org/story?sid=75478)
-
-[Threads 用户数突破 1 亿](https://www.solidot.org/story?sid=75477)
 
