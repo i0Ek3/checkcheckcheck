@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-13 16:37:29
+> Update time: 2023-07-14 04:09:37
 
-[丝绸之路二号人物被判 20 年徒刑](https://www.solidot.org/story?sid=75497)
+[上周是有记录以来最热的一周](https://www.solidot.org/story?sid=75509)
 
-[米兰·昆德拉去世享年 94 岁](https://www.solidot.org/story?sid=75496)
+[华为准备推出 5G 手机](https://www.solidot.org/story?sid=75508)
 
-[科学家尝试利用微生物对抗肿瘤](https://www.solidot.org/story?sid=75495)
+[保护核心资产: LINUX内核防护](https://www.solidot.org/story?sid=75507)
 
-[受伤乌克兰士兵感染六种耐药细菌](https://www.solidot.org/story?sid=75494)
+[网信办等发布《生成式人工智能服务管理暂行办法》](https://www.solidot.org/story?sid=75506)
 
-[日本不再认为现金为王](https://www.solidot.org/story?sid=75493)
+[毅力号漫游车在火星上发现多种有机物](https://www.solidot.org/story?sid=75505)
 
-[多伦多动物园督促游客不要给大猩猩看手机视频](https://www.solidot.org/story?sid=75492)
+[迪士尼和 Netflix 等反对 FTC 简化取消订阅流程的提议](https://www.solidot.org/story?sid=75504)
 
-[Linux 桌面份额突破 3%](https://www.solidot.org/story?sid=75491)
+[蓝箭航天成功发射首枚液氧甲烷火箭朱雀二号](https://www.solidot.org/story?sid=75503)
 
-[英伟达对 AI 的垄断面临挑战](https://www.solidot.org/story?sid=75490)
+[美国称中国黑客入侵了多名政府官员的电邮账号](https://www.solidot.org/story?sid=75502)
 
-[SUSE 将创建 Red Hat Enterprise Linux 的一个分支](https://www.solidot.org/story?sid=75489)
+[Google 宣布 NotebookLM](https://www.solidot.org/story?sid=75501)
 
-[法官允许微软完成对动视暴雪的收购](https://www.solidot.org/story?sid=75488)
+[马斯克成立新 AI 公司](https://www.solidot.org/story?sid=75500)
 
