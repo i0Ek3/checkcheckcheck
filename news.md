@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-14 16:36:36
+> Update time: 2023-07-15 04:09:21
+
+[印度发射登陆器和漫游车探索月球南极](https://www.solidot.org/story?sid=75519)
+
+[中国公布载人登月初步方案](https://www.solidot.org/story?sid=75518)
+
+[光基无线通信标准 Li-Fi 发布](https://www.solidot.org/story?sid=75517)
+
+[恶意应用利用开源工具伪造签名时间戳](https://www.solidot.org/story?sid=75516)
+
+[云原生部署工具 Alexon 发布](https://www.solidot.org/story?sid=75515)
+
+[农药如何渗入环境](https://www.solidot.org/story?sid=75514)
+
+[Bard 支持中文在内的四十多种语言](https://www.solidot.org/story?sid=75513)
 
 [微软用 Aptos 替代 Calibri 作为办公软件默认字体](https://www.solidot.org/story?sid=75512)
 
 [WHO 称阿斯巴甜与人类癌症相关](https://www.solidot.org/story?sid=75511)
 
 [FTC 就虚假信息问题调查 ChatGPT](https://www.solidot.org/story?sid=75510)
-
-[上周是有记录以来最热的一周](https://www.solidot.org/story?sid=75509)
-
-[华为准备推出 5G 手机](https://www.solidot.org/story?sid=75508)
-
-[保护核心资产: LINUX内核防护](https://www.solidot.org/story?sid=75507)
-
-[网信办等发布《生成式人工智能服务管理暂行办法》](https://www.solidot.org/story?sid=75506)
-
-[毅力号漫游车在火星上发现多种有机物](https://www.solidot.org/story?sid=75505)
-
-[迪士尼和 Netflix 等反对 FTC 简化取消订阅流程的提议](https://www.solidot.org/story?sid=75504)
-
-[蓝箭航天成功发射首枚液氧甲烷火箭朱雀二号](https://www.solidot.org/story?sid=75503)
 
