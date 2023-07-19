@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-07-19 04:32:46
+> Update time: 2023-07-19 16:10:20
+
+[微软对 Copilot 收取每人每月 30 美元的费用](https://www.solidot.org/story?sid=75556)
+
+[信息安全讨论在 Twitter 上消失了](https://www.solidot.org/story?sid=75555)
+
+[为减少网络攻击风险 Google 限制部分员工访问互联网](https://www.solidot.org/story?sid=75554)
+
+[Meta 宣布新版大模型 Llama 2](https://www.solidot.org/story?sid=75553)
+
+[日本发现 731 部队职员表](https://www.solidot.org/story?sid=75552)
 
 [JumpCloud 遭政府支持黑客入侵](https://www.solidot.org/story?sid=75551)
 
@@ -10,14 +20,4 @@
 [学习和记忆相关基因可上溯至 6.5 亿年前](https://www.solidot.org/story?sid=75548)
 
 [Stability AI 发布草图图像生成工具 Stable Doodle](https://www.solidot.org/story?sid=75547)
-
-[维基百科加入联邦宇宙](https://www.solidot.org/story?sid=75546)
-
-[哲学家哈里·富兰克福去世，享年 94 岁](https://www.solidot.org/story?sid=75545)
-
-[高强度运动可减缓帕金森病](https://www.solidot.org/story?sid=75544)
-
-[域名拼写错误导致美国军方向马里 Web 服务商泄露数百万机密邮件](https://www.solidot.org/story?sid=75543)
-
-[Threads 的使用率下降一半](https://www.solidot.org/story?sid=75542)
 
