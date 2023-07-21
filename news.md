@@ -1,5 +1,13 @@
 # Here The News
-> Update time: 2023-07-21 04:33:23
+> Update time: 2023-07-21 16:10:16
+
+[台积电以人才短缺为由推迟美国芯片厂投产时间](https://www.solidot.org/story?sid=75576)
+
+[TikTok 是英国青少年最主要的新闻源](https://www.solidot.org/story?sid=75575)
+
+[Google 联合创始人 Sergey Brin 重返公司专注于 AI](https://www.solidot.org/story?sid=75574)
+
+[Kevin Mitnick 去世，享年 59 岁](https://www.solidot.org/story?sid=75573)
 
 [关于 0-day 数字军火行业](https://www.solidot.org/story?sid=75572)
 
@@ -12,12 +20,4 @@
 [苹果开发自己的大语言模型和 AI 工具](https://www.solidot.org/story?sid=75568)
 
 [Google 称其算法并不优待 AI 生成内容](https://www.solidot.org/story?sid=75567)
-
-[斯坦福大学校长将辞职，其论文将撤回或修正](https://www.solidot.org/story?sid=75566)
-
-[暴雪游戏将登陆 Steam 平台](https://www.solidot.org/story?sid=75565)
-
-[0day，修复不完整，提前披露漏洞：一团糟](https://www.solidot.org/story?sid=75564)
-
-[华硕将为英特尔制造和销售 NUC 产品](https://www.solidot.org/story?sid=75563)
 
