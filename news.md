@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-07-21 16:33:22
+> Update time: 2023-07-22 04:08:02
+
+[Dolphin 项目公开任天堂法务部对该项目的立场](https://www.solidot.org/story?sid=75582)
+
+[数字军火行业的兴衰及调整 - 趋势与更新](https://www.solidot.org/story?sid=75581)
+
+[外交部回应中国黑客入侵驻华大使电邮](https://www.solidot.org/story?sid=75580)
+
+[Google 测试能撰写新闻的 AI 工具](https://www.solidot.org/story?sid=75579)
+
+[适度运动有助于改善老年人的认知](https://www.solidot.org/story?sid=75578)
+
+[Google 开始向所有 Chrome 用户推送隐私沙盒 API](https://www.solidot.org/story?sid=75577)
 
 [台积电以人才短缺为由推迟美国芯片厂投产时间](https://www.solidot.org/story?sid=75576)
 
@@ -8,16 +20,4 @@
 [Google 联合创始人 Sergey Brin 重返公司专注于 AI](https://www.solidot.org/story?sid=75574)
 
 [Kevin Mitnick 去世，享年 59 岁](https://www.solidot.org/story?sid=75573)
-
-[关于 0-day 数字军火行业](https://www.solidot.org/story?sid=75572)
-
-[神秘天体每 20 分钟闪烁一次](https://www.solidot.org/story?sid=75571)
-
-[研究称 ChatGPT 性能下降，OpenAI 否认](https://www.solidot.org/story?sid=75570)
-
-[母乳含有独特的抗体组合](https://www.solidot.org/story?sid=75569)
-
-[苹果开发自己的大语言模型和 AI 工具](https://www.solidot.org/story?sid=75568)
-
-[Google 称其算法并不优待 AI 生成内容](https://www.solidot.org/story?sid=75567)
 
