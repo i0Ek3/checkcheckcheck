@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-07-22 16:33:03
+> Update time: 2023-07-23 04:07:35
+
+[多地发现猴痘病例](https://www.solidot.org/story?sid=75588)
+
+[德州在禁止堕胎之后婴儿死亡率上升](https://www.solidot.org/story?sid=75587)
+
+[NOAA 确认上个月是有记录以来最热的六月](https://www.solidot.org/story?sid=75586)
+
+[Slackware Linux 诞生三十周年](https://www.solidot.org/story?sid=75585)
+
+[Stability AI 发布 CC-BY-NC 4.0 授权的大模型 Free Willy 1 和 2](https://www.solidot.org/story?sid=75584)
 
 [AI 公司承诺将为 AI 生成内容打上水印](https://www.solidot.org/story?sid=75583)
 
@@ -10,14 +20,4 @@
 [外交部回应中国黑客入侵驻华大使电邮](https://www.solidot.org/story?sid=75580)
 
 [Google 测试能撰写新闻的 AI 工具](https://www.solidot.org/story?sid=75579)
-
-[适度运动有助于改善老年人的认知](https://www.solidot.org/story?sid=75578)
-
-[Google 开始向所有 Chrome 用户推送隐私沙盒 API](https://www.solidot.org/story?sid=75577)
-
-[台积电以人才短缺为由推迟美国芯片厂投产时间](https://www.solidot.org/story?sid=75576)
-
-[TikTok 是英国青少年最主要的新闻源](https://www.solidot.org/story?sid=75575)
-
-[Google 联合创始人 Sergey Brin 重返公司专注于 AI](https://www.solidot.org/story?sid=75574)
 
