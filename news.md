@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-24 16:34:24
+> Update time: 2023-07-25 04:07:50
 
-[Twitter 的标志将改为 X](https://www.solidot.org/story?sid=75592)
+[AI 增加了员工的工作强度](https://www.solidot.org/story?sid=75603)
 
-[英国研究发现少吃肉能大幅减少温室气体排放](https://www.solidot.org/story?sid=75591)
+[第六次 Hutter 奖公布](https://www.solidot.org/story?sid=75602)
 
-[诺奖得主庆祝百岁诞辰之后继续工作](https://www.solidot.org/story?sid=75590)
+[天井建筑给中国民居降温](https://www.solidot.org/story?sid=75601)
 
-[天文学家发现两颗系外行星可能共享轨道](https://www.solidot.org/story?sid=75589)
+[AI 无法扭转芯片行业的颓势](https://www.solidot.org/story?sid=75600)
 
-[多地发现猴痘病例](https://www.solidot.org/story?sid=75588)
+[固件漏洞给予黑客超级用户身份](https://www.solidot.org/story?sid=75599)
 
-[德州在禁止堕胎之后婴儿死亡率上升](https://www.solidot.org/story?sid=75587)
+[微波量子雷达性能比传统雷达强 20%](https://www.solidot.org/story?sid=75598)
 
-[NOAA 确认上个月是有记录以来最热的六月](https://www.solidot.org/story?sid=75586)
+[辽宁化石显示哺乳动物攻击恐龙](https://www.solidot.org/story?sid=75597)
 
-[Slackware Linux 诞生三十周年](https://www.solidot.org/story?sid=75585)
+[DART 任务制造出 1 万公斤的碎石场](https://www.solidot.org/story?sid=75596)
 
-[Stability AI 发布 CC-BY-NC 4.0 授权的大模型 Free Willy 1 和 2](https://www.solidot.org/story?sid=75584)
+[俄罗斯禁止政府官员使用 iPhone 手机](https://www.solidot.org/story?sid=75595)
 
-[AI 公司承诺将为 AI 生成内容打上水印](https://www.solidot.org/story?sid=75583)
+[长期不活跃的育碧游戏账号将面临删除](https://www.solidot.org/story?sid=75594)
 
