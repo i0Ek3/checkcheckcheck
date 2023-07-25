@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-07-25 04:33:15
+> Update time: 2023-07-25 16:11:14
+
+[ATLAS 完成对希格斯玻色子质量的最精确测量](https://www.solidot.org/story?sid=75608)
+
+[Stack Overflow 访问量大幅下降](https://www.solidot.org/story?sid=75607)
+
+[腾讯收购《消逝的光芒》系列游戏开发商 Techland](https://www.solidot.org/story?sid=75606)
+
+[Mozilla 反对 Google 的 Web Environment Integrity API 提议](https://www.solidot.org/story?sid=75605)
+
+[Meta 拥有 X 商标](https://www.solidot.org/story?sid=75604)
 
 [AI 增加了员工的工作强度](https://www.solidot.org/story?sid=75603)
 
@@ -10,14 +20,4 @@
 [AI 无法扭转芯片行业的颓势](https://www.solidot.org/story?sid=75600)
 
 [固件漏洞给予黑客超级用户身份](https://www.solidot.org/story?sid=75599)
-
-[微波量子雷达性能比传统雷达强 20%](https://www.solidot.org/story?sid=75598)
-
-[辽宁化石显示哺乳动物攻击恐龙](https://www.solidot.org/story?sid=75597)
-
-[DART 任务制造出 1 万公斤的碎石场](https://www.solidot.org/story?sid=75596)
-
-[俄罗斯禁止政府官员使用 iPhone 手机](https://www.solidot.org/story?sid=75595)
-
-[长期不活跃的育碧游戏账号将面临删除](https://www.solidot.org/story?sid=75594)
 
