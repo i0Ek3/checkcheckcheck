@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-07-26 16:32:56
+> Update time: 2023-07-27 04:08:10
+
+[Inkscape 1.3 释出](https://www.solidot.org/story?sid=75622)
+
+[香港网吧的衰落](https://www.solidot.org/story?sid=75621)
+
+[AMD Zen 2 架构处理器曝出 Zenbleed 预测漏洞](https://www.solidot.org/story?sid=75620)
+
+[Google Play Services 停止支持 Android 4.4](https://www.solidot.org/story?sid=75619)
+
+[日本去年人口减少 80 万](https://www.solidot.org/story?sid=75618)
+
+[Google 街景重返德国](https://www.solidot.org/story?sid=75617)
 
 [因正确率过低 OpenAI 关闭其 AI 检测工具](https://www.solidot.org/story?sid=75616)
 
@@ -8,16 +20,4 @@
 [科学家解释印度洋重力异常区的形成](https://www.solidot.org/story?sid=75614)
 
 [研究人员在 TETRA 无线电标准加密算法中发现后门](https://www.solidot.org/story?sid=75613)
-
-[类似今年的高温有可能更频繁发生](https://www.solidot.org/story?sid=75612)
-
-[科学家研发自我修复的太阳能电池板](https://www.solidot.org/story?sid=75611)
-
-[东南亚发现有 2000 年历史的咖喱](https://www.solidot.org/story?sid=75610)
-
-[科学家发现金属裂纹可自我修复](https://www.solidot.org/story?sid=75609)
-
-[ATLAS 完成对希格斯玻色子质量的最精确测量](https://www.solidot.org/story?sid=75608)
-
-[Stack Overflow 访问量大幅下降](https://www.solidot.org/story?sid=75607)
 
