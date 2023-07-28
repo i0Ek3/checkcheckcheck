@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-28 04:32:50
+> Update time: 2023-07-28 16:10:22
+
+[日本版 ChatGPT 将在本国境内处理信息](https://www.solidot.org/story?sid=75643)
+
+[索尼 PS5 游戏机销量突破 4000 万](https://www.solidot.org/story?sid=75642)
+
+[SEC 要求上市公司在发现重大网络攻击四天内披露](https://www.solidot.org/story?sid=75641)
+
+[星际译王苹果版发布](https://www.solidot.org/story?sid=75640)
+
+[腾讯收购日本游戏公司 VISUAL ARTS](https://www.solidot.org/story?sid=75639)
+
+[NASA 研发核推进火箭系统](https://www.solidot.org/story?sid=75638)
+
+[告密者称五角大楼有一个持续数十年的 UFO 捕捉计划](https://www.solidot.org/story?sid=75637)
 
 [Netflix 以年薪 90 万美元招 AI 产品经理](https://www.solidot.org/story?sid=75636)
 
 [Overture Maps 基金会发布首批开放地图数据集](https://www.solidot.org/story?sid=75635)
 
 [人类系统开发煤炭燃料的历史可上溯至 3600 年前](https://www.solidot.org/story?sid=75634)
-
-[Stability AI 发布最新文本图像模型 Stable Diffusion XL 1.0](https://www.solidot.org/story?sid=75633)
-
-[维生素D与牛皮癣相关](https://www.solidot.org/story?sid=75632)
-
-[Vivaldi 反对 Google 的 WEI 规格提议](https://www.solidot.org/story?sid=75631)
-
-[第一种室温常压超导体？](https://www.solidot.org/story?sid=75630)
-
-[Twitter 要求品牌商至少每月花 1000 美元广告费否则可能失去认证身份](https://www.solidot.org/story?sid=75629)
-
-[JetBrains 更新 IDE 整合 AI 助手](https://www.solidot.org/story?sid=75628)
-
-[马斯克的 Twitter 零补偿接管@X 账号](https://www.solidot.org/story?sid=75627)
 
