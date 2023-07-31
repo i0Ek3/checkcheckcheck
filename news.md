@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-07-31 16:34:15
+> Update time: 2023-08-01 04:08:29
+
+[AWS 将对 IPv4 公网地址收取费用](https://www.solidot.org/story?sid=75666)
+
+[南极海冰面积未能在冬季恢复](https://www.solidot.org/story?sid=75665)
+
+[Brave 表态不支持 Google 的 Web Environment Integrity](https://www.solidot.org/story?sid=75664)
+
+[法庭命令 Meta 披露一位匿名 Facebook 用户身份信息](https://www.solidot.org/story?sid=75663)
+
+[Android 恶意程序使用光学字符识别密码](https://www.solidot.org/story?sid=75662)
+
+[因为补丁更新不及时 Android 的 N-days 问题严重](https://www.solidot.org/story?sid=75661)
+
+[詹姆斯卡梅隆称他在 1984 年就警告了 AI 的危险，但没人听](https://www.solidot.org/story?sid=75660)
 
 [阿里巴巴拥有最多的零售科技专利](https://www.solidot.org/story?sid=75659)
 
 [研究称每天剧烈活动数分钟有助于显著降落癌症风险](https://www.solidot.org/story?sid=75658)
 
 [IBM 大型机为何能生存到今天](https://www.solidot.org/story?sid=75657)
-
-[科学家可能发现了认知能力随衰老而下降现象背后的机制](https://www.solidot.org/story?sid=75656)
-
-[科学家复活冰冻 4.6 万年的蠕虫](https://www.solidot.org/story?sid=75655)
-
-[年轻小鼠的血液延长了年长鼠的寿命](https://www.solidot.org/story?sid=75654)
-
-[SpaceX 的火箭在电离层戳了个洞](https://www.solidot.org/story?sid=75653)
-
-[Threads 的活跃用户数再次下跌一半](https://www.solidot.org/story?sid=75652)
-
-[航海家二号遭遇通信中断](https://www.solidot.org/story?sid=75651)
-
-[Python 项目将接受 No-GIL 模式](https://www.solidot.org/story?sid=75650)
 
