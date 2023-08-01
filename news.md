@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-08-01 16:33:14
+> Update time: 2023-08-02 04:08:47
+
+[Nim v2.0 释出](https://www.solidot.org/story?sid=75676)
+
+[AI 搜索尼安德特人蛋白质重新发现抗生素](https://www.solidot.org/story?sid=75675)
+
+[FBI 称它无意中使用了 NSO 的间谍软件](https://www.solidot.org/story?sid=75674)
+
+[Twitter 起诉研究仇恨言论的非营利组织](https://www.solidot.org/story?sid=75672)
+
+[科学家演示用电控制人类基因](https://www.solidot.org/story?sid=75671)
+
+[任天堂准备明年推出下一代游戏机](https://www.solidot.org/story?sid=75670)
 
 [联想开发 Windows 掌机 Legion Go](https://www.solidot.org/story?sid=75669)
 
@@ -8,16 +20,4 @@
 [BBC 创建 Mastodon 实例](https://www.solidot.org/story?sid=75667)
 
 [AWS 将对 IPv4 公网地址收取费用](https://www.solidot.org/story?sid=75666)
-
-[南极海冰面积未能在冬季恢复](https://www.solidot.org/story?sid=75665)
-
-[Brave 表态不支持 Google 的 Web Environment Integrity](https://www.solidot.org/story?sid=75664)
-
-[法庭命令 Meta 披露一位匿名 Facebook 用户身份信息](https://www.solidot.org/story?sid=75663)
-
-[Android 恶意程序使用光学字符识别密码](https://www.solidot.org/story?sid=75662)
-
-[因为补丁更新不及时 Android 的 N-days 问题严重](https://www.solidot.org/story?sid=75661)
-
-[詹姆斯卡梅隆称他在 1984 年就警告了 AI 的危险，但没人听](https://www.solidot.org/story?sid=75660)
 
