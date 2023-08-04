@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-04 16:33:05
+> Update time: 2023-08-05 04:08:05
+
+[黑客解锁了特斯拉需要额外付费的软件功能](https://www.solidot.org/story?sid=75710)
+
+[海表面温度创下了 20.96C 的新纪录](https://www.solidot.org/story?sid=75709)
+
+[研究证实很多人感觉他们的工作毫无意义](https://www.solidot.org/story?sid=75708)
+
+[科学家在太空中发现氨基酸重要成分碳酸](https://www.solidot.org/story?sid=75707)
+
+[阿里巴巴开源其大语言模型通义千问](https://www.solidot.org/story?sid=75706)
+
+[太阳系的年龄可能比以前认为的老 110 万年](https://www.solidot.org/story?sid=75705)
+
+[特斯拉车主因公司夸大续航里程提起集体诉讼](https://www.solidot.org/story?sid=75704)
 
 [印度限制进口笔记本平板服务器](https://www.solidot.org/story?sid=75703)
 
 [韩国将成立委员会验证室温超导体声明](https://www.solidot.org/story?sid=75702)
 
 [研究称中国面临严重的慢阻肺病危机](https://www.solidot.org/story?sid=75701)
-
-[IBM 和 NASA 开源最大地理空间 AI 基础模型](https://www.solidot.org/story?sid=75700)
-
-[报名斯坦福庞博士“ChatGPT 和 LLM 系列课程”](https://www.solidot.org/story?sid=75699)
-
-[《塞尔达传说王国之泪》一个半月销量 1851 万](https://www.solidot.org/story?sid=75698)
-
-[Worldcoin 引发安全隐私担忧](https://www.solidot.org/story?sid=75697)
-
-[远程工作可能是美国经济表现强劲的一个原因](https://www.solidot.org/story?sid=75696)
-
-[图书出版行业因涿州洪灾损失惨重](https://www.solidot.org/story?sid=75695)
-
-[马斯克可能收购了 AI.com 域名](https://www.solidot.org/story?sid=75694)
 
