@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-08-05 16:33:08
+> Update time: 2023-08-06 04:07:52
+
+[NASA 恢复与航海家二号的通信](https://www.solidot.org/story?sid=75715)
+
+[Kagi 搜索用户将 CSDN 加入屏蔽域名名单](https://www.solidot.org/story?sid=75714)
+
+[TikTok 欧洲用户将可选择关闭个性化推荐算法](https://www.solidot.org/story?sid=75713)
+
+[南美部分地区冬季温度超过了 35 摄氏度](https://www.solidot.org/story?sid=75712)
+
+[苹果的付费订阅用户达到了 10 亿](https://www.solidot.org/story?sid=75711)
 
 [黑客解锁了特斯拉需要额外付费的软件功能](https://www.solidot.org/story?sid=75710)
 
@@ -10,14 +20,4 @@
 [科学家在太空中发现氨基酸重要成分碳酸](https://www.solidot.org/story?sid=75707)
 
 [阿里巴巴开源其大语言模型通义千问](https://www.solidot.org/story?sid=75706)
-
-[太阳系的年龄可能比以前认为的老 110 万年](https://www.solidot.org/story?sid=75705)
-
-[特斯拉车主因公司夸大续航里程提起集体诉讼](https://www.solidot.org/story?sid=75704)
-
-[印度限制进口笔记本平板服务器](https://www.solidot.org/story?sid=75703)
-
-[韩国将成立委员会验证室温超导体声明](https://www.solidot.org/story?sid=75702)
-
-[研究称中国面临严重的慢阻肺病危机](https://www.solidot.org/story?sid=75701)
 
