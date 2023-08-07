@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-07 16:33:26
+> Update time: 2023-08-08 04:08:26
+
+[青铜时代的陨铁箭头](https://www.solidot.org/story?sid=75729)
+
+[T 细胞遭遇癌细胞数小时后就筋疲力尽](https://www.solidot.org/story?sid=75728)
+
+[Reddit 抗议基本结束](https://www.solidot.org/story?sid=75727)
+
+[研究发现在同伴身后游泳可减少 40% 阻力](https://www.solidot.org/story?sid=75726)
+
+[富国银行客户年内第二次遭遇存款消失](https://www.solidot.org/story?sid=75725)
+
+[中国汽车出口量上半年跃居世界第一](https://www.solidot.org/story?sid=75724)
+
+[《芭比》成为第一部票房突破 10 亿美元的女性导演作品](https://www.solidot.org/story?sid=75723)
+
+[《博德之门III》同时在线玩家数超过 81 万](https://www.solidot.org/story?sid=75722)
+
+[澳大利亚现金流通量下降](https://www.solidot.org/story?sid=75721)
 
 [高通投资 RISC-V 芯片](https://www.solidot.org/story?sid=75720)
-
-[美国科学家在激光核聚变实验中第二次实现输出能量超过输入能量](https://www.solidot.org/story?sid=75719)
-
-[为吸引员工重返办公室 Google 提供特价园区酒店](https://www.solidot.org/story?sid=75718)
-
-[Twitch 网红因在纽约引发骚乱被拘留](https://www.solidot.org/story?sid=75717)
-
-[Vim 作者 Bram Moolenaar 去世](https://www.solidot.org/story?sid=75716)
-
-[NASA 恢复与航海家二号的通信](https://www.solidot.org/story?sid=75715)
-
-[Kagi 搜索用户将 CSDN 加入屏蔽域名名单](https://www.solidot.org/story?sid=75714)
-
-[TikTok 欧洲用户将可选择关闭个性化推荐算法](https://www.solidot.org/story?sid=75713)
-
-[南美部分地区冬季温度超过了 35 摄氏度](https://www.solidot.org/story?sid=75712)
-
-[苹果的付费订阅用户达到了 10 亿](https://www.solidot.org/story?sid=75711)
 
