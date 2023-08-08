@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-08-08 16:33:03
+> Update time: 2023-08-09 04:08:38
+
+[苹果购买了台积电 3 纳米工艺全部产能](https://www.solidot.org/story?sid=75739)
+
+[世界工厂的年轻人不愿进厂工作](https://www.solidot.org/story?sid=75738)
+
+[今年出生人口预计在 800 万左右](https://www.solidot.org/story?sid=75737)
+
+[Zoom 要求员工重返办公室](https://www.solidot.org/story?sid=75736)
+
+[科学家观测到来自太阳的伽马射线](https://www.solidot.org/story?sid=75735)
+
+[新变种 EG.5 成为美国新冠主流变种](https://www.solidot.org/story?sid=75734)
 
 [东芝宣布了国内财团的收购要约](https://www.solidot.org/story?sid=75733)
 
@@ -8,16 +20,4 @@
 [PayPal 推出美元支持的稳定币](https://www.solidot.org/story?sid=75731)
 
 [伊拉克因个人数据泄露屏蔽 Telegram](https://www.solidot.org/story?sid=75730)
-
-[青铜时代的陨铁箭头](https://www.solidot.org/story?sid=75729)
-
-[T 细胞遭遇癌细胞数小时后就筋疲力尽](https://www.solidot.org/story?sid=75728)
-
-[Reddit 抗议基本结束](https://www.solidot.org/story?sid=75727)
-
-[研究发现在同伴身后游泳可减少 40% 阻力](https://www.solidot.org/story?sid=75726)
-
-[富国银行客户年内第二次遭遇存款消失](https://www.solidot.org/story?sid=75725)
-
-[中国汽车出口量上半年跃居世界第一](https://www.solidot.org/story?sid=75724)
 
