@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-09 04:34:15
+> Update time: 2023-08-09 16:11:27
+
+[研究称每天至少走 4000 步或有助于降低死亡风险](https://www.solidot.org/story?sid=75746)
+
+[Google Messages 应用将默认使用 RCS](https://www.solidot.org/story?sid=75745)
+
+[亚马逊制造了逾五成 Arm 服务器芯片](https://www.solidot.org/story?sid=75744)
+
+[网信办发布人脸识别技术应用征求意见稿](https://www.solidot.org/story?sid=75743)
+
+[台积电将在德国建造芯片工厂](https://www.solidot.org/story?sid=75742)
+
+[AI 研究员称通过 Zoom 声音能以 93% 正确率识别按键](https://www.solidot.org/story?sid=75741)
+
+[工信部要求 APP 备案](https://www.solidot.org/story?sid=75740)
 
 [苹果购买了台积电 3 纳米工艺全部产能](https://www.solidot.org/story?sid=75739)
 
 [世界工厂的年轻人不愿进厂工作](https://www.solidot.org/story?sid=75738)
 
 [今年出生人口预计在 800 万左右](https://www.solidot.org/story?sid=75737)
-
-[Zoom 要求员工重返办公室](https://www.solidot.org/story?sid=75736)
-
-[科学家观测到来自太阳的伽马射线](https://www.solidot.org/story?sid=75735)
-
-[新变种 EG.5 成为美国新冠主流变种](https://www.solidot.org/story?sid=75734)
-
-[东芝宣布了国内财团的收购要约](https://www.solidot.org/story?sid=75733)
-
-[间谍软件公司在黑客删除其服务器上的数据后倒闭](https://www.solidot.org/story?sid=75732)
-
-[PayPal 推出美元支持的稳定币](https://www.solidot.org/story?sid=75731)
-
-[伊拉克因个人数据泄露屏蔽 Telegram](https://www.solidot.org/story?sid=75730)
 
