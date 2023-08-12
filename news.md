@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-12 16:09:08
+> Update time: 2023-08-13 04:07:08
+
+[研究员认为切尔诺贝利辐射值被操纵](https://www.solidot.org/story?sid=75780)
+
+[两名青少年时隔 15 年再次破解波士顿地铁卡](https://www.solidot.org/story?sid=75779)
+
+[Pornhub 等就年龄验证法律起诉德州](https://www.solidot.org/story?sid=75778)
+
+[VED-eBPF：使用 eBPF 进行内核漏洞和 Rootkit 检测](https://www.solidot.org/story?sid=75777)
+
+[费米实验室接近发现第五种自然力](https://www.solidot.org/story?sid=75776)
+
+[火星漫游车发现季节性洪水的证据](https://www.solidot.org/story?sid=75775)
+
+[7 月气温比百年前平均温度高 1.5 摄氏度](https://www.solidot.org/story?sid=75774)
+
+[研究称高温和自杀增加相关](https://www.solidot.org/story?sid=75773)
+
+[研究确认 35 度高温 100% 湿度对人类致命](https://www.solidot.org/story?sid=75772)
 
 [Firefox 桌面扩展将扩大支持 Android 版本](https://www.solidot.org/story?sid=75771)
-
-[俄罗斯发射首艘月球探测器 Luna-25](https://www.solidot.org/story?sid=75770)
-
-[甲骨文 SUSE 和 CIQ 成立 Open Enterprise Linux Association](https://www.solidot.org/story?sid=75769)
-
-[在 AMD GPU 上编译和部署大模型](https://www.solidot.org/story?sid=75768)
-
-[中国互联网巨头订购了 50 亿美元的英伟达 GPU](https://www.solidot.org/story?sid=75767)
-
-[id Software 公布 Quake II 源代码](https://www.solidot.org/story?sid=75766)
-
-[研究称中国对未成年人游戏时间限制没有减少游戏沉迷](https://www.solidot.org/story?sid=75765)
-
-[Vim 项目的未来](https://www.solidot.org/story?sid=75764)
-
-[科学家在心脏组织中发现微塑料](https://www.solidot.org/story?sid=75763)
-
-[印度通过数据保护法案](https://www.solidot.org/story?sid=75762)
 
