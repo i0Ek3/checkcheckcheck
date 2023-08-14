@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-08-14 16:32:50
+> Update time: 2023-08-15 04:07:52
+
+[DEF CON 安全会议因炸弹威胁而疏散](https://www.solidot.org/story?sid=75792)
+
+[中芯国际面临挑战](https://www.solidot.org/story?sid=75791)
+
+[图书分析项目 Prosecraft 成为 AI 侵权争议的最新受害者](https://www.solidot.org/story?sid=75790)
+
+[Stack Overflow 开始提供 AI 工具](https://www.solidot.org/story?sid=75789)
+
+[Google Chrome 开始支持抗量子计算的密钥协议](https://www.solidot.org/story?sid=75788)
 
 [中国企业加大研发投入](https://www.solidot.org/story?sid=75787)
 
@@ -10,14 +20,4 @@
 [知识的自由获取是一项人权](https://www.solidot.org/story?sid=75784)
 
 [旧金山的无人出租车存在车震问题](https://www.solidot.org/story?sid=75783)
-
-[ChatGPT 的编程问题错误率超过五成](https://www.solidot.org/story?sid=75782)
-
-[罗马共和国晚期的律师](https://www.solidot.org/story?sid=75781)
-
-[研究员认为切尔诺贝利辐射值被操纵](https://www.solidot.org/story?sid=75780)
-
-[两名青少年时隔 15 年再次破解波士顿地铁卡](https://www.solidot.org/story?sid=75779)
-
-[Pornhub 等就年龄验证法律起诉德州](https://www.solidot.org/story?sid=75778)
 
