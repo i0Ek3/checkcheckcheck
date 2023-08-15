@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-08-15 04:33:03
+> Update time: 2023-08-15 16:10:06
+
+[法官裁决蒙大拿州的一项环保修正案损害了该州的环境和年轻人的福祉](https://www.solidot.org/story?sid=75797)
+
+[SBF 挪用客户资金逾亿美元用于政治捐款](https://www.solidot.org/story?sid=75796)
+
+[戴尔因涨价打折结果还更贵的营销策略被罚 650 万美元](https://www.solidot.org/story?sid=75795)
+
+[美国公司竞相高薪招 AI 人才](https://www.solidot.org/story?sid=75794)
+
+[美国太空部队开始部署自己的小型卫星集群](https://www.solidot.org/story?sid=75793)
 
 [DEF CON 安全会议因炸弹威胁而疏散](https://www.solidot.org/story?sid=75792)
 
@@ -10,14 +20,4 @@
 [Stack Overflow 开始提供 AI 工具](https://www.solidot.org/story?sid=75789)
 
 [Google Chrome 开始支持抗量子计算的密钥协议](https://www.solidot.org/story?sid=75788)
-
-[中国企业加大研发投入](https://www.solidot.org/story?sid=75787)
-
-[阿尔茨海默治病基因可能帮助祖先繁育更多后代](https://www.solidot.org/story?sid=75786)
-
-[SBF 在保释取消前计划就科技伦理在斯坦福大学发表演讲](https://www.solidot.org/story?sid=75785)
-
-[知识的自由获取是一项人权](https://www.solidot.org/story?sid=75784)
-
-[旧金山的无人出租车存在车震问题](https://www.solidot.org/story?sid=75783)
 
