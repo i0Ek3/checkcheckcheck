@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-16 16:32:54
+> Update time: 2023-08-17 04:08:26
 
-[爱尔兰银行 IT 故障允许储户取出高于存款的现金](https://www.solidot.org/story?sid=75807)
+[科学家退出 Twitter 加盟 Mastodon](https://www.solidot.org/story?sid=75817)
 
-[电视占美国人观看时间的比例首次低于五成](https://www.solidot.org/story?sid=75806)
+[用 GPT-4 代替人类审核内容](https://www.solidot.org/story?sid=75816)
 
-[互联网档案馆存档78转唱片，唱片公司提起诉讼](https://www.solidot.org/story?sid=75805)
+[中国发射第一颗同步轨道雷达卫星](https://www.solidot.org/story?sid=75815)
 
-[Netflix 开始提供游戏串流服务](https://www.solidot.org/story?sid=75804)
+[Twitter 短域名被发现对特定域名延迟跳转，曝光后撤销](https://www.solidot.org/story?sid=75814)
 
-[《守望先锋2》成为 Steam 平台差评榜第一的游戏，大部分刷差评的是中文玩家](https://www.solidot.org/story?sid=75803)
+[纽约时报禁止将其文章用于 AI 训练](https://www.solidot.org/story?sid=75813)
 
-[Rockstar Games 收购了它曾经封杀的 Mod 团队](https://www.solidot.org/story?sid=75802)
+[Google 打败 OpenAI 的计划](https://www.solidot.org/story?sid=75812)
 
-[美国爱荷华州学区利用 AI 确定禁书名单](https://www.solidot.org/story?sid=75801)
+[沙特和阿联酋竞相采购英伟达的 AI 芯片](https://www.solidot.org/story?sid=75811)
 
-[天文学家发现一颗比太阳更炙热的褐矮星](https://www.solidot.org/story?sid=75800)
+[“飞翔的外星人”被发现是使用喷气背包的非法黄金矿工](https://www.solidot.org/story?sid=75810)
 
-[加来道雄认为 AI 聊天机器人是炒作](https://www.solidot.org/story?sid=75799)
+[Google Chrome 内置 AI 工具能总结文章](https://www.solidot.org/story?sid=75809)
 
-[统计局暂停公布青年人失业率](https://www.solidot.org/story?sid=75798)
+[德州女子在一起色情报复案件中获得 12 亿美元赔偿](https://www.solidot.org/story?sid=75808)
 
