@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-08-17 04:32:48
+> Update time: 2023-08-17 16:10:18
+
+[因监管问题英特尔终止对 Tower Semiconductor 的收购](https://www.solidot.org/story?sid=75822)
+
+[Adobe 和微软停止支持 PostScript Type 1 字体可能导致部分旧文件的兼容性问题](https://www.solidot.org/story?sid=75821)
+
+[特斯拉廉价版 Model S 和 Model X 用软件锁定了续航里程](https://www.solidot.org/story?sid=75820)
+
+[LK-99 不是超导体](https://www.solidot.org/story?sid=75819)
+
+[Firefox 加入 Wayland 分数缩放支持](https://www.solidot.org/story?sid=75818)
 
 [科学家退出 Twitter 加盟 Mastodon](https://www.solidot.org/story?sid=75817)
 
@@ -10,14 +20,4 @@
 [Twitter 短域名被发现对特定域名延迟跳转，曝光后撤销](https://www.solidot.org/story?sid=75814)
 
 [纽约时报禁止将其文章用于 AI 训练](https://www.solidot.org/story?sid=75813)
-
-[Google 打败 OpenAI 的计划](https://www.solidot.org/story?sid=75812)
-
-[沙特和阿联酋竞相采购英伟达的 AI 芯片](https://www.solidot.org/story?sid=75811)
-
-[“飞翔的外星人”被发现是使用喷气背包的非法黄金矿工](https://www.solidot.org/story?sid=75810)
-
-[Google Chrome 内置 AI 工具能总结文章](https://www.solidot.org/story?sid=75809)
-
-[德州女子在一起色情报复案件中获得 12 亿美元赔偿](https://www.solidot.org/story?sid=75808)
 
