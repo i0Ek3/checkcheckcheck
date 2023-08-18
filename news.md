@@ -1,7 +1,17 @@
 # Here The News
-> Update time: 2023-08-18 04:33:06
+> Update time: 2023-08-18 16:10:26
+
+[半数美国成年人支持封杀 TikTok](https://www.solidot.org/story?sid=75832)
+
+[研究发现忘记取消订阅给企业增加了最高 200% 的收入](https://www.solidot.org/story?sid=75831)
+
+[率先推出 AI 搜索并没有增加必应的市场份额](https://www.solidot.org/story?sid=75830)
+
+[Debian 庆祝诞生三十周年](https://www.solidot.org/story?sid=75829)
 
 [纽约大学向脑死亡患者移植的猪肾连续工作 32 天](https://www.solidot.org/story?sid=75828)
+
+[纽约时报考虑对 OpenAI 采取法律行动](https://www.solidot.org/story?sid=75827)
 
 [币安可能是规模最大的分布式公司](https://www.solidot.org/story?sid=75826)
 
@@ -10,14 +20,4 @@
 [Linus Tech Tips 暂停视频制作](https://www.solidot.org/story?sid=75824)
 
 [纽约大学教授称在拒绝与马斯克见面后他的 X 账号被锁定](https://www.solidot.org/story?sid=75823)
-
-[因监管问题英特尔终止对 Tower Semiconductor 的收购](https://www.solidot.org/story?sid=75822)
-
-[Adobe 和微软停止支持 PostScript Type 1 字体可能导致部分旧文件的兼容性问题](https://www.solidot.org/story?sid=75821)
-
-[特斯拉廉价版 Model S 和 Model X 用软件锁定了续航里程](https://www.solidot.org/story?sid=75820)
-
-[LK-99 不是超导体](https://www.solidot.org/story?sid=75819)
-
-[Firefox 加入 Wayland 分数缩放支持](https://www.solidot.org/story?sid=75818)
 
