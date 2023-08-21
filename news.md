@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-08-21 16:34:38
+> Update time: 2023-08-22 04:08:06
+
+[芯片上的激光雷达](https://www.solidot.org/story?sid=75854)
+
+[游戏续作的开发时间间隔愈来愈长](https://www.solidot.org/story?sid=75853)
+
+[美国大学开始教学生 ChatGPT 和 AI 相关知识](https://www.solidot.org/story?sid=75852)
+
+[Threads 准备推出 Web 版本](https://www.solidot.org/story?sid=75851)
+
+[蓝光过滤眼镜可能无效](https://www.solidot.org/story?sid=75850)
 
 [电动汽车杀死了备用轮胎](https://www.solidot.org/story?sid=75849)
 
@@ -10,14 +20,4 @@
 [Adobe 联合创始人 John Warnock 去世享年 82 岁](https://www.solidot.org/story?sid=75846)
 
 [Debian 支持龙芯 LoongArch 架构](https://www.solidot.org/story?sid=75845)
-
-[俄罗斯探测器 Luna-25 坠毁在月球上](https://www.solidot.org/story?sid=75844)
-
-[开源的未来仍然存在不确定性](https://www.solidot.org/story?sid=75843)
-
-[加拿大要求 Meta 解除禁令允许用户分享山林火灾信息](https://www.solidot.org/story?sid=75842)
-
-[WinRAR 高危漏洞允许黑客在用户打开压缩文件时运行程序](https://www.solidot.org/story?sid=75841)
-
-[西部数据闪迪固态硬盘被指不能安全的储存数据](https://www.solidot.org/story?sid=75840)
 
