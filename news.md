@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-08-22 16:32:56
+> Update time: 2023-08-23 04:08:16
+
+[微软让 Windows 11 的“干净安装”愈来愈恼人](https://www.solidot.org/story?sid=75865)
+
+[社媒算法扭曲了人类互相学习的倾向](https://www.solidot.org/story?sid=75863)
+
+[半导体设备投资出现下降](https://www.solidot.org/story?sid=75862)
+
+[Google 更新 Android 运行时应用提速最高三成](https://www.solidot.org/story?sid=75861)
+
+[韩国电信巨头称 5G 未能兑现承诺](https://www.solidot.org/story?sid=75860)
 
 [美国法庭裁决 AI 生成的艺术不受版权保护](https://www.solidot.org/story?sid=75859)
 
@@ -10,14 +20,4 @@
 [uBlock Origin 发布使用 Manifest V3 的精简版本](https://www.solidot.org/story?sid=75856)
 
 [IBM 预测因为 AI 未来三年四成工人需要重新学习技能](https://www.solidot.org/story?sid=75855)
-
-[芯片上的激光雷达](https://www.solidot.org/story?sid=75854)
-
-[游戏续作的开发时间间隔愈来愈长](https://www.solidot.org/story?sid=75853)
-
-[美国大学开始教学生 ChatGPT 和 AI 相关知识](https://www.solidot.org/story?sid=75852)
-
-[Threads 准备推出 Web 版本](https://www.solidot.org/story?sid=75851)
-
-[蓝光过滤眼镜可能无效](https://www.solidot.org/story?sid=75850)
 
