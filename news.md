@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-23 16:33:15
+> Update time: 2023-08-24 04:07:33
+
+[性工作者成为某种金融贱民](https://www.solidot.org/story?sid=75876)
+
+[龟壳记录核污染历史](https://www.solidot.org/story?sid=75875)
+
+[印度探测器成功着陆月球南极](https://www.solidot.org/story?sid=75874)
+
+[可视化纠缠光子的波函数](https://www.solidot.org/story?sid=75873)
+
+[2023 NVIDIA 初创企业展示暨 GTC 2024 线下展示报名开启](https://www.solidot.org/story?sid=75872)
+
+[“遗忘”可能是一种学习形式](https://www.solidot.org/story?sid=75871)
+
+[特斯拉要求 NHTSA 官员编辑掉车祸中是否使用辅助驾驶软件的信息](https://www.solidot.org/story?sid=75870)
+
+[美国企业巨头大而不倒](https://www.solidot.org/story?sid=75869)
 
 [Google 工程师自曝每天只干一小时活](https://www.solidot.org/story?sid=75868)
 
 [美国将强制要求后座乘客系安全带](https://www.solidot.org/story?sid=75867)
-
-[微软让 Windows 11 的“干净安装”愈来愈恼人](https://www.solidot.org/story?sid=75865)
-
-[微软将 Python 带到 Excel](https://www.solidot.org/story?sid=75864)
-
-[社媒算法扭曲了人类互相学习的倾向](https://www.solidot.org/story?sid=75863)
-
-[半导体设备投资出现下降](https://www.solidot.org/story?sid=75862)
-
-[Google 更新 Android 运行时应用提速最高三成](https://www.solidot.org/story?sid=75861)
-
-[韩国电信巨头称 5G 未能兑现承诺](https://www.solidot.org/story?sid=75860)
-
-[美国法庭裁决 AI 生成的艺术不受版权保护](https://www.solidot.org/story?sid=75859)
-
-[软银 Arm 申请在纳斯达克上市](https://www.solidot.org/story?sid=75858)
 
