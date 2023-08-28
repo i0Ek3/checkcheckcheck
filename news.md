@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-28 04:32:47
+> Update time: 2023-08-28 16:11:09
+
+[IBM 的模拟 AI 芯片能以极低的功率处理 AI 推理任务](https://www.solidot.org/story?sid=75913)
+
+[智能隐形眼镜或能用泪液充电](https://www.solidot.org/story?sid=75912)
+
+[马斯克的大部分 X 粉丝并不活跃](https://www.solidot.org/story?sid=75911)
+
+[以色列将部署激光防御系统](https://www.solidot.org/story?sid=75910)
+
+[GPT-4 生成的代码 62% 包含 API 误用](https://www.solidot.org/story?sid=75909)
+
+[Linux 6.5 释出](https://www.solidot.org/story?sid=75908)
+
+[OpenTF 宣布创建 Terraform 分支](https://www.solidot.org/story?sid=75907)
 
 [加蓬在选举日断网](https://www.solidot.org/story?sid=75906)
 
 [Bugzilla 庆祝诞生二十五周年](https://www.solidot.org/story?sid=75905)
 
 [激活基底前脑的星形胶质细胞让小鼠不休不眠](https://www.solidot.org/story?sid=75904)
-
-[Windows 最近更新导致的蓝屏死机与微星主板相关](https://www.solidot.org/story?sid=75903)
-
-[NYT、CNN 和 ABC 屏蔽 OpenAI 的 GPTBot 爬取内容](https://www.solidot.org/story?sid=75902)
-
-[守护者的零之曙光：Hardened SIEM/XDR](https://www.solidot.org/story?sid=75901)
-
-[Gitlab 支持将 ActivityPub 协议用于合并请求](https://www.solidot.org/story?sid=75900)
-
-[AMD 公布 FSR 3 细节](https://www.solidot.org/story?sid=75899)
-
-[阿里巴巴开源能理解图像的 AI 模型 Qwen-VL](https://www.solidot.org/story?sid=75898)
-
-[Ubuntu 桌面有逾 600 万用户](https://www.solidot.org/story?sid=75897)
 
