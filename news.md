@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-31 04:32:42
+> Update time: 2023-08-31 16:10:30
+
+[微软使用恶意性质的弹出窗口让用户弃用 Google](https://www.solidot.org/story?sid=75947)
+
+[多个国产大模型向用户开放使用](https://www.solidot.org/story?sid=75946)
+
+[数字广东网络公司承认其软件是基于微软开源的 VSCode](https://www.solidot.org/story?sid=75945)
+
+[微软被迫在欧盟地区用默认浏览器打开链接](https://www.solidot.org/story?sid=75944)
+
+[廉价无线电欺骗扰乱了波兰的铁路系统](https://www.solidot.org/story?sid=75943)
+
+[FBI 确认沙丘女士及其行凶者的身份](https://www.solidot.org/story?sid=75942)
+
+[加蓬断网持续四天，军方宣布政变](https://www.solidot.org/story?sid=75941)
+
+[FreeBSD 能在 25 毫秒内启动](https://www.solidot.org/story?sid=75940)
 
 [黑鸟生病时会早睡](https://www.solidot.org/story?sid=75939)
 
 [SELinux 补丁移除 NSA 的名字](https://www.solidot.org/story?sid=75938)
-
-[Mozilla 扩大推广 Firefox Relay](https://www.solidot.org/story?sid=75937)
-
-[Google DeepMind 发布标记图像是否是 AI 生成的水印工具](https://www.solidot.org/story?sid=75936)
-
-[Meta 在加拿大限制新闻分享对日活用户数没有产生任何影响](https://www.solidot.org/story?sid=75935)
-
-[空气污染对寿命的影响高于吸烟](https://www.solidot.org/story?sid=75934)
-
-[台积电 3 纳米芯片需求减少](https://www.solidot.org/story?sid=75933)
-
-[匿名黑客入侵间谍软件公司销毁收集的数据](https://www.solidot.org/story?sid=75932)
-
-[英特尔展示 8 核 528 线处理器](https://www.solidot.org/story?sid=75931)
-
-[微塑料渗透到身体所有组织甚至能改变行为](https://www.solidot.org/story?sid=75930)
 
