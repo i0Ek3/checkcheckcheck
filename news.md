@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-08-31 16:33:15
+> Update time: 2023-09-01 04:08:07
+
+[Fairphone 5 将提供 8-10 年的 Android 支持](https://www.solidot.org/story?sid=75956)
+
+[Google 宣布新一代 AI 芯片 TPU v5e](https://www.solidot.org/story?sid=75955)
+
+[微软在欧洲改变捆绑 Teams 的策略](https://www.solidot.org/story?sid=75954)
+
+[NASA 将在空间站演示激光通信](https://www.solidot.org/story?sid=75953)
+
+[美国限制向中东地区出口英伟达的 H100 和 A100 GPU](https://www.solidot.org/story?sid=75952)
+
+[阿联酋推出阿语生成式 AI](https://www.solidot.org/story?sid=75951)
+
+[两大望远镜因黑客攻击临时关闭](https://www.solidot.org/story?sid=75950)
 
 [沙特因社媒活动判处一名男子死刑](https://www.solidot.org/story?sid=75949)
 
 [欧盟发电用的化石燃料消耗量降至创纪录低点](https://www.solidot.org/story?sid=75948)
 
 [微软使用恶意性质的弹出窗口让用户弃用 Google](https://www.solidot.org/story?sid=75947)
-
-[多个国产大模型向用户开放使用](https://www.solidot.org/story?sid=75946)
-
-[数字广东网络公司承认其软件是基于微软开源的 VSCode](https://www.solidot.org/story?sid=75945)
-
-[微软被迫在欧盟地区用默认浏览器打开链接](https://www.solidot.org/story?sid=75944)
-
-[廉价无线电欺骗扰乱了波兰的铁路系统](https://www.solidot.org/story?sid=75943)
-
-[FBI 确认沙丘女士及其行凶者的身份](https://www.solidot.org/story?sid=75942)
-
-[加蓬断网持续四天，军方宣布政变](https://www.solidot.org/story?sid=75941)
-
-[FreeBSD 能在 25 毫秒内启动](https://www.solidot.org/story?sid=75940)
 
