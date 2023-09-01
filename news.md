@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-01 16:32:54
+> Update time: 2023-09-02 04:08:12
 
-[群聊和消息应用正在杀死社交媒体](https://www.solidot.org/story?sid=75960)
+[ReiserFS 被标记为将停止支持](https://www.solidot.org/story?sid=75971)
 
-[印度探测器确认月球表面有硫](https://www.solidot.org/story?sid=75959)
+[黑客如何挫败梭子鱼的漏洞修补](https://www.solidot.org/story?sid=75970)
 
-[廉价 AI 时代正在走来](https://www.solidot.org/story?sid=75958)
+[OpenAI 驳斥 ChatGPT 的回复是衍生作品的主张](https://www.solidot.org/story?sid=75969)
 
-[X 想要收集用户的生物识别信息和工作经历](https://www.solidot.org/story?sid=75957)
+[数学证明是一种社会契约](https://www.solidot.org/story?sid=75968)
 
-[Fairphone 5 将提供 8-10 年的 Android 支持](https://www.solidot.org/story?sid=75956)
+[Google 从用户的私人收藏内删除盗版链接](https://www.solidot.org/story?sid=75967)
 
-[Google 宣布新一代 AI 芯片 TPU v5e](https://www.solidot.org/story?sid=75955)
+[《黑街圣徒》开发商 Volition 被母公司关闭](https://www.solidot.org/story?sid=75966)
 
-[微软在欧洲改变捆绑 Teams 的策略](https://www.solidot.org/story?sid=75954)
+[内核 AMD GPU 驱动代码行数超过 500 万行](https://www.solidot.org/story?sid=75965)
 
-[NASA 将在空间站演示激光通信](https://www.solidot.org/story?sid=75953)
+[Firefox v117 支持自动翻译](https://www.solidot.org/story?sid=75964)
 
-[美国限制向中东地区出口英伟达的 H100 和 A100 GPU](https://www.solidot.org/story?sid=75952)
+[微软为记事本应用加入自动保存功能](https://www.solidot.org/story?sid=75963)
 
-[阿联酋推出阿语生成式 AI](https://www.solidot.org/story?sid=75951)
+[世界最大水坝拆除项目正在进行中](https://www.solidot.org/story?sid=75962)
 
