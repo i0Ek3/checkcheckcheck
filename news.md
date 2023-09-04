@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-09-04 16:33:28
+> Update time: 2023-09-05 04:07:39
+
+[微软澳大利亚数据中心因人手不足发生宕机事故](https://www.solidot.org/story?sid=75987)
+
+[Cruise 无人出租车被指阻挡了救护车延误了救治时间](https://www.solidot.org/story?sid=75986)
+
+[研究发现香味能显著提升老年人的认知能力](https://www.solidot.org/story?sid=75985)
+
+[地球九成开花植物依赖动物传粉](https://www.solidot.org/story?sid=75984)
+
+[美国国家域名 .US 被广泛用于钓鱼](https://www.solidot.org/story?sid=75983)
+
+[为什么说加密货币是史上最大的庞氏骗局](https://www.solidot.org/story?sid=75982)
 
 [电动汽车被海水浸泡可能会起火](https://www.solidot.org/story?sid=75981)
 
@@ -8,16 +20,4 @@
 [历史学领域的重复性危机](https://www.solidot.org/story?sid=75979)
 
 [科学家破解德国野猪高放射性之谜](https://www.solidot.org/story?sid=75978)
-
-[我们正目睹 Googe 宇宙的终结](https://www.solidot.org/story?sid=75977)
-
-[微软淘汰写字板应用](https://www.solidot.org/story?sid=75976)
-
-[日本为下一场大地震做准备](https://www.solidot.org/story?sid=75975)
-
-[联想推出 27 英寸祼眼 3D 显示器](https://www.solidot.org/story?sid=75974)
-
-[德国的吸烟率在上升](https://www.solidot.org/story?sid=75973)
-
-[Valve 封杀 Dota 玩家小号](https://www.solidot.org/story?sid=75972)
 
