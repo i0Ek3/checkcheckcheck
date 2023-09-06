@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-06 16:33:17
+> Update time: 2023-09-07 04:08:31
+
+[美国 AI 专家倾向于建立一个 联邦 AI 部门去监管 AI](https://www.solidot.org/story?sid=76008)
+
+[人类并非是唯一易发胖的灵长类动物](https://www.solidot.org/story?sid=76007)
+
+[Rockstar 在 Steam 上销售的《Midnight Club II》被发现是破解版](https://www.solidot.org/story?sid=76006)
+
+[官员被禁止在工作中使用 iPhone](https://www.solidot.org/story?sid=76005)
+
+[知网被网信办罚款 5000 万元](https://www.solidot.org/story?sid=76004)
+
+[治安管理处罚法修订草案正在征求意见](https://www.solidot.org/story?sid=76003)
+
+[印度电信公司想要互联网公司为网络使用付费](https://www.solidot.org/story?sid=76002)
+
+[Meta 公司因争抢计算资源发生内斗](https://www.solidot.org/story?sid=76001)
 
 [苹果与 Arm 达成新交易将一直持续到 2040 年后](https://www.solidot.org/story?sid=76000)
 
 [Gizmodo 用 AI 翻译取代西班牙语员工](https://www.solidot.org/story?sid=75999)
-
-[百度 CEO 称中国已发布逾 70 个参数超 10 亿的大模型](https://www.solidot.org/story?sid=75998)
-
-[Android 14 将禁止对系统证书的修改](https://www.solidot.org/story?sid=75997)
-
-[苹果新一代产品被迫拥抱 USB-C](https://www.solidot.org/story?sid=75996)
-
-[加拿大囚犯被限制只能使用 1990 年代的技术](https://www.solidot.org/story?sid=75995)
-
-[因电动汽车中国汽油需求今年将达到峰值](https://www.solidot.org/story?sid=75994)
-
-[AI 对人类的威胁究竟有多大](https://www.solidot.org/story?sid=75993)
-
-[新研究揭示清朝灭亡的原因](https://www.solidot.org/story?sid=75992)
-
-[中科院限制院士公开发表与专业领域无关的学术意见](https://www.solidot.org/story?sid=75991)
 
