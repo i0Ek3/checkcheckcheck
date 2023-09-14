@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-14 16:33:10
+> Update time: 2023-09-15 04:08:27
+
+[科技行业高管讨论 AI 未来](https://www.solidot.org/story?sid=76085)
+
+[Google 裁减招聘职位](https://www.solidot.org/story?sid=76084)
+
+[台积电美国芯片厂需要将芯片送回台湾封装](https://www.solidot.org/story?sid=76083)
+
+[物理学家找到在水中写字的方法](https://www.solidot.org/story?sid=76082)
+
+[Stability AI 宣布文本音乐生成模型 Audio Diffusion](https://www.solidot.org/story?sid=76081)
+
+[吸烟与端粒缩短相关](https://www.solidot.org/story?sid=76080)
+
+[瑞典犯罪组织利用 Spotify 洗钱](https://www.solidot.org/story?sid=76079)
 
 [Arm IPO 定价 51 美元，估值 545 亿美元](https://www.solidot.org/story?sid=76078)
 
 [Mozilla 释出紧急更新修复正被利用的 Firefox 0day](https://www.solidot.org/story?sid=76077)
 
 [Linux 应用 Free Download Manager 秘密植入后门三年之久](https://www.solidot.org/story?sid=76076)
-
-[英特尔宣布 Thunderbolt 5](https://www.solidot.org/story?sid=76075)
-
-[外交部回应苹果手机被限制使用](https://www.solidot.org/story?sid=76074)
-
-[中国的 AI 热回归现实](https://www.solidot.org/story?sid=76073)
-
-[电子制冷有望大幅缩小量子计算机的体积](https://www.solidot.org/story?sid=76072)
-
-[利比亚洪灾致逾五千人死亡](https://www.solidot.org/story?sid=76071)
-
-[诺基亚手机制造商 HMD 推出自有品牌智能手机](https://www.solidot.org/story?sid=76070)
-
-[电动汽车从零加速到时速百公里仅用时 0.956 秒](https://www.solidot.org/story?sid=76069)
 
