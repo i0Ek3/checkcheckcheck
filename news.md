@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-09-15 16:33:23
+> Update time: 2023-09-16 04:08:25
+
+[研究发现乌鸦能使用统计逻辑](https://www.solidot.org/story?sid=76100)
+
+[永远不会瘪胎的自行车轮胎通过 Kickstarter 销售](https://www.solidot.org/story?sid=76099)
+
+[TikTok 因违反欧盟儿童数据保护法被罚 3.45 亿欧元](https://www.solidot.org/story?sid=76098)
+
+[Unity 员工向公司发出死亡威胁](https://www.solidot.org/story?sid=76097)
+
+[漫画家宣布将其《童话中人（Fables）》系列漫画捐给所有人](https://www.solidot.org/story?sid=76096)
+
+[2023 年搞笑诺贝尔奖宣布](https://www.solidot.org/story?sid=76095)
 
 [黑客从 CoinEX 窃取了 5300 万美元加密货币](https://www.solidot.org/story?sid=76094)
 
@@ -8,16 +20,4 @@
 [Unity 在死亡威胁之后关闭办事处](https://www.solidot.org/story?sid=76092)
 
 [晚睡晚起或增加糖尿病风险](https://www.solidot.org/story?sid=76091)
-
-[Chromebook 将获得十年的更新支持](https://www.solidot.org/story?sid=76090)
-
-[美国指 Google 通过搜索默认交易巩固其垄断地位](https://www.solidot.org/story?sid=76089)
-
-[勒索组织 Scattered Spider 利用社交工程攻击了米高梅](https://www.solidot.org/story?sid=76088)
-
-[Meduza 联合创始人的 iPhone 手机感染了间谍软件 Pegasus](https://www.solidot.org/story?sid=76087)
-
-[法国以辐射超标暂停 iPhone 12 销售](https://www.solidot.org/story?sid=76086)
-
-[科技行业高管讨论 AI 未来](https://www.solidot.org/story?sid=76085)
 
