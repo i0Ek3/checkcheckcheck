@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-15 04:33:01
+> Update time: 2023-09-15 16:10:38
+
+[iPhone 15 Pro 是第一款支持开源智能家居协议 Thread 的智能手机](https://www.solidot.org/story?sid=76093)
+
+[Unity 在死亡威胁之后关闭办事处](https://www.solidot.org/story?sid=76092)
+
+[晚睡晚起或增加糖尿病风险](https://www.solidot.org/story?sid=76091)
+
+[Chromebook 将获得十年的更新支持](https://www.solidot.org/story?sid=76090)
+
+[美国指 Google 通过搜索默认交易巩固其垄断地位](https://www.solidot.org/story?sid=76089)
+
+[勒索组织 Scattered Spider 利用社交工程攻击了米高梅](https://www.solidot.org/story?sid=76088)
+
+[Meduza 联合创始人的 iPhone 手机感染了间谍软件 Pegasus](https://www.solidot.org/story?sid=76087)
+
+[法国以辐射超标暂停 iPhone 12 销售](https://www.solidot.org/story?sid=76086)
 
 [科技行业高管讨论 AI 未来](https://www.solidot.org/story?sid=76085)
 
 [Google 裁减招聘职位](https://www.solidot.org/story?sid=76084)
-
-[台积电美国芯片厂需要将芯片送回台湾封装](https://www.solidot.org/story?sid=76083)
-
-[物理学家找到在水中写字的方法](https://www.solidot.org/story?sid=76082)
-
-[Stability AI 宣布文本音乐生成模型 Audio Diffusion](https://www.solidot.org/story?sid=76081)
-
-[吸烟与端粒缩短相关](https://www.solidot.org/story?sid=76080)
-
-[瑞典犯罪组织利用 Spotify 洗钱](https://www.solidot.org/story?sid=76079)
-
-[Arm IPO 定价 51 美元，估值 545 亿美元](https://www.solidot.org/story?sid=76078)
-
-[Mozilla 释出紧急更新修复正被利用的 Firefox 0day](https://www.solidot.org/story?sid=76077)
-
-[Linux 应用 Free Download Manager 秘密植入后门三年之久](https://www.solidot.org/story?sid=76076)
 
