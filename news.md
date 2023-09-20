@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-20 04:32:54
+> Update time: 2023-09-20 16:10:54
 
-[安全公司披露全新 Linux 后门](https://www.solidot.org/story?sid=76127)
+[泰拉瑞亚开发商向两大开源游戏引擎分别捐赠 10 万美元](https://www.solidot.org/story?sid=76138)
 
-[GNU 和自由软件运动四十周年](https://www.solidot.org/story?sid=76126)
+[调查发现大部分美国人不相信 AI 的好处超过其风险](https://www.solidot.org/story?sid=76137)
 
-[马斯克考虑 Twitter/X 推行付费制](https://www.solidot.org/story?sid=76125)
+[英特尔披露 Meteor Lake CPU 架构](https://www.solidot.org/story?sid=76136)
 
-[英伟达开源内核驱动 Nouveau 维护者辞职](https://www.solidot.org/story?sid=76124)
+[研究显示阿兹特克帝国统治者是无情的剥削者](https://www.solidot.org/story?sid=76135)
 
-[美国教科书出版商起诉 Library Genesis 侵犯版权](https://www.solidot.org/story?sid=76123)
+[研究估计人体的细胞总数](https://www.solidot.org/story?sid=76134)
 
-[Windows 画图应用将支持图层和透明度](https://www.solidot.org/story?sid=76122)
+[Marvell 否认其产品包含有 NSA 后门](https://www.solidot.org/story?sid=76133)
 
-[Unity 修改收费政策，对收取的费用设定上限](https://www.solidot.org/story?sid=76121)
+[Java 21 / JDK 21 释出](https://www.solidot.org/story?sid=76132)
 
-[香港警方逮捕加密货币网红](https://www.solidot.org/story?sid=76120)
+[微软曾有意收购任天堂 Valve 等公司](https://www.solidot.org/story?sid=76131)
 
-[UAW 罢工寻求推行四天工作制](https://www.solidot.org/story?sid=76119)
+[Bard 支持关联 Google 应用和服务](https://www.solidot.org/story?sid=76130)
 
-[Linux 内核准备移除安腾 IA64 架构](https://www.solidot.org/story?sid=76118)
+[海盗湾庆祝二十周年](https://www.solidot.org/story?sid=76129)
 
