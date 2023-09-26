@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-26 16:34:02
+> Update time: 2023-09-27 04:08:51
+
+[币安帝国面临瓦解](https://www.solidot.org/story?sid=76203)
+
+[Firefox 118 释出](https://www.solidot.org/story?sid=76202)
+
+[因以色列不配合西班牙搁置 Pegasus 间谍软件调查](https://www.solidot.org/story?sid=76201)
+
+[ChatGPT 支持图像和语音命令](https://www.solidot.org/story?sid=76200)
+
+[智能手机平板的蓝光与青春期提前相关](https://www.solidot.org/story?sid=76199)
+
+[印度采取行动控制致命病毒爆发](https://www.solidot.org/story?sid=76198)
+
+[微软发布代码允许开发者用 Rust 开发 Windows 驱动](https://www.solidot.org/story?sid=76197)
+
+[研究显示对长新冠进行血液测试是可能的](https://www.solidot.org/story?sid=76196)
 
 [肯·福莱特认为读者仍然爱史诗作品](https://www.solidot.org/story?sid=76195)
 
 [TikTok 改变了图书推荐和销售的方式](https://www.solidot.org/story?sid=76194)
-
-[PipeWire 1.0 将在今年晚些时候发布](https://www.solidot.org/story?sid=76193)
-
-[JPEX 涉案金额 14.9 亿港币](https://www.solidot.org/story?sid=76192)
-
-[Pixel 8 预计将获得 7 年的操作系统更新](https://www.solidot.org/story?sid=76191)
-
-[Minecraft Wiki 迁移出 Fandom](https://www.solidot.org/story?sid=76190)
-
-[Apache 软件基金会是时候放弃 OpenOffice](https://www.solidot.org/story?sid=76189)
-
-[勒索软件组织声称入侵索尼系统](https://www.solidot.org/story?sid=76188)
-
-[日本公司开发牙齿再生药物](https://www.solidot.org/story?sid=76187)
-
-[盖蒂与英伟达发布用授权图像训练的生成式 AI](https://www.solidot.org/story?sid=76186)
 
