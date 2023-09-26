@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-26 04:33:10
+> Update time: 2023-09-26 16:11:18
 
-[Meta 准备推出具有个性的 AI 聊天机器人](https://www.solidot.org/story?sid=76185)
+[肯·福莱特认为读者仍然爱史诗作品](https://www.solidot.org/story?sid=76195)
 
-[NASA 执行小行星取样的探测器返回地面](https://www.solidot.org/story?sid=76184)
+[TikTok 改变了图书推荐和销售的方式](https://www.solidot.org/story?sid=76194)
 
-[亚马逊向 Anthropic 投资最多 40 亿美元](https://www.solidot.org/story?sid=76183)
+[PipeWire 1.0 将在今年晚些时候发布](https://www.solidot.org/story?sid=76193)
 
-[科学家争论改变带有种族主义或歧视的物种名称](https://www.solidot.org/story?sid=76182)
+[JPEX 涉案金额 14.9 亿港币](https://www.solidot.org/story?sid=76192)
 
-[Netflix 准备寄出最后的 DVD 红色邮包](https://www.solidot.org/story?sid=76181)
+[Pixel 8 预计将获得 7 年的操作系统更新](https://www.solidot.org/story?sid=76191)
 
-[“龙宫”样本中发现钠](https://www.solidot.org/story?sid=76180)
+[Minecraft Wiki 迁移出 Fandom](https://www.solidot.org/story?sid=76190)
 
-[TCP 拥堵控制如何拯救了互联网](https://www.solidot.org/story?sid=76179)
+[Apache 软件基金会是时候放弃 OpenOffice](https://www.solidot.org/story?sid=76189)
 
-[芬兰囚犯帮助训练大模型](https://www.solidot.org/story?sid=76178)
+[勒索软件组织声称入侵索尼系统](https://www.solidot.org/story?sid=76188)
 
-[网友称为境外公司远程工作被没收所有违法所得](https://www.solidot.org/story?sid=76177)
+[日本公司开发牙齿再生药物](https://www.solidot.org/story?sid=76187)
 
-[Gmail 将从明年 1 月起停止支持基本 HTML 视图](https://www.solidot.org/story?sid=76176)
+[盖蒂与英伟达发布用授权图像训练的生成式 AI](https://www.solidot.org/story?sid=76186)
 
