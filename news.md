@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-28 04:33:08
+> Update time: 2023-09-28 16:11:01
+
+[大众汽车因 IT 故障停产](https://www.solidot.org/story?sid=76218)
+
+[Valve 发布《反恐精英2》](https://www.solidot.org/story?sid=76217)
+
+[网易手游因审核合规要求移除无根门](https://www.solidot.org/story?sid=76216)
+
+[网信办公布首批备案的应用商店，苹果应用商店未包含在内](https://www.solidot.org/story?sid=76215)
+
+[研究预测未来东北增温幅度最大](https://www.solidot.org/story?sid=76214)
+
+[研究预测哺乳动物的生存时间还剩下 2.5 亿年](https://www.solidot.org/story?sid=76213)
+
+[CERN 获得至今对强力强度最精确测量](https://www.solidot.org/story?sid=76212)
+
+[Google Podcasts 即将关闭，YouTube Music 将加入播客功能](https://www.solidot.org/story?sid=76211)
+
+[Signal 总裁认为 AI 本质上是一种监控技术](https://www.solidot.org/story?sid=76210)
 
 [FTC 和美国 17 个州起诉亚马逊非法垄断电商市场](https://www.solidot.org/story?sid=76209)
-
-[苹果为与 Google 的默认搜索交易辩护称没有有效替代](https://www.solidot.org/story?sid=76208)
-
-[GPU 旁路攻击暴露视觉数据](https://www.solidot.org/story?sid=76207)
-
-[OpenAI 估值可能最高达到 900 亿美元](https://www.solidot.org/story?sid=76206)
-
-[Telegram 准备拥抱小程序](https://www.solidot.org/story?sid=76205)
-
-[微软释出 Windows 11 v23H2](https://www.solidot.org/story?sid=76204)
-
-[币安帝国面临瓦解](https://www.solidot.org/story?sid=76203)
-
-[Firefox 118 释出](https://www.solidot.org/story?sid=76202)
-
-[因以色列不配合西班牙搁置 Pegasus 间谍软件调查](https://www.solidot.org/story?sid=76201)
-
-[ChatGPT 支持图像和语音命令](https://www.solidot.org/story?sid=76200)
 
