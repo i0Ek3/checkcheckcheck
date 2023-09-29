@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-09-29 16:33:10
+> Update time: 2023-09-30 04:08:17
+
+[欧阳自远认为印度月球探测器登陆地点距离南极还比较远](https://www.solidot.org/story?sid=76229)
+
+[Richard Stallman 透露他被诊断患有癌症](https://www.solidot.org/story?sid=76228)
+
+[Mozilla Social 实例开放使用](https://www.solidot.org/story?sid=76227)
+
+[北美智能手机二季度销量暴跌 22%](https://www.solidot.org/story?sid=76226)
+
+[Epic games 裁掉 16% 约 900 名员工](https://www.solidot.org/story?sid=76225)
+
+[印尼禁止社交媒体从事电商业务](https://www.solidot.org/story?sid=76224)
+
+[科学家观测到黑洞自转新证据](https://www.solidot.org/story?sid=76223)
 
 [美日对黑客组织秘密在路由器植入后门固件发出警告](https://www.solidot.org/story?sid=76222)
 
 [Raspberry Pi 基金会宣布 Raspberry Pi 5](https://www.solidot.org/story?sid=76221)
 
 [为什么猫咪喜欢盒子？](https://www.solidot.org/story?sid=76220)
-
-[科学家观测到引力对反物质的影响](https://www.solidot.org/story?sid=76219)
-
-[大众汽车因 IT 故障停产](https://www.solidot.org/story?sid=76218)
-
-[Valve 发布《反恐精英2》](https://www.solidot.org/story?sid=76217)
-
-[网易手游因审核合规要求移除无根门](https://www.solidot.org/story?sid=76216)
-
-[网信办公布首批备案的应用商店，苹果应用商店未包含在内](https://www.solidot.org/story?sid=76215)
-
-[研究预测未来东北增温幅度最大](https://www.solidot.org/story?sid=76214)
-
-[研究预测哺乳动物的生存时间还剩下 2.5 亿年](https://www.solidot.org/story?sid=76213)
 
