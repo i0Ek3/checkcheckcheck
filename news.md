@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-10-09 16:35:59
+> Update time: 2023-10-10 04:07:30
+
+[2023 年度诺贝尔经济学奖授予了研究性别差异的 Claudia Goldin](https://www.solidot.org/story?sid=76285)
+
+[Ardour 8.0 释出](https://www.solidot.org/story?sid=76284)
+
+[研究发现炎热天气降低生产率](https://www.solidot.org/story?sid=76283)
+
+[中国工厂迁移到内陆](https://www.solidot.org/story?sid=76282)
+
+[诺贝尔物理学奖是如何选择的](https://www.solidot.org/story?sid=76281)
+
+[怀孕期间大脑就在为育儿做准备](https://www.solidot.org/story?sid=76280)
+
+[拼多多 Temu 的崛起](https://www.solidot.org/story?sid=76279)
+
+[微软 CEO 在 Google 反垄断案中作证](https://www.solidot.org/story?sid=76278)
 
 [感冒也有长期症状](https://www.solidot.org/story?sid=76277)
 
 [微型语言模型的时代来临](https://www.solidot.org/story?sid=76276)
-
-[亚马逊首批互联网卫星原型发射升空](https://www.solidot.org/story?sid=76275)
-
-[X.Org 新发现漏洞可追溯到 1988 年](https://www.solidot.org/story?sid=76274)
-
-[佛罗里达男子持武器击落警方无人机面临 10 年徒刑](https://www.solidot.org/story?sid=76273)
-
-[7% 的 Python 开发者仍在使用 Python 2](https://www.solidot.org/story?sid=76272)
-
-[Greg Kroah-Hartman 回应内核 LTS 版本缩短到两年](https://www.solidot.org/story?sid=76271)
-
-[南极臭氧空洞面积接近 2600 万平方公里](https://www.solidot.org/story?sid=76270)
-
-[日本 AI 草案提出使用方需承担部分责任](https://www.solidot.org/story?sid=76269)
-
-[洛克希德马丁拥抱软件订阅模式](https://www.solidot.org/story?sid=76268)
 
