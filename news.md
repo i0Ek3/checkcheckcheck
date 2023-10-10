@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-10-10 16:33:50
+> Update time: 2023-10-11 04:07:33
+
+[为什么人类大脑更擅长计算 4 以内的数字](https://www.solidot.org/story?sid=76296)
+
+[树轮揭示有记录以来最强太阳风暴](https://www.solidot.org/story?sid=76295)
+
+[GNOME 准备移除对 X.Org 会话支持](https://www.solidot.org/story?sid=76294)
+
+[微软据报 GitHub Copilot 业务亏损](https://www.solidot.org/story?sid=76293)
+
+[三星和SK海力士获准无需额外批准为其中国工厂供应设备](https://www.solidot.org/story?sid=76292)
 
 [Unity CEO 辞职，立即生效](https://www.solidot.org/story?sid=76291)
 
@@ -10,14 +20,4 @@
 [FTX 的骗局就写在代码里](https://www.solidot.org/story?sid=76288)
 
 [FTX 宣布破产当天如何阻止 10 亿美元加密货币被盗窃](https://www.solidot.org/story?sid=76287)
-
-[澳大利亚继续研究投放疱疹病毒控制泛滥的鲤鱼](https://www.solidot.org/story?sid=76286)
-
-[2023 年度诺贝尔经济学奖授予了研究性别差异的 Claudia Goldin](https://www.solidot.org/story?sid=76285)
-
-[Ardour 8.0 释出](https://www.solidot.org/story?sid=76284)
-
-[研究发现炎热天气降低生产率](https://www.solidot.org/story?sid=76283)
-
-[中国工厂迁移到内陆](https://www.solidot.org/story?sid=76282)
 
