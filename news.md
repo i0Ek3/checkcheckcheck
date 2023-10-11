@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-10-11 16:34:12
+> Update time: 2023-10-12 04:08:30
 
-[Firefox 修复了有 22 年历史的工具栏鼠标提示 bug](https://www.solidot.org/story?sid=76300)
+[科学家揭示轮班工作如何影响食欲](https://www.solidot.org/story?sid=76312)
 
-[Valve 以玩家人数太少宣布《反恐精英2》不支持 macOS](https://www.solidot.org/story?sid=76299)
+[ChatGPT 等 AI 工具如何改变科学出版](https://www.solidot.org/story?sid=76311)
 
-[数十万次测试证明抛硬币更可能落在开始抛的那一面](https://www.solidot.org/story?sid=76298)
+[蜗牛游戏与安琪拉就游戏源代码盗窃一事达成和解](https://www.solidot.org/story?sid=76310)
 
-[Google 改变广告拍卖公式提价 15%](https://www.solidot.org/story?sid=76297)
+[SBF 前女友称是 SBF 指示她犯罪](https://www.solidot.org/story?sid=76309)
 
-[为什么人类大脑更擅长计算 4 以内的数字](https://www.solidot.org/story?sid=76296)
+[古典音乐同步心跳和出汗](https://www.solidot.org/story?sid=76308)
 
-[树轮揭示有记录以来最强太阳风暴](https://www.solidot.org/story?sid=76295)
+[磁电材料能重连被切断的神经](https://www.solidot.org/story?sid=76307)
 
-[GNOME 准备移除对 X.Org 会话支持](https://www.solidot.org/story?sid=76294)
+[curl 项目披露高危漏洞](https://www.solidot.org/story?sid=76306)
 
-[微软据报 GitHub Copilot 业务亏损](https://www.solidot.org/story?sid=76293)
+[美国犹他州起诉 TikTok 称其伤害儿童](https://www.solidot.org/story?sid=76305)
 
-[三星和SK海力士获准无需额外批准为其中国工厂供应设备](https://www.solidot.org/story?sid=76292)
+[23 岁博士生如何帮助 Firefox 修复 22 年历史的 bug](https://www.solidot.org/story?sid=76304)
 
-[Unity CEO 辞职，立即生效](https://www.solidot.org/story?sid=76291)
+[微软将在未来版本的 Windows 中移除 VBScript](https://www.solidot.org/story?sid=76303)
 
