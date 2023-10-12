@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-10-12 16:34:00
+> Update time: 2023-10-13 04:08:33
+
+[移植转基因猪的肾使猴子活了两年](https://www.solidot.org/story?sid=76325)
+
+[Google 内部质疑大语言模型的可用性](https://www.solidot.org/story?sid=76324)
+
+[日本准备对统一教会下达解散命令](https://www.solidot.org/story?sid=76323)
+
+[攻击者入侵 Steam 开发者账号为游戏加入恶意程序](https://www.solidot.org/story?sid=76322)
+
+[Adobe 演示 AI 上采样技术，将低分辨率动图和视频放大到高分辨率](https://www.solidot.org/story?sid=76321)
+
+[信天翁可能利用次声波远距离导航](https://www.solidot.org/story?sid=76320)
 
 [微软称黑客组织正在利用 Atlassian 的 0day](https://www.solidot.org/story?sid=76319)
 
@@ -8,16 +20,4 @@
 [NASA 公布小行星样本初步分析结果](https://www.solidot.org/story?sid=76317)
 
 [NPR 离开 Twitter 半年之后影响甚微](https://www.solidot.org/story?sid=76316)
-
-[WordPress.com 支持 ActivityPub](https://www.solidot.org/story?sid=76315)
-
-[微软发布如何安装 Linux 指南](https://www.solidot.org/story?sid=76314)
-
-[欧洲青蛙装死回避交配](https://www.solidot.org/story?sid=76313)
-
-[科学家揭示轮班工作如何影响食欲](https://www.solidot.org/story?sid=76312)
-
-[ChatGPT 等 AI 工具如何改变科学出版](https://www.solidot.org/story?sid=76311)
-
-[蜗牛游戏与安琪拉就游戏源代码盗窃一事达成和解](https://www.solidot.org/story?sid=76310)
 
