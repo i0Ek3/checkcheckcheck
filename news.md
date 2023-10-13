@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-10-13 16:35:41
+> Update time: 2023-10-14 04:09:16
+
+[数学家警告 NSA 可能在削弱后量子加密算法](https://www.solidot.org/story?sid=76336)
+
+[思科再次承认使用了硬编码密码](https://www.solidot.org/story?sid=76335)
+
+[Firefox 将使用 Fastly 作为 OHTTP 中继](https://www.solidot.org/story?sid=76334)
+
+[CIP 为 6.1 kernel 提供十年支持](https://www.solidot.org/story?sid=76333)
+
+[英国监管机构批准微软收购动视暴雪](https://www.solidot.org/story?sid=76332)
+
+[微软为绘图应用加入基于 DALL-E 的文本图像生成功能](https://www.solidot.org/story?sid=76331)
+
+[YouTube 超过 Netflix 成为美国青少年主要的视频来源](https://www.solidot.org/story?sid=76330)
 
 [台积电称 2 纳米芯片开发生态系统基本完成](https://www.solidot.org/story?sid=76329)
 
 [Tor Browser 13.0 释出](https://www.solidot.org/story?sid=76328)
 
 [Ubuntu 23.10 释出](https://www.solidot.org/story?sid=76326)
-
-[移植转基因猪的肾使猴子活了两年](https://www.solidot.org/story?sid=76325)
-
-[Google 内部质疑大语言模型的可用性](https://www.solidot.org/story?sid=76324)
-
-[日本准备对统一教会下达解散命令](https://www.solidot.org/story?sid=76323)
-
-[攻击者入侵 Steam 开发者账号为游戏加入恶意程序](https://www.solidot.org/story?sid=76322)
-
-[Adobe 演示 AI 上采样技术，将低分辨率动图和视频放大到高分辨率](https://www.solidot.org/story?sid=76321)
-
-[信天翁可能利用次声波远距离导航](https://www.solidot.org/story?sid=76320)
-
-[微软称黑客组织正在利用 Atlassian 的 0day](https://www.solidot.org/story?sid=76319)
 
