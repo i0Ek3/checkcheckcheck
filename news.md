@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2023-10-15 16:09:31
+> Update time: 2023-10-15 16:33:08
 
 [Herculaneum 纸草卷轴首个文字在 AI 帮助下成功识别](https://www.solidot.org/story?sid=76345)
 
