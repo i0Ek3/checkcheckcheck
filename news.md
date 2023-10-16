@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-10-16 16:35:17
+> Update time: 2023-10-17 04:09:27
+
+[OpenBSD 7.4 释出](https://www.solidot.org/story?sid=76356)
+
+[NASA 向含有贵金属的小行星发射探测器](https://www.solidot.org/story?sid=76355)
+
+[随着地球暖化长期休眠的病毒正在苏醒](https://www.solidot.org/story?sid=76354)
+
+[国际奥运会宣布电竞奥运会](https://www.solidot.org/story?sid=76353)
+
+[英伟达继续允许员工选择远程办公](https://www.solidot.org/story?sid=76352)
+
+[科学家利用 ChatGPT 背后的技术构建用于科学发现的 AI](https://www.solidot.org/story?sid=76351)
+
+[Dropbox CEO 为远程办公模式辩护](https://www.solidot.org/story?sid=76350)
 
 [Brad Smith 如何利用微软的游说机器赢得动视暴雪的交易](https://www.solidot.org/story?sid=76349)
 
 [微软准备弃用 NTLM 作为身份认证协议](https://www.solidot.org/story?sid=76348)
 
 [AI 耗电量将与国家相当](https://www.solidot.org/story?sid=76347)
-
-[传国内社交网站对部分用户推行前台实名制](https://www.solidot.org/story?sid=76346)
-
-[Herculaneum 纸草卷轴首个文字在 AI 帮助下成功识别](https://www.solidot.org/story?sid=76345)
-
-[2023 年 Q3 PC 出货量跌势放缓，但苹果暴跌逾二成](https://www.solidot.org/story?sid=76344)
-
-[AMD 新驱动的抗延迟功能会导致玩家在 CS2 中被封](https://www.solidot.org/story?sid=76343)
-
-[联想准备推出运行 Android 定制操作系统的设备](https://www.solidot.org/story?sid=76342)
-
-[中资比特币矿场在美引发国家安全担忧](https://www.solidot.org/story?sid=76341)
-
-[Twitter/X 被控非法解雇挑战重返办公室政策的员工](https://www.solidot.org/story?sid=76340)
 
