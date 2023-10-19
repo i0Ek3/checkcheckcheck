@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-10-19 16:33:57
+> Update time: 2023-10-20 04:08:36
 
-[科技领袖称 AI 将改变拥有一份工作的意义](https://www.solidot.org/story?sid=76383)
+[地球存在过的活细胞数量比星星更多](https://www.solidot.org/story?sid=76396)
 
-[Mega Crit 发布用开源引擎 Godot 开发的游戏](https://www.solidot.org/story?sid=76382)
+[RowPress 能在部署了 RowHammer 保护措施的 DRAM 中诱发比特翻转](https://www.solidot.org/story?sid=76395)
 
-[英伟达警告其旗舰显卡 RTX 4090 被列入出口限制清单](https://www.solidot.org/story?sid=76381)
+[新闻出版署希望网游抛弃氪金氪肝](https://www.solidot.org/story?sid=76394)
 
-[IT 管理员最爱用 admin 作为密码](https://www.solidot.org/story?sid=76380)
+[日本电动汽车公司寻求通过软件获得持续收入](https://www.solidot.org/story?sid=76393)
 
-[逾三万思科 IOS XE 设备被黑客利用最新披露的 0day 入侵](https://www.solidot.org/story?sid=76379)
+[果糖可能是肥胖问题的核心](https://www.solidot.org/story?sid=76392)
 
-[英特尔发布 14 代酷睿处理器，与 13 代相差甚微](https://www.solidot.org/story?sid=76378)
+[Google 将在侧载应用安装时进行扫描](https://www.solidot.org/story?sid=76391)
 
-[Windows 11 月活接近五亿](https://www.solidot.org/story?sid=76377)
+[乌克兰活动人士入侵勒索软件组织 Trigona 的服务器清空所有数据](https://www.solidot.org/story?sid=76390)
 
-[癌症疫苗在临床试验中显著改进了总生存率](https://www.solidot.org/story?sid=76376)
+[中俄黑客正在利用已修复的 WinRAR 漏洞](https://www.solidot.org/story?sid=76389)
 
-[高通宣布首款面向大众市场的 RISC-V Android SoC](https://www.solidot.org/story?sid=76375)
+[亚马逊在仓库测试双足机器人](https://www.solidot.org/story?sid=76388)
 
-[AMD 释出新版本驱动，禁用了 Anti-Lag+ 支持](https://www.solidot.org/story?sid=76374)
+[丝绸之路比特币盗窃者 Jimmy Zhong 的秘密生活](https://www.solidot.org/story?sid=76387)
 
