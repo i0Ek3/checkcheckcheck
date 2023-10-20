@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-10-20 16:33:35
+> Update time: 2023-10-21 04:08:09
+
+[受脑启发的低功耗 AI 推理芯片 NorthPole](https://www.solidot.org/story?sid=76403)
+
+[研究揭示男女焦虑差异的生理机理](https://www.solidot.org/story?sid=76402)
+
+[OpenAI 寻求以 860 亿美元估值出售股票](https://www.solidot.org/story?sid=76401)
+
+[苹果 CEO 库克突然访华](https://www.solidot.org/story?sid=76400)
+
+[Microsoft AI 为古腾堡项目录制了 5000 本有声书](https://www.solidot.org/story?sid=76399)
 
 [Google 开始在印度生产 Pixel 手机](https://www.solidot.org/story?sid=76398)
 
@@ -10,14 +20,4 @@
 [RowPress 能在部署了 RowHammer 保护措施的 DRAM 中诱发比特翻转](https://www.solidot.org/story?sid=76395)
 
 [新闻出版署希望网游抛弃氪金氪肝](https://www.solidot.org/story?sid=76394)
-
-[日本电动汽车公司寻求通过软件获得持续收入](https://www.solidot.org/story?sid=76393)
-
-[果糖可能是肥胖问题的核心](https://www.solidot.org/story?sid=76392)
-
-[Google 将在侧载应用安装时进行扫描](https://www.solidot.org/story?sid=76391)
-
-[乌克兰活动人士入侵勒索软件组织 Trigona 的服务器清空所有数据](https://www.solidot.org/story?sid=76390)
-
-[中俄黑客正在利用已修复的 WinRAR 漏洞](https://www.solidot.org/story?sid=76389)
 
