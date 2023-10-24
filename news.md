@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-10-24 04:33:12
+> Update time: 2023-10-24 16:11:10
+
+[英伟达和 AMD 计划推出基于 ARM 的 PC 芯片](https://www.solidot.org/story?sid=76428)
+
+[亚马逊《辐射》改编剧集将于 2024 年 4 月上映](https://www.solidot.org/story?sid=76427)
+
+[Okta 遭黑客入侵，1Password 监测到可疑活动](https://www.solidot.org/story?sid=76426)
+
+[AI 模型缺乏透明度](https://www.solidot.org/story?sid=76425)
+
+[美国的加密货币支持者价值观通常趋于保守](https://www.solidot.org/story?sid=76424)
+
+[软件专利的首位获得者去世](https://www.solidot.org/story?sid=76423)
+
+[《星际公民(Star Citizen)》剧情部分《Squadron 42》完成功能开发](https://www.solidot.org/story?sid=76422)
 
 [Chrome 将能隐藏用户 IP 地址](https://www.solidot.org/story?sid=76421)
 
 [力量锻炼有助于减少高蛋白饮食健康风险](https://www.solidot.org/story?sid=76420)
 
 [太阳磁极在消失](https://www.solidot.org/story?sid=76419)
-
-[X 付费蓝标用户传播了 74% 的以哈冲突虚假信息](https://www.solidot.org/story?sid=76418)
-
-[苹果计划在 Siri、Xcode 等产品中整合 AI](https://www.solidot.org/story?sid=76417)
-
-[铠侠与西部数据预计将在本月宣布合并](https://www.solidot.org/story?sid=76416)
-
-[Ragnar Locker 勒索软件组织的主要成员在欧洲被捕](https://www.solidot.org/story?sid=76415)
-
-[中国限制石墨出口](https://www.solidot.org/story?sid=76414)
-
-[科举制阴影之下的中国社会](https://www.solidot.org/story?sid=76413)
-
-[数千朝鲜 IT 开发者给美国公司做远程外包工作](https://www.solidot.org/story?sid=76412)
 
