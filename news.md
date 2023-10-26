@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-10-26 16:33:08
+> Update time: 2023-10-27 04:08:20
+
+[罗马教宗鼓励儿童学习编程](https://www.solidot.org/story?sid=76459)
+
+[乌克兰黑客与情报机构合作入侵俄罗斯银行](https://www.solidot.org/story?sid=76458)
+
+[日本核聚变装置初期实验取得成功](https://www.solidot.org/story?sid=76457)
+
+[中国成功发射神舟十七号](https://www.solidot.org/story?sid=76456)
+
+[新神经网络在语言归纳能力上接近人类](https://www.solidot.org/story?sid=76455)
 
 [科学家发现持续时间最短的快速射电暴](https://www.solidot.org/story?sid=76454)
 
@@ -10,14 +20,4 @@
 [首个疟疾疫苗减少了儿童死亡率](https://www.solidot.org/story?sid=76451)
 
 [研究揭示运动前热身的机制](https://www.solidot.org/story?sid=76450)
-
-[寻找 Twitter 替代的用户再次涌向 Threads](https://www.solidot.org/story?sid=76449)
-
-[在无人出租车拖曳行人后加州暂停了 Cruise 的运作](https://www.solidot.org/story?sid=76448)
-
-[新数据中毒工具让艺术家能反击生成式 AI](https://www.solidot.org/story?sid=76447)
-
-[印度超过中国成为美国第一大留学来源国](https://www.solidot.org/story?sid=76446)
-
-[微软 CEO 称放弃 Windows Phone 和移动业务是一大错误](https://www.solidot.org/story?sid=76445)
 
