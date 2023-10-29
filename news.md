@@ -1,5 +1,11 @@
 # Here The News
-> Update time: 2023-10-29 16:32:49
+> Update time: 2023-10-30 04:08:29
+
+[更年期在哺乳动物中可能十分普遍](https://www.solidot.org/story?sid=76473)
+
+[Cruise 暂停全美的无人出租车运营](https://www.solidot.org/story?sid=76472)
+
+[波士顿动力让机器狗用 ChatGPT 说话](https://www.solidot.org/story?sid=76471)
 
 [Android 14 bug 会锁定多配置文件用户的设备](https://www.solidot.org/story?sid=76470)
 
@@ -14,10 +20,4 @@
 [扎克伯格称 Threads App 月活用户数接近一亿](https://www.solidot.org/story?sid=76465)
 
 [肾结石治疗取得突破](https://www.solidot.org/story?sid=76464)
-
-[铠侠和西数的合并谈判中断](https://www.solidot.org/story?sid=76463)
-
-[Linux Mint 准备支持 Wayland](https://www.solidot.org/story?sid=76462)
-
-[Gaijin 开源 《战争雷霆》使用的引擎](https://www.solidot.org/story?sid=76461)
 
