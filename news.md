@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-10-30 16:10:55
+> Update time: 2023-10-30 16:33:25
+
+[科学家测试世界最小的粒子加速器](https://www.solidot.org/story?sid=76478)
+
+[Google Chrome 将移除对 Theora 视频编解码器的支持](https://www.solidot.org/story?sid=76477)
+
+[Windows 11 支持 11 种新压缩存档格式](https://www.solidot.org/story?sid=76476)
+
+[Linux 6.7 将允许在启动时禁用或启用 32 位应用支持](https://www.solidot.org/story?sid=76475)
+
+[12% 的美国人消耗了该国牛肉消费总量的五成](https://www.solidot.org/story?sid=76474)
 
 [更年期在哺乳动物中可能十分普遍](https://www.solidot.org/story?sid=76473)
 
@@ -10,14 +20,4 @@
 [Android 14 bug 会锁定多配置文件用户的设备](https://www.solidot.org/story?sid=76470)
 
 [Google 在 2021 年为默认搜索交易支付了 263 亿美元](https://www.solidot.org/story?sid=76469)
-
-[世界尽头的扫地机器人](https://www.solidot.org/story?sid=76468)
-
-[学术界的了不起的盖茨比曲线](https://www.solidot.org/story?sid=76467)
-
-[解密冷战卫星照片揭示了数百个以前未发现的罗马要塞](https://www.solidot.org/story?sid=76466)
-
-[扎克伯格称 Threads App 月活用户数接近一亿](https://www.solidot.org/story?sid=76465)
-
-[肾结石治疗取得突破](https://www.solidot.org/story?sid=76464)
 
