@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-10-31 16:33:28
+> Update time: 2023-11-01 04:08:24
+
+[小行星撞击地球产生的尘埃导致了持续 15 年的严冬](https://www.solidot.org/story?sid=76493)
+
+[德国法庭裁决 Do Not Track 具有法律约束力](https://www.solidot.org/story?sid=76492)
+
+[英国软件公司要求 Meta 在英国停止使用 Threads 名称](https://www.solidot.org/story?sid=76491)
+
+[西部数据将剥离闪存业务](https://www.solidot.org/story?sid=76490)
+
+[苹果宣布了 M3 系列芯片](https://www.solidot.org/story?sid=76489)
+
+[Google 准备明年推出 RISC-V 版 Android 模拟器](https://www.solidot.org/story?sid=76488)
+
+[Bcachefs 再次尝试递交的 Linux 主线](https://www.solidot.org/story?sid=76487)
+
+[加拿大禁止政府移动设备安装微信和卡巴斯基](https://www.solidot.org/story?sid=76486)
 
 [Facebook 和 Instagram 将在欧洲推出无广告的订阅服务](https://www.solidot.org/story?sid=76485)
 
 [Do Kwon 如何在黑山落网](https://www.solidot.org/story?sid=76484)
-
-[Mozilla 开始提供 Firefox Nightly 的 .deb 包](https://www.solidot.org/story?sid=76483)
-
-[Linux 6.6 释出](https://www.solidot.org/story?sid=76482)
-
-[中国科学家报告了嫦娥四号生物生长结果](https://www.solidot.org/story?sid=76481)
-
-[毒物专家用痛风药物毒杀妻子](https://www.solidot.org/story?sid=76480)
-
-[新抗生素或能对抗超级细菌](https://www.solidot.org/story?sid=76479)
-
-[科学家测试世界最小的粒子加速器](https://www.solidot.org/story?sid=76478)
-
-[Google Chrome 将移除对 Theora 视频编解码器的支持](https://www.solidot.org/story?sid=76477)
-
-[Windows 11 支持 11 种新压缩存档格式](https://www.solidot.org/story?sid=76476)
 
