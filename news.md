@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-02 16:33:13
+> Update time: 2023-11-03 04:08:29
+
+[印度研究发现污染可能增加 2 型糖尿病的风险](https://www.solidot.org/story?sid=76515)
+
+[Google 罕见的披露了给它带来最多广告收入的搜索查询词](https://www.solidot.org/story?sid=76514)
+
+[Meta AI 高管认为开源许可需要改变](https://www.solidot.org/story?sid=76513)
+
+[研究称手机使用频率与精子质量相关](https://www.solidot.org/story?sid=76512)
+
+[研究称猫有近 300 种面部表情](https://www.solidot.org/story?sid=76511)
+
+[新 AWS 项目允许客户为 AI 项目租用英伟达 GPU](https://www.solidot.org/story?sid=76510)
+
+[iPhone 17 标准版将在印度组装](https://www.solidot.org/story?sid=76509)
 
 [SBF 以“我不记得”回应法庭询问](https://www.solidot.org/story?sid=76508)
 
 [微软开始向用户推送 Windows 11 23H2](https://www.solidot.org/story?sid=76507)
 
 [uBlock Origin 和 YouTube 在玩猫捉老鼠游戏](https://www.solidot.org/story?sid=76506)
-
-[Telegram 屏蔽与哈马斯相关频道](https://www.solidot.org/story?sid=76505)
-
-[苹果 M3 Pro 的内存带宽比 M1/M2 Pro 少四分之一](https://www.solidot.org/story?sid=76504)
-
-[WeWork 最早下周申请破产](https://www.solidot.org/story?sid=76503)
-
-[间歇性禁食能帮助糖尿病患者](https://www.solidot.org/story?sid=76502)
-
-[vivo 发布用 Rust 编写的操作系统蓝河](https://www.solidot.org/story?sid=76501)
-
-[英伟达可能被迫取消明年 50 亿美元的对华 AI 芯片订单](https://www.solidot.org/story?sid=76499)
-
-[国内主要社交网络宣布了前台实名制](https://www.solidot.org/story?sid=76498)
 
