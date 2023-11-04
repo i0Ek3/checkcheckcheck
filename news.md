@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-04 16:32:57
+> Update time: 2023-11-05 04:08:44
+
+[动物也具有想象力](https://www.solidot.org/story?sid=76532)
+
+[最强大离子引擎通过了合格性测试](https://www.solidot.org/story?sid=76531)
+
+[NASA 准备让国际空间站一直运行到 2030 年之后](https://www.solidot.org/story?sid=76530)
+
+[Mozilla 督促开发者为移动版扩展做好准备](https://www.solidot.org/story?sid=76529)
+
+[Arm 收购树莓派少数股权](https://www.solidot.org/story?sid=76528)
+
+[披头士乐队发布了他们的最后一首歌《Now And Then》](https://www.solidot.org/story?sid=76527)
+
+[光不用热就能蒸发水](https://www.solidot.org/story?sid=76526)
 
 [研究人员发现地幔斑点是远古行星碰撞的残余](https://www.solidot.org/story?sid=76525)
 
 [海星的五角都是头部的一部分](https://www.solidot.org/story?sid=76524)
 
 [苹果营收连续四个季度下降](https://www.solidot.org/story?sid=76523)
-
-[陪审团判定 FTX 创始人 Sam Bankman-Fried 的所有罪名成立](https://www.solidot.org/story?sid=76522)
-
-[胎儿内脏反位病例大幅增加](https://www.solidot.org/story?sid=76521)
-
-[Google 放弃了 Web Environment Integrity API](https://www.solidot.org/story?sid=76520)
-
-[Linux 6.7 内核移除安腾 IA-64 支持](https://www.solidot.org/story?sid=76519)
-
-[Google 用 Rust 重写 Android 的 Binder](https://www.solidot.org/story?sid=76518)
-
-[AMD 宣布笔记本用的 Zen 4C 处理器](https://www.solidot.org/story?sid=76517)
-
-[20-25 分钟锻炼可减轻久坐的死亡风险](https://www.solidot.org/story?sid=76516)
 
