@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-06 16:35:07
+> Update time: 2023-11-07 04:08:41
+
+[新闻网红是否将取代传统媒体？](https://www.solidot.org/story?sid=76545)
+
+[亚马逊的无人机快递并没有走到现实生活](https://www.solidot.org/story?sid=76544)
+
+[当脑损伤导致时间感知能力丢失](https://www.solidot.org/story?sid=76543)
+
+[Firefox 开发将从 Mercurial 转移到 Git](https://www.solidot.org/story?sid=76542)
+
+[咖啡和茶或有助于降低认知障碍风险](https://www.solidot.org/story?sid=76541)
+
+[李开复的 AI 公司发布开源模型 Yi-34B](https://www.solidot.org/story?sid=76540)
+
+[微软万圣节文件泄露二十五周年](https://www.solidot.org/story?sid=76539)
+
+[中国打击跨国电信诈骗](https://www.solidot.org/story?sid=76538)
+
+[趋势科技在 Exchange 中发现 4 个 0day，微软对漏洞严重性提出质疑](https://www.solidot.org/story?sid=76537)
 
 [马斯克宣布了他的聊天机器人 Grok](https://www.solidot.org/story?sid=76536)
-
-[微软 180 度转弯允许员工保留 Xbox Game Pass Ultimate](https://www.solidot.org/story?sid=76535)
-
-[Falcon 9 火箭第一级重复使用次数达到 18 次](https://www.solidot.org/story?sid=76534)
-
-[考古学家发现史前欧洲的大规模冲突](https://www.solidot.org/story?sid=76533)
-
-[动物也具有想象力](https://www.solidot.org/story?sid=76532)
-
-[最强大离子引擎通过了合格性测试](https://www.solidot.org/story?sid=76531)
-
-[NASA 准备让国际空间站一直运行到 2030 年之后](https://www.solidot.org/story?sid=76530)
-
-[Mozilla 督促开发者为移动版扩展做好准备](https://www.solidot.org/story?sid=76529)
-
-[Arm 收购树莓派少数股权](https://www.solidot.org/story?sid=76528)
-
-[披头士乐队发布了他们的最后一首歌《Now And Then》](https://www.solidot.org/story?sid=76527)
 
