@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-08 16:33:38
+> Update time: 2023-11-09 04:08:54
+
+[日本外籍劳工不再便宜](https://www.solidot.org/story?sid=76569)
+
+[科学家准备谈论是否修改有争议的物种名字](https://www.solidot.org/story?sid=76568)
+
+[ESA 欧几里得望远镜释出了首批图像](https://www.solidot.org/story?sid=76567)
+
+[微软将从甲骨文租用其英伟达 AI 芯片](https://www.solidot.org/story?sid=76566)
 
 [《自然》撤回室温超导论文](https://www.solidot.org/story?sid=76565)
+
+[韩国首次将宇宙辐射暴露认定为工伤](https://www.solidot.org/story?sid=76564)
+
+[《塞尔达传说》将制作真人版电影](https://www.solidot.org/story?sid=76563)
 
 [女子网上租杀手结果找了 FBI 的蜜罐网站](https://www.solidot.org/story?sid=76562)
 
 [苹果暂停明年产品软件开发以修 bug](https://www.solidot.org/story?sid=76561)
 
 [百度从华为购买 AI 芯片](https://www.solidot.org/story?sid=76560)
-
-[世界曾尝试采用一个每月 28 天共 13 个月的历法](https://www.solidot.org/story?sid=76559)
-
-[机器学习工具能以极高精度识别 ChatGPT 生成论文](https://www.solidot.org/story?sid=76558)
-
-[澳大利亚“加密之王”在土耳其被捕](https://www.solidot.org/story?sid=76557)
-
-[特斯拉允许车主关闭远程访问](https://www.solidot.org/story?sid=76556)
-
-[神经假体帮助帕金森患者恢复行走能力](https://www.solidot.org/story?sid=76555)
-
-[中国在 2022 年申请的专利继续高居第一](https://www.solidot.org/story?sid=76554)
 
