@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-11-09 16:33:22
+> Update time: 2023-11-10 04:08:57
+
+[英伟达将再次推出针对中国市场的特供 AI 芯片](https://www.solidot.org/story?sid=76581)
+
+[Omegle 在上线 15 年后关闭](https://www.solidot.org/story?sid=76580)
+
+[OpenAI 遭遇 DDoS 攻击](https://www.solidot.org/story?sid=76579)
+
+[Canonical 公布 Ubuntu Core Desktop 细节](https://www.solidot.org/story?sid=76578)
+
+[2023 年将是有纪录以来最热的一年](https://www.solidot.org/story?sid=76577)
 
 [微软计划向 10 亿 Windows 10 用户提供 AI 助手 Copilot](https://www.solidot.org/story?sid=76576)
 
@@ -10,14 +20,4 @@
 [Rockstar 宣布将在下月初发布《侠盗猎车6》的预告片](https://www.solidot.org/story?sid=76573)
 
 [中国游戏成功征服世界](https://www.solidot.org/story?sid=76572)
-
-[Cruise 证实其无人出租车每行驶 6-8 公里会受到一次人工干预](https://www.solidot.org/story?sid=76571)
-
-[创业公司开发可穿戴设备让佩戴者按需做清醒梦](https://www.solidot.org/story?sid=76570)
-
-[日本外籍劳工不再便宜](https://www.solidot.org/story?sid=76569)
-
-[科学家准备谈论是否修改有争议的物种名字](https://www.solidot.org/story?sid=76568)
-
-[ESA 欧几里得望远镜释出了首批图像](https://www.solidot.org/story?sid=76567)
 
