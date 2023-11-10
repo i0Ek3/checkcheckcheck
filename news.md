@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-11-10 16:33:18
+> Update time: 2023-11-11 04:08:44
+
+[天文学家称太阳比以前认为的要略小](https://www.solidot.org/story?sid=76591)
+
+[Mozilla 推出首个大模型 Fakespot Chat](https://www.solidot.org/story?sid=76590)
+
+[研究人员发现加拿大巴芬岛富集氦-3和氦-4](https://www.solidot.org/story?sid=76589)
+
+[医生完成了首例脸部和眼睛移植](https://www.solidot.org/story?sid=76588)
+
+[轻博客服务 Tumblr 可能接近生命终点](https://www.solidot.org/story?sid=76587)
+
+[Valve 推出 Steam Deck OLED 掌机](https://www.solidot.org/story?sid=76586)
 
 [沃兹遭遇轻度中风](https://www.solidot.org/story?sid=76585)
 
@@ -8,16 +20,4 @@
 [微软要求你解释为什么要退出 OneDrive 应用](https://www.solidot.org/story?sid=76583)
 
 [Steam 将允许玩家隐藏特定游戏](https://www.solidot.org/story?sid=76582)
-
-[英伟达将再次推出针对中国市场的特供 AI 芯片](https://www.solidot.org/story?sid=76581)
-
-[Omegle 在上线 15 年后关闭](https://www.solidot.org/story?sid=76580)
-
-[OpenAI 遭遇 DDoS 攻击](https://www.solidot.org/story?sid=76579)
-
-[Canonical 公布 Ubuntu Core Desktop 细节](https://www.solidot.org/story?sid=76578)
-
-[2023 年将是有纪录以来最热的一年](https://www.solidot.org/story?sid=76577)
-
-[微软计划向 10 亿 Windows 10 用户提供 AI 助手 Copilot](https://www.solidot.org/story?sid=76576)
 
