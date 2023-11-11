@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-11-11 16:33:01
+> Update time: 2023-11-12 04:08:24
+
+[微软视窗操作系统诞生四十周年](https://www.solidot.org/story?sid=76597)
+
+[微软撤回了 OneDrive 的退出调查](https://www.solidot.org/story?sid=76596)
+
+[首只胚胎干细胞系“嵌合猴”诞生](https://www.solidot.org/story?sid=76595)
+
+[路透调查披露 SpaceX 数百起未报告工伤](https://www.solidot.org/story?sid=76594)
+
+[执行首次绕月任务的阿波罗 8 号指挥官 Frank Borman 去世](https://www.solidot.org/story?sid=76593)
+
+[中山大学肿瘤实验室多人患癌](https://www.solidot.org/story?sid=76592)
 
 [天文学家称太阳比以前认为的要略小](https://www.solidot.org/story?sid=76591)
 
@@ -8,16 +20,4 @@
 [研究人员发现加拿大巴芬岛富集氦-3和氦-4](https://www.solidot.org/story?sid=76589)
 
 [医生完成了首例脸部和眼睛移植](https://www.solidot.org/story?sid=76588)
-
-[轻博客服务 Tumblr 可能接近生命终点](https://www.solidot.org/story?sid=76587)
-
-[Valve 推出 Steam Deck OLED 掌机](https://www.solidot.org/story?sid=76586)
-
-[沃兹遭遇轻度中风](https://www.solidot.org/story?sid=76585)
-
-[苹果高管称 MacBook Pro 上 的 8GB 内存相当于 PC 的 16 GB 内存](https://www.solidot.org/story?sid=76584)
-
-[微软要求你解释为什么要退出 OneDrive 应用](https://www.solidot.org/story?sid=76583)
-
-[Steam 将允许玩家隐藏特定游戏](https://www.solidot.org/story?sid=76582)
 
