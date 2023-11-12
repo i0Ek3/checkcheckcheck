@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2023-11-13 04:07:56
+> Update time: 2023-11-13 04:33:09
 
 [KDE Plasma 6.0 将默认启用 Wayland](https://www.solidot.org/story?sid=76599)
 
