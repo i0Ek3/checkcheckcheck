@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-11-14 16:33:38
+> Update time: 2023-11-15 04:08:18
+
+[Tumblr 还活着](https://www.solidot.org/story?sid=76619)
+
+[Google 起诉两名滥用 DMCA 通知的越南男子](https://www.solidot.org/story?sid=76618)
+
+[丹麦关键基础设施在上半年遭遇网络攻击](https://www.solidot.org/story?sid=76617)
+
+[决定论和自由意志](https://www.solidot.org/story?sid=76616)
+
+[攻击者利用已披露高危漏洞攻击工行美国子公司](https://www.solidot.org/story?sid=76615)
+
+[Frontier 超算继续高居 Top 500 榜首](https://www.solidot.org/story?sid=76614)
 
 [尼泊尔以破坏社会和谐为由封杀 TikTok](https://www.solidot.org/story?sid=76613)
 
@@ -8,16 +20,4 @@
 [Google 向苹果支付了 Safari 搜索广告收入的 36%](https://www.solidot.org/story?sid=76611)
 
 [SSH 连接的比特翻转错误能暴露密钥](https://www.solidot.org/story?sid=76610)
-
-[Python 混淆包被发现隐藏了秘密后门](https://www.solidot.org/story?sid=76609)
-
-[工商银行美国子公司遭勒索软件攻击](https://www.solidot.org/story?sid=76608)
-
-[澳大利亚港口运营商因网络攻击下线两天](https://www.solidot.org/story?sid=76607)
-
-[Linux 6.7-rc1 释出](https://www.solidot.org/story?sid=76606)
-
-[闪迪固态硬盘故障是设计和制造缺陷导致的](https://www.solidot.org/story?sid=76605)
-
-[Yanis Varoufakis 认为科技封建主义杀死了资本主义](https://www.solidot.org/story?sid=76604)
 
