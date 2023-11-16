@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-16 16:34:29
+> Update time: 2023-11-17 04:09:17
+
+[ChatGPT 进入教室](https://www.solidot.org/story?sid=76642)
+
+[拯救安腾架构](https://www.solidot.org/story?sid=76641)
+
+[16 岁少年用 Blender 创建的动画赢得了英国 YAY UK 动画奖](https://www.solidot.org/story?sid=76640)
+
+[韦伯望远镜发现了一颗下沙雨的行星](https://www.solidot.org/story?sid=76639)
+
+[Google 为成为三星设备的预装应用支付了 80 亿美元](https://www.solidot.org/story?sid=76638)
+
+[微软将 Bing Chat 改名为 Copilot](https://www.solidot.org/story?sid=76637)
+
+[男性精子浓度下降与杀虫剂使用相关](https://www.solidot.org/story?sid=76636)
 
 [微软宣布了自己的 AI 芯片和云计算处理器](https://www.solidot.org/story?sid=76635)
 
 [腾讯囤积了可训练数代大模型的 AI 芯片](https://www.solidot.org/story?sid=76634)
 
 [华硕为主板文字印刷错误道歉](https://www.solidot.org/story?sid=76633)
-
-[Rivian 最新更新导致车载信息系统黑屏](https://www.solidot.org/story?sid=76632)
-
-[宇航员在太空行走时丢失的工具包能用双筒望远镜观察到](https://www.solidot.org/story?sid=76631)
-
-[北极多年冻土区过去 35 年消失了数万湖泊](https://www.solidot.org/story?sid=76630)
-
-[DeepL 在 AI 翻译领域占优](https://www.solidot.org/story?sid=76629)
-
-[AI 在天气预报上首次超越传统预测方法](https://www.solidot.org/story?sid=76628)
-
-[英特尔修复高危 CPU 漏洞 Reptar](https://www.solidot.org/story?sid=76627)
-
-[禁食为何对年长动物效果不大？](https://www.solidot.org/story?sid=76626)
 
