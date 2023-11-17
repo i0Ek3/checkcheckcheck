@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-17 16:34:11
+> Update time: 2023-11-18 04:08:53
 
-[ChatGPT 进入教室](https://www.solidot.org/story?sid=76642)
+[CEO 入狱虚拟女友失效](https://www.solidot.org/story?sid=76654)
 
-[拯救安腾架构](https://www.solidot.org/story?sid=76641)
+[WHO 宣布孤独为全球公共卫生问题](https://www.solidot.org/story?sid=76653)
 
-[16 岁少年用 Blender 创建的动画赢得了英国 YAY UK 动画奖](https://www.solidot.org/story?sid=76640)
+[剑桥词典将幻觉（hallucinate）选为 2023 年的年度单词](https://www.solidot.org/story?sid=76652)
 
-[韦伯望远镜发现了一颗下沙雨的行星](https://www.solidot.org/story?sid=76639)
+[阿里巴巴以美国芯片出口管制为由放弃分拆云计算业务](https://www.solidot.org/story?sid=76651)
 
-[Google 为成为三星设备的预装应用支付了 80 亿美元](https://www.solidot.org/story?sid=76638)
+[美国三分之一的地方报纸消失](https://www.solidot.org/story?sid=76650)
 
-[微软将 Bing Chat 改名为 Copilot](https://www.solidot.org/story?sid=76637)
+[Signal 披露其运营成本](https://www.solidot.org/story?sid=76649)
 
-[男性精子浓度下降与杀虫剂使用相关](https://www.solidot.org/story?sid=76636)
+[三星证实黑客在长达一年时间内窃取了英国客户的个人数据](https://www.solidot.org/story?sid=76648)
 
-[微软宣布了自己的 AI 芯片和云计算处理器](https://www.solidot.org/story?sid=76635)
+[微软将允许欧洲经济区用户卸载 Edge 和移除必应](https://www.solidot.org/story?sid=76647)
 
-[腾讯囤积了可训练数代大模型的 AI 芯片](https://www.solidot.org/story?sid=76634)
+[Google Chrome 将在 2024 年禁用 Manifest V2 扩展](https://www.solidot.org/story?sid=76646)
 
-[华硕为主板文字印刷错误道歉](https://www.solidot.org/story?sid=76633)
+[IBM 从 X/Twitter 撤下广告](https://www.solidot.org/story?sid=76645)
 
