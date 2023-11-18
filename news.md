@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-11-18 16:33:16
+> Update time: 2023-11-19 04:07:56
+
+[《半条命》发布二十五周年](https://www.solidot.org/story?sid=76659)
+
+[2.8 亿辆电动单车减少的石油需求远高于电动汽车](https://www.solidot.org/story?sid=76658)
+
+[苹果、迪士尼等都从 X/Twitter 撤下广告](https://www.solidot.org/story?sid=76657)
+
+[三位 OpenAI 资深 AI 研究员辞职](https://www.solidot.org/story?sid=76656)
+
+[OpenAI 董事会解雇了 CEO Sam Altman](https://www.solidot.org/story?sid=76655)
 
 [CEO 入狱虚拟女友失效](https://www.solidot.org/story?sid=76654)
 
@@ -10,14 +20,4 @@
 [阿里巴巴以美国芯片出口管制为由放弃分拆云计算业务](https://www.solidot.org/story?sid=76651)
 
 [美国三分之一的地方报纸消失](https://www.solidot.org/story?sid=76650)
-
-[Signal 披露其运营成本](https://www.solidot.org/story?sid=76649)
-
-[三星证实黑客在长达一年时间内窃取了英国客户的个人数据](https://www.solidot.org/story?sid=76648)
-
-[微软将允许欧洲经济区用户卸载 Edge 和移除必应](https://www.solidot.org/story?sid=76647)
-
-[Google Chrome 将在 2024 年禁用 Manifest V2 扩展](https://www.solidot.org/story?sid=76646)
-
-[IBM 从 X/Twitter 撤下广告](https://www.solidot.org/story?sid=76645)
 
