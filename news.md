@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-11-20 16:36:06
+> Update time: 2023-11-21 04:08:55
+
+[微软周二补丁日实施二十周年](https://www.solidot.org/story?sid=76671)
+
+[Firefox 用户访问 YouTube 时人为加入了 5 秒加载延迟](https://www.solidot.org/story?sid=76670)
+
+[肥胖者晚上消耗更多能量](https://www.solidot.org/story?sid=76669)
+
+[Google 在 AI 生成音乐中嵌入了听不见的水印](https://www.solidot.org/story?sid=76668)
+
+[Sam Altman 和 Greg Brockman加入微软领导其 AI 研究团队](https://www.solidot.org/story?sid=76667)
 
 [数学家发现第九个 Dedekind 数](https://www.solidot.org/story?sid=76666)
 
@@ -10,14 +20,4 @@
 [Emmett Shear 担任 OpenAI 临时 CEO](https://www.solidot.org/story?sid=76663)
 
 [Inkscape 庆祝诞生 20 周年](https://www.solidot.org/story?sid=76662)
-
-[海葵被发现具有向日性](https://www.solidot.org/story?sid=76661)
-
-[小行星将在 12 月 12 日从参宿四前方飞过](https://www.solidot.org/story?sid=76660)
-
-[《半条命》发布二十五周年](https://www.solidot.org/story?sid=76659)
-
-[2.8 亿辆电动单车减少的石油需求远高于电动汽车](https://www.solidot.org/story?sid=76658)
-
-[苹果、迪士尼等都从 X/Twitter 撤下广告](https://www.solidot.org/story?sid=76657)
 
