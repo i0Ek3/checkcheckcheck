@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-21 16:34:45
+> Update time: 2023-11-22 04:08:04
+
+[波音 787 飞机首次降落南极机场](https://www.solidot.org/story?sid=76684)
+
+[报告预测地球气温将比工业化前水平高出 2.9°C](https://www.solidot.org/story?sid=76683)
+
+[Tim Sweeney 称腾讯并不控制 Epic](https://www.solidot.org/story?sid=76682)
+
+[高效固态电热泵有望改变空调](https://www.solidot.org/story?sid=76681)
+
+[美国司法部寻求对币安罚款逾 40 亿美元](https://www.solidot.org/story?sid=76680)
+
+[亚马逊提供生成式 AI 免费教程](https://www.solidot.org/story?sid=76679)
+
+[Firefox 120 将支持新的隐私控制请求头 Sec-GPC](https://www.solidot.org/story?sid=76678)
+
+[Nothing 公司的消息应用被发现是安全灾难](https://www.solidot.org/story?sid=76677)
 
 [FreeBSD 14.0 释出](https://www.solidot.org/story?sid=76676)
 
 [因拒绝支付赎金勒索软件组织泄露波音 45GB 数据](https://www.solidot.org/story?sid=76675)
-
-[X/Twitter 起诉 Media Matters](https://www.solidot.org/story?sid=76674)
-
-[去年 20 个省人口负增长](https://www.solidot.org/story?sid=76673)
-
-[亚马逊训练超大模型奥林匹斯](https://www.solidot.org/story?sid=76672)
-
-[微软周二补丁日实施二十周年](https://www.solidot.org/story?sid=76671)
-
-[Firefox 用户访问 YouTube 时人为加入了 5 秒加载延迟](https://www.solidot.org/story?sid=76670)
-
-[肥胖者晚上消耗更多能量](https://www.solidot.org/story?sid=76669)
-
-[Google 在 AI 生成音乐中嵌入了听不见的水印](https://www.solidot.org/story?sid=76668)
-
-[Sam Altman 和 Greg Brockman加入微软领导其 AI 研究团队](https://www.solidot.org/story?sid=76667)
 
