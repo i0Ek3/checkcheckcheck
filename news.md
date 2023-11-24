@@ -1,23 +1,3 @@
 # Here The News
-> Update time: 2023-11-24 04:33:04
-
-[世界最富有 1% 人口的碳排放量与最穷的三分之二人口相当](https://www.solidot.org/story?sid=76702)
-
-[联想在美国起诉华硕侵犯其专利](https://www.solidot.org/story?sid=76701)
-
-[NASA 探测器从 1600 万公里外向地球发射激光信号](https://www.solidot.org/story?sid=76700)
-
-[安全研究人员发现 Windows Hello 指纹认证能被绕过](https://www.solidot.org/story?sid=76699)
-
-[Google AI 聊天机器人现在能总结 YouTube 视频](https://www.solidot.org/story?sid=76698)
-
-[朝鲜成功发射侦察卫星，引爆推进器](https://www.solidot.org/story?sid=76697)
-
-[细菌能储存记忆并传递数代](https://www.solidot.org/story?sid=76696)
-
-[研究发现植物周末的光合作用率更高](https://www.solidot.org/story?sid=76695)
-
-[朝鲜 IT 工人使用假名和脚本获得远程外包工作](https://www.solidot.org/story?sid=76694)
-
-[斗鱼 CEO 因涉嫌赌博被捕](https://www.solidot.org/story?sid=76693)
+> Update time: 2023-11-24 16:12:48
 
