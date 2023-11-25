@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-11-25 16:32:50
+> Update time: 2023-11-26 04:07:53
+
+[世界最大冰山加速移动](https://www.solidot.org/story?sid=76720)
+
+[Notepad++ 发布二十周年](https://www.solidot.org/story?sid=76719)
+
+[中国展示申威 SW26010-Pro 处理器](https://www.solidot.org/story?sid=76718)
+
+[Blender 遭遇 DDoS 攻击](https://www.solidot.org/story?sid=76716)
+
+[PHP 8.3 释出](https://www.solidot.org/story?sid=76715)
 
 [GIMP 3.0 计划在 2024 年 5 月发布](https://www.solidot.org/story?sid=76714)
 
@@ -10,14 +20,4 @@
 [燃气电厂正逐渐失去市场](https://www.solidot.org/story?sid=76711)
 
 [科学家探测到逾三十年以来最强宇宙射线](https://www.solidot.org/story?sid=76710)
-
-[微博大 V 用清粉应对前台实名制要求](https://www.solidot.org/story?sid=76709)
-
-[如何在 Windows 上卸载 Edge](https://www.solidot.org/story?sid=76708)
-
-[科学家用 ChatGPT 生成支持科学假设的虚假数据集](https://www.solidot.org/story?sid=76707)
-
-[WHO 对中国儿童肺炎激增表示关注](https://www.solidot.org/story?sid=76706)
-
-[研究发现宇航员可能面临勃起障碍](https://www.solidot.org/story?sid=76705)
 
