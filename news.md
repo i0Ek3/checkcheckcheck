@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-11-27 16:35:33
+> Update time: 2023-11-28 04:08:47
+
+[研究显示睾酮水平波动可预测少女的情绪变动](https://www.solidot.org/story?sid=76734)
+
+[法官称证据显示马斯克和特斯拉无视自动驾驶的致命缺陷](https://www.solidot.org/story?sid=76733)
+
+[住房财富对社会造成了破坏性影响](https://www.solidot.org/story?sid=76732)
+
+[Google Chrome 计划从 2024 年初开始禁用第三方 Cookie](https://www.solidot.org/story?sid=76731)
+
+[Google Drive 用户报告数据丢失](https://www.solidot.org/story?sid=76730)
 
 [字节跳动大幅收缩游戏业务](https://www.solidot.org/story?sid=76729)
 
@@ -10,14 +20,4 @@
 [中国赴日留学生仍然高居第一](https://www.solidot.org/story?sid=76726)
 
 [NASA 探测器将携带你的名字飞往木星](https://www.solidot.org/story?sid=76725)
-
-[英伟达称欧盟中国法国的监管机构都要求它提供显卡信息](https://www.solidot.org/story?sid=76724)
-
-[PipeWire 1.0 释出](https://www.solidot.org/story?sid=76723)
-
-[新 CRISPR 系统为基因编辑带来希望](https://www.solidot.org/story?sid=76722)
-
-[Valeo 起诉英伟达窃取其源代码](https://www.solidot.org/story?sid=76721)
-
-[世界最大冰山加速移动](https://www.solidot.org/story?sid=76720)
 
