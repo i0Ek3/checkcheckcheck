@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-11-27 04:32:51
+> Update time: 2023-11-27 16:12:04
+
+[字节跳动大幅收缩游戏业务](https://www.solidot.org/story?sid=76729)
+
+[Meta 被指利用青少年的弱点设计产品](https://www.solidot.org/story?sid=76728)
+
+[日本 2023 年出生人数可能降至 72.9 万](https://www.solidot.org/story?sid=76727)
+
+[中国赴日留学生仍然高居第一](https://www.solidot.org/story?sid=76726)
+
+[NASA 探测器将携带你的名字飞往木星](https://www.solidot.org/story?sid=76725)
+
+[英伟达称欧盟中国法国的监管机构都要求它提供显卡信息](https://www.solidot.org/story?sid=76724)
 
 [PipeWire 1.0 释出](https://www.solidot.org/story?sid=76723)
 
@@ -8,16 +20,4 @@
 [Valeo 起诉英伟达窃取其源代码](https://www.solidot.org/story?sid=76721)
 
 [世界最大冰山加速移动](https://www.solidot.org/story?sid=76720)
-
-[Notepad++ 发布二十周年](https://www.solidot.org/story?sid=76719)
-
-[中国展示申威 SW26010-Pro 处理器](https://www.solidot.org/story?sid=76718)
-
-[Blender 遭遇 DDoS 攻击](https://www.solidot.org/story?sid=76716)
-
-[PHP 8.3 释出](https://www.solidot.org/story?sid=76715)
-
-[GIMP 3.0 计划在 2024 年 5 月发布](https://www.solidot.org/story?sid=76714)
-
-[英伟达推迟发布中国特供版 AI 芯片](https://www.solidot.org/story?sid=76713)
 
