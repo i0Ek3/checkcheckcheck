@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-29 16:34:45
+> Update time: 2023-11-30 04:09:09
 
-[精子游动模式遵循图灵的反应扩散理论](https://www.solidot.org/story?sid=76745)
+[ownCloud 高危漏洞正被大规模利用](https://www.solidot.org/story?sid=76756)
 
-[黑客组织在恩智浦内部潜伏了逾两年时间](https://www.solidot.org/story?sid=76744)
+[业余天文爱好者发现小行星的卫星](https://www.solidot.org/story?sid=76755)
 
-[德国法庭裁决 Cloudflare 对盗版网站负有责任](https://www.solidot.org/story?sid=76743)
+[日本宇航局 JAXA 遭网络攻击](https://www.solidot.org/story?sid=76754)
 
-[美国法官限制赵长鹏离境](https://www.solidot.org/story?sid=76742)
+[北京互联网法院裁决 AI 生成图片有版权](https://www.solidot.org/story?sid=76753)
 
-[超加工食品与癌症风险增加相关](https://www.solidot.org/story?sid=76741)
+[全球付费电视渗透率将在 2024 年首次下降](https://www.solidot.org/story?sid=76752)
 
-[PeerTube v6 释出](https://www.solidot.org/story?sid=76740)
+[微软开源它收购的实时操作系统 ThreadX](https://www.solidot.org/story?sid=76751)
 
-[RHEL 10 将移除 Xorg 默认使用 Wayland](https://www.solidot.org/story?sid=76739)
+[Unity 裁掉了收购自 Weta 的 265 名员工](https://www.solidot.org/story?sid=76750)
 
-[希音申请在美 IPO](https://www.solidot.org/story?sid=76738)
+[亚马逊推出针对企业客户的 AI 聊天机器人 Q](https://www.solidot.org/story?sid=76749)
 
-[AI 数学奥林匹克奖宣布](https://www.solidot.org/story?sid=76737)
+[牛津研究发现使用互联网不会损害精神健康](https://www.solidot.org/story?sid=76748)
 
-[有 151 年历史的《大众科学》停刊](https://www.solidot.org/story?sid=76736)
+[Google .meme 域名开放注册](https://www.solidot.org/story?sid=76747)
 
