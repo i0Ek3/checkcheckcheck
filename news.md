@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-11-30 16:34:03
+> Update time: 2023-12-01 04:08:54
+
+[华为如何打破美国的芯片出口管控？](https://www.solidot.org/story?sid=76770)
+
+[经济危机与男性自杀率上升相关](https://www.solidot.org/story?sid=76769)
+
+[交通空气污染会引起血压上升](https://www.solidot.org/story?sid=76768)
+
+[Google DeepMind 新 AI 工具帮助创造出逾 700 种新材料](https://www.solidot.org/story?sid=76767)
+
+[Firefox for Android 将在下个月提供逾 400 个扩展](https://www.solidot.org/story?sid=76766)
+
+[马斯克痛骂从 X 上撤下广告的客户](https://www.solidot.org/story?sid=76765)
+
+[天文学家发现一个不同寻常的六行星系统](https://www.solidot.org/story?sid=76764)
+
+[英国生物银行公开 50 万人的全基因组序列](https://www.solidot.org/story?sid=76763)
 
 [Okta 称黑客窃取了所有客户支持用户的数据](https://www.solidot.org/story?sid=76762)
 
 [苹果审查了罗伯特·德尼罗的哥谭奖演讲](https://www.solidot.org/story?sid=76760)
-
-[三星浏览器发布了 Windows PC 版](https://www.solidot.org/story?sid=76759)
-
-[Google 和加拿大政府就在线新闻分享达成协议](https://www.solidot.org/story?sid=76758)
-
-[研究发现 45% 的员工愿意用降薪换取远程工作](https://www.solidot.org/story?sid=76757)
-
-[ownCloud 高危漏洞正被大规模利用](https://www.solidot.org/story?sid=76756)
-
-[业余天文爱好者发现小行星的卫星](https://www.solidot.org/story?sid=76755)
-
-[日本宇航局 JAXA 遭网络攻击](https://www.solidot.org/story?sid=76754)
-
-[北京互联网法院裁决 AI 生成图片有版权](https://www.solidot.org/story?sid=76753)
-
-[全球付费电视渗透率将在 2024 年首次下降](https://www.solidot.org/story?sid=76752)
 
