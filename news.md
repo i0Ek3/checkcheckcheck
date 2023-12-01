@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-01 16:34:39
+> Update time: 2023-12-02 04:08:55
+
+[NIH 暂停被举报操纵数据的中风候选药物临床试验](https://www.solidot.org/story?sid=76779)
+
+[逾四分之三的 web3 游戏失败](https://www.solidot.org/story?sid=76778)
+
+[Windows 用户报告系统上突然安装了惠普打印机软件](https://www.solidot.org/story?sid=76777)
+
+[法官推翻了蒙大拿州对 TikTok 的禁令](https://www.solidot.org/story?sid=76776)
+
+[Google 从今天开始删除不活跃时间逾两年的账号](https://www.solidot.org/story?sid=76775)
+
+[Google 研究人员发现了三个正被利用 0day 影响苹果系统和 Chrome](https://www.solidot.org/story?sid=76774)
+
+[哈佛教授声称的星际天体残余是工业污染物](https://www.solidot.org/story?sid=76773)
+
+[Steam 将停止支持 macOS Mojave，事实上结束 32 位游戏的生命](https://www.solidot.org/story?sid=76772)
+
+[Turbo Pascal 诞生四十年](https://www.solidot.org/story?sid=76771)
 
 [华为如何打破美国的芯片出口管控？](https://www.solidot.org/story?sid=76770)
-
-[经济危机与男性自杀率上升相关](https://www.solidot.org/story?sid=76769)
-
-[交通空气污染会引起血压上升](https://www.solidot.org/story?sid=76768)
-
-[Google DeepMind 新 AI 工具帮助创造出逾 700 种新材料](https://www.solidot.org/story?sid=76767)
-
-[Firefox for Android 将在下个月提供逾 400 个扩展](https://www.solidot.org/story?sid=76766)
-
-[马斯克痛骂从 X 上撤下广告的客户](https://www.solidot.org/story?sid=76765)
-
-[天文学家发现一个不同寻常的六行星系统](https://www.solidot.org/story?sid=76764)
-
-[英国生物银行公开 50 万人的全基因组序列](https://www.solidot.org/story?sid=76763)
-
-[Okta 称黑客窃取了所有客户支持用户的数据](https://www.solidot.org/story?sid=76762)
-
-[苹果审查了罗伯特·德尼罗的哥谭奖演讲](https://www.solidot.org/story?sid=76760)
 
