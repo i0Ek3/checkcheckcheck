@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-12-04 16:35:21
+> Update time: 2023-12-05 04:08:43
+
+[诺奖得主称白天缺少太阳光比晚上的电灯问题更严重](https://www.solidot.org/story?sid=76794)
+
+[一种只通过声音被人类认识的鲸鱼](https://www.solidot.org/story?sid=76793)
+
+[CAPTCHA 正变得恼人而无用](https://www.solidot.org/story?sid=76792)
+
+[3800 公里的海底电缆将风电和太阳能从摩洛哥输送到英国](https://www.solidot.org/story?sid=76791)
+
+[亚马逊将使用 SpaceX 的火箭发射它的宽带卫星](https://www.solidot.org/story?sid=76790)
 
 [世界规模最大的基本收入实验的首个结果](https://www.solidot.org/story?sid=76789)
 
@@ -10,14 +20,4 @@
 [研究显示三分之一的人仍然怀疑人类需要对气候变化负责](https://www.solidot.org/story?sid=76786)
 
 [中国在建核电站比其他任何国家都多](https://www.solidot.org/story?sid=76785)
-
-[Blog 是否可能回归？](https://www.solidot.org/story?sid=76784)
-
-[研究人员量化生成 AI 图像的碳足迹](https://www.solidot.org/story?sid=76783)
-
-[韦氏字典的年度单词是真实的（Authentic）](https://www.solidot.org/story?sid=76782)
-
-[为什么 OpenAI 董事会想要解雇 Sam Altman](https://www.solidot.org/story?sid=76781)
-
-[太阳朝地球喷发了多个日冕物质抛射](https://www.solidot.org/story?sid=76780)
 
