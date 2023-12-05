@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-05 04:33:10
+> Update time: 2023-12-05 16:11:06
+
+[故意坠毁飞机的 YouTube 主播因妨碍调查被判 6 个月](https://www.solidot.org/story?sid=76801)
+
+[Django 5.0 释出](https://www.solidot.org/story?sid=76800)
+
+[美日等国考虑通过增加核电应对气候变化](https://www.solidot.org/story?sid=76799)
+
+[《龙腾世纪4》将首次提供中文版](https://www.solidot.org/story?sid=76798)
+
+[《侠盗猎车6》将在 2025 年发售](https://www.solidot.org/story?sid=76797)
+
+[消费者报告称电动汽车车主报告了更多问题](https://www.solidot.org/story?sid=76796)
+
+[小型恒星周围发现了一颗大型行星](https://www.solidot.org/story?sid=76795)
 
 [诺奖得主称白天缺少太阳光比晚上的电灯问题更严重](https://www.solidot.org/story?sid=76794)
 
 [一种只通过声音被人类认识的鲸鱼](https://www.solidot.org/story?sid=76793)
 
 [CAPTCHA 正变得恼人而无用](https://www.solidot.org/story?sid=76792)
-
-[3800 公里的海底电缆将风电和太阳能从摩洛哥输送到英国](https://www.solidot.org/story?sid=76791)
-
-[亚马逊将使用 SpaceX 的火箭发射它的宽带卫星](https://www.solidot.org/story?sid=76790)
-
-[世界规模最大的基本收入实验的首个结果](https://www.solidot.org/story?sid=76789)
-
-[人细胞制造的微机器人令科学家惊讶](https://www.solidot.org/story?sid=76788)
-
-[蝉的响亮鸣叫光缆也能听到](https://www.solidot.org/story?sid=76787)
-
-[研究显示三分之一的人仍然怀疑人类需要对气候变化负责](https://www.solidot.org/story?sid=76786)
-
-[中国在建核电站比其他任何国家都多](https://www.solidot.org/story?sid=76785)
 
