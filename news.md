@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-07 16:34:29
+> Update time: 2023-12-08 04:08:56
+
+[Meta 的 AI 图像生成器用了 11 亿 Instagram 和 Facebook 照片训练](https://www.solidot.org/story?sid=76830)
+
+[中国面临慢性疾病挑战](https://www.solidot.org/story?sid=76829)
+
+[Meta 开始在 Facebook Messenger 和 Instagram 应用中启用端对端加密](https://www.solidot.org/story?sid=76828)
+
+[检方寻求对青叶真司判处死刑](https://www.solidot.org/story?sid=76827)
+
+[AMD 发布 MI300X，称性能比 H100 高 30%](https://www.solidot.org/story?sid=76826)
+
+[AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU](https://www.solidot.org/story?sid=76825)
+
+[英特尔抨击 AMD 的芯片命名是在欺骗客户](https://www.solidot.org/story?sid=76822)
 
 [ICANN 发布一站式 WHOIS 查询服务](https://www.solidot.org/story?sid=76821)
 
 [Google 发布 AI 大模型 Gemini，称比 GPT-4 更先进](https://www.solidot.org/story?sid=76820)
 
 [新理论尝试统一广义相对论和量子力学](https://www.solidot.org/story?sid=76819)
-
-[Meta 和 IBM 推动 AI 开源](https://www.solidot.org/story?sid=76818)
-
-[研究发现租房对衰老的影响大于抽烟和肥胖](https://www.solidot.org/story?sid=76817)
-
-[维基百科上的有毒评论与编辑活动下降相关联](https://www.solidot.org/story?sid=76816)
-
-[全球教育评估中美国学生数学得分下降](https://www.solidot.org/story?sid=76815)
-
-[中国科学家在城市微观气象预报上取得突破](https://www.solidot.org/story?sid=76814)
-
-[印度月球探测器推进模块返回地球轨道](https://www.solidot.org/story?sid=76813)
-
-[帽带企鹅每天打盹数千次但每次只持续数秒](https://www.solidot.org/story?sid=76812)
 
