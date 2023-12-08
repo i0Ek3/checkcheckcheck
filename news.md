@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-12-08 04:33:14
+> Update time: 2023-12-08 16:11:19
+
+[《博德之门III》赢得 TGA 年度游戏奖](https://www.solidot.org/story?sid=76835)
+
+[systemd 更新引入了 Windows 的蓝屏死机](https://www.solidot.org/story?sid=76834)
+
+[Windows 11 记事本应用加入字数统计功能](https://www.solidot.org/story?sid=76833)
+
+[14 世纪的鼠疫改变了酿酒师的性别构成](https://www.solidot.org/story?sid=76832)
+
+[CPU 新 Spectre 攻击 SLAM](https://www.solidot.org/story?sid=76831)
 
 [Meta 的 AI 图像生成器用了 11 亿 Instagram 和 Facebook 照片训练](https://www.solidot.org/story?sid=76830)
 
@@ -10,14 +20,4 @@
 [检方寻求对青叶真司判处死刑](https://www.solidot.org/story?sid=76827)
 
 [AMD 发布 MI300X，称性能比 H100 高 30%](https://www.solidot.org/story?sid=76826)
-
-[AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU](https://www.solidot.org/story?sid=76825)
-
-[英特尔抨击 AMD 的芯片命名是在欺骗客户](https://www.solidot.org/story?sid=76822)
-
-[ICANN 发布一站式 WHOIS 查询服务](https://www.solidot.org/story?sid=76821)
-
-[Google 发布 AI 大模型 Gemini，称比 GPT-4 更先进](https://www.solidot.org/story?sid=76820)
-
-[新理论尝试统一广义相对论和量子力学](https://www.solidot.org/story?sid=76819)
 
