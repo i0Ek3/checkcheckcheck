@@ -1,5 +1,7 @@
 # Here The News
-> Update time: 2023-12-11 16:11:43
+> Update time: 2023-12-11 16:35:34
+
+[TIOBE 指数显示 C# 过去一年增长幅度最大](https://www.solidot.org/story?sid=76852)
 
 [OpenAI 内部曾争议 Sam Altman 的行为](https://www.solidot.org/story?sid=76851)
 
@@ -18,6 +20,4 @@
 [全球首座第四代核电站在山东投入商业运行](https://www.solidot.org/story?sid=76844)
 
 [腾讯旗下工作室宣布 3A 游戏 Last Sentinel，《黑悟空》将于明年 8 月 20 日发售](https://www.solidot.org/story?sid=76843)
-
-[x.com 是 Twitter，但其它 [a-z].com 呢？](https://www.solidot.org/story?sid=76842)
 
