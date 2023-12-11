@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-11 16:35:34
+> Update time: 2023-12-12 04:09:29
+
+[生物土壤结皮能保护长城免受侵蚀](https://www.solidot.org/story?sid=76860)
+
+[欧盟制定 AI 法案](https://www.solidot.org/story?sid=76859)
+
+[金鱼释放到野外会变成破坏性物种](https://www.solidot.org/story?sid=76858)
+
+[Linux Mint 21.3 Beta 发布，实验性支持 Wayland](https://www.solidot.org/story?sid=76857)
+
+[情绪化进食会削弱从压力中恢复的能力](https://www.solidot.org/story?sid=76856)
+
+[美国膳食委员会争论土豆是蔬菜还是淀粉颗粒](https://www.solidot.org/story?sid=76855)
+
+[增加生育能力的遗传变异会缩短寿命](https://www.solidot.org/story?sid=76854)
+
+[创业公司离开了曾蜂拥而至的德州奥斯丁](https://www.solidot.org/story?sid=76853)
 
 [TIOBE 指数显示 C# 过去一年增长幅度最大](https://www.solidot.org/story?sid=76852)
 
 [OpenAI 内部曾争议 Sam Altman 的行为](https://www.solidot.org/story?sid=76851)
-
-[《Doom》发布 30 周年](https://www.solidot.org/story?sid=76850)
-
-[FDA 批准首个 CRISPR 基因编辑疗法](https://www.solidot.org/story?sid=76849)
-
-[哈勃望远镜在陀螺仪问题后恢复科学观测](https://www.solidot.org/story?sid=76848)
-
-[研究人员披露专门针对泰国的 Linux 秘密恶意程序](https://www.solidot.org/story?sid=76847)
-
-[Linus Torvalds 谈 Linux 现状](https://www.solidot.org/story?sid=76846)
-
-[2024 年全球气温可能首次比工业化前高出 1.5℃](https://www.solidot.org/story?sid=76845)
-
-[全球首座第四代核电站在山东投入商业运行](https://www.solidot.org/story?sid=76844)
-
-[腾讯旗下工作室宣布 3A 游戏 Last Sentinel，《黑悟空》将于明年 8 月 20 日发售](https://www.solidot.org/story?sid=76843)
 
