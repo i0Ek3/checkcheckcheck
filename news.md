@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-12-12 16:34:46
+> Update time: 2023-12-13 04:09:20
+
+[中国企业增加在越南的投资](https://www.solidot.org/story?sid=76868)
+
+[2023 年 Google 搜索最多的新闻是巴以冲突](https://www.solidot.org/story?sid=76867)
+
+[乌克兰通过众筹帮助重建](https://www.solidot.org/story?sid=76866)
+
+[新互联网标准 L4S 试图消除延迟](https://www.solidot.org/story?sid=76865)
+
+[Tumblr 对联邦宇宙协议 ActivityPub 的支持仍然在继续](https://www.solidot.org/story?sid=76864)
 
 [裁判文书将只供内部查询](https://www.solidot.org/story?sid=76863)
 
@@ -10,14 +20,4 @@
 [生物土壤结皮能保护长城免受侵蚀](https://www.solidot.org/story?sid=76860)
 
 [欧盟制定 AI 法案](https://www.solidot.org/story?sid=76859)
-
-[金鱼释放到野外会变成破坏性物种](https://www.solidot.org/story?sid=76858)
-
-[Linux Mint 21.3 Beta 发布，实验性支持 Wayland](https://www.solidot.org/story?sid=76857)
-
-[情绪化进食会削弱从压力中恢复的能力](https://www.solidot.org/story?sid=76856)
-
-[美国膳食委员会争论土豆是蔬菜还是淀粉颗粒](https://www.solidot.org/story?sid=76855)
-
-[增加生育能力的遗传变异会缩短寿命](https://www.solidot.org/story?sid=76854)
 
