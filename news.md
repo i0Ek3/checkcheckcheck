@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-13 16:34:51
+> Update time: 2023-12-14 04:09:08
 
-[VMware 拥抱订阅模式](https://www.solidot.org/story?sid=76870)
+[战争让乌克兰科学家的科研时间减少了五分之一](https://www.solidot.org/story?sid=76880)
 
-[E3 游戏展宣告死亡](https://www.solidot.org/story?sid=76869)
+[猫咪能吃逾两千种动物](https://www.solidot.org/story?sid=76879)
 
-[中国企业增加在越南的投资](https://www.solidot.org/story?sid=76868)
+[英特尔、三星和台积电竞争谁率先推出 2 纳米芯片](https://www.solidot.org/story?sid=76878)
 
-[2023 年 Google 搜索最多的新闻是巴以冲突](https://www.solidot.org/story?sid=76867)
+[微软想要用核能驱动其 AI 业务](https://www.solidot.org/story?sid=76877)
 
-[乌克兰通过众筹帮助重建](https://www.solidot.org/story?sid=76866)
+[乌克兰最大移动运营商遭遇至今最具有破坏性的网络攻击](https://www.solidot.org/story?sid=76876)
 
-[新互联网标准 L4S 试图消除延迟](https://www.solidot.org/story?sid=76865)
+[Canonical 改变了容器管理器项目 LXD 的许可证](https://www.solidot.org/story?sid=76875)
 
-[Tumblr 对联邦宇宙协议 ActivityPub 的支持仍然在继续](https://www.solidot.org/story?sid=76864)
+[Netflix 首次公布其平台上所有影视剧的观影数据](https://www.solidot.org/story?sid=76874)
 
-[裁判文书将只供内部查询](https://www.solidot.org/story?sid=76863)
+[《体育画报》CEO 因 AI 文章丑闻被解雇](https://www.solidot.org/story?sid=76873)
 
-[Arc 浏览器准备发布 Windows 版](https://www.solidot.org/story?sid=76862)
+[FFmpeg 准备加入 CLI 多线程支持](https://www.solidot.org/story?sid=76872)
 
-[陪审团裁决 Google 非法垄断应用商店](https://www.solidot.org/story?sid=76861)
+[欢迎来到无广告互联网](https://www.solidot.org/story?sid=76871)
 
