@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-12-14 16:34:27
+> Update time: 2023-12-15 04:09:16
+
+[考古学家发现距今八千年的要塞](https://www.solidot.org/story?sid=76888)
+
+[在朝鲜当小说家](https://www.solidot.org/story?sid=76887)
+
+[Threads 开始测试 ActivityPub 整合](https://www.solidot.org/story?sid=76886)
+
+[泰议员因推文冒犯君主罪被判 6 年](https://www.solidot.org/story?sid=76885)
+
+[澳大利亚在全球率先禁止工程石](https://www.solidot.org/story?sid=76884)
+
+[Google 地图将允许用户将位置数据本地储存而非云端](https://www.solidot.org/story?sid=76883)
 
 [Ubuntu 24.04 LTS 将默认启用帧指针](https://www.solidot.org/story?sid=76882)
 
@@ -8,16 +20,4 @@
 [战争让乌克兰科学家的科研时间减少了五分之一](https://www.solidot.org/story?sid=76880)
 
 [猫咪能吃逾两千种动物](https://www.solidot.org/story?sid=76879)
-
-[英特尔、三星和台积电竞争谁率先推出 2 纳米芯片](https://www.solidot.org/story?sid=76878)
-
-[微软想要用核能驱动其 AI 业务](https://www.solidot.org/story?sid=76877)
-
-[乌克兰最大移动运营商遭遇至今最具有破坏性的网络攻击](https://www.solidot.org/story?sid=76876)
-
-[Canonical 改变了容器管理器项目 LXD 的许可证](https://www.solidot.org/story?sid=76875)
-
-[Netflix 首次公布其平台上所有影视剧的观影数据](https://www.solidot.org/story?sid=76874)
-
-[《体育画报》CEO 因 AI 文章丑闻被解雇](https://www.solidot.org/story?sid=76873)
 
