@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-15 16:34:41
+> Update time: 2023-12-16 04:08:50
+
+[Google Groups 明年终止支持新闻组（Usenet）](https://www.solidot.org/story?sid=76897)
+
+[拼多多 Temu 指控竞争对手希音使用黑帮风格的恐吓手段](https://www.solidot.org/story?sid=76896)
+
+[A24 和小岛工作室制作《死亡搁浅》真人版](https://www.solidot.org/story?sid=76895)
+
+[亚马逊宽带卫星用太空激光器传输数据](https://www.solidot.org/story?sid=76894)
+
+[加密钱包 Ledger 遭供应链攻击](https://www.solidot.org/story?sid=76893)
+
+[研究发现 AI 聊天机器人并没有增加学校的总体作弊率](https://www.solidot.org/story?sid=76892)
+
+[太阳释放出一个 X2.8 级耀斑](https://www.solidot.org/story?sid=76891)
+
+[Google DeepMind 用大模型解决尚未解决的数学问题](https://www.solidot.org/story?sid=76890)
+
+[AMD 开源 FSR 3](https://www.solidot.org/story?sid=76889)
 
 [考古学家发现距今八千年的要塞](https://www.solidot.org/story?sid=76888)
-
-[在朝鲜当小说家](https://www.solidot.org/story?sid=76887)
-
-[Threads 开始测试 ActivityPub 整合](https://www.solidot.org/story?sid=76886)
-
-[泰议员因推文冒犯君主罪被判 6 年](https://www.solidot.org/story?sid=76885)
-
-[澳大利亚在全球率先禁止工程石](https://www.solidot.org/story?sid=76884)
-
-[Google 地图将允许用户将位置数据本地储存而非云端](https://www.solidot.org/story?sid=76883)
-
-[Ubuntu 24.04 LTS 将默认启用帧指针](https://www.solidot.org/story?sid=76882)
-
-[微软发布运行在 Linux 上的 Windows AI Studio 预览版](https://www.solidot.org/story?sid=76881)
-
-[战争让乌克兰科学家的科研时间减少了五分之一](https://www.solidot.org/story?sid=76880)
-
-[猫咪能吃逾两千种动物](https://www.solidot.org/story?sid=76879)
 
