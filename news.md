@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2023-12-18 16:35:34
+> Update time: 2023-12-19 04:08:53
+
+[因监管问题 Adobe 放弃以 200 亿美元收购 Figma](https://www.solidot.org/story?sid=76915)
+
+[欧盟对 X/Twitter 展开调查](https://www.solidot.org/story?sid=76914)
+
+[华为致力于将鸿蒙变成中国的 Android](https://www.solidot.org/story?sid=76913)
+
+[美国核聚变实验室多次实现“点火”](https://www.solidot.org/story?sid=76912)
+
+[卡塔尔航空因差评封杀了一名 YouTube 主播](https://www.solidot.org/story?sid=76911)
 
 [英特尔、三星和台积电演示 3D 堆叠晶体管](https://www.solidot.org/story?sid=76910)
 
@@ -10,14 +20,4 @@
 [微软宣布 Windows Protected Print Mode](https://www.solidot.org/story?sid=76907)
 
 [美国官员称华为最新芯片性能落后](https://www.solidot.org/story?sid=76906)
-
-[Debian 准备停止支持 i386 架构](https://www.solidot.org/story?sid=76905)
-
-[科学家确定怀孕期间呕吐恶心的原因](https://www.solidot.org/story?sid=76904)
-
-[土星卫星恩克拉多斯有适合生命的成分](https://www.solidot.org/story?sid=76903)
-
-[曾呼吁植树的生态学家对种植同一种树发出警告](https://www.solidot.org/story?sid=76902)
-
-[贝佐斯表示 Blue Origin 需要加快速度](https://www.solidot.org/story?sid=76901)
 
