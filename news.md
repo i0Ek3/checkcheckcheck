@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-19 16:34:19
+> Update time: 2023-12-20 04:07:17
+
+[当乌鸦使用工具时它们的大脑发生了什么？](https://www.solidot.org/story?sid=76928)
+
+[大众汽车将在新车型中重新引入物理按钮](https://www.solidot.org/story?sid=76927)
+
+[法庭裁决犯罪嫌疑人可以拒绝向警方提供手机密码](https://www.solidot.org/story?sid=76926)
+
+[Windows 11 本月更新 KB5033375 破坏了部分设备的 Wi-Fi 连接](https://www.solidot.org/story?sid=76925)
+
+[冰岛火山喷发，危及附近的发电厂](https://www.solidot.org/story?sid=76924)
+
+[亚马逊将制作基于《战锤40K》桌游的电影电视剧](https://www.solidot.org/story?sid=76923)
+
+[锻炼与大脑健康相关](https://www.solidot.org/story?sid=76922)
+
+[伊姆兰·汗使用 AI 在狱中竞选](https://www.solidot.org/story?sid=76921)
 
 [扎克伯格在夏威夷秘密建造庞大避难所](https://www.solidot.org/story?sid=76919)
 
 [Flipboard 支持 ActivityPub 协议](https://www.solidot.org/story?sid=76918)
-
-[Firefox 121 释出，Linux 版默认启用 Wayland](https://www.solidot.org/story?sid=76917)
-
-[Servo 项目的活跃度在增加](https://www.solidot.org/story?sid=76916)
-
-[因监管问题 Adobe 放弃以 200 亿美元收购 Figma](https://www.solidot.org/story?sid=76915)
-
-[欧盟对 X/Twitter 展开调查](https://www.solidot.org/story?sid=76914)
-
-[华为致力于将鸿蒙变成中国的 Android](https://www.solidot.org/story?sid=76913)
-
-[美国核聚变实验室多次实现“点火”](https://www.solidot.org/story?sid=76912)
-
-[卡塔尔航空因差评封杀了一名 YouTube 主播](https://www.solidot.org/story?sid=76911)
-
-[英特尔、三星和台积电演示 3D 堆叠晶体管](https://www.solidot.org/story?sid=76910)
 
