@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-12-20 16:33:07
+> Update time: 2023-12-21 04:08:55
+
+[研究人员发现多元化种植相比单一栽培的好处](https://www.solidot.org/story?sid=76938)
+
+[微软发布工具修复错误安装到系统中的惠普打印软件](https://www.solidot.org/story?sid=76937)
+
+[随着昆虫数量的减少植物花演化出自我授粉](https://www.solidot.org/story?sid=76936)
+
+[加拿大将在 2035 年前停售燃油汽车卡车](https://www.solidot.org/story?sid=76935)
+
+[勒索组织泄露索尼工作室 Insomniac Games 的 1.67TB 内部文件](https://www.solidot.org/story?sid=76934)
+
+[没人知道互联网正在发生什么事](https://www.solidot.org/story?sid=76933)
 
 [丰田大发因测试违规停止全部车型出货](https://www.solidot.org/story?sid=76932)
 
@@ -8,16 +20,4 @@
 [NASA 用猫咪视频演示深空激光高速传输](https://www.solidot.org/story?sid=76930)
 
 [黑猩猩和倭黑猩猩能记住几十年未见的老朋友](https://www.solidot.org/story?sid=76929)
-
-[当乌鸦使用工具时它们的大脑发生了什么？](https://www.solidot.org/story?sid=76928)
-
-[大众汽车将在新车型中重新引入物理按钮](https://www.solidot.org/story?sid=76927)
-
-[法庭裁决犯罪嫌疑人可以拒绝向警方提供手机密码](https://www.solidot.org/story?sid=76926)
-
-[Windows 11 本月更新 KB5033375 破坏了部分设备的 Wi-Fi 连接](https://www.solidot.org/story?sid=76925)
-
-[冰岛火山喷发，危及附近的发电厂](https://www.solidot.org/story?sid=76924)
-
-[亚马逊将制作基于《战锤40K》桌游的电影电视剧](https://www.solidot.org/story?sid=76923)
 
