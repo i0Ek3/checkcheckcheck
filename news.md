@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-12-21 04:33:14
+> Update time: 2023-12-21 16:11:07
+
+[英国最高法院裁决 AI 不能成为专利的发明人](https://www.solidot.org/story?sid=76944)
+
+[澳大利亚土著基因非常独特](https://www.solidot.org/story?sid=76943)
+
+[华纳与派拉蒙讨论合并](https://www.solidot.org/story?sid=76942)
+
+[纽约市当选议员承认用 AI 回答问题](https://www.solidot.org/story?sid=76941)
+
+[LAION 机器学习数据库发现包含儿童色情](https://www.solidot.org/story?sid=76940)
+
+[人类大脑细胞在信号传递上用掉了大量能量](https://www.solidot.org/story?sid=76939)
 
 [研究人员发现多元化种植相比单一栽培的好处](https://www.solidot.org/story?sid=76938)
 
@@ -8,16 +20,4 @@
 [随着昆虫数量的减少植物花演化出自我授粉](https://www.solidot.org/story?sid=76936)
 
 [加拿大将在 2035 年前停售燃油汽车卡车](https://www.solidot.org/story?sid=76935)
-
-[勒索组织泄露索尼工作室 Insomniac Games 的 1.67TB 内部文件](https://www.solidot.org/story?sid=76934)
-
-[没人知道互联网正在发生什么事](https://www.solidot.org/story?sid=76933)
-
-[丰田大发因测试违规停止全部车型出货](https://www.solidot.org/story?sid=76932)
-
-[Qubes OS 4.2.0 释出](https://www.solidot.org/story?sid=76931)
-
-[NASA 用猫咪视频演示深空激光高速传输](https://www.solidot.org/story?sid=76930)
-
-[黑猩猩和倭黑猩猩能记住几十年未见的老朋友](https://www.solidot.org/story?sid=76929)
 
