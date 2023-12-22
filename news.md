@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-22 16:33:10
+> Update time: 2023-12-23 04:08:26
+
+[Hyperloop One 即将倒闭](https://www.solidot.org/story?sid=76958)
+
+[医生发现阴茎骨折风险在圣诞节期间上升](https://www.solidot.org/story?sid=76957)
+
+[女性的眼泪包含能降低男性好斗行为的化合物](https://www.solidot.org/story?sid=76956)
+
+[darktable 4.6.0 释出](https://www.solidot.org/story?sid=76955)
+
+[Android 15 将能告诉用户什么时候换电池](https://www.solidot.org/story?sid=76954)
+
+[部分研究人员不使用 ChatGPT](https://www.solidot.org/story?sid=76953)
+
+[苹果想让 AI 在本地而不是云端运行](https://www.solidot.org/story?sid=76952)
 
 [国家新闻出版署发布《网络游戏管理办法（草案征求意见稿）》](https://www.solidot.org/story?sid=76951)
 
 [GTA 6 黑客被判无限期入院令](https://www.solidot.org/story?sid=76950)
 
 [arXiv 论文开始提供 HTML 格式](https://www.solidot.org/story?sid=76949)
-
-[Usenet 兴衰史](https://www.solidot.org/story?sid=76948)
-
-[科学家发现猫咪也会玩接球游戏](https://www.solidot.org/story?sid=76947)
-
-[三大成人网站在欧盟面临更严厉的监管](https://www.solidot.org/story?sid=76946)
-
-[ULA 准备发射它的首枚 Vulcan 火箭](https://www.solidot.org/story?sid=76945)
-
-[英国最高法院裁决 AI 不能成为专利的发明人](https://www.solidot.org/story?sid=76944)
-
-[澳大利亚土著基因非常独特](https://www.solidot.org/story?sid=76943)
-
-[华纳与派拉蒙讨论合并](https://www.solidot.org/story?sid=76942)
 
