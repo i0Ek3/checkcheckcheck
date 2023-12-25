@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-25 16:33:37
+> Update time: 2023-12-26 04:08:37
+
+[2024 年可能是 PC 用 Arm 替代 x86 的一年](https://www.solidot.org/story?sid=76977)
+
+[真实运动和想象运动时的大脑工作方式不同](https://www.solidot.org/story?sid=76976)
+
+[中国软化网络游戏监管立场](https://www.solidot.org/story?sid=76975)
+
+[比特币矿商加速矿机更新换代](https://www.solidot.org/story?sid=76974)
+
+[X/Twitter 的未来未知](https://www.solidot.org/story?sid=76973)
+
+[“谎言教育”与短长期负面心理后果相关](https://www.solidot.org/story?sid=76972)
+
+[Fedora 40 计划统一 /usr/bin 和 /usr/sbin](https://www.solidot.org/story?sid=76971)
+
+[Enlightenment 0.26.0 释出](https://www.solidot.org/story?sid=76970)
 
 [逾 17% 日本中小学男生每天看屏幕 5 小时以上](https://www.solidot.org/story?sid=76969)
 
 [日美协商参与载人登月计划](https://www.solidot.org/story?sid=76968)
-
-[GTA 5 源代码泄露](https://www.solidot.org/story?sid=76967)
-
-[早期疾病与终生不生育存在关联](https://www.solidot.org/story?sid=76966)
-
-[美国基础设施供应商使用了默认密码如 1111](https://www.solidot.org/story?sid=76965)
-
-[爱与父母聊天的孩子更健谈](https://www.solidot.org/story?sid=76964)
-
-[育碧调查黑客入侵](https://www.solidot.org/story?sid=76963)
-
-[Linux 6.7 推迟到明年 1 月 7 日发布](https://www.solidot.org/story?sid=76962)
-
-[OpenAI 讨论新一轮融资估值可能超过一千亿美元](https://www.solidot.org/story?sid=76961)
-
-[微软终止支持 Windows 10 可能导致 2.4 亿台电脑被淘汰](https://www.solidot.org/story?sid=76960)
 
