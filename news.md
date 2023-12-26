@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2023-12-26 16:32:57
+> Update time: 2023-12-27 04:08:42
+
+[Google Chrome 将在后台检查保存的密码是否已被泄露](https://www.solidot.org/story?sid=76986)
+
+[因被判专利侵权苹果在美国停售 Apple Watch](https://www.solidot.org/story?sid=76985)
+
+[条条大路通罗马？](https://www.solidot.org/story?sid=76984)
+
+[儿童偏爱 YouTube 而非 Netflix](https://www.solidot.org/story?sid=76983)
+
+[MIT 工程师开发出振动胶囊帮助减肥](https://www.solidot.org/story?sid=76982)
 
 [韦伯望远镜拍摄到令人惊叹的天王星照片](https://www.solidot.org/story?sid=76981)
 
 [电子土壤将作物生长速度提高 50%](https://www.solidot.org/story?sid=76980)
 
+[尼日利亚央行解除对加密货币的禁令](https://www.solidot.org/story?sid=76979)
+
 [日本探测器 SLIM 进入绕月轨道](https://www.solidot.org/story?sid=76978)
 
 [2024 年可能是 PC 用 Arm 替代 x86 的一年](https://www.solidot.org/story?sid=76977)
-
-[真实运动和想象运动时的大脑工作方式不同](https://www.solidot.org/story?sid=76976)
-
-[中国软化网络游戏监管立场](https://www.solidot.org/story?sid=76975)
-
-[比特币矿商加速矿机更新换代](https://www.solidot.org/story?sid=76974)
-
-[X/Twitter 的未来未知](https://www.solidot.org/story?sid=76973)
-
-[“谎言教育”与短长期负面心理后果相关](https://www.solidot.org/story?sid=76972)
-
-[Fedora 40 计划统一 /usr/bin 和 /usr/sbin](https://www.solidot.org/story?sid=76971)
 
