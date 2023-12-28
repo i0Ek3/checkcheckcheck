@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2023-12-28 16:33:23
+> Update time: 2023-12-29 04:08:21
+
+[美国卡车引擎制造商因排放作弊被罚 16 亿美元](https://www.solidot.org/story?sid=77003)
+
+[科学家利用分子振动消灭 99% 的癌细胞](https://www.solidot.org/story?sid=77002)
+
+[为什么小米都开始造车？](https://www.solidot.org/story?sid=77001)
+
+[科技巨头对 AI 创业公司的投资远超 VC](https://www.solidot.org/story?sid=77000)
+
+[Debian 项目发表声明对欧盟的 Cyber Resilience Act 表达担忧](https://www.solidot.org/story?sid=76999)
+
+[卡巴斯基披露 Operation Triangulation 漏洞利用细节](https://www.solidot.org/story?sid=76998)
 
 [象棋民间棋王因不良行为被剥夺头衔](https://www.solidot.org/story?sid=76997)
 
@@ -8,16 +20,4 @@
 [《驱魔人》上映 50 周年](https://www.solidot.org/story?sid=76995)
 
 [YouTube 的规模有多庞大](https://www.solidot.org/story?sid=76994)
-
-[滑雪场面临降雪减少的未来](https://www.solidot.org/story?sid=76993)
-
-[有两个子宫的女子生了一对特殊双胞胎](https://www.solidot.org/story?sid=76992)
-
-[成品软件的美妙](https://www.solidot.org/story?sid=76991)
-
-[研究发现精英女性更可能追求有声望的职业](https://www.solidot.org/story?sid=76990)
-
-[英伟达 2023 年半导体营收有望跃居首位](https://www.solidot.org/story?sid=76989)
-
-[Moderna 和默克 mRNA 癌症疫苗效果显著](https://www.solidot.org/story?sid=76988)
 
