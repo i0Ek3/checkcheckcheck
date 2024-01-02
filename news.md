@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-02 16:33:42
+> Update time: 2024-01-03 04:08:40
+
+[Scribus 1.6.0 释出](https://www.solidot.org/story?sid=77031)
+
+[荷兰限制向中国出口深紫外光刻机](https://www.solidot.org/story?sid=77030)
+
+[Blender 诞生三十周年](https://www.solidot.org/story?sid=77029)
+
+[AI 是否在浪费每一个人的时间？](https://www.solidot.org/story?sid=77028)
+
+[尼康、索尼和佳能用相机数字签名对抗 AI 作假](https://www.solidot.org/story?sid=77027)
+
+[Steam 停止支持 Windows 7、Windows 8 和 8.1](https://www.solidot.org/story?sid=77026)
 
 [Gentoo 提供二进制安装选项](https://www.solidot.org/story?sid=77025)
 
@@ -8,16 +20,4 @@
 [X5 级耀斑喷出的日冕物质抛射今天掠过地球](https://www.solidot.org/story?sid=77023)
 
 [1 美元癌症疗法](https://www.solidot.org/story?sid=77022)
-
-[对比 1970 年代的超算和当代的单板电脑树莓派](https://www.solidot.org/story?sid=77021)
-
-[美国原居民组织对在月球上洒人类骨灰发出警告](https://www.solidot.org/story?sid=77020)
-
-[日本西海岸发生里氏 7.6 级地震](https://www.solidot.org/story?sid=77019)
-
-[支付宝变更为无实际控制人](https://www.solidot.org/story?sid=77018)
-
-[在本地运行的 Emacs 辅助编程助手 Emacs Copilot](https://www.solidot.org/story?sid=77017)
-
-[Bruce Perens 谈后开源运动](https://www.solidot.org/story?sid=77016)
 
