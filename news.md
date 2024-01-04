@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-01-04 16:34:03
+> Update time: 2024-01-05 04:08:56
 
-[Substack 因反审查立场面临用户抗议](https://www.solidot.org/story?sid=77044)
+[《漫威银河护卫队》在 Epic 商店限免一周](https://www.solidot.org/story?sid=77056)
 
-[Pascal 作者 Niklaus Wirth 去世，享年 89 岁](https://www.solidot.org/story?sid=77043)
+[微软给键盘加入了新按键 Copilot](https://www.solidot.org/story?sid=77055)
 
-[近半英国青少年认为自己对社交媒体上瘾](https://www.solidot.org/story?sid=77042)
+[Vim 9.1 发布](https://www.solidot.org/story?sid=77054)
 
-[加州无人驾驶汽车免于交通罚单](https://www.solidot.org/story?sid=77041)
+[美国电动汽车销量增长放缓](https://www.solidot.org/story?sid=77053)
 
-[国家新闻出版署去年批准了逾千款游戏](https://www.solidot.org/story?sid=77040)
+[美国电动汽车销量增长放缓](https://www.solidot.org/story?sid=77052)
 
-[新研究显示小麦哲伦星云由两个小星系构成](https://www.solidot.org/story?sid=77039)
+[距今 17.5 亿年的最古老光合作用结构证据](https://www.solidot.org/story?sid=77051)
 
-[科技部规定 AI 不能列为成果共同完成人](https://www.solidot.org/story?sid=77038)
+[2024 年游戏改编电影有望再次打败超英电影](https://www.solidot.org/story?sid=77050)
 
-[2023 年是我国有观测史来最热一年](https://www.solidot.org/story?sid=77037)
+[Steam 在 2023 年发行了逾 1.45 万款游戏](https://www.solidot.org/story?sid=77049)
 
-[比亚迪电动车季度销量首次超过特斯拉](https://www.solidot.org/story?sid=77036)
+[13 岁少年“打败”NES 版《俄罗斯方块》](https://www.solidot.org/story?sid=77048)
 
-[朱诺号探测器近距离飞越木星卫星艾奥](https://www.solidot.org/story?sid=77035)
+[蚂蚁能区分伤口感染并能用抗生素治疗](https://www.solidot.org/story?sid=77047)
 
