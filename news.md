@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-01-05 16:34:01
+> Update time: 2024-01-06 04:08:53
 
-[《漫威银河护卫队》在 Epic 商店限免一周](https://www.solidot.org/story?sid=77056)
+[LG 新 OLED 显示器刷新率达到 480Hz](https://www.solidot.org/story?sid=77066)
 
-[微软给键盘加入了新按键 Copilot](https://www.solidot.org/story?sid=77055)
+[德国 2023 年排放量创 70 年新低](https://www.solidot.org/story?sid=77065)
 
-[Vim 9.1 发布](https://www.solidot.org/story?sid=77054)
+[Windows 11 Build 26020 预览版移除了写字板](https://www.solidot.org/story?sid=77064)
 
-[美国电动汽车销量增长放缓](https://www.solidot.org/story?sid=77053)
+[海王星和天王星的颜色相近](https://www.solidot.org/story?sid=77063)
 
-[距今 17.5 亿年的最古老光合作用结构证据](https://www.solidot.org/story?sid=77051)
+[开源社区更新 22 年历史的 ATI R300 显卡驱动](https://www.solidot.org/story?sid=77062)
 
-[2024 年游戏改编电影有望再次打败超英电影](https://www.solidot.org/story?sid=77050)
+[长新冠削弱运动能力](https://www.solidot.org/story?sid=77061)
 
-[Steam 在 2023 年发行了逾 1.45 万款游戏](https://www.solidot.org/story?sid=77049)
+[日本 2023 年平均气温比常年高 1.29 摄氏度](https://www.solidot.org/story?sid=77060)
 
-[13 岁少年“打败”NES 版《俄罗斯方块》](https://www.solidot.org/story?sid=77048)
+[2024 年的 Linux 内核和开源社区展望](https://www.solidot.org/story?sid=77059)
 
-[蚂蚁能区分伤口感染并能用抗生素治疗](https://www.solidot.org/story?sid=77047)
+[西班牙第二大移动运营商因弱密码被黑客入侵纂改路由表](https://www.solidot.org/story?sid=77058)
 
-[LastPass 强制要求采用 12 位字符主密码](https://www.solidot.org/story?sid=77046)
+[孕期服用对乙酰氨基酚与儿童语言发育迟缓相关](https://www.solidot.org/story?sid=77057)
 
