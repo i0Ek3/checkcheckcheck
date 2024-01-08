@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-01-08 16:35:38
+> Update time: 2024-01-09 04:09:13
 
-[仍然活着的阿波罗宇航员](https://www.solidot.org/story?sid=77074)
+[碱基编辑疗法令血红蛋白病患者摆脱输血依赖超 2 个月](https://www.solidot.org/story?sid=77085)
 
-[迪士尼撤回了对《蒸汽船威利》YouTube 视频的版权要求](https://www.solidot.org/story?sid=77073)
+[OpenAI 称不用版权材料是不可能创造出类似 ChatGPT 的 AI 工具](https://www.solidot.org/story?sid=77084)
 
-[Google 开始通知 Chrome 用户禁用第三方 cookies](https://www.solidot.org/story?sid=77072)
+[现代生活难以离开智能手机](https://www.solidot.org/story?sid=77083)
 
-[Canonical 将改进 Snap 格式的跨发行版支持](https://www.solidot.org/story?sid=77071)
+[北京司法鉴定所能对 AirDrop 匿名投放进行溯源](https://www.solidot.org/story?sid=77082)
 
-[《Portal: Revolution》释出](https://www.solidot.org/story?sid=77070)
+[中国寻求缓解游戏业对新一轮监管的担忧](https://www.solidot.org/story?sid=77081)
 
-[白宫召开会议讨论纳瓦霍国对将人类骨灰送往月球的异议](https://www.solidot.org/story?sid=77069)
+[微软市值有望超越苹果](https://www.solidot.org/story?sid=77080)
 
-[实验性抗生素杀死了致命耐药细菌](https://www.solidot.org/story?sid=77068)
+[随着 AI 的兴起，Web3 停滞不前](https://www.solidot.org/story?sid=77079)
 
-[精子在生殖竞争中会互相合作](https://www.solidot.org/story?sid=77067)
+[直接锂提取技术将加快锂的生产](https://www.solidot.org/story?sid=77078)
 
-[LG 新 OLED 显示器刷新率达到 480Hz](https://www.solidot.org/story?sid=77066)
+[Mozilla 的 AI 计划](https://www.solidot.org/story?sid=77077)
 
-[德国 2023 年排放量创 70 年新低](https://www.solidot.org/story?sid=77065)
+[沿海地区地面下沉速度高于海平面上涨速度](https://www.solidot.org/story?sid=77076)
 
