@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-09 16:34:45
+> Update time: 2024-01-10 04:09:19
+
+[英特尔的 CPU 命名令人困惑](https://www.solidot.org/story?sid=77096)
+
+[科学家警告农药增加致命真菌耐药性](https://www.solidot.org/story?sid=77095)
+
+[多邻国证实裁掉 10% 的合同工用 AI 替代](https://www.solidot.org/story?sid=77094)
+
+[Unity 裁员四分之一](https://www.solidot.org/story?sid=77093)
+
+[韩国会通过禁食狗肉法](https://www.solidot.org/story?sid=77092)
+
+[研究表明征收苏打税有助于减少含糖饮料销售](https://www.solidot.org/story?sid=77091)
 
 [高脂肪饮食影响靠锻炼难以消除](https://www.solidot.org/story?sid=77090)
 
@@ -8,16 +20,4 @@
 [科学家发现瘙痒与微生物相关](https://www.solidot.org/story?sid=77088)
 
 [科学家在瓶装水内发现大量微塑料颗粒](https://www.solidot.org/story?sid=77087)
-
-[美国去年新增 700 个 IT 职位](https://www.solidot.org/story?sid=77086)
-
-[碱基编辑疗法令血红蛋白病患者摆脱输血依赖超 2 个月](https://www.solidot.org/story?sid=77085)
-
-[OpenAI 称不用版权材料是不可能创造出类似 ChatGPT 的 AI 工具](https://www.solidot.org/story?sid=77084)
-
-[现代生活难以离开智能手机](https://www.solidot.org/story?sid=77083)
-
-[北京司法鉴定所能对 AirDrop 匿名投放进行溯源](https://www.solidot.org/story?sid=77082)
-
-[中国寻求缓解游戏业对新一轮监管的担忧](https://www.solidot.org/story?sid=77081)
 
