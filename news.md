@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-11 04:32:52
+> Update time: 2024-01-11 16:11:26
+
+[2023 年音乐流媒体播放量突破 4 万亿](https://www.solidot.org/story?sid=77109)
+
+[微软内部讨论转移或关闭亚洲研究院](https://www.solidot.org/story?sid=77108)
+
+[苹果从印度应用商店下架币安等加密货币应用](https://www.solidot.org/story?sid=77107)
+
+[Valve 允许使用 AI 开发的游戏上架 Steam](https://www.solidot.org/story?sid=77106)
+
+[中国对美出口减少五分之一](https://www.solidot.org/story?sid=77105)
+
+[Meta 开始在 Facebook 和 Instagram 上对未成年人隐藏敏感内容](https://www.solidot.org/story?sid=77104)
 
 [爱情如何改变我们的大脑](https://www.solidot.org/story?sid=77103)
 
@@ -8,16 +20,4 @@
 [卫星引发的新“星球大战”](https://www.solidot.org/story?sid=77101)
 
 [NASA 推迟阿耳忒弥斯月球载人飞行任务一年](https://www.solidot.org/story?sid=77100)
-
-[Netflix 公布《三体》预告片](https://www.solidot.org/story?sid=77099)
-
-[2023 年是有记录以来最热的一年](https://www.solidot.org/story?sid=77098)
-
-[HPE 以 140 亿美元收购瞻博网络](https://www.solidot.org/story?sid=77097)
-
-[英特尔的 CPU 命名令人困惑](https://www.solidot.org/story?sid=77096)
-
-[科学家警告农药增加致命真菌耐药性](https://www.solidot.org/story?sid=77095)
-
-[多邻国证实裁掉 10% 的合同工用 AI 替代](https://www.solidot.org/story?sid=77094)
 
