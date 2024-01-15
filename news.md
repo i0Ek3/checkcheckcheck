@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-01-15 16:36:03
+> Update time: 2024-01-16 04:08:44
+
+[贝塔伏特准备量产有 50 年寿命的核电池](https://www.solidot.org/story?sid=77138)
+
+[Linux Mint 21.3 发布](https://www.solidot.org/story?sid=77137)
+
+[天文学家发现一颗一面覆盖岩浆的类地行星](https://www.solidot.org/story?sid=77136)
+
+[美国会传唤英特尔、英伟达和美光 CEO](https://www.solidot.org/story?sid=77135)
+
+[非自愿独身者对女性有着根本性的思维错误](https://www.solidot.org/story?sid=77134)
+
+[1 亿年前的蝉可能发不出响亮的声音](https://www.solidot.org/story?sid=77133)
+
+[因冬季风暴导致无网无电 Linux 6.8 暂停合并](https://www.solidot.org/story?sid=77132)
 
 [Steam Deck LCD 掌机使用的 APU 被发现有未使用的核心](https://www.solidot.org/story?sid=77131)
 
 [NASA 展示 X-59 Quess 低音爆超音速飞机](https://www.solidot.org/story?sid=77130)
 
 [黑客能感染联网扳手安装恶意软件](https://www.solidot.org/story?sid=77129)
-
-[研究称指纹并非是独一无二的](https://www.solidot.org/story?sid=77128)
-
-[苹果早在 2019 年就知道 AirDrop 能被溯源](https://www.solidot.org/story?sid=77126)
-
-[研究发现在美最高法院推翻罗诉韦德案后想要孩子的密歇根成年人减少了](https://www.solidot.org/story?sid=77125)
-
-[OpenWrt 项目考虑推出开放路由器 OpenWrt One](https://www.solidot.org/story?sid=77124)
-
-[扮演 HyperVerse CEO 的英国演员向受害者道歉](https://www.solidot.org/story?sid=77123)
-
-[深圳公司推出预装 SteamOS 的掌机](https://www.solidot.org/story?sid=77122)
-
-[Meta 的 Threads 为何要整合联邦宇宙](https://www.solidot.org/story?sid=77121)
 
