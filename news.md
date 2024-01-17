@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-01-17 16:35:26
+> Update time: 2024-01-18 04:09:12
 
-[腾讯去年大幅缩减了投资](https://www.solidot.org/story?sid=77149)
+[上海 AI 实验室开源 InternLM2](https://www.solidot.org/story?sid=77160)
 
-[研究发现风力涡轮机对鸟类数量无影响](https://www.solidot.org/story?sid=77148)
+[打破比特币匿名神话的 27 岁研究员](https://www.solidot.org/story?sid=77159)
 
-[Anthropic 警告 AI 中毒可能导致开源大模型变成潜伏的间谍](https://www.solidot.org/story?sid=77147)
+[苹果仍然想收取第三方支付的佣金](https://www.solidot.org/story?sid=77158)
 
-[IDC 数据显示去年全球手机出货量创 10 年新低](https://www.solidot.org/story?sid=77146)
+[Google 承认在 Chrome 隐身模式下它仍然在跟踪用户](https://www.solidot.org/story?sid=77157)
 
-[天文学家使用哈勃观测系外行星的天气](https://www.solidot.org/story?sid=77145)
+[研究人员发现 Google 搜索质量确实在劣化](https://www.solidot.org/story?sid=77156)
 
-[城市青年在大都市内最孤立](https://www.solidot.org/story?sid=77144)
+[2023 年中国芯片进口额下跌 15%](https://www.solidot.org/story?sid=77155)
 
-[苹果将从智能手表中移除血氧功能以避免被禁售](https://www.solidot.org/story?sid=77143)
+[Google 裁掉了数百名销售用 AI 替代](https://www.solidot.org/story?sid=77154)
 
-[Google 停止了将完整版 Chromium 带到 Fuchsia 的尝试](https://www.solidot.org/story?sid=77142)
+[Wine 9.0 释出](https://www.solidot.org/story?sid=77153)
 
-[为遵守欧盟法律苹果准备切分欧盟的 App Store‌](https://www.solidot.org/story?sid=77141)
+[Take-Two 和 Remedy 因 R 字母产生商标纠纷](https://www.solidot.org/story?sid=77152)
 
-[微软最新的 Windows 10 更新出错需要使用命令行修正](https://www.solidot.org/story?sid=77140)
+[克隆恒河猴首次活到成年](https://www.solidot.org/story?sid=77151)
 
