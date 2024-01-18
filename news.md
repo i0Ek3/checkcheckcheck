@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-01-18 16:34:06
+> Update time: 2024-01-19 04:08:58
+
+[电子屏幕上的阅读效果低于纸质书](https://www.solidot.org/story?sid=77170)
+
+[ChatGPT 对 Bing 搜索市场份额的提升微乎其微](https://www.solidot.org/story?sid=77169)
+
+[Google 将调整搜索排名以遵守欧盟的监管规定](https://www.solidot.org/story?sid=77168)
+
+[男女预期寿命缩小差距](https://www.solidot.org/story?sid=77167)
+
+[Linus Torvalds 家的供电有望恢复](https://www.solidot.org/story?sid=77166)
 
 [特斯拉 Model Y 是 2023 年最畅销车型](https://www.solidot.org/story?sid=77165)
 
@@ -10,14 +20,4 @@
 [AWS 准备对 IPv4 地址收费](https://www.solidot.org/story?sid=77162)
 
 [富士通就财务软件 bug 导致数百人被错误定罪道歉](https://www.solidot.org/story?sid=77161)
-
-[上海 AI 实验室开源 InternLM2](https://www.solidot.org/story?sid=77160)
-
-[打破比特币匿名神话的 27 岁研究员](https://www.solidot.org/story?sid=77159)
-
-[苹果仍然想收取第三方支付的佣金](https://www.solidot.org/story?sid=77158)
-
-[Google 承认在 Chrome 隐身模式下它仍然在跟踪用户](https://www.solidot.org/story?sid=77157)
-
-[研究人员发现 Google 搜索质量确实在劣化](https://www.solidot.org/story?sid=77156)
 
