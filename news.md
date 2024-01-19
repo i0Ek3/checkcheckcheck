@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-19 16:35:11
+> Update time: 2024-01-20 04:09:02
+
+[GCHQ 公布破译纳粹密码的计算机 Colossus 的新照片](https://www.solidot.org/story?sid=77176)
+
+[Hans Reiser 回应 Linux 内核弃用 ReiserFS](https://www.solidot.org/story?sid=77175)
+
+[Pornhub 要求上传到其平台的视频提供同意证明](https://www.solidot.org/story?sid=77174)
+
+[风筝驱动便捷式电力供应](https://www.solidot.org/story?sid=77173)
+
+[Chrome 的 Android 版本开始默认启用 WebGPU](https://www.solidot.org/story?sid=77172)
+
+[7100 万用户凭证泄露](https://www.solidot.org/story?sid=77171)
 
 [电子屏幕上的阅读效果低于纸质书](https://www.solidot.org/story?sid=77170)
 
@@ -8,16 +20,4 @@
 [Google 将调整搜索排名以遵守欧盟的监管规定](https://www.solidot.org/story?sid=77168)
 
 [男女预期寿命缩小差距](https://www.solidot.org/story?sid=77167)
-
-[Linus Torvalds 家的供电有望恢复](https://www.solidot.org/story?sid=77166)
-
-[特斯拉 Model Y 是 2023 年最畅销车型](https://www.solidot.org/story?sid=77165)
-
-[Google DeepMind 新 AI 系统能解复杂几何问题](https://www.solidot.org/story?sid=77164)
-
-[美国癌症死亡人数下降](https://www.solidot.org/story?sid=77163)
-
-[AWS 准备对 IPv4 地址收费](https://www.solidot.org/story?sid=77162)
-
-[富士通就财务软件 bug 导致数百人被错误定罪道歉](https://www.solidot.org/story?sid=77161)
 
