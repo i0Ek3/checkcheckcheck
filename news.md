@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-20 16:33:09
+> Update time: 2024-01-21 04:08:31
+
+[微软称俄罗斯情报机构入侵了其高管电邮账号](https://www.solidot.org/story?sid=77182)
+
+[火星赤道下发现蕴藏两米厚的水冰](https://www.solidot.org/story?sid=77181)
+
+[华为发布不兼容 Android 应用的鸿蒙星河版](https://www.solidot.org/story?sid=77180)
+
+[海尔要求开源开发者从 GitHub 移除插件 Home Assistant](https://www.solidot.org/story?sid=77179)
+
+[中国科学家发现一种类新冠病毒对小鼠致命](https://www.solidot.org/story?sid=77178)
+
+[韦伯望远镜发现已知最早的黑洞](https://www.solidot.org/story?sid=77177)
 
 [GCHQ 公布破译纳粹密码的计算机 Colossus 的新照片](https://www.solidot.org/story?sid=77176)
 
@@ -8,16 +20,4 @@
 [Pornhub 要求上传到其平台的视频提供同意证明](https://www.solidot.org/story?sid=77174)
 
 [风筝驱动便捷式电力供应](https://www.solidot.org/story?sid=77173)
-
-[Chrome 的 Android 版本开始默认启用 WebGPU](https://www.solidot.org/story?sid=77172)
-
-[7100 万用户凭证泄露](https://www.solidot.org/story?sid=77171)
-
-[电子屏幕上的阅读效果低于纸质书](https://www.solidot.org/story?sid=77170)
-
-[ChatGPT 对 Bing 搜索市场份额的提升微乎其微](https://www.solidot.org/story?sid=77169)
-
-[Google 将调整搜索排名以遵守欧盟的监管规定](https://www.solidot.org/story?sid=77168)
-
-[男女预期寿命缩小差距](https://www.solidot.org/story?sid=77167)
 
