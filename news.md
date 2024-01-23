@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-01-23 16:35:32
+> Update time: 2024-01-24 04:09:17
 
-[惠普 CEO 称病毒能通过墨盒传播到打印机到内部网络](https://www.solidot.org/story?sid=77198)
+[科学家发现加热和冷却之间存在根本性的不对称](https://www.solidot.org/story?sid=77208)
 
-[为遵守欧盟法规 Meta 允许欧盟用户将 Instagram、Messenger 和 Facebook 账号分离](https://www.solidot.org/story?sid=77197)
+[Google、AT&T 和 Vodafone 向 Starlink 竞争对手投资 2 亿美元](https://www.solidot.org/story?sid=77207)
 
-[捷克共和国将在 2032 年禁止 IPv4](https://www.solidot.org/story?sid=77196)
+[芥川奖得主使用 ChatGPT 辅助写作](https://www.solidot.org/story?sid=77206)
 
-[氦气是一种难以回收不可更新的重要材料](https://www.solidot.org/story?sid=77195)
+[Vision Pro 首周预购量最多 18 万部](https://www.solidot.org/story?sid=77205)
 
-[NTP 协议作者 David Mills 去世，享年 85 岁](https://www.solidot.org/story?sid=77194)
+[因电力基本耗尽日本关闭登月探测器](https://www.solidot.org/story?sid=77204)
 
-[研究人员研发出一种自我供电的传感器](https://www.solidot.org/story?sid=77193)
+[狗摇尾巴表达什么意义](https://www.solidot.org/story?sid=77203)
 
-[毒性 RNA 短链可能导致了阿尔茨海默病](https://www.solidot.org/story?sid=77192)
+[因电力基本耗尽日本关闭登月探测器](https://www.solidot.org/story?sid=77202)
 
-[Elizabeth Holmes 被禁止在 90 年内参与美国联邦政府的医疗保健项目](https://www.solidot.org/story?sid=77191)
+[MIT 研究发现大部分工作人类仍然比 AI 便宜](https://www.solidot.org/story?sid=77201)
 
-[黑客利用 VMware 0day 漏洞长达两年时间](https://www.solidot.org/story?sid=77190)
+[喀麦隆率先大规模推广疟疾疫苗](https://www.solidot.org/story?sid=77200)
 
-[Linux 6.8-rc1 释出](https://www.solidot.org/story?sid=77189)
+[Terraform Labs 在美国申请破产保护](https://www.solidot.org/story?sid=77199)
 
