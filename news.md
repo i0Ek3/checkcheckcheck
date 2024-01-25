@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-01-25 04:33:17
+> Update time: 2024-01-25 16:11:17
+
+[青叶真司被判处死刑](https://www.solidot.org/story?sid=77218)
+
+[交配屡次遭拒的雄性果蝇会感到沮丧和压力巨大](https://www.solidot.org/story?sid=77217)
+
+[Chrome 121 释出](https://www.solidot.org/story?sid=77216)
+
+[Firefox 122 释出](https://www.solidot.org/story?sid=77215)
+
+[天文学家发现一个难以解释的天体](https://www.solidot.org/story?sid=77214)
 
 [亚洲国家的星巴克拿铁购买力](https://www.solidot.org/story?sid=77213)
 
@@ -10,14 +20,4 @@
 [国家新闻出版署删除《网络游戏管理办法》草案](https://www.solidot.org/story?sid=77210)
 
 [中国公司开发 512 核 AMD EPYC 笔记本电脑](https://www.solidot.org/story?sid=77209)
-
-[科学家发现加热和冷却之间存在根本性的不对称](https://www.solidot.org/story?sid=77208)
-
-[Google、AT&T 和 Vodafone 向 Starlink 竞争对手投资 2 亿美元](https://www.solidot.org/story?sid=77207)
-
-[芥川奖得主使用 ChatGPT 辅助写作](https://www.solidot.org/story?sid=77206)
-
-[Vision Pro 首周预购量最多 18 万部](https://www.solidot.org/story?sid=77205)
-
-[因电力基本耗尽日本关闭登月探测器](https://www.solidot.org/story?sid=77204)
 
