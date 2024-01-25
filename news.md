@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-25 16:35:16
+> Update time: 2024-01-26 04:08:37
+
+[Mac 电脑诞生四十年](https://www.solidot.org/story?sid=77224)
+
+[纽约市将社交媒体归类为环境毒素](https://www.solidot.org/story?sid=77223)
+
+[宝可梦公司声明调查《幻兽帕鲁》的潜在抄袭指控](https://www.solidot.org/story?sid=77222)
+
+[上万艺术家指控 Midjourney 使用其作品训练 AI](https://www.solidot.org/story?sid=77221)
+
+[末日时钟仍然距离午夜 90 秒](https://www.solidot.org/story?sid=77220)
+
+[英伟达新驱动使用 AI 将 SDR 内容转变为 HDR](https://www.solidot.org/story?sid=77219)
 
 [青叶真司被判处死刑](https://www.solidot.org/story?sid=77218)
 
@@ -8,16 +20,4 @@
 [Chrome 121 释出](https://www.solidot.org/story?sid=77216)
 
 [Firefox 122 释出](https://www.solidot.org/story?sid=77215)
-
-[天文学家发现一个难以解释的天体](https://www.solidot.org/story?sid=77214)
-
-[亚洲国家的星巴克拿铁购买力](https://www.solidot.org/story?sid=77213)
-
-[黑客正在大规模利用 Ivanti VPN 漏洞](https://www.solidot.org/story?sid=77212)
-
-[Google Chrome 加入 AI 功能](https://www.solidot.org/story?sid=77211)
-
-[国家新闻出版署删除《网络游戏管理办法》草案](https://www.solidot.org/story?sid=77210)
-
-[中国公司开发 512 核 AMD EPYC 笔记本电脑](https://www.solidot.org/story?sid=77209)
 
