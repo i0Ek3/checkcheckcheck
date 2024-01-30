@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-30 16:32:57
+> Update time: 2024-01-31 04:08:14
+
+[俄罗斯维基组织终止运作](https://www.solidot.org/story?sid=77263)
+
+[科学家纪录下首批传播型阿尔茨海默病例](https://www.solidot.org/story?sid=77262)
+
+[甲骨文将 Solaris 11.4 支持时间延长到 2037 年](https://www.solidot.org/story?sid=77261)
+
+[研究人员发现更快的整数线性规划求解方法](https://www.solidot.org/story?sid=77260)
+
+[韩国 2023 年出生率降至每位妇女 0.72 个孩子](https://www.solidot.org/story?sid=77259)
+
+[亚马逊终止收购 iRobot](https://www.solidot.org/story?sid=77258)
 
 [书写比键盘输入更有利于记忆](https://www.solidot.org/story?sid=77257)
 
@@ -8,16 +20,4 @@
 [Embracer Group 取消《杀出重围》系列新作开发](https://www.solidot.org/story?sid=77255)
 
 [NSA 承认从数据经纪人购买数据监视美国人](https://www.solidot.org/story?sid=77254)
-
-[牧师称上帝告诉他推出加密货币，他如今被控将 130 万美元收入囊中](https://www.solidot.org/story?sid=77253)
-
-[Google Chrome 发布了 Windows on Arm 版本](https://www.solidot.org/story?sid=77252)
-
-[中国开发者将《武林外传》盗版视频上传到 npm](https://www.solidot.org/story?sid=77251)
-
-[首例白犀牛体外受精胚胎移植成功](https://www.solidot.org/story?sid=77250)
-
-[调查显示逾四成农村大龄男青年存在婚配问题](https://www.solidot.org/story?sid=77249)
-
-[德国铁路公司招聘 Windows 3.1 管理员](https://www.solidot.org/story?sid=77248)
 
