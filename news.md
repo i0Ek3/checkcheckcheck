@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-01-31 16:33:02
+> Update time: 2024-02-01 04:08:06
+
+[研究人员尝试将大肠杆菌作为显示器去玩《Doom》](https://www.solidot.org/story?sid=77273)
+
+[网信办去年约谈了逾万家网站](https://www.solidot.org/story?sid=77272)
+
+[ICANN 提议内部使用的新顶级域名.INTERNAL](https://www.solidot.org/story?sid=77270)
+
+[Google 过去一年减少了 7700 名员工](https://www.solidot.org/story?sid=77269)
+
+[德国警方扣押了价值 20 亿欧元的比特币](https://www.solidot.org/story?sid=77268)
+
+[Instagram Threads 下载量位居苹果 Google 应用商店前十](https://www.solidot.org/story?sid=77267)
 
 [微软游戏业务收入超过了 Windows 部门](https://www.solidot.org/story?sid=77266)
 
@@ -8,16 +20,4 @@
 [Raspberry Pi 计划在伦敦 IPO](https://www.solidot.org/story?sid=77264)
 
 [俄罗斯维基组织终止运作](https://www.solidot.org/story?sid=77263)
-
-[科学家纪录下首批传播型阿尔茨海默病例](https://www.solidot.org/story?sid=77262)
-
-[甲骨文将 Solaris 11.4 支持时间延长到 2037 年](https://www.solidot.org/story?sid=77261)
-
-[研究人员发现更快的整数线性规划求解方法](https://www.solidot.org/story?sid=77260)
-
-[韩国 2023 年出生率降至每位妇女 0.72 个孩子](https://www.solidot.org/story?sid=77259)
-
-[亚马逊终止收购 iRobot](https://www.solidot.org/story?sid=77258)
-
-[书写比键盘输入更有利于记忆](https://www.solidot.org/story?sid=77257)
 
