@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-01 16:33:21
+> Update time: 2024-02-02 04:08:28
+
+[科学家在中国母亲婴儿研究中发现新突变](https://www.solidot.org/story?sid=77281)
+
+[微短剧在美国逐渐火爆](https://www.solidot.org/story?sid=77280)
+
+[日本月球探测器发回照片，因日落将休眠](https://www.solidot.org/story?sid=77278)
+
+[卫星正变成新的手机信号塔](https://www.solidot.org/story?sid=77277)
+
+[微软招募 Rust 开发者重写核心 C# 代码](https://www.solidot.org/story?sid=77276)
+
+[FBI 移除了安装在路由器上的中国僵尸网络程序](https://www.solidot.org/story?sid=77275)
+
+[复旦杀死书记的教师被判死缓](https://www.solidot.org/story?sid=77274)
 
 [研究人员尝试将大肠杆菌作为显示器去玩《Doom》](https://www.solidot.org/story?sid=77273)
 
 [网信办去年约谈了逾万家网站](https://www.solidot.org/story?sid=77272)
 
 [ICANN 提议内部使用的新顶级域名.INTERNAL](https://www.solidot.org/story?sid=77270)
-
-[Google 过去一年减少了 7700 名员工](https://www.solidot.org/story?sid=77269)
-
-[德国警方扣押了价值 20 亿欧元的比特币](https://www.solidot.org/story?sid=77268)
-
-[Instagram Threads 下载量位居苹果 Google 应用商店前十](https://www.solidot.org/story?sid=77267)
-
-[微软游戏业务收入超过了 Windows 部门](https://www.solidot.org/story?sid=77266)
-
-[俄罗斯遭遇大规模网络故障](https://www.solidot.org/story?sid=77265)
-
-[Raspberry Pi 计划在伦敦 IPO](https://www.solidot.org/story?sid=77264)
-
-[俄罗斯维基组织终止运作](https://www.solidot.org/story?sid=77263)
 
