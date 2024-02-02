@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-02-02 16:32:48
+> Update time: 2024-02-03 04:07:59
+
+[Google Maps 引入生成式 AI 功能](https://www.solidot.org/story?sid=77289)
+
+[向 Wikileaks 泄密的前 CIA 软件工程师被判 40 年](https://www.solidot.org/story?sid=77288)
+
+[食蟹猴研究显示孕期主要组织器官经历了重连](https://www.solidot.org/story?sid=77287)
+
+[Google Bard 加入了图像生成功能](https://www.solidot.org/story?sid=77286)
+
+[Team Xecuter 成员每月在狱中向任天堂支付 25 美元](https://www.solidot.org/story?sid=77285)
 
 [Starlink 激光系统每天传输 42PB 数据](https://www.solidot.org/story?sid=77283)
 
@@ -10,14 +20,4 @@
 [微短剧在美国逐渐火爆](https://www.solidot.org/story?sid=77280)
 
 [科学家捕捉到光合作用“从水到氧”过程](https://www.solidot.org/story?sid=77279)
-
-[日本月球探测器发回照片，因日落将休眠](https://www.solidot.org/story?sid=77278)
-
-[卫星正变成新的手机信号塔](https://www.solidot.org/story?sid=77277)
-
-[微软招募 Rust 开发者重写核心 C# 代码](https://www.solidot.org/story?sid=77276)
-
-[FBI 移除了安装在路由器上的中国僵尸网络程序](https://www.solidot.org/story?sid=77275)
-
-[复旦杀死书记的教师被判死缓](https://www.solidot.org/story?sid=77274)
 
