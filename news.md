@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-02-04 04:32:49
+> Update time: 2024-02-04 16:10:25
+
+[全球生育率普遍下降](https://www.solidot.org/story?sid=77298)
+
+[在战争模拟游戏中 AI 聊天机器人倾向于选择核攻击](https://www.solidot.org/story?sid=77297)
+
+[Threads 月活跃用户达到 1.3 亿](https://www.solidot.org/story?sid=77296)
+
+[美国环保署提议将 PFAS 归类为有害物质](https://www.solidot.org/story?sid=77295)
+
+[日本将为数字游牧民提供半年的居留签证](https://www.solidot.org/story?sid=77294)
+
+[亚马逊计划 Fire TV 用自己的操作系统替代 Android](https://www.solidot.org/story?sid=77293)
 
 [Google 搜索杀死了网页缓存](https://www.solidot.org/story?sid=77292)
 
@@ -8,16 +20,4 @@
 [扎克伯格解释为什么 Meta 开源大模型](https://www.solidot.org/story?sid=77290)
 
 [Google Maps 引入生成式 AI 功能](https://www.solidot.org/story?sid=77289)
-
-[向 Wikileaks 泄密的前 CIA 软件工程师被判 40 年](https://www.solidot.org/story?sid=77288)
-
-[食蟹猴研究显示孕期主要组织器官经历了重连](https://www.solidot.org/story?sid=77287)
-
-[Google Bard 加入了图像生成功能](https://www.solidot.org/story?sid=77286)
-
-[Team Xecuter 成员每月在狱中向任天堂支付 25 美元](https://www.solidot.org/story?sid=77285)
-
-[Starlink 激光系统每天传输 42PB 数据](https://www.solidot.org/story?sid=77283)
-
-[字节跳动在美游说开支逾 800 万美元](https://www.solidot.org/story?sid=77282)
 
