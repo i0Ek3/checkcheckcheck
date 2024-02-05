@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-02-05 04:32:41
+> Update time: 2024-02-05 16:10:46
+
+[Visual Studio Code 更新在 Ubuntu 上出错](https://www.solidot.org/story?sid=77308)
+
+[论文工厂开始贿赂期刊编辑](https://www.solidot.org/story?sid=77307)
+
+[养狗的儿童体能活动更频繁](https://www.solidot.org/story?sid=77306)
+
+[美国能源部估计全国 2% 的电力被用于挖比特币](https://www.solidot.org/story?sid=77305)
+
+[Debian 的 64 位 time_t 时间计数转换正在进行中](https://www.solidot.org/story?sid=77304)
 
 [Reddit 最快下个月在纽约 IPO](https://www.solidot.org/story?sid=77303)
 
@@ -10,14 +20,4 @@
 [WHO 报告估计全球癌症病例到 2050 年将增加 77%](https://www.solidot.org/story?sid=77300)
 
 [终生接触音乐有助于大脑健康](https://www.solidot.org/story?sid=77299)
-
-[全球生育率普遍下降](https://www.solidot.org/story?sid=77298)
-
-[在战争模拟游戏中 AI 聊天机器人倾向于选择核攻击](https://www.solidot.org/story?sid=77297)
-
-[Threads 月活跃用户达到 1.3 亿](https://www.solidot.org/story?sid=77296)
-
-[美国环保署提议将 PFAS 归类为有害物质](https://www.solidot.org/story?sid=77295)
-
-[日本将为数字游牧民提供半年的居留签证](https://www.solidot.org/story?sid=77294)
 
