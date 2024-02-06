@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-06 04:32:34
+> Update time: 2024-02-06 16:11:03
+
+[Google 向 Rust 基金会资助了 100 万美元](https://www.solidot.org/story?sid=77321)
+
+[Hugging Face 发布开源自定义 AI 聊天助手](https://www.solidot.org/story?sid=77320)
+
+[GitHub 短暂屏蔽了它的联合创始人、前 CEO 的账号](https://www.solidot.org/story?sid=77319)
+
+[英国国王确诊癌症](https://www.solidot.org/story?sid=77318)
+
+[人类对温度变化非常敏感](https://www.solidot.org/story?sid=77317)
+
+[研究估计仙女星系质量约为太阳的 1.14 万亿倍](https://www.solidot.org/story?sid=77316)
+
+[六成 Steam 玩家仍然用 1080p 显示屏分辨率](https://www.solidot.org/story?sid=77315)
+
+[骗子使用 deepfake 冒充 CFO 骗走 2 亿港币](https://www.solidot.org/story?sid=77314)
 
 [Yandex 出售了全部俄罗斯业务](https://www.solidot.org/story?sid=77313)
 
 [Caesars 终止了与 DEF CON 的合作，主办方另寻场地](https://www.solidot.org/story?sid=77312)
-
-[Damn Small Linux 2024 释出](https://www.solidot.org/story?sid=77311)
-
-[微软第一方游戏考虑登陆索尼的 PS5](https://www.solidot.org/story?sid=77310)
-
-[微软将 Linux sudo 命令带到 Windows Server](https://www.solidot.org/story?sid=77309)
-
-[Visual Studio Code 更新在 Ubuntu 上出错](https://www.solidot.org/story?sid=77308)
-
-[论文工厂开始贿赂期刊编辑](https://www.solidot.org/story?sid=77307)
-
-[养狗的儿童体能活动更频繁](https://www.solidot.org/story?sid=77306)
-
-[美国能源部估计全国 2% 的电力被用于挖比特币](https://www.solidot.org/story?sid=77305)
-
-[Debian 的 64 位 time_t 时间计数转换正在进行中](https://www.solidot.org/story?sid=77304)
 
