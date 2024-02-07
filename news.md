@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-02-07 04:32:52
+> Update time: 2024-02-07 16:10:07
+
+[台积电在熊本建设第二座芯片厂](https://www.solidot.org/story?sid=77327)
+
+[AI 帮助破译 2000 年前的碳化古卷](https://www.solidot.org/story?sid=77326)
+
+[政府黑客使用 0day 攻击 iPhone](https://www.solidot.org/story?sid=77325)
+
+[NASA 在 137 亿光年外发现一颗位于宜居带的超级地球](https://www.solidot.org/story?sid=77324)
+
+[CERN 想要尽快建造 200 亿欧元的下一代对撞机](https://www.solidot.org/story?sid=77323)
+
+[Reddit API 收费 7 个月后的第三方客户端](https://www.solidot.org/story?sid=77322)
 
 [Google 向 Rust 基金会资助了 100 万美元](https://www.solidot.org/story?sid=77321)
 
@@ -8,16 +20,4 @@
 [GitHub 短暂屏蔽了它的联合创始人、前 CEO 的账号](https://www.solidot.org/story?sid=77319)
 
 [英国国王确诊癌症](https://www.solidot.org/story?sid=77318)
-
-[人类对温度变化非常敏感](https://www.solidot.org/story?sid=77317)
-
-[研究估计仙女星系质量约为太阳的 1.14 万亿倍](https://www.solidot.org/story?sid=77316)
-
-[六成 Steam 玩家仍然用 1080p 显示屏分辨率](https://www.solidot.org/story?sid=77315)
-
-[骗子使用 deepfake 冒充 CFO 骗走 2 亿港币](https://www.solidot.org/story?sid=77314)
-
-[Yandex 出售了全部俄罗斯业务](https://www.solidot.org/story?sid=77313)
-
-[Caesars 终止了与 DEF CON 的合作，主办方另寻场地](https://www.solidot.org/story?sid=77312)
 
