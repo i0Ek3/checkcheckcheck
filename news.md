@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-08 16:33:07
+> Update time: 2024-02-09 04:08:01
+
+[Bard 改名 Gemini](https://www.solidot.org/story?sid=77336)
+
+[Mitchell Baker 辞去 Mozilla CEO 一职](https://www.solidot.org/story?sid=77335)
+
+[土星卫星弥玛斯可能有地下海洋](https://www.solidot.org/story?sid=77334)
+
+[Autodesk 创始人 John Walker 去世，享年 75 岁](https://www.solidot.org/story?sid=77333)
+
+[伊朗黑客用深度伪造新闻干扰阿联酋的电视流媒体服务](https://www.solidot.org/story?sid=77332)
+
+[阿里巴巴 2023 年减少了 2 万员工](https://www.solidot.org/story?sid=77331)
+
+[迪士尼向 Epic 投资 15 亿美元](https://www.solidot.org/story?sid=77330)
 
 [Bluesky 开放注册，发布 AT 协议论文](https://www.solidot.org/story?sid=77329)
 
 [中国黑客入侵荷兰国防部](https://www.solidot.org/story?sid=77328)
 
 [台积电在熊本建设第二座芯片厂](https://www.solidot.org/story?sid=77327)
-
-[AI 帮助破译 2000 年前的碳化古卷](https://www.solidot.org/story?sid=77326)
-
-[政府黑客使用 0day 攻击 iPhone](https://www.solidot.org/story?sid=77325)
-
-[NASA 在 137 亿光年外发现一颗位于宜居带的超级地球](https://www.solidot.org/story?sid=77324)
-
-[CERN 想要尽快建造 200 亿欧元的下一代对撞机](https://www.solidot.org/story?sid=77323)
-
-[Reddit API 收费 7 个月后的第三方客户端](https://www.solidot.org/story?sid=77322)
-
-[Google 向 Rust 基金会资助了 100 万美元](https://www.solidot.org/story?sid=77321)
-
-[Hugging Face 发布开源自定义 AI 聊天助手](https://www.solidot.org/story?sid=77320)
 
