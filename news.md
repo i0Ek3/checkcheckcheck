@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-19 16:33:31
+> Update time: 2024-02-20 04:08:20
+
+[花可以帮助清理径流养分](https://www.solidot.org/story?sid=77391)
+
+[Linux 内核成为 CVE 编号颁发机构，发布相关指南](https://www.solidot.org/story?sid=77390)
+
+[法国电信公司因违反 GPL 许可被罚 65 万欧元](https://www.solidot.org/story?sid=77389)
+
+[强风将客机的对地飞行速度推到音速以上](https://www.solidot.org/story?sid=77388)
+
+[游戏行业增长放缓](https://www.solidot.org/story?sid=77387)
+
+[苹果准备推出 AI 辅助编程工具](https://www.solidot.org/story?sid=77386)
+
+[欧盟风力发电超过天然气发电](https://www.solidot.org/story?sid=77385)
+
+[黑客从 23andMe 窃取了约 700 万人的遗传数据](https://www.solidot.org/story?sid=77384)
 
 [波兰新总理称前任政府非法使用间谍软件 Pegasus](https://www.solidot.org/story?sid=77383)
 
 [海洋表面温度快速变热](https://www.solidot.org/story?sid=77382)
-
-[欧盟将就苹果在音乐流媒体领域的反竞争行为罚款 5 亿欧元](https://www.solidot.org/story?sid=77381)
-
-[Jim Keller 认为不用 1 万亿美元就能实现 Sam Altman 的计划](https://www.solidot.org/story?sid=77380)
-
-[Android 15 首个开发者预览版释出](https://www.solidot.org/story?sid=77379)
-
-[锂空气电池接近实用化](https://www.solidot.org/story?sid=77378)
-
-[旧金山中学将再次教代数](https://www.solidot.org/story?sid=77377)
-
-[模型管理应用 Ollama 发布 Windows 预览版](https://www.solidot.org/story?sid=77376)
-
-[Reddit 与 AI 公司签订合同使用其平台内容训练模型](https://www.solidot.org/story?sid=77375)
-
-[日本准备发射第一颗木制卫星](https://www.solidot.org/story?sid=77374)
 
