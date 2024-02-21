@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-21 16:33:23
+> Update time: 2024-02-22 04:08:22
+
+[Google 宣布开放大模型 Gemma](https://www.solidot.org/story?sid=77412)
+
+[小数点的发明比以前认为的早 150 年](https://www.solidot.org/story?sid=77411)
+
+[WebKit 的 2D 图形渲染切换到 Skia](https://www.solidot.org/story?sid=77410)
+
+[微软监视其 AI 工具的使用者](https://www.solidot.org/story?sid=77409)
+
+[美国阿拉巴马州最高法院裁决冷冻胚胎是“儿童”](https://www.solidot.org/story?sid=77408)
+
+[中国电商开辟日本市场](https://www.solidot.org/story?sid=77407)
+
+[美国上诉法庭推翻了因用户盗版而惩罚 ISP 10 亿美元的判决](https://www.solidot.org/story?sid=77406)
 
 [YouTube 统治了美国的客厅](https://www.solidot.org/story?sid=77405)
 
 [苹果警告不要将潮湿的 iPhone 放入米袋中晾干](https://www.solidot.org/story?sid=77404)
 
 [Signal 推出用户名功能，隐藏手机号码](https://www.solidot.org/story?sid=77403)
-
-[气候变化使得国家公园花期提前 22 天](https://www.solidot.org/story?sid=77402)
-
-[微软修复了 Edge 未经用户同意导入 Chrome 数据的行为](https://www.solidot.org/story?sid=77401)
-
-[Julian Assange 面临最后的引渡抗辩](https://www.solidot.org/story?sid=77400)
-
-[天文学家发现至今最明亮的类星体](https://www.solidot.org/story?sid=77399)
-
-[Firefox 123.0 释出](https://www.solidot.org/story?sid=77398)
-
-[Steam Audio 开源](https://www.solidot.org/story?sid=77397)
-
-[微软遭遇大规模网络攻击](https://www.solidot.org/story?sid=77396)
 
