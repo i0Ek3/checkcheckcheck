@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-22 16:32:50
+> Update time: 2024-02-23 04:08:23
+
+[Google 暂停了 Gemini 的图像生成功能](https://www.solidot.org/story?sid=77422)
+
+[GIMP 3.0 之前的最后一个开发者预览版发布](https://www.solidot.org/story?sid=77421)
+
+[全新世最大火山喷发事件发生在日本海底](https://www.solidot.org/story?sid=77420)
+
+[中国 AI 模型建立在美国模型基础上](https://www.solidot.org/story?sid=77419)
+
+[Firefly 软件算法错误导致卫星留在错误轨道上](https://www.solidot.org/story?sid=77418)
+
+[ASML 取代 Applied Materials 成为全球最大的晶圆厂工具制造商](https://www.solidot.org/story?sid=77417)
+
+[阿拉巴马州大学暂停体外受精手术](https://www.solidot.org/story?sid=77416)
 
 [Do Kwon 预计将被引渡到美国受审](https://www.solidot.org/story?sid=77415)
 
 [英特尔将为微软代工其自研芯片](https://www.solidot.org/story?sid=77414)
 
 [Reddit 计划向最活跃用户出售 IPO 股票](https://www.solidot.org/story?sid=77413)
-
-[Google 宣布开放大模型 Gemma](https://www.solidot.org/story?sid=77412)
-
-[小数点的发明比以前认为的早 150 年](https://www.solidot.org/story?sid=77411)
-
-[WebKit 的 2D 图形渲染切换到 Skia](https://www.solidot.org/story?sid=77410)
-
-[微软监视其 AI 工具的使用者](https://www.solidot.org/story?sid=77409)
-
-[美国阿拉巴马州最高法院裁决冷冻胚胎是“儿童”](https://www.solidot.org/story?sid=77408)
-
-[中国电商开辟日本市场](https://www.solidot.org/story?sid=77407)
-
-[美国上诉法庭推翻了因用户盗版而惩罚 ISP 10 亿美元的判决](https://www.solidot.org/story?sid=77406)
 
