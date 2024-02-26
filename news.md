@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-26 16:35:07
+> Update time: 2024-02-27 04:08:33
+
+[微软收购 Mistral 少数股权](https://www.solidot.org/story?sid=77448)
+
+[联想展示透明显示屏笔记本电脑](https://www.solidot.org/story?sid=77447)
+
+[共情能传播，人能通过观察环境和其他人获得或失去同情心](https://www.solidot.org/story?sid=77446)
+
+[电子钥匙如何刺激新一波的盗车](https://www.solidot.org/story?sid=77445)
+
+[AT&T 因 12 小时网络故障向客户发 5 美元赔偿金](https://www.solidot.org/story?sid=77444)
+
+[Peter Thiel 的 10 万美元辍学奖学金](https://www.solidot.org/story?sid=77443)
+
+[空气污染与严重痴呆症相关](https://www.solidot.org/story?sid=77442)
 
 [严重空气污染与自杀风险增加相关](https://www.solidot.org/story?sid=77441)
 
 [LockBit 勒索软件组织恢复运作](https://www.solidot.org/story?sid=77440)
 
 [科学家找到慢性压力助长癌症转移的原因](https://www.solidot.org/story?sid=77439)
-
-[美国 Odysseus 月球着陆器搭载了 3 千万页的月球图书馆](https://www.solidot.org/story?sid=77438)
-
-[美国 Odysseus 月球着陆器侧翻](https://www.solidot.org/story?sid=77437)
-
-[美国男子被控偷听妻子远程工作电话内容进行内幕交易获利 180 万美元](https://www.solidot.org/story?sid=77436)
-
-[太阳释放出一个 X6.3 级耀斑](https://www.solidot.org/story?sid=77435)
-
-[佛罗里达通过法案限制未成年人使用社交媒体](https://www.solidot.org/story?sid=77434)
-
-[《Palworld /幻兽帕鲁》吸引了 2500 万玩家，在 Steam 售出了 1500 万份拷贝](https://www.solidot.org/story?sid=77432)
-
-[中国科学家研制出 Pb 级光盘](https://www.solidot.org/story?sid=77431)
 
