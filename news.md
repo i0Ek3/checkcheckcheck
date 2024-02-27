@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-27 16:32:56
+> Update time: 2024-02-28 04:08:47
 
-[微软收购 Mistral 少数股权](https://www.solidot.org/story?sid=77448)
+[研究发现美国部分地区因造林而变冷](https://www.solidot.org/story?sid=77459)
 
-[联想展示透明显示屏笔记本电脑](https://www.solidot.org/story?sid=77447)
+[NASA DART 探测器的撞击改变了小行星的形状](https://www.solidot.org/story?sid=77458)
 
-[共情能传播，人能通过观察环境和其他人获得或失去同情心](https://www.solidot.org/story?sid=77446)
+[日本 2023 年新生儿数量创新低](https://www.solidot.org/story?sid=77457)
 
-[电子钥匙如何刺激新一波的盗车](https://www.solidot.org/story?sid=77445)
+[每一台 PC 都将是 AI PC](https://www.solidot.org/story?sid=77456)
 
-[AT&T 因 12 小时网络故障向客户发 5 美元赔偿金](https://www.solidot.org/story?sid=77444)
+[Avenir 推出可使用一周待机 94 天的智能手机](https://www.solidot.org/story?sid=77455)
 
-[Peter Thiel 的 10 万美元辍学奖学金](https://www.solidot.org/story?sid=77443)
+[寄居蟹用塑料垃圾作壳](https://www.solidot.org/story?sid=77454)
 
-[空气污染与严重痴呆症相关](https://www.solidot.org/story?sid=77442)
+[新生儿 T 细胞在抵御感染上强于成年人的版本](https://www.solidot.org/story?sid=77453)
 
-[严重空气污染与自杀风险增加相关](https://www.solidot.org/story?sid=77441)
+[微软测试在无需重启的情况下应用更新](https://www.solidot.org/story?sid=77452)
 
-[LockBit 勒索软件组织恢复运作](https://www.solidot.org/story?sid=77440)
+[KKR 40 亿美元收购博通的 VMware 终端用户计算业务](https://www.solidot.org/story?sid=77451)
 
-[科学家找到慢性压力助长癌症转移的原因](https://www.solidot.org/story?sid=77439)
+[欧盟将调查苹果禁用 iPhone Web Apps](https://www.solidot.org/story?sid=77450)
 
