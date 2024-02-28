@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-28 16:32:46
+> Update time: 2024-02-29 04:09:17
+
+[苏黎世误给公务员发了双倍薪水，它寻求收回多发的钱](https://www.solidot.org/story?sid=77468)
+
+[Switch 二代最早明年 3 月上市](https://www.solidot.org/story?sid=77467)
+
+[微软承认 KB5034765 更新会导致 Windows 11 出现问题](https://www.solidot.org/story?sid=77466)
+
+[Tumblr 母公司与 OpenAI 磋商出售用户帖子训练 AI](https://www.solidot.org/story?sid=77465)
+
+[任天堂起诉 Switch 模拟器 Yuzu 的作者](https://www.solidot.org/story?sid=77464)
+
+[苹果放弃了电动汽车项目](https://www.solidot.org/story?sid=77463)
+
+[美国温迪快餐将从明年起试点动态定价](https://www.solidot.org/story?sid=77462)
+
+[天涯社区申请破产](https://www.solidot.org/story?sid=77461)
 
 [非盟通过驴皮出口禁令](https://www.solidot.org/story?sid=77460)
 
 [研究发现美国部分地区因造林而变冷](https://www.solidot.org/story?sid=77459)
-
-[NASA DART 探测器的撞击改变了小行星的形状](https://www.solidot.org/story?sid=77458)
-
-[日本 2023 年新生儿数量创新低](https://www.solidot.org/story?sid=77457)
-
-[每一台 PC 都将是 AI PC](https://www.solidot.org/story?sid=77456)
-
-[Avenir 推出可使用一周待机 94 天的智能手机](https://www.solidot.org/story?sid=77455)
-
-[寄居蟹用塑料垃圾作壳](https://www.solidot.org/story?sid=77454)
-
-[新生儿 T 细胞在抵御感染上强于成年人的版本](https://www.solidot.org/story?sid=77453)
-
-[微软测试在无需重启的情况下应用更新](https://www.solidot.org/story?sid=77452)
-
-[KKR 40 亿美元收购博通的 VMware 终端用户计算业务](https://www.solidot.org/story?sid=77451)
 
