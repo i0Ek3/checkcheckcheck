@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-02-29 16:32:49
+> Update time: 2024-03-01 04:09:53
+
+[苹果将改编威廉·吉布森的《神经漫游者》](https://www.solidot.org/story?sid=77480)
+
+[美国白宫督促开发者切换到内存安全的语言](https://www.solidot.org/story?sid=77479)
+
+[Cloudflare 开源用 Rust 写的异步多线程框架 Pingora](https://www.solidot.org/story?sid=77478)
+
+[KDE Plasma 6 释出](https://www.solidot.org/story?sid=77477)
+
+[Hugging Face 平台上发现上百恶意 AI 模型](https://www.solidot.org/story?sid=77476)
+
+[微型鱼儿能发出超过 140 分贝的声音](https://www.solidot.org/story?sid=77475)
+
+[科学家在古代残骸中发现唐氏综合症的基因特征](https://www.solidot.org/story?sid=77474)
 
 [Open Collective 基金会将在年内关门](https://www.solidot.org/story?sid=77473)
 
 [人与猿类的尾巴是如何消失的？](https://www.solidot.org/story?sid=77472)
 
 [Tails 6.0 释出](https://www.solidot.org/story?sid=77471)
-
-[欧盟调查微软对 Mistral 的 1500 万欧元投资](https://www.solidot.org/story?sid=77470)
-
-[亚马逊火灾数量比去年同期增加了约三倍](https://www.solidot.org/story?sid=77469)
-
-[苏黎世误给公务员发了双倍薪水，它寻求收回多发的钱](https://www.solidot.org/story?sid=77468)
-
-[Switch 二代最早明年 3 月上市](https://www.solidot.org/story?sid=77467)
-
-[微软承认 KB5034765 更新会导致 Windows 11 出现问题](https://www.solidot.org/story?sid=77466)
-
-[Tumblr 母公司与 OpenAI 磋商出售用户帖子训练 AI](https://www.solidot.org/story?sid=77465)
-
-[任天堂起诉 Switch 模拟器 Yuzu 的作者](https://www.solidot.org/story?sid=77464)
 
