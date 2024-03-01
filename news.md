@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-01 16:32:45
+> Update time: 2024-03-02 04:09:07
+
+[美国总统称中国联网汽车有国家安全风险](https://www.solidot.org/story?sid=77491)
+
+[超加工食品与 30 多种有害健康的后果有关](https://www.solidot.org/story?sid=77490)
+
+[高枕与中风诱因相关](https://www.solidot.org/story?sid=77489)
+
+[日本公司研制用眼药水阻止近视加深](https://www.solidot.org/story?sid=77488)
+
+[《创：战神》将于 2025 年上映](https://www.solidot.org/story?sid=77487)
+
+[退休教授向爱因斯坦医学院捐赠 10 亿美元用于免除学生学费](https://www.solidot.org/story?sid=77486)
+
+[HDMI Forum 拒绝了 AMD 的开源 HDMI 2.1 驱动尝试](https://www.solidot.org/story?sid=77485)
 
 [北太平洋西部鱼类的体重因气候变化下降](https://www.solidot.org/story?sid=77484)
 
 [新西兰加油站支付系统因闰年软件故障停止工作](https://www.solidot.org/story?sid=77483)
 
 [微软与英伟达、AMD 和英特尔合作为 PC 游戏提供上采样技术](https://www.solidot.org/story?sid=77482)
-
-[法庭命令 NSO Group 将间谍软件代码交给 WhatsApp](https://www.solidot.org/story?sid=77481)
-
-[苹果将改编威廉·吉布森的《神经漫游者》](https://www.solidot.org/story?sid=77480)
-
-[美国白宫督促开发者切换到内存安全的语言](https://www.solidot.org/story?sid=77479)
-
-[Cloudflare 开源用 Rust 写的异步多线程框架 Pingora](https://www.solidot.org/story?sid=77478)
-
-[KDE Plasma 6 释出](https://www.solidot.org/story?sid=77477)
-
-[Hugging Face 平台上发现上百恶意 AI 模型](https://www.solidot.org/story?sid=77476)
-
-[微型鱼儿能发出超过 140 分贝的声音](https://www.solidot.org/story?sid=77475)
 
