@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-03-07 04:32:49
+> Update time: 2024-03-07 16:08:38
+
+[Meta 用户账号被盗引起美国多州检察长联署致函](https://www.solidot.org/story?sid=77532)
+
+[《对马岛之魂》将于 5 月 16 日发布 PC 版](https://www.solidot.org/story?sid=77531)
+
+[拼多多 Temu 是 Meta 最大的广告商](https://www.solidot.org/story?sid=77530)
+
+[微软将其 CBL-Mariner 发行版改名为 Azure Linux](https://www.solidot.org/story?sid=77528)
+
+[亚马逊以 6.5 亿美元购买了一个核能驱动的数据中心](https://www.solidot.org/story?sid=77527)
+
+[大模型如何工作仍然是个谜团](https://www.solidot.org/story?sid=77526)
 
 [统一教会被批准指定为“指定宗教法人”](https://www.solidot.org/story?sid=77525)
 
@@ -8,16 +20,4 @@
 [OpenAI 回应马斯克“违反合同”的诉讼](https://www.solidot.org/story?sid=77523)
 
 [GDDR7 显存规格发布](https://www.solidot.org/story?sid=77522)
-
-[美国议员提出法案要求字节跳动剥离 TikTok](https://www.solidot.org/story?sid=77521)
-
-[微软在知道 0day 漏洞正被利用后半年未修复](https://www.solidot.org/story?sid=77520)
-
-[微软杀死 Windows Subsystem for Android](https://www.solidot.org/story?sid=77519)
-
-[分赃不均 BlackCat/ALPHV 勒索软件组织宣布停止运作](https://www.solidot.org/story?sid=77518)
-
-[在印尼女性比男性更可能盗版音乐和电影](https://www.solidot.org/story?sid=77517)
-
-[法国将女性堕胎权写入宪法](https://www.solidot.org/story?sid=77516)
 
