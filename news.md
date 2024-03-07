@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-03-07 16:33:58
+> Update time: 2024-03-08 04:08:05
+
+[OpenTTD 诞生二十周年](https://www.solidot.org/story?sid=77538)
+
+[考古学家在乌克兰发现早期人类迁移到欧洲的古老遗址](https://www.solidot.org/story?sid=77537)
+
+[欧盟调查苹果终止 Epic 开发者账号的决定](https://www.solidot.org/story?sid=77536)
+
+[中国计划推出可重复使用火箭](https://www.solidot.org/story?sid=77535)
+
+[切尔诺贝利线虫被发现其基因组不受辐射影响](https://www.solidot.org/story?sid=77534)
 
 [苹果终止了 Epic 的开发者账号](https://www.solidot.org/story?sid=77533)
 
@@ -9,15 +19,5 @@
 
 [拼多多 Temu 是 Meta 最大的广告商](https://www.solidot.org/story?sid=77530)
 
-[微软将其 CBL-Mariner 发行版改名为 Azure Linux](https://www.solidot.org/story?sid=77528)
-
-[亚马逊以 6.5 亿美元购买了一个核能驱动的数据中心](https://www.solidot.org/story?sid=77527)
-
-[大模型如何工作仍然是个谜团](https://www.solidot.org/story?sid=77526)
-
-[统一教会被批准指定为“指定宗教法人”](https://www.solidot.org/story?sid=77525)
-
-[iPhone 今年前一个半月在华销量同比下降 24%](https://www.solidot.org/story?sid=77524)
-
-[OpenAI 回应马斯克“违反合同”的诉讼](https://www.solidot.org/story?sid=77523)
+[Google 华裔工程师被控窃取公司 AI 机密](https://www.solidot.org/story?sid=77529)
 
