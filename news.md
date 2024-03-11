@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-03-11 16:32:34
+> Update time: 2024-03-12 04:09:53
+
+[YouTube 对未登陆用户停止推荐视频](https://www.solidot.org/story?sid=77562)
+
+[研究估计含铅汽油降低美国半数人口的 IQ 分数](https://www.solidot.org/story?sid=77561)
+
+[俄罗斯使用 Starlink 引发 SpaceX 是否遵守美国制裁的调查](https://www.solidot.org/story?sid=77560)
+
+[科学家解释说话和吸气不能同时进行的原因](https://www.solidot.org/story?sid=77559)
+
+[苹果就像教父那样制定 App Store 规定](https://www.solidot.org/story?sid=77558)
 
 [英伟达被控未经授权使用版权作品训练模型](https://www.solidot.org/story?sid=77557)
 
@@ -10,14 +20,4 @@
 [Canonical 诞生二十周年](https://www.solidot.org/story?sid=77554)
 
 [Avi Loeb 被指使用错误的信号搜索流星碎片](https://www.solidot.org/story?sid=77553)
-
-[研究发现在美最高法院推翻 Roe v. Wade 之后对其的信任度出现两极分化](https://www.solidot.org/story?sid=77552)
-
-[俄罗斯黑客窃取了微软源代码](https://www.solidot.org/story?sid=77551)
-
-[Fedora Workstation 41 不再默认安装 GNOME X.Org 会话](https://www.solidot.org/story?sid=77550)
-
-[苹果恢复 Epic Games 的开发者账号](https://www.solidot.org/story?sid=77549)
-
-[旅行者1号的科学使命面临结束](https://www.solidot.org/story?sid=77548)
 
