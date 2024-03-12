@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-12 04:32:42
+> Update time: 2024-03-12 16:10:14
+
+[马斯克的慈善基金会](https://www.solidot.org/story?sid=77570)
+
+[法国政府机构遭遇 DDoS 攻击](https://www.solidot.org/story?sid=77569)
+
+[xAI 将开源其 AI 聊天机器人 Grok](https://www.solidot.org/story?sid=77568)
+
+[前动视 CEO Bobby Kotick 考虑收购 TikTok](https://www.solidot.org/story?sid=77567)
+
+[五角大楼否认向公众隐瞒外星科技或外星生物](https://www.solidot.org/story?sid=77566)
+
+[阿拉巴马州紧急制定法律保护体外受精](https://www.solidot.org/story?sid=77565)
+
+[Telegram 月活跃用户突破 9 亿，考虑 IPO](https://www.solidot.org/story?sid=77564)
+
+[Linux Mint 构建新桌面聊天应用 Jargonaut](https://www.solidot.org/story?sid=77563)
 
 [YouTube 对未登陆用户停止推荐视频](https://www.solidot.org/story?sid=77562)
 
 [研究估计含铅汽油降低美国半数人口的 IQ 分数](https://www.solidot.org/story?sid=77561)
-
-[俄罗斯使用 Starlink 引发 SpaceX 是否遵守美国制裁的调查](https://www.solidot.org/story?sid=77560)
-
-[科学家解释说话和吸气不能同时进行的原因](https://www.solidot.org/story?sid=77559)
-
-[苹果就像教父那样制定 App Store 规定](https://www.solidot.org/story?sid=77558)
-
-[英伟达被控未经授权使用版权作品训练模型](https://www.solidot.org/story?sid=77557)
-
-[Linux 6.8 释出](https://www.solidot.org/story?sid=77556)
-
-[莫斯科学生因支持乌克兰的 WIFI 名字被判 10 天监禁](https://www.solidot.org/story?sid=77555)
-
-[Canonical 诞生二十周年](https://www.solidot.org/story?sid=77554)
-
-[Avi Loeb 被指使用错误的信号搜索流星碎片](https://www.solidot.org/story?sid=77553)
 
