@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-13 16:32:48
+> Update time: 2024-03-14 04:08:17
+
+[报告建议美国政府禁止开源大模型](https://www.solidot.org/story?sid=77588)
+
+[亚马逊上涌现大量 AI 撰写作品](https://www.solidot.org/story?sid=77587)
+
+[Tor 项目推出模拟 HTTPS 流量的新网桥 WebTunnel](https://www.solidot.org/story?sid=77586)
+
+[中国铁路用 AI 大数据管理高铁网络](https://www.solidot.org/story?sid=77585)
+
+[用 IRIS 识别伪造的电子元件](https://www.solidot.org/story?sid=77584)
+
+[新冠疫情使全球平均寿命缩短 1.6 年](https://www.solidot.org/story?sid=77583)
+
+[苹果在欧洲将允许直接从网站下载 iOS 应用](https://www.solidot.org/story?sid=77582)
 
 [人类可能最早在 30 万年前开始穿衣服](https://www.solidot.org/story?sid=77581)
 
 [如何平衡来自父母的 X 染色体](https://www.solidot.org/story?sid=77580)
 
 [澳大利亚批准了能抵抗巴拿马病的转基因香蕉](https://www.solidot.org/story?sid=77578)
-
-[收到 DMCA 通知后 GitHub 去年移除逾 2 万个项目](https://www.solidot.org/story?sid=77577)
-
-[Windows 10 21H2 将于 6 月终止支持](https://www.solidot.org/story?sid=77576)
-
-[OpenAI 开源 Transformer Debugger](https://www.solidot.org/story?sid=77575)
-
-[在 Yuzu 废墟上诞生的 Suyu 项目试图避开诉讼](https://www.solidot.org/story?sid=77574)
-
-[韦伯和哈勃确认哈勃常数是正确的](https://www.solidot.org/story?sid=77573)
-
-[Airbnb 禁止室内监控探头](https://www.solidot.org/story?sid=77572)
-
-[Midjourne 封掉了所有 Stability AI 公司雇员的账号](https://www.solidot.org/story?sid=77571)
 
