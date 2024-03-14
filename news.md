@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-14 16:33:34
+> Update time: 2024-03-15 04:09:14
+
+[Sora 将在今年晚些时候推出](https://www.solidot.org/story?sid=77596)
+
+[以太坊完成 Dencun 升级](https://www.solidot.org/story?sid=77595)
+
+[人体微生物群独一无二](https://www.solidot.org/story?sid=77594)
+
+[IBM 和 NASA 训练大模型促进科学知识的可及性](https://www.solidot.org/story?sid=77593)
+
+[欧洲议会通过 AI 法案](https://www.solidot.org/story?sid=77592)
+
+[为什么更多年轻人罹患癌症？](https://www.solidot.org/story?sid=77591)
+
+[逾 1.3 万馆藏标本的 3D 图像免费发布](https://www.solidot.org/story?sid=77590)
 
 [太空辐射的主动屏蔽正走向现实](https://www.solidot.org/story?sid=77589)
 
 [报告建议美国政府禁止开源大模型](https://www.solidot.org/story?sid=77588)
 
 [亚马逊上涌现大量 AI 撰写作品](https://www.solidot.org/story?sid=77587)
-
-[Tor 项目推出模拟 HTTPS 流量的新网桥 WebTunnel](https://www.solidot.org/story?sid=77586)
-
-[中国铁路用 AI 大数据管理高铁网络](https://www.solidot.org/story?sid=77585)
-
-[用 IRIS 识别伪造的电子元件](https://www.solidot.org/story?sid=77584)
-
-[新冠疫情使全球平均寿命缩短 1.6 年](https://www.solidot.org/story?sid=77583)
-
-[苹果在欧洲将允许直接从网站下载 iOS 应用](https://www.solidot.org/story?sid=77582)
-
-[人类可能最早在 30 万年前开始穿衣服](https://www.solidot.org/story?sid=77581)
-
-[如何平衡来自父母的 X 染色体](https://www.solidot.org/story?sid=77580)
 
