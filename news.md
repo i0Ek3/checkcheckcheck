@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-18 16:33:25
+> Update time: 2024-03-19 04:08:13
+
+[苹果谈判在 iPhone 中整合 Google Gemini 模型](https://www.solidot.org/story?sid=77627)
+
+[圆周率 π 计算到 105 万亿位](https://www.solidot.org/story?sid=77626)
+
+[木星欧罗巴可能并不适合生命](https://www.solidot.org/story?sid=77625)
+
+[美国监管机构调查福特半自动驾驶相关的致命车祸](https://www.solidot.org/story?sid=77624)
+
+[火星对地球洋流和气候有着意想不到的影响](https://www.solidot.org/story?sid=77623)
 
 [EFF 反对 TikTok 禁令](https://www.solidot.org/story?sid=77622)
 
 [忆阻器模拟计算能完成复杂任务且能耗更低](https://www.solidot.org/story?sid=77621)
 
+[有助于降解纤维素的肠道菌在工业化国家人群身上逐渐消失](https://www.solidot.org/story?sid=77620)
+
 [xAI 在 Apache 2.0 下开源其 AI 聊天机器人 Grok](https://www.solidot.org/story?sid=77619)
 
 [Freenom 关闭域名服务 Cloudflare 托管的域名减少逾五分之一](https://www.solidot.org/story?sid=77618)
-
-[韩国大企业撤离中国](https://www.solidot.org/story?sid=77617)
-
-[详解龙芯 3A6000](https://www.solidot.org/story?sid=77616)
-
-[攻击者在百度投放广告传播恶意版 Notepad++ 和 vnote](https://www.solidot.org/story?sid=77615)
-
-[Mozilla Location Service 即将关闭](https://www.solidot.org/story?sid=77614)
-
-[汽车厂商与保险公司分享司机驾驶行为数据](https://www.solidot.org/story?sid=77613)
-
-[Reddit 出售用户生成数据训练 AI 引起 FTC 调查](https://www.solidot.org/story?sid=77612)
 
