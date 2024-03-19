@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-19 16:32:53
+> Update time: 2024-03-20 04:08:53
+
+[去年全球海洋每天都创造新的温度记录](https://www.solidot.org/story?sid=77642)
+
+[动物在日食期间有强烈反应](https://www.solidot.org/story?sid=77641)
+
+[诺基亚称 Reddit 可能侵犯了它的专利](https://www.solidot.org/story?sid=77640)
+
+[五年研究显示哈瓦那综合症患者没有发现脑损伤](https://www.solidot.org/story?sid=77639)
+
+[AI 生成的科学论文](https://www.solidot.org/story?sid=77638)
+
+[BitTorrent 不再是上行流量之王](https://www.solidot.org/story?sid=77637)
+
+[两名日本宇航员有望参与美国登月计划](https://www.solidot.org/story?sid=77636)
+
+[富士通 IT 系统遭到入侵](https://www.solidot.org/story?sid=77635)
 
 [LinkedIn 准备引入游戏](https://www.solidot.org/story?sid=77634)
 
 [Stability AI 发布 Stable Video 3D](https://www.solidot.org/story?sid=77633)
-
-[新理论认为宇宙没有暗物质年龄 267 亿年](https://www.solidot.org/story?sid=77632)
-
-[Valve 推出 Steam 家庭](https://www.solidot.org/story?sid=77631)
-
-[塑料行业将回收视为一种公关工具](https://www.solidot.org/story?sid=77630)
-
-[Mastodon 注册用户突破 1500 万](https://www.solidot.org/story?sid=77629)
-
-[美参议员 Bernie Sanders 提议 32 小时工作制](https://www.solidot.org/story?sid=77628)
-
-[苹果谈判在 iPhone 中整合 Google Gemini 模型](https://www.solidot.org/story?sid=77627)
-
-[圆周率 π 计算到 105 万亿位](https://www.solidot.org/story?sid=77626)
-
-[木星欧罗巴可能并不适合生命](https://www.solidot.org/story?sid=77625)
 
