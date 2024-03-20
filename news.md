@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-20 16:32:54
+> Update time: 2024-03-21 04:09:23
+
+[Google 因其 AI 使用版权材料训练被罚 2.5 亿欧元](https://www.solidot.org/story?sid=77651)
+
+[网页太臃肿严重影响浏览性能](https://www.solidot.org/story?sid=77650)
+
+[CRISPR-Cas 基因编辑在实验室中完全消除 HIV 病毒](https://www.solidot.org/story?sid=77649)
+
+[DeepMind 与利物浦合作开发 AI 足球战术教练](https://www.solidot.org/story?sid=77648)
+
+[在日外国劳动者人数越南超过中国](https://www.solidot.org/story?sid=77647)
+
+[只有 7 个国家达到 WHO 的空气质量标准](https://www.solidot.org/story?sid=77646)
+
+[39 岁男子成为英格兰第一位因“网络露鸟”被判刑的人](https://www.solidot.org/story?sid=77645)
+
+[婴儿时期的记忆未必都遗忘了](https://www.solidot.org/story?sid=77644)
+
+[Firefox 124 发布](https://www.solidot.org/story?sid=77643)
 
 [去年全球海洋每天都创造新的温度记录](https://www.solidot.org/story?sid=77642)
-
-[动物在日食期间有强烈反应](https://www.solidot.org/story?sid=77641)
-
-[诺基亚称 Reddit 可能侵犯了它的专利](https://www.solidot.org/story?sid=77640)
-
-[五年研究显示哈瓦那综合症患者没有发现脑损伤](https://www.solidot.org/story?sid=77639)
-
-[AI 生成的科学论文](https://www.solidot.org/story?sid=77638)
-
-[BitTorrent 不再是上行流量之王](https://www.solidot.org/story?sid=77637)
-
-[两名日本宇航员有望参与美国登月计划](https://www.solidot.org/story?sid=77636)
-
-[富士通 IT 系统遭到入侵](https://www.solidot.org/story?sid=77635)
-
-[LinkedIn 准备引入游戏](https://www.solidot.org/story?sid=77634)
-
-[Stability AI 发布 Stable Video 3D](https://www.solidot.org/story?sid=77633)
 
