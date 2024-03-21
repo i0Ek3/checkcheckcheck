@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-21 16:32:57
+> Update time: 2024-03-22 04:09:24
 
-[持有 20 亿英镑比特币的华裔女性因参与洗钱被定罪](https://www.solidot.org/story?sid=77654)
+[F1 高管震惊的发现车队用 Excel 管理 2 万个零部件](https://www.solidot.org/story?sid=77664)
 
-[第一款使用 Open 3D Engine 的大型游戏](https://www.solidot.org/story?sid=77653)
+[美国起诉苹果涉嫌垄断](https://www.solidot.org/story?sid=77663)
 
-[GNOME 46 释出](https://www.solidot.org/story?sid=77652)
+[Reddit 上市 IPO 定价 34 美元](https://www.solidot.org/story?sid=77662)
 
-[Google 因其 AI 使用版权材料训练被罚 2.5 亿欧元](https://www.solidot.org/story?sid=77651)
+[Epic Games Store 宣布将发布 iOS 和 Android 版，佣金 12%](https://www.solidot.org/story?sid=77661)
 
-[网页太臃肿严重影响浏览性能](https://www.solidot.org/story?sid=77650)
+[生育率下降将改变全球经济](https://www.solidot.org/story?sid=77660)
 
-[CRISPR-Cas 基因编辑在实验室中完全消除 HIV 病毒](https://www.solidot.org/story?sid=77649)
+[美国司法部考虑与 Julian Assange 讨论认罪协议](https://www.solidot.org/story?sid=77659)
 
-[DeepMind 与利物浦合作开发 AI 足球战术教练](https://www.solidot.org/story?sid=77648)
+[中国科学家将猪肝移植入人体](https://www.solidot.org/story?sid=77658)
 
-[在日外国劳动者人数越南超过中国](https://www.solidot.org/story?sid=77647)
+[Apex Legends 黑客称入侵锦标赛游戏是出于好玩](https://www.solidot.org/story?sid=77657)
 
-[只有 7 个国家达到 WHO 的空气质量标准](https://www.solidot.org/story?sid=77646)
+[Flightradar24 发布 GPS 干扰地图](https://www.solidot.org/story?sid=77656)
 
-[39 岁男子成为英格兰第一位因“网络露鸟”被判刑的人](https://www.solidot.org/story?sid=77645)
+[印度将事实核查政府事务相关社媒帖子](https://www.solidot.org/story?sid=77655)
 
