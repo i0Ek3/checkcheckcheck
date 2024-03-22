@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-03-22 16:32:50
+> Update time: 2024-03-23 04:08:30
+
+[只有五分之一的电子垃圾被回收](https://www.solidot.org/story?sid=77673)
+
+[联合国首次通过 AI 决议](https://www.solidot.org/story?sid=77672)
+
+[GitLab 在收到 DMCA 后移除了任天堂 Switch 模拟器项目 Suyu](https://www.solidot.org/story?sid=77670)
+
+[AMD 将在今年推出集成 Zen 5、RDNA 3+ 和 XDNA 2 新锐龙处理器](https://www.solidot.org/story?sid=77669)
+
+[婴儿的体味为何更好闻](https://www.solidot.org/story?sid=77668)
 
 [Threads 开放联邦宇宙共享设置](https://www.solidot.org/story?sid=77667)
 
@@ -10,14 +20,4 @@
 [F1 高管震惊的发现车队用 Excel 管理 2 万个零部件](https://www.solidot.org/story?sid=77664)
 
 [美国起诉苹果涉嫌垄断](https://www.solidot.org/story?sid=77663)
-
-[Reddit 上市 IPO 定价 34 美元](https://www.solidot.org/story?sid=77662)
-
-[Epic Games Store 宣布将发布 iOS 和 Android 版，佣金 12%](https://www.solidot.org/story?sid=77661)
-
-[生育率下降将改变全球经济](https://www.solidot.org/story?sid=77660)
-
-[美国司法部考虑与 Julian Assange 讨论认罪协议](https://www.solidot.org/story?sid=77659)
-
-[中国科学家将猪肝移植入人体](https://www.solidot.org/story?sid=77658)
 
