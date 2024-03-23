@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-23 16:32:40
+> Update time: 2024-03-24 04:08:49
+
+[美国上千万卡车容易受蠕虫攻击](https://www.solidot.org/story?sid=77679)
+
+[荷兰法庭下令 ISP 屏蔽安娜的档案和 LibGen](https://www.solidot.org/story?sid=77678)
+
+[通用汽车宣布停止与数据经纪商共享司机驾驶行为数据](https://www.solidot.org/story?sid=77677)
+
+[美国大学计算机科学专业的毕业生太多了](https://www.solidot.org/story?sid=77676)
+
+[黑客找到方法在数秒内打开全球 300 万间酒店客房](https://www.solidot.org/story?sid=77675)
 
 [只有五分之一的电子垃圾被回收](https://www.solidot.org/story?sid=77673)
 
 [联合国首次通过 AI 决议](https://www.solidot.org/story?sid=77672)
 
+[摩托罗拉的低端手机充斥着广告软件](https://www.solidot.org/story?sid=77671)
+
 [GitLab 在收到 DMCA 后移除了任天堂 Switch 模拟器项目 Suyu](https://www.solidot.org/story?sid=77670)
 
 [AMD 将在今年推出集成 Zen 5、RDNA 3+ 和 XDNA 2 新锐龙处理器](https://www.solidot.org/story?sid=77669)
-
-[婴儿的体味为何更好闻](https://www.solidot.org/story?sid=77668)
-
-[Threads 开放联邦宇宙共享设置](https://www.solidot.org/story?sid=77667)
-
-[新版 Windows 记事本支持拼写检查和自动纠错](https://www.solidot.org/story?sid=77666)
-
-[Android 15 测试版加入了对卫星短信的支持](https://www.solidot.org/story?sid=77665)
-
-[F1 高管震惊的发现车队用 Excel 管理 2 万个零部件](https://www.solidot.org/story?sid=77664)
-
-[美国起诉苹果涉嫌垄断](https://www.solidot.org/story?sid=77663)
 
