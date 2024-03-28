@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-28 16:32:46
+> Update time: 2024-03-29 04:09:44
+
+[Sam Bankman-Fried 被判入狱 25 年](https://www.solidot.org/story?sid=77726)
+
+[英特尔微软讨论在 PC 本地运行 Copilot](https://www.solidot.org/story?sid=77725)
+
+[中国披露未来的月球探索计划细节](https://www.solidot.org/story?sid=77724)
+
+[更快的地球自转速度可能意味着负闰秒](https://www.solidot.org/story?sid=77723)
+
+[世嘉出售 Relic Entertainment 工作室](https://www.solidot.org/story?sid=77722)
+
+[研究发现连续两晚睡眠断断续续会让人感觉老了几岁](https://www.solidot.org/story?sid=77721)
+
+[PostgreSQL 社区悼念因飞机失事去世的资深成员 Simon Riggs](https://www.solidot.org/story?sid=77720)
+
+[Sun 联合创始人被控内幕交易](https://www.solidot.org/story?sid=77719)
 
 [每周锻炼 2-3 次有助于降低失眠风险](https://www.solidot.org/story?sid=77718)
 
 [亚马逊对 Anthropic 的投资达到 40 亿美元](https://www.solidot.org/story?sid=77717)
-
-[美国考虑对中国电动汽车征收逾 100% 的关税](https://www.solidot.org/story?sid=77716)
-
-[阿联酋航空 CEO 认为波音新 CEO 必须有工程背景](https://www.solidot.org/story?sid=77715)
-
-[年轻一代的大脑在变大](https://www.solidot.org/story?sid=77714)
-
-[英国要求美国保证阿桑奇不会被判死刑](https://www.solidot.org/story?sid=77713)
-
-[Google Play 上的免费 VPN 将 Android 手机变成代理服务](https://www.solidot.org/story?sid=77712)
-
-[鸟类能利用翅膀做动作传达特定含义](https://www.solidot.org/story?sid=77711)
-
-[联想为英国造 44.7 Petaflops 超算](https://www.solidot.org/story?sid=77710)
-
-[科学家研究斯威夫特地震](https://www.solidot.org/story?sid=77709)
 
