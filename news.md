@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-03-29 16:32:43
+> Update time: 2024-03-30 04:09:12
+
+[全球流行电商 APP 多来自中国](https://www.solidot.org/story?sid=77732)
+
+[AI 人才首选在美国就业](https://www.solidot.org/story?sid=77731)
+
+[Anthropic 的 Claude 3 在 Chatbot Arena 打败了 OpenAI 的 GPT-4](https://www.solidot.org/story?sid=77730)
+
+[英美调查俄罗斯加密货币交易所的 200 亿美元交易](https://www.solidot.org/story?sid=77729)
+
+[Linux 基金会推出 Redis 分支 Valkey](https://www.solidot.org/story?sid=77728)
 
 [云托管商 Vultr 撤回引发争议的服务条款](https://www.solidot.org/story?sid=77727)
 
@@ -10,14 +20,4 @@
 [中国披露未来的月球探索计划细节](https://www.solidot.org/story?sid=77724)
 
 [更快的地球自转速度可能意味着负闰秒](https://www.solidot.org/story?sid=77723)
-
-[世嘉出售 Relic Entertainment 工作室](https://www.solidot.org/story?sid=77722)
-
-[研究发现连续两晚睡眠断断续续会让人感觉老了几岁](https://www.solidot.org/story?sid=77721)
-
-[PostgreSQL 社区悼念因飞机失事去世的资深成员 Simon Riggs](https://www.solidot.org/story?sid=77720)
-
-[Sun 联合创始人被控内幕交易](https://www.solidot.org/story?sid=77719)
-
-[每周锻炼 2-3 次有助于降低失眠风险](https://www.solidot.org/story?sid=77718)
 
