@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-03-30 16:32:46
+> Update time: 2024-03-31 04:07:36
+
+[Gmail 诞生二十周年](https://www.solidot.org/story?sid=77740)
+
+[AI 生成内容正在污染我们的文化](https://www.solidot.org/story?sid=77739)
+
+[谋杀林奇的游族网络高管被判处死刑](https://www.solidot.org/story?sid=77738)
+
+[xz 开发者植入后门破解 SSH 加密](https://www.solidot.org/story?sid=77737)
+
+[逆转癌细胞的时钟](https://www.solidot.org/story?sid=77736)
+
+[科学家向人类细胞引入水熊虫蛋白质](https://www.solidot.org/story?sid=77735)
+
+[普京据报道下令开发国产类 Steam Deck 游戏机](https://www.solidot.org/story?sid=77734)
+
+[GitHub 屏蔽了 Neovim 插件作者的账号](https://www.solidot.org/story?sid=77733)
 
 [全球流行电商 APP 多来自中国](https://www.solidot.org/story?sid=77732)
 
 [AI 人才首选在美国就业](https://www.solidot.org/story?sid=77731)
-
-[Anthropic 的 Claude 3 在 Chatbot Arena 打败了 OpenAI 的 GPT-4](https://www.solidot.org/story?sid=77730)
-
-[英美调查俄罗斯加密货币交易所的 200 亿美元交易](https://www.solidot.org/story?sid=77729)
-
-[Linux 基金会推出 Redis 分支 Valkey](https://www.solidot.org/story?sid=77728)
-
-[云托管商 Vultr 撤回引发争议的服务条款](https://www.solidot.org/story?sid=77727)
-
-[Sam Bankman-Fried 被判入狱 25 年](https://www.solidot.org/story?sid=77726)
-
-[英特尔微软讨论在 PC 本地运行 Copilot](https://www.solidot.org/story?sid=77725)
-
-[中国披露未来的月球探索计划细节](https://www.solidot.org/story?sid=77724)
-
-[更快的地球自转速度可能意味着负闰秒](https://www.solidot.org/story?sid=77723)
 
