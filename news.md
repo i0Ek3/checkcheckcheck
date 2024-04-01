@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-01 16:35:58
+> Update time: 2024-04-02 04:09:14
 
-[IEEE 不再接受著名花花公子女郎 Lenna 的图像](https://www.solidot.org/story?sid=77743)
+[微软程序员向 Linux 内核递交 Rust 补丁](https://www.solidot.org/story?sid=77754)
 
-[NetBSD 10.0 发布](https://www.solidot.org/story?sid=77742)
+[意大利人说话要用更多的手势](https://www.solidot.org/story?sid=77753)
 
-[从 xz 后门事件看开源项目维护者和用户关系](https://www.solidot.org/story?sid=77741)
+[多走路与降低心脏病和死亡风险相关](https://www.solidot.org/story?sid=77752)
 
-[Gmail 诞生二十周年](https://www.solidot.org/story?sid=77740)
+[微软将在全球分拆 Teams 与 Office 产品](https://www.solidot.org/story?sid=77751)
 
-[AI 生成内容正在污染我们的文化](https://www.solidot.org/story?sid=77739)
+[诉讼披露 Meta 如何利用间谍软件监视竞争对手的应用](https://www.solidot.org/story?sid=77750)
 
-[谋杀林奇的游族网络高管被判处死刑](https://www.solidot.org/story?sid=77738)
+[热浪未来将会变得更频繁](https://www.solidot.org/story?sid=77749)
 
-[xz 开发者植入后门破解 SSH 加密](https://www.solidot.org/story?sid=77737)
+[xz 后门作者可能生活在东欧](https://www.solidot.org/story?sid=77748)
 
-[逆转癌细胞的时钟](https://www.solidot.org/story?sid=77736)
+[LLaMA 在 CPU 上的运行速度显著改进](https://www.solidot.org/story?sid=77747)
 
-[科学家向人类细胞引入水熊虫蛋白质](https://www.solidot.org/story?sid=77735)
+[ext2 文件系统驱动被标记为弃用](https://www.solidot.org/story?sid=77746)
 
-[普京据报道下令开发国产类 Steam Deck 游戏机](https://www.solidot.org/story?sid=77734)
+[韩国近三成学生超重或肥胖](https://www.solidot.org/story?sid=77745)
 
