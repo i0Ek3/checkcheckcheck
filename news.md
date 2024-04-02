@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-02 16:33:55
+> Update time: 2024-04-03 04:08:25
+
+[研究确认一颗超级地球被潮汐锁定](https://www.solidot.org/story?sid=77765)
+
+[壳牌对荷兰气候裁决提起上诉](https://www.solidot.org/story?sid=77764)
+
+[Steam 调查显示简体中文用户比例继续超过英文用户](https://www.solidot.org/story?sid=77763)
+
+[Google Rust 开发者的生产力两倍于 C++](https://www.solidot.org/story?sid=77762)
+
+[Telegram 加强企业级功能，为公共频道启用广告收入共享](https://www.solidot.org/story?sid=77761)
+
+[美国 IT 工程师最多，中国 IT 工程师薪资超过日本](https://www.solidot.org/story?sid=77760)
+
+[三月有望再次创下温度纪录](https://www.solidot.org/story?sid=77759)
 
 [Discord 本周开始展示游戏广告](https://www.solidot.org/story?sid=77758)
 
 [海盗湾上最长寿的种子有 20 年历史](https://www.solidot.org/story?sid=77757)
 
 [贺建奎恢复正常工作](https://www.solidot.org/story?sid=77756)
-
-[ChatGPT 将免登录访问](https://www.solidot.org/story?sid=77755)
-
-[微软程序员向 Linux 内核递交 Rust 补丁](https://www.solidot.org/story?sid=77754)
-
-[意大利人说话要用更多的手势](https://www.solidot.org/story?sid=77753)
-
-[多走路与降低心脏病和死亡风险相关](https://www.solidot.org/story?sid=77752)
-
-[微软将在全球分拆 Teams 与 Office 产品](https://www.solidot.org/story?sid=77751)
-
-[诉讼披露 Meta 如何利用间谍软件监视竞争对手的应用](https://www.solidot.org/story?sid=77750)
-
-[热浪未来将会变得更频繁](https://www.solidot.org/story?sid=77749)
 
