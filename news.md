@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-03 16:32:49
+> Update time: 2024-04-04 04:09:39
+
+[特斯拉和比亚迪一季度电动车销量下滑](https://www.solidot.org/story?sid=77776)
+
+[XZ 后门事件后开源项目开始改用其它压缩库](https://www.solidot.org/story?sid=77775)
+
+[美国网络中的中国产设备数量仍然在增长](https://www.solidot.org/story?sid=77774)
+
+[印度称从柬埔寨电诈团伙解救出 250 人](https://www.solidot.org/story?sid=77773)
+
+[英特尔芯片制造业务 2023 年营业亏损 70 亿美元](https://www.solidot.org/story?sid=77772)
+
+[NASA 将制定月球时间标准](https://www.solidot.org/story?sid=77771)
+
+[Stability AI 据报资金耗尽](https://www.solidot.org/story?sid=77770)
+
+[Mastodon 用户现在可以关注 Threads 上的美国总统账号](https://www.solidot.org/story?sid=77769)
+
+[未来 30 年日本总人口的十分之一预计将是外国人](https://www.solidot.org/story?sid=77768)
 
 [台湾花莲附近海域发生 7.2 级地震](https://www.solidot.org/story?sid=77767)
-
-[xz/liblzma 后门是开源核弹亦或 systemd 之锅？没那么糟糕！](https://www.solidot.org/story?sid=77766)
-
-[研究确认一颗超级地球被潮汐锁定](https://www.solidot.org/story?sid=77765)
-
-[壳牌对荷兰气候裁决提起上诉](https://www.solidot.org/story?sid=77764)
-
-[Steam 调查显示简体中文用户比例继续超过英文用户](https://www.solidot.org/story?sid=77763)
-
-[Google Rust 开发者的生产力两倍于 C++](https://www.solidot.org/story?sid=77762)
-
-[Telegram 加强企业级功能，为公共频道启用广告收入共享](https://www.solidot.org/story?sid=77761)
-
-[美国 IT 工程师最多，中国 IT 工程师薪资超过日本](https://www.solidot.org/story?sid=77760)
-
-[三月有望再次创下温度纪录](https://www.solidot.org/story?sid=77759)
-
-[Discord 本周开始展示游戏广告](https://www.solidot.org/story?sid=77758)
 
