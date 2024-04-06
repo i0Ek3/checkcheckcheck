@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-04-06 04:32:50
+> Update time: 2024-04-06 16:10:39
+
+[FFmpeg 7.0 释出](https://www.solidot.org/story?sid=77786)
+
+[研究称百度弱智吧中文训练效果高于知乎豆瓣小红书](https://www.solidot.org/story?sid=77785)
+
+[Microsoft Edge 将允许用户控制其消耗的内存](https://www.solidot.org/story?sid=77784)
+
+[《矮人要塞》售出了逾 80 万份拷贝](https://www.solidot.org/story?sid=77783)
+
+[德国 Schleswig-Holstein 州将 3 万台 PC 从 Windows 迁移到 Linux 和 LibreOffice](https://www.solidot.org/story?sid=77782)
+
+[YouTube 称 OpenAI 用该平台视频训练 Sora 将是违反服务条款](https://www.solidot.org/story?sid=77781)
 
 [Redict 7.3.0 释出](https://www.solidot.org/story?sid=77780)
 
@@ -8,16 +20,4 @@
 [在电动汽车项目终止后苹果考虑家用机器人](https://www.solidot.org/story?sid=77778)
 
 [Google 考虑对 AI 驱动的搜索收费](https://www.solidot.org/story?sid=77777)
-
-[特斯拉和比亚迪一季度电动车销量下滑](https://www.solidot.org/story?sid=77776)
-
-[XZ 后门事件后开源项目开始改用其它压缩库](https://www.solidot.org/story?sid=77775)
-
-[美国网络中的中国产设备数量仍然在增长](https://www.solidot.org/story?sid=77774)
-
-[印度称从柬埔寨电诈团伙解救出 250 人](https://www.solidot.org/story?sid=77773)
-
-[英特尔芯片制造业务 2023 年营业亏损 70 亿美元](https://www.solidot.org/story?sid=77772)
-
-[NASA 将制定月球时间标准](https://www.solidot.org/story?sid=77771)
 
