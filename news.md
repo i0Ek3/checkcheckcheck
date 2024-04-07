@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-07 16:32:34
+> Update time: 2024-04-08 04:07:50
+
+[家族性阿尔茨海默氏症能通过骨髓移植转移](https://www.solidot.org/story?sid=77799)
+
+[苹果 App Store 允许街机游戏模拟器](https://www.solidot.org/story?sid=77798)
+
+[火星液态水存在的时间可能不足以形成生命](https://www.solidot.org/story?sid=77797)
+
+[氧气如何在大脑中的移动](https://www.solidot.org/story?sid=77795)
+
+[特朗普无意中推动了对科学的信任](https://www.solidot.org/story?sid=77794)
+
+[最新研究显示暗能量可能是变化的](https://www.solidot.org/story?sid=77793)
+
+[V8 引擎整合了新沙盒](https://www.solidot.org/story?sid=77792)
+
+[57 家公司产生了全球八成的二氧化碳排放](https://www.solidot.org/story?sid=77791)
 
 [美国陪审团裁决 Do Kwon 及 Terraform Labs 公司需要对 400 亿美元损失承担责任](https://www.solidot.org/story?sid=77790)
 
 [微软 Windows 11 24H2 屏蔽第三方 UI 自定义工具](https://www.solidot.org/story?sid=77789)
-
-[Kodi 21.0 “Omega” 释出](https://www.solidot.org/story?sid=77788)
-
-[NASA 想要知道 4 月 8 日的日全食会如何影响动物](https://www.solidot.org/story?sid=77787)
-
-[FFmpeg 7.0 释出](https://www.solidot.org/story?sid=77786)
-
-[研究称百度弱智吧中文训练效果高于知乎豆瓣小红书](https://www.solidot.org/story?sid=77785)
-
-[Microsoft Edge 将允许用户控制其消耗的内存](https://www.solidot.org/story?sid=77784)
-
-[《矮人要塞》售出了逾 80 万份拷贝](https://www.solidot.org/story?sid=77783)
-
-[德国 Schleswig-Holstein 州将 3 万台 PC 从 Windows 迁移到 Linux 和 LibreOffice](https://www.solidot.org/story?sid=77782)
-
-[YouTube 称 OpenAI 用该平台视频训练 Sora 将是违反服务条款](https://www.solidot.org/story?sid=77781)
 
