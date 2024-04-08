@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-04-08 16:11:26
+> Update time: 2024-04-08 16:33:08
+
+[报告称去年 Microsoft Exchange 遭到入侵是完全可预防的](https://www.solidot.org/story?sid=77805)
+
+[怀孕期间的蛋白质摄入与后代的脸部外貌相关](https://www.solidot.org/story?sid=77804)
+
+[中国电动汽车厂商下注电池更换](https://www.solidot.org/story?sid=77803)
+
+[美国在 AI 领域独占鳌头](https://www.solidot.org/story?sid=77802)
+
+[新 Windows 驱动阻止修改默认程序](https://www.solidot.org/story?sid=77801)
+
+[Andrew Tridgell 重返 rsync 项目](https://www.solidot.org/story?sid=77800)
 
 [家族性阿尔茨海默氏症能通过骨髓移植转移](https://www.solidot.org/story?sid=77799)
 
@@ -7,17 +19,5 @@
 
 [火星液态水存在的时间可能不足以形成生命](https://www.solidot.org/story?sid=77797)
 
-[氧气如何在大脑中的移动](https://www.solidot.org/story?sid=77795)
-
-[特朗普无意中推动了对科学的信任](https://www.solidot.org/story?sid=77794)
-
-[最新研究显示暗能量可能是变化的](https://www.solidot.org/story?sid=77793)
-
-[V8 引擎整合了新沙盒](https://www.solidot.org/story?sid=77792)
-
-[57 家公司产生了全球八成的二氧化碳排放](https://www.solidot.org/story?sid=77791)
-
-[美国陪审团裁决 Do Kwon 及 Terraform Labs 公司需要对 400 亿美元损失承担责任](https://www.solidot.org/story?sid=77790)
-
-[微软 Windows 11 24H2 屏蔽第三方 UI 自定义工具](https://www.solidot.org/story?sid=77789)
+[PCIe 7.0 规范预计 2025 年发布](https://www.solidot.org/story?sid=77796)
 
