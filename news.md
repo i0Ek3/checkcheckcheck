@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-04-10 04:32:48
+> Update time: 2024-04-10 16:12:08
+
+[暴雪再次与网易合作推出国服](https://www.solidot.org/story?sid=77830)
+
+[三月继续创造全球气温记录](https://www.solidot.org/story?sid=77828)
+
+[上万台 LG 电视机容易被黑客控制](https://www.solidot.org/story?sid=77827)
+
+[物理学家 Peter Higgs 去世](https://www.solidot.org/story?sid=77826)
+
+[Google 宣布辅助编程用的开放大模型 CodeGemma](https://www.solidot.org/story?sid=77824)
+
+[NTT 和读卖对 AI 可能导致社会秩序崩溃表达担忧](https://www.solidot.org/story?sid=77823)
 
 [右翼权威主义有着相似的遗传基础](https://www.solidot.org/story?sid=77822)
 
@@ -8,16 +20,4 @@
 [一季度全球 PC 出货量恢复增长](https://www.solidot.org/story?sid=77820)
 
 [韩国一人户家庭突破千万](https://www.solidot.org/story?sid=77819)
-
-[研究估计日本被 AI 取代的职位比例最高](https://www.solidot.org/story?sid=77818)
-
-[研究发现队友的友好触碰能提高罚球命中率](https://www.solidot.org/story?sid=77817)
-
-[科学家声称发现了马约拉纳费米子的确凿证据](https://www.solidot.org/story?sid=77816)
-
-[加州开始审讯苹果工程师过失致死案](https://www.solidot.org/story?sid=77815)
-
-[海底有千万吨的塑料垃圾](https://www.solidot.org/story?sid=77814)
-
-[波音被指将取悦华尔街而不是安全放在第一位](https://www.solidot.org/story?sid=77813)
 
