@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-04-11 04:33:01
+> Update time: 2024-04-11 16:11:09
+
+[沙特缩减筹划中的超级城市规模](https://www.solidot.org/story?sid=77843)
+
+[美国电影协会计划再次加大力度打击盗版](https://www.solidot.org/story?sid=77842)
+
+[拜登考虑撤销对 Julian Assange 指控的要求](https://www.solidot.org/story?sid=77841)
+
+[Kobo 推出首款彩色电子书阅读器](https://www.solidot.org/story?sid=77840)
+
+[2023 年图灵奖授予了以色列数学家 Avi Wigderson](https://www.solidot.org/story?sid=77839)
+
+[X 自动将用户帖子里的 Twitter 修改为 X](https://www.solidot.org/story?sid=77838)
 
 [互联网流量在北美日食期间显著下降](https://www.solidot.org/story?sid=77837)
 
@@ -8,16 +20,4 @@
 [美国保险公司使用航拍照片评估房产状况](https://www.solidot.org/story?sid=77835)
 
 [欧洲人权法院裁决瑞士政府在气候问题上的不作为侵犯人权](https://www.solidot.org/story?sid=77834)
-
-[Meta 计划先发布 Llama 3 的小版本](https://www.solidot.org/story?sid=77833)
-
-[英特尔调查高端 i9 桌面芯片游戏崩溃问题](https://www.solidot.org/story?sid=77832)
-
-[英特尔宣布 Gaudi 3 AI 加速器](https://www.solidot.org/story?sid=77831)
-
-[暴雪再次与网易合作推出国服](https://www.solidot.org/story?sid=77830)
-
-[三月继续创造全球气温记录](https://www.solidot.org/story?sid=77828)
-
-[上万台 LG 电视机容易被黑客控制](https://www.solidot.org/story?sid=77827)
 
