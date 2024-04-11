@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-04-11 16:36:37
+> Update time: 2024-04-12 04:08:34
+
+[Gentoo Linux 成为 SPI 的关联项目](https://www.solidot.org/story?sid=77848)
+
+[欧盟的 DMA 法律增加了小众浏览器的市场份额](https://www.solidot.org/story?sid=77847)
+
+[美国 Delta IV 火箭完成最后一次发射](https://www.solidot.org/story?sid=77846)
+
+[新法案要求美国 AI 公司披露其使用的版权材料](https://www.solidot.org/story?sid=77845)
+
+[旧金山捷运计划在六年内淘汰 5.25 英寸软盘](https://www.solidot.org/story?sid=77844)
 
 [沙特缩减筹划中的超级城市规模](https://www.solidot.org/story?sid=77843)
 
@@ -10,14 +20,4 @@
 [Kobo 推出首款彩色电子书阅读器](https://www.solidot.org/story?sid=77840)
 
 [2023 年图灵奖授予了以色列数学家 Avi Wigderson](https://www.solidot.org/story?sid=77839)
-
-[X 自动将用户帖子里的 Twitter.com 改为 X.com](https://www.solidot.org/story?sid=77838)
-
-[互联网流量在北美日食期间显著下降](https://www.solidot.org/story?sid=77837)
-
-[Huang 诉特斯拉案在开庭前达成和解](https://www.solidot.org/story?sid=77836)
-
-[美国保险公司使用航拍照片评估房产状况](https://www.solidot.org/story?sid=77835)
-
-[欧洲人权法院裁决瑞士政府在气候问题上的不作为侵犯人权](https://www.solidot.org/story?sid=77834)
 
