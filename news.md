@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-04-12 16:34:08
+> Update time: 2024-04-13 04:09:31
+
+[美国太空军将展开首次轨道军事演习](https://www.solidot.org/story?sid=77873)
+
+[亚洲亿万富翁的慈善事业](https://www.solidot.org/story?sid=77872)
+
+[中国诈骗受害者寻求从英国追回 30 亿英镑比特币](https://www.solidot.org/story?sid=77871)
+
+[英特尔和联想硬件包含可远程利用漏洞](https://www.solidot.org/story?sid=77870)
+
+[苹果向 92 个国家的用户警告间谍软件攻击](https://www.solidot.org/story?sid=77869)
 
 [学生去年使用生成式 AI 写了数千万篇论文](https://www.solidot.org/story?sid=77868)
 
@@ -10,14 +20,4 @@
 [Gentoo Linux 成为 SPI 的关联项目](https://www.solidot.org/story?sid=77848)
 
 [欧盟的 DMA 法律增加了小众浏览器的市场份额](https://www.solidot.org/story?sid=77847)
-
-[美国 Delta IV 火箭完成最后一次发射](https://www.solidot.org/story?sid=77846)
-
-[新法案要求美国 AI 公司披露其使用的版权材料](https://www.solidot.org/story?sid=77845)
-
-[旧金山捷运计划在六年内淘汰 5.25 英寸软盘](https://www.solidot.org/story?sid=77844)
-
-[沙特缩减筹划中的超级城市规模](https://www.solidot.org/story?sid=77843)
-
-[美国电影协会计划再次加大力度打击盗版](https://www.solidot.org/story?sid=77842)
 
