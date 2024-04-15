@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-04-15 07:11:20
+> Update time: 2024-04-15 16:09:26
+
+[为什么我们容易受骗？](https://www.solidot.org/story?sid=77885)
+
+[我们如何感知苦味？](https://www.solidot.org/story?sid=77884)
+
+[美国议员呼吁禁止进口中国制造的电动车](https://www.solidot.org/story?sid=77883)
+
+[Linux 基金会托管的 OpenTofu 项目否认盗用代码指控](https://www.solidot.org/story?sid=77882)
+
+[AI 产品仍然依靠人类去填补性能差距](https://www.solidot.org/story?sid=77881)
 
 [OpenTTD 14.0 释出](https://www.solidot.org/story?sid=77880)
 
@@ -10,14 +20,4 @@
 [去年全国可能只有 4 个省人口正增长](https://www.solidot.org/story?sid=77877)
 
 [Adobe 以每分钟约 3 美元的价格购买视频构建文本视频 AI 模型](https://www.solidot.org/story?sid=77876)
-
-[政府要求电信公司逐步淘汰网络核心使用的外国芯片](https://www.solidot.org/story?sid=77875)
-
-[LastPass 称黑客冒充 CEO 的声音试图欺骗其雇员](https://www.solidot.org/story?sid=77874)
-
-[美国太空军将展开首次轨道军事演习](https://www.solidot.org/story?sid=77873)
-
-[亚洲亿万富翁的慈善事业](https://www.solidot.org/story?sid=77872)
-
-[中国诈骗受害者寻求从英国追回 30 亿英镑比特币](https://www.solidot.org/story?sid=77871)
 
