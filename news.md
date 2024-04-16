@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-16 16:32:53
+> Update time: 2024-04-17 04:08:30
 
-[章鱼可能会因为海洋温度上升失明](https://www.solidot.org/story?sid=77891)
+[三星再次超过苹果成为最大智能手机制造商](https://www.solidot.org/story?sid=77902)
 
-[迄今最明亮伽马射线源自恒星坍缩](https://www.solidot.org/story?sid=77890)
+[李彦宏声称开源大模型更昂贵](https://www.solidot.org/story?sid=77901)
 
-[PHP 的流行度在下降](https://www.solidot.org/story?sid=77889)
+[中小学科创比赛背后的论文代写产业](https://www.solidot.org/story?sid=77900)
 
-[臭氧水平上升会破坏昆虫交配信息素](https://www.solidot.org/story?sid=77888)
+[安全工程师因窃取价值 1200 万美元加密货币被判三年徒刑](https://www.solidot.org/story?sid=77899)
 
-[水星可能曾和地球一样大](https://www.solidot.org/story?sid=77887)
+[过去五十年歌词愈来愈简单和重复](https://www.solidot.org/story?sid=77898)
 
-[GCC 14 停止支持 IA64 架构](https://www.solidot.org/story?sid=77886)
+[育碧从玩家游戏库中转移已购买游戏](https://www.solidot.org/story?sid=77897)
 
-[为什么我们容易受骗？](https://www.solidot.org/story?sid=77885)
+[AI 生成奥特曼案被判侵权](https://www.solidot.org/story?sid=77896)
 
-[我们如何感知苦味？](https://www.solidot.org/story?sid=77884)
+[斯坦福报告称 AI 算力投资急剧上升](https://www.solidot.org/story?sid=77895)
 
-[美国议员呼吁禁止进口中国制造的电动车](https://www.solidot.org/story?sid=77883)
+[PuTTY 高危漏洞会暴露私钥](https://www.solidot.org/story?sid=77894)
 
-[Linux 基金会托管的 OpenTofu 项目否认盗用代码指控](https://www.solidot.org/story?sid=77882)
+[Medium 禁止其付费服务使用 AI 生成内容](https://www.solidot.org/story?sid=77893)
 
