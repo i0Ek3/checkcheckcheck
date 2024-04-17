@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-17 16:32:58
+> Update time: 2024-04-18 04:08:22
 
-[XZ 后门事件可能不是一起孤立事件](https://www.solidot.org/story?sid=77917)
+[波士顿动力宣布双足机器人 Atlas 的全电版](https://www.solidot.org/story?sid=77936)
 
-[英国将制作深度伪造的色情图像定为非法](https://www.solidot.org/story?sid=77916)
+[马斯克表示 X 新用户将需要付费发帖](https://www.solidot.org/story?sid=77935)
 
-[北极永久冻土成为碳排放新来源](https://www.solidot.org/story?sid=77915)
+[YouTube 打击广告屏蔽扩大到第三方应用](https://www.solidot.org/story?sid=77934)
 
-[微软亚洲研究院开源然后移除了新 AI 模型](https://www.solidot.org/story?sid=77905)
+[Firefox 125 释出](https://www.solidot.org/story?sid=77933)
 
-[《Descent 3》源代码在 MIT 许可证下公布](https://www.solidot.org/story?sid=77904)
+[微塑料会从肠道进入其他器官](https://www.solidot.org/story?sid=77932)
 
-[电动汽车帮助加州湾区碳排放每年下降 1.8%](https://www.solidot.org/story?sid=77903)
+[天文学家在银河系发现巨大的恒星黑洞](https://www.solidot.org/story?sid=77931)
 
-[三星再次超过苹果成为最大智能手机制造商](https://www.solidot.org/story?sid=77902)
+[波士顿动力退役它的双足人形机器人 Atlas](https://www.solidot.org/story?sid=77930)
 
-[李彦宏声称开源大模型更昂贵](https://www.solidot.org/story?sid=77901)
+[基于格的后量子算法可能无法抵御量子计算机](https://www.solidot.org/story?sid=77929)
 
-[中小学科创比赛背后的论文代写产业](https://www.solidot.org/story?sid=77900)
+[特斯拉宣布裁员 10%](https://www.solidot.org/story?sid=77928)
 
-[安全工程师因窃取价值 1200 万美元加密货币被判三年徒刑](https://www.solidot.org/story?sid=77899)
+[Change Healthcare 勒索软件攻击的损失可能高达 10 亿美元](https://www.solidot.org/story?sid=77927)
 
