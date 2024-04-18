@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-18 16:33:49
+> Update time: 2024-04-19 04:09:03
+
+[睡眠将垃圾清除出大脑](https://www.solidot.org/story?sid=77946)
+
+[印度总理称 AI 帮助制定了国家 25 年计划](https://www.solidot.org/story?sid=77945)
+
+[研究者澄清弱智吧语料训练效果最佳论](https://www.solidot.org/story?sid=77944)
+
+[ASML 一季度净利润下滑逾三分之一](https://www.solidot.org/story?sid=77943)
+
+[基因组分析显示日本人祖先可能有三大谱系](https://www.solidot.org/story?sid=77942)
+
+[Gentoo Linux 禁止 AI 辅助编程的代码](https://www.solidot.org/story?sid=77941)
+
+[LXQt 2.0.0 发布](https://www.solidot.org/story?sid=77940)
 
 [科学家发现年轻血液的小细胞外囊泡有助于逆转衰老](https://www.solidot.org/story?sid=77939)
 
 [Google 解雇了在高管办公室抗议的 28 名雇员](https://www.solidot.org/story?sid=77938)
 
 [Mistral 宣布最新开放大模型 Mixtral 8x22B](https://www.solidot.org/story?sid=77937)
-
-[波士顿动力宣布双足机器人 Atlas 的全电版](https://www.solidot.org/story?sid=77936)
-
-[马斯克表示 X 新用户将需要付费发帖](https://www.solidot.org/story?sid=77935)
-
-[YouTube 打击广告屏蔽扩大到第三方应用](https://www.solidot.org/story?sid=77934)
-
-[Firefox 125 释出](https://www.solidot.org/story?sid=77933)
-
-[微塑料会从肠道进入其他器官](https://www.solidot.org/story?sid=77932)
-
-[天文学家在银河系发现巨大的恒星黑洞](https://www.solidot.org/story?sid=77931)
-
-[波士顿动力退役它的双足人形机器人 Atlas](https://www.solidot.org/story?sid=77930)
 
