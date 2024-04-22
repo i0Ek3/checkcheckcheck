@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-22 16:34:42
+> Update time: 2024-04-23 04:09:21
 
-[Linus Torvalds 谈 AI 炒作](https://www.solidot.org/story?sid=77963)
+[美国政府有个微软问题](https://www.solidot.org/story?sid=77974)
 
-[印度 IT 外包巨头 20 年来首次大规模裁员](https://www.solidot.org/story?sid=77962)
+[木星卫星 Io 新图像揭示了永恒的火山运动](https://www.solidot.org/story?sid=77973)
 
-[微软准备迫使 Windows 10 用户使用 Microsoft Accounts](https://www.solidot.org/story?sid=77961)
+[AI 生成的儿童色情材料将成为未来的一大难题](https://www.solidot.org/story?sid=77972)
 
-[Firefox Nightly 发布 Linux on ARM64 版](https://www.solidot.org/story?sid=77960)
+[字节跳动准备在法庭挑战美国可能的 TikTok 禁令](https://www.solidot.org/story?sid=77971)
 
-[欧盟要求成人网站递交风险评估报告](https://www.solidot.org/story?sid=77959)
+[印度发现距今 4700 万年的古巨蛇](https://www.solidot.org/story?sid=77970)
 
-[哲学家 Daniel Dennett 去世，享年 82 岁](https://www.solidot.org/story?sid=77958)
+[一季度勒索赎金支付比例降至 28%](https://www.solidot.org/story?sid=77969)
 
-[比特币第四次采矿回报减半](https://www.solidot.org/story?sid=77957)
+[朝鲜可能在为亚马逊 和 HBO 制作动画](https://www.solidot.org/story?sid=77968)
 
-[微软的 VASA-1 模型根据一张照片和一条音轨生成该人的说话视频](https://www.solidot.org/story?sid=77956)
+[地球创纪录高温可能预示着新气候时代的到来](https://www.solidot.org/story?sid=77967)
 
-[陈的量子算法被发现存在无法修正的错误](https://www.solidot.org/story?sid=77955)
+[可控核聚变企业获得巨额投资](https://www.solidot.org/story?sid=77966)
 
-[黑客威胁披露与制裁和金融犯罪相关的黑名单数据库](https://www.solidot.org/story?sid=77954)
+[Ziplines 无人机完成了 100 万次送货](https://www.solidot.org/story?sid=77965)
 
