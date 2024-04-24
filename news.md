@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-24 16:34:08
+> Update time: 2024-04-25 04:09:15
+
+[Google Chrome 再次推迟淘汰第三方 Cookie](https://www.solidot.org/story?sid=77998)
+
+[微软开始对所有人启用开始菜单广告](https://www.solidot.org/story?sid=77997)
+
+[猴痘病毒一毒株具有性传播能力](https://www.solidot.org/story?sid=77996)
+
+[IBM 准备收购 HashiCorp](https://www.solidot.org/story?sid=77995)
+
+[韩国人起诉政府应对气候变化不力侵犯人权](https://www.solidot.org/story?sid=77994)
+
+[Andreas Tille 当选为 DPL](https://www.solidot.org/story?sid=77993)
+
+[QEMU 释出 v9.0.0 版](https://www.solidot.org/story?sid=77992)
+
+[甲骨文将把总部迁移到田纳西州](https://www.solidot.org/story?sid=77991)
+
+[FTC 禁止绝大部分职业的竞业禁止协议](https://www.solidot.org/story?sid=77990)
 
 [美国参议院通过 TikTok 禁令法案](https://www.solidot.org/story?sid=77989)
-
-[微软发布其轻量级模型 Phi-3](https://www.solidot.org/story?sid=77988)
-
-[云输入法的漏洞会暴露输入的内容](https://www.solidot.org/story?sid=77987)
-
-[Google 解雇了约 50 名参与抗议与以色列云计算合同的员工](https://www.solidot.org/story?sid=77986)
-
-[Fedora Linux 40 释出](https://www.solidot.org/story?sid=77985)
-
-[姓氏字母顺序可能影响成绩](https://www.solidot.org/story?sid=77984)
-
-[NSA 报告的 Windows 漏洞被俄罗斯用于安装恶意程序](https://www.solidot.org/story?sid=77983)
-
-[孤独感可能会增加对糖的渴望](https://www.solidot.org/story?sid=77982)
-
-[Change Healthcare 承认向黑客支付赎金，但未必能避免客户数据泄露](https://www.solidot.org/story?sid=77981)
-
-[研究人员发现在纸上写下怒意并扔掉可缓解情绪](https://www.solidot.org/story?sid=77980)
 
