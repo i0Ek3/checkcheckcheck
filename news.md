@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-24 04:33:13
+> Update time: 2024-04-24 16:11:57
+
+[美国参议院通过 TikTok 禁令法案](https://www.solidot.org/story?sid=77989)
+
+[微软发布其轻量级模型 Phi-3](https://www.solidot.org/story?sid=77988)
+
+[云输入法的漏洞会暴露输入的内容](https://www.solidot.org/story?sid=77987)
+
+[Google 解雇了约 50 名参与抗议与以色列云计算合同的员工](https://www.solidot.org/story?sid=77986)
+
+[Fedora Linux 40 释出](https://www.solidot.org/story?sid=77985)
+
+[姓氏字母顺序可能影响成绩](https://www.solidot.org/story?sid=77984)
+
+[NSA 报告的 Windows 漏洞被俄罗斯用于安装恶意程序](https://www.solidot.org/story?sid=77983)
 
 [孤独感可能会增加对糖的渴望](https://www.solidot.org/story?sid=77982)
 
 [Change Healthcare 承认向黑客支付赎金，但未必能避免客户数据泄露](https://www.solidot.org/story?sid=77981)
 
 [研究人员发现在纸上写下怒意并扔掉可缓解情绪](https://www.solidot.org/story?sid=77980)
-
-[NASA 恢复与旅行者1号的通信](https://www.solidot.org/story?sid=77979)
-
-[AI 需要大量的电以至于科技公司进入了能源行业](https://www.solidot.org/story?sid=77978)
-
-[没人读书的时代](https://www.solidot.org/story?sid=77977)
-
-[华为准备向世界推广其鸿蒙操作系统](https://www.solidot.org/story?sid=77976)
-
-[Meta 向第三方 VR 设备开放操作系统 Horizon OS](https://www.solidot.org/story?sid=77975)
-
-[美国政府有个微软问题](https://www.solidot.org/story?sid=77974)
-
-[木星卫星 Io 新图像揭示了永恒的火山运动](https://www.solidot.org/story?sid=77973)
 
