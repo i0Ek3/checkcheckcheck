@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-25 16:34:38
+> Update time: 2024-04-26 04:08:34
+
+[字节跳动收紧对美国 TikTok 运营的控制](https://www.solidot.org/story?sid=78010)
+
+[Adobe 新 AI 模型能让模糊视频变成高清视频](https://www.solidot.org/story?sid=78009)
+
+[Meta 是最热衷开源的科技巨头](https://www.solidot.org/story?sid=78008)
+
+[中国科技业的 35 岁诅咒](https://www.solidot.org/story?sid=78007)
+
+[核聚变反应克服了两大障碍](https://www.solidot.org/story?sid=78006)
+
+[美国居民能用不到 1 万美元购买装备喷火器的机器狗](https://www.solidot.org/story?sid=78005)
+
+[苹果发布可在本地运行的开放模型 OpenELM](https://www.solidot.org/story?sid=78004)
+
+[印度杀软通过 HTTP 更新，被中间人拦截安装后门](https://www.solidot.org/story?sid=78003)
+
+[黑客滥用 GitHub 评论地址传播恶意程序](https://www.solidot.org/story?sid=78002)
 
 [Grindr 与第三方分享用户敏感 HIV 信息面临集体诉讼](https://www.solidot.org/story?sid=78001)
-
-[Pixiv 对美英用户屏蔽部分成人内容](https://www.solidot.org/story?sid=78000)
-
-[拜登签署了 TikTok 法案](https://www.solidot.org/story?sid=77999)
-
-[Google Chrome 再次推迟淘汰第三方 Cookie](https://www.solidot.org/story?sid=77998)
-
-[微软开始对所有人启用开始菜单广告](https://www.solidot.org/story?sid=77997)
-
-[猴痘病毒一毒株具有性传播能力](https://www.solidot.org/story?sid=77996)
-
-[IBM 准备收购 HashiCorp](https://www.solidot.org/story?sid=77995)
-
-[韩国人起诉政府应对气候变化不力侵犯人权](https://www.solidot.org/story?sid=77994)
-
-[Andreas Tille 当选为 DPL](https://www.solidot.org/story?sid=77993)
-
-[QEMU 释出 v9.0.0 版](https://www.solidot.org/story?sid=77992)
 
