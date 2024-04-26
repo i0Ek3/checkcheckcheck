@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-04-26 16:33:02
+> Update time: 2024-04-27 04:09:39
 
-[字节跳动收紧对美国 TikTok 运营的控制](https://www.solidot.org/story?sid=78010)
+[阿里巴巴发布了首个千亿参数的大模型 Qwen1.5-110B](https://www.solidot.org/story?sid=78021)
 
-[Adobe 新 AI 模型能让模糊视频变成高清视频](https://www.solidot.org/story?sid=78009)
+[爬楼梯或简单运动有益心脏健康](https://www.solidot.org/story?sid=78020)
 
-[Meta 是最热衷开源的科技巨头](https://www.solidot.org/story?sid=78008)
+[人造甜味剂纽甜可能会损害肠壁](https://www.solidot.org/story?sid=78019)
 
-[中国科技业的 35 岁诅咒](https://www.solidot.org/story?sid=78007)
+[科学家确定长白山 3 万年前大喷发时间](https://www.solidot.org/story?sid=78018)
 
-[核聚变反应克服了两大障碍](https://www.solidot.org/story?sid=78006)
+[美国市场 iPhone 手机激活量下降](https://www.solidot.org/story?sid=78017)
 
-[美国居民能用不到 1 万美元购买装备喷火器的机器狗](https://www.solidot.org/story?sid=78005)
+[美国生育率降至百年来的最低水平](https://www.solidot.org/story?sid=78016)
 
-[苹果发布可在本地运行的开放模型 OpenELM](https://www.solidot.org/story?sid=78004)
+[任天堂迫使 Garry's Mod 删除创意工坊中与其 IP 相关的内容](https://www.solidot.org/story?sid=78015)
 
-[印度杀软通过 HTTP 更新，被中间人拦截安装后门](https://www.solidot.org/story?sid=78003)
+[字节跳动宁愿关闭而不是出售 TikTok](https://www.solidot.org/story?sid=78014)
 
-[黑客滥用 GitHub 评论地址传播恶意程序](https://www.solidot.org/story?sid=78002)
+[Twilio 联合创始人 Jeff Lawson 收购洋葱新闻](https://www.solidot.org/story?sid=78013)
 
-[Grindr 与第三方分享用户敏感 HIV 信息面临集体诉讼](https://www.solidot.org/story?sid=78001)
+[Ubuntu 24.04 LTS Noble Numbat 发布](https://www.solidot.org/story?sid=78012)
 
