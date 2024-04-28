@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-04-28 04:32:56
+> Update time: 2024-04-28 16:12:00
+
+[GNOME 基金会将加大筹款力度](https://www.solidot.org/story?sid=78027)
+
+[Mastodon 在美国成立非盈利实体](https://www.solidot.org/story?sid=78026)
+
+[如果 PC 未达到支持 AI 的硬件标准 Windows 11 将显示水印](https://www.solidot.org/story?sid=78025)
+
+[英特尔将在五月就其高端桌面 CPU 的稳定性问题发表声明](https://www.solidot.org/story?sid=78024)
+
+[深圳大疆可能成为美国下一个封禁目标](https://www.solidot.org/story?sid=78023)
 
 [三名美国女子因做“吸血鬼美容”感染 HIV](https://www.solidot.org/story?sid=78022)
 
@@ -10,14 +20,4 @@
 [人造甜味剂纽甜可能会损害肠壁](https://www.solidot.org/story?sid=78019)
 
 [科学家确定长白山 3 万年前大喷发时间](https://www.solidot.org/story?sid=78018)
-
-[美国市场 iPhone 手机激活量下降](https://www.solidot.org/story?sid=78017)
-
-[美国生育率降至百年来的最低水平](https://www.solidot.org/story?sid=78016)
-
-[任天堂迫使 Garry's Mod 删除创意工坊中与其 IP 相关的内容](https://www.solidot.org/story?sid=78015)
-
-[字节跳动宁愿关闭而不是出售 TikTok](https://www.solidot.org/story?sid=78014)
-
-[Twilio 联合创始人 Jeff Lawson 收购洋葱新闻](https://www.solidot.org/story?sid=78013)
 
