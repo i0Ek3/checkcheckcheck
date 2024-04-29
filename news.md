@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-04-29 04:32:57
+> Update time: 2024-04-29 16:12:38
+
+[HardenedVault 打造 Ubuntu 24.04 LTS 的安全增强版本](https://www.solidot.org/story?sid=78038)
+
+[微软的 AI Explorer 将读取屏幕上的所有内容](https://www.solidot.org/story?sid=78037)
+
+[HMD 发布了首款自有品牌手机](https://www.solidot.org/story?sid=78036)
+
+[黑客正尝试利用最近披露的一个 WordPress 插件高危漏洞](https://www.solidot.org/story?sid=78035)
+
+[10 亿年来两种生命形式首次合并成单一有机体](https://www.solidot.org/story?sid=78034)
 
 [校长被 AI 生成的种族主义言论陷害](https://www.solidot.org/story?sid=78033)
 
@@ -10,14 +20,4 @@
 [交通噪音会对幼鸟造成终身伤害](https://www.solidot.org/story?sid=78030)
 
 [印度封杀 TikTok 四年之后](https://www.solidot.org/story?sid=78029)
-
-[挪威石油基金 CEO 称欧洲人没有美国人勤奋](https://www.solidot.org/story?sid=78028)
-
-[GNOME 基金会将加大筹款力度](https://www.solidot.org/story?sid=78027)
-
-[Mastodon 在美国成立非盈利实体](https://www.solidot.org/story?sid=78026)
-
-[如果 PC 未达到支持 AI 的硬件标准 Windows 11 将显示水印](https://www.solidot.org/story?sid=78025)
-
-[英特尔将在五月就其高端桌面 CPU 的稳定性问题发表声明](https://www.solidot.org/story?sid=78024)
 
