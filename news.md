@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-01 16:38:06
+> Update time: 2024-05-02 04:10:34
+
+[美国政府拍卖 5.34 petaflops 退役超算](https://www.solidot.org/story?sid=78063)
+
+[美国最高法院拒绝推翻德州的成人网站禁令](https://www.solidot.org/story?sid=78062)
+
+[赵长鹏因洗钱指控被判入狱 4 个月](https://www.solidot.org/story?sid=78061)
+
+[Arc Browser for Windows 1.0 GA](https://www.solidot.org/story?sid=78060)
+
+[NASA Psyche 探测器演示了从 2.26 亿公里外以 25 Mbps 传输数据](https://www.solidot.org/story?sid=78059)
+
+[为什么愈来愈多的笔记本电脑焊死内存](https://www.solidot.org/story?sid=78058)
+
+[三星在中国可折叠手机市场份额大幅下挫](https://www.solidot.org/story?sid=78057)
+
+[苹果挖走 Google 员工组建 AI 团队](https://www.solidot.org/story?sid=78056)
 
 [科学家发现一组酶可将 A 和 B 型血变成 O 型血](https://www.solidot.org/story?sid=78055)
 
 [Ubuntu 24.10 代号 Oracular Oriole](https://www.solidot.org/story?sid=78054)
-
-[Google 以重组名义裁减 Flutter、Dart 和 Python 团队](https://www.solidot.org/story?sid=78053)
-
-[Windows 10 后续更新补丁体积将较少 40](https://www.solidot.org/story?sid=78052)
-
-[俄罗斯对前棋王加里·卡斯帕罗夫发出逮捕令](https://www.solidot.org/story?sid=78051)
-
-[WeWork 拒绝了前创始人的收购报价](https://www.solidot.org/story?sid=78050)
-
-[G7 达成协议 2035 年退出煤电](https://www.solidot.org/story?sid=78049)
-
-[哈勃再次因陀螺仪问题进入安全模式](https://www.solidot.org/story?sid=78048)
-
-[航班订票系统将 101 岁老妇识别为 1 岁婴儿](https://www.solidot.org/story?sid=78047)
-
-[英国成为第一个禁止物联网设备默认使用弱密码的国家](https://www.solidot.org/story?sid=78046)
 
