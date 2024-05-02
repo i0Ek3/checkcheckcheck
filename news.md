@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2024-05-03 04:09:54
+> Update time: 2024-05-03 04:33:48
 
 [研究称年轻人和老年人之间的认知差异在缩小](https://www.solidot.org/story?sid=78065)
 
