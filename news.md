@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-04 16:32:53
+> Update time: 2024-05-05 04:10:07
+
+[宇航员在月球上沿着“死亡之墙”跑步有助于保持健康](https://www.solidot.org/story?sid=78075)
+
+[愈来愈多的科学家使用 AI 撰写论文](https://www.solidot.org/story?sid=78074)
+
+[美国官员督促中俄承诺不用 AI 控制核武器](https://www.solidot.org/story?sid=78073)
+
+[索尼和 Apollo 报价 260 亿美元收购派拉蒙](https://www.solidot.org/story?sid=78072)
+
+[任天堂 DMCA 通知迫使 GitHub 移除了 8,535 个 Switch 模拟器 yuzu 的副本](https://www.solidot.org/story?sid=78071)
+
+[法庭文件显示 Google 在 2022 年向苹果支付了 200 亿美元](https://www.solidot.org/story?sid=78070)
+
+[朱令案有望重启调查](https://www.solidot.org/story?sid=78069)
 
 [微软四月更新再次破坏了 VPN 连接](https://www.solidot.org/story?sid=78068)
 
 [Steam 调查显示英语用户成为第一语言](https://www.solidot.org/story?sid=78067)
 
 [BASIC 语言诞生 60 年](https://www.solidot.org/story?sid=78066)
-
-[研究称年轻人和老年人之间的认知差异在缩小](https://www.solidot.org/story?sid=78065)
-
-[Windows 11 市场份额不升反降](https://www.solidot.org/story?sid=78064)
-
-[美国政府拍卖 5.34 petaflops 退役超算](https://www.solidot.org/story?sid=78063)
-
-[美国最高法院拒绝推翻德州的成人网站禁令](https://www.solidot.org/story?sid=78062)
-
-[赵长鹏因洗钱指控被判入狱 4 个月](https://www.solidot.org/story?sid=78061)
-
-[Arc Browser for Windows 1.0 GA](https://www.solidot.org/story?sid=78060)
-
-[NASA Psyche 探测器演示了从 2.26 亿公里外以 25 Mbps 传输数据](https://www.solidot.org/story?sid=78059)
 
