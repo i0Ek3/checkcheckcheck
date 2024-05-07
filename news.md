@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-07 04:32:58
+> Update time: 2024-05-07 16:11:23
+
+[微软新模型能与 Google 和 OpenAI 的最先进模型相抗衡](https://www.solidot.org/story?sid=78093)
+
+[Visa 研究发现逾九成稳定币交易来自非真实用户](https://www.solidot.org/story?sid=78092)
+
+[因高通货膨胀阿根廷人拥抱 Sam Altman 的 Worldcoin](https://www.solidot.org/story?sid=78091)
+
+[Mastodon 的链接预览会大幅增加服务器负担](https://www.solidot.org/story?sid=78090)
 
 [中美 AI 芯片竞争](https://www.solidot.org/story?sid=78089)
 
 [哲学家呼吁将动物视为有意识生命](https://www.solidot.org/story?sid=78088)
+
+[日本牙齿再生药物 9 月启动临床试验](https://www.solidot.org/story?sid=78087)
 
 [研究人员称中国政府网站安全性欠缺](https://www.solidot.org/story?sid=78086)
 
 [中国买家推动黄金价格达到历史高点](https://www.solidot.org/story?sid=78085)
 
 [10 年前微软收购了诺基亚手机业务](https://www.solidot.org/story?sid=78084)
-
-[法官考虑对 Google 销毁证据的行为进行制裁](https://www.solidot.org/story?sid=78083)
-
-[铁电体非易失内存能在 600℃ 工作 60 小时](https://www.solidot.org/story?sid=78082)
-
-[健康的生活方式可抵消大部分短寿基因的影响](https://www.solidot.org/story?sid=78081)
-
-[以色列关闭其境内的半岛电视台办事处](https://www.solidot.org/story?sid=78080)
-
-[日本儿童数量连续 43 年减少](https://www.solidot.org/story?sid=78079)
 
