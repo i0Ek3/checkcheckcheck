@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-08 04:32:48
+> Update time: 2024-05-08 16:10:05
 
-[中国飞行汽车即将起飞](https://www.solidot.org/story?sid=78095)
+[美商务部撤销英特尔和高通对华为的出口许可证](https://www.solidot.org/story?sid=78105)
 
-[FSF 宣布了 2023 年度的自由软件奖得主](https://www.solidot.org/story?sid=78094)
+[全球气温连续 11 个月创新高](https://www.solidot.org/story?sid=78104)
 
-[微软新模型能与 Google 和 OpenAI 的最先进模型相抗衡](https://www.solidot.org/story?sid=78093)
+[TikTok 就封禁令起诉美国政府](https://www.solidot.org/story?sid=78103)
 
-[Visa 研究发现逾九成稳定币交易来自非真实用户](https://www.solidot.org/story?sid=78092)
+[科学家发现不良饮食和癌症风险之间的关联](https://www.solidot.org/story?sid=78102)
 
-[因高通货膨胀阿根廷人拥抱 Sam Altman 的 Worldcoin](https://www.solidot.org/story?sid=78091)
+[睡眠前半段重置了大脑神经连接](https://www.solidot.org/story?sid=78101)
 
-[Mastodon 的链接预览会大幅增加服务器负担](https://www.solidot.org/story?sid=78090)
+[研究人员披露针对 VPN 流量的 TunnelVision 攻击](https://www.solidot.org/story?sid=78100)
 
-[中美 AI 芯片竞争](https://www.solidot.org/story?sid=78089)
+[微软关闭 Arkane Austin、Tango 等 Bethesda 旗下工作室](https://www.solidot.org/story?sid=78099)
 
-[哲学家呼吁将动物视为有意识生命](https://www.solidot.org/story?sid=78088)
+[任天堂宣布 Switch 二代将在本财年内公布](https://www.solidot.org/story?sid=78098)
 
-[日本牙齿再生药物 9 月启动临床试验](https://www.solidot.org/story?sid=78087)
+[OpenAI 和 Stack Overflow 合作用该平台信息训练 ChatGPT](https://www.solidot.org/story?sid=78097)
 
-[研究人员称中国政府网站安全性欠缺](https://www.solidot.org/story?sid=78086)
+[逾四万 AI 配音的有声读物涌入 Audible](https://www.solidot.org/story?sid=78096)
 
