@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-05-10 04:33:21
+> Update time: 2024-05-10 16:11:31
+
+[微软准备推出移动游戏商店](https://www.solidot.org/story?sid=78126)
+
+[华为通过 HarmonyOS Next 摆脱 Google 生态系统](https://www.solidot.org/story?sid=78125)
+
+[微软再次证实 Windows Server 四月更新会导致新问题](https://www.solidot.org/story?sid=78124)
+
+[新 mRNA 疫苗帮助免疫系统对抗致命脑瘤](https://www.solidot.org/story?sid=78123)
+
+[“数字永生”生意在中国逐渐火爆](https://www.solidot.org/story?sid=78122)
 
 [美国调查发现八成年轻人认为四天工作制能提高工作效率](https://www.solidot.org/story?sid=78121)
 
@@ -10,14 +20,4 @@
 [抹香鲸可能有复杂的语言](https://www.solidot.org/story?sid=78118)
 
 [环境变化让传染病对人类和动植物更加危险](https://www.solidot.org/story?sid=78117)
-
-[GitHub Copilot 真的能提高工作效率？](https://www.solidot.org/story?sid=78116)
-
-[Google AlphaFold 3 能预测生物分子的结构和相互作用](https://www.solidot.org/story?sid=78115)
-
-[Stack Overflow 冻结抗议与 OpenAI 交易的用户账号](https://www.solidot.org/story?sid=78114)
-
-[微软报告称筋疲力尽的白领用 AI 减轻工作压力](https://www.solidot.org/story?sid=78113)
-
-[可再生能源发电量首次占全球电力供应的三成](https://www.solidot.org/story?sid=78112)
 
