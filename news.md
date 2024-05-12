@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-05-12 04:33:09
+> Update time: 2024-05-12 16:11:16
+
+[法官驳回了 X 对数据抓取公司的诉讼](https://www.solidot.org/story?sid=78143)
+
+[英伟达将开源内核驱动作为 Turing 等新 GPU 的默认驱动](https://www.solidot.org/story?sid=78142)
+
+[英特尔仍是最大芯片巨头，但 AMD 正缩小差距](https://www.solidot.org/story?sid=78141)
+
+[天津蓝天诈骗案主犯钱志敏已被捕](https://www.solidot.org/story?sid=78140)
+
+[富士通等发布增强日语能力的大模型 Fugaku-LLM](https://www.solidot.org/story?sid=78139)
 
 [Windows 11 24H2 将默认启用设备加密](https://www.solidot.org/story?sid=78138)
 
@@ -10,14 +20,4 @@
 [G5 地磁风暴来袭](https://www.solidot.org/story?sid=78135)
 
 [Mozilla Llamafile 新版优化 AVX2 性能显著改进速度](https://www.solidot.org/story?sid=78134)
-
-[OpenAI 预计下周一发布 AI 驱动的搜索引擎](https://www.solidot.org/story?sid=78133)
-
-[大气二氧化碳浓度创下新纪录](https://www.solidot.org/story?sid=78132)
-
-[暴露在汽车阻燃剂下面临更高的致癌风险](https://www.solidot.org/story?sid=78131)
-
-[科学家绘制人类大脑一小部分的高分辨率地图](https://www.solidot.org/story?sid=78130)
-
-[戴尔披露客户信息泄露](https://www.solidot.org/story?sid=78129)
 
