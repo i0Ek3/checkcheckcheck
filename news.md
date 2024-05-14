@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-05-14 04:34:23
+> Update time: 2024-05-14 16:12:41
+
+[上周末的太阳风暴影响了拖拉机的 GPS 系统](https://www.solidot.org/story?sid=78157)
+
+[OpenAI 发布新的免费模型 GPT-4o](https://www.solidot.org/story?sid=78156)
+
+[梅琳达·盖茨退出盖茨基金会](https://www.solidot.org/story?sid=78155)
+
+[IBM 开源 Granite 代码模型](https://www.solidot.org/story?sid=78154)
+
+[修复免疫系统能延缓衰老](https://www.solidot.org/story?sid=78153)
+
+[仍然没有放弃软盘的人](https://www.solidot.org/story?sid=78152)
 
 [Red Hat 和 CIQ 为 RHEL 7 提供扩展支持](https://www.solidot.org/story?sid=78151)
 
@@ -8,16 +20,4 @@
 [研究发现夫妻共同饮酒与长寿相关](https://www.solidot.org/story?sid=78149)
 
 [游戏公司高管在指定居住期间死亡](https://www.solidot.org/story?sid=78148)
-
-[Linux Kernel 6.9 释出](https://www.solidot.org/story?sid=78147)
-
-[Google 员工就士气低落质疑高管](https://www.solidot.org/story?sid=78146)
-
-[太阳爆发 X5.8 级耀斑，强地磁风暴将持续到周一](https://www.solidot.org/story?sid=78145)
-
-[气候变暖增加中国城市火灾风险](https://www.solidot.org/story?sid=78144)
-
-[法官驳回了 X 对数据抓取公司的诉讼](https://www.solidot.org/story?sid=78143)
-
-[英伟达将开源内核驱动作为 Turing 等新 GPU 的默认驱动](https://www.solidot.org/story?sid=78142)
 
