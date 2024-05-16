@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-16 16:33:49
+> Update time: 2024-05-17 04:09:00
 
-[美国总统下令关闭一座靠近核导弹基地的加密货币矿场](https://www.solidot.org/story?sid=78172)
+[食物加盐大幅增加胃癌风险](https://www.solidot.org/story?sid=78189)
 
-[美国对中国电动汽车征收 100% 关税](https://www.solidot.org/story?sid=78171)
+[华为否认其大模型演示造假](https://www.solidot.org/story?sid=78188)
 
-[Google 搜索将默认展示 AI 生成的结果](https://www.solidot.org/story?sid=78170)
+[大量的虚假论文导致多家期刊关闭](https://www.solidot.org/story?sid=78187)
 
-[微软五月更新修复了四月更新导致的 VPN 连接问题](https://www.solidot.org/story?sid=78169)
+[Android 15 引入私人空间，盗窃检测和 AV1 支持](https://www.solidot.org/story?sid=78186)
 
-[2023 年北半球夏季气温为两千年以来最高](https://www.solidot.org/story?sid=78168)
+[量子互联网取得突破](https://www.solidot.org/story?sid=78185)
 
-[VMware 将其 Workstation Pro 和 Fusion Pro 产品免费提供给个人使用](https://www.solidot.org/story?sid=78167)
+[育碧宣布了日本背景的《刺客信条：影》](https://www.solidot.org/story?sid=78184)
 
-[OpenAI 联合创始人兼首席科学家离职](https://www.solidot.org/story?sid=78166)
+[苹果 App Store 批准了 PSP 模拟器 PPSSPP 上架](https://www.solidot.org/story?sid=78183)
 
-[Google 发布了它的生成式 AI 视频模型 Veo](https://www.solidot.org/story?sid=78165)
+[Netflix 续订了《三体》第二季](https://www.solidot.org/story?sid=78182)
 
-[研究发现科技巨头强制推行重返办公室政策后顶尖人才离职激增](https://www.solidot.org/story?sid=78164)
+[MIT 学生在 12 秒内窃取了价值 2500 万美元的以太坊](https://www.solidot.org/story?sid=78181)
 
-[尼安德特人骨骼中发现已知最古老的人类病毒](https://www.solidot.org/story?sid=78163)
+[FBI 扣押了数据泄密网站 BreachForums](https://www.solidot.org/story?sid=78180)
 
