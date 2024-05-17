@@ -1,5 +1,9 @@
 # Here The News
-> Update time: 2024-05-17 04:32:45
+> Update time: 2024-05-17 16:11:41
+
+[AI 推动微软排放量增加近三分之一](https://www.solidot.org/story?sid=78191)
+
+[突破性研究发现 RNA 可能控制着我们的基因组](https://www.solidot.org/story?sid=78190)
 
 [食物加盐大幅增加胃癌风险](https://www.solidot.org/story?sid=78189)
 
@@ -16,8 +20,4 @@
 [苹果 App Store 批准了 PSP 模拟器 PPSSPP 上架](https://www.solidot.org/story?sid=78183)
 
 [Netflix 续订了《三体》第二季](https://www.solidot.org/story?sid=78182)
-
-[MIT 学生在 12 秒内窃取了价值 2500 万美元的以太坊](https://www.solidot.org/story?sid=78181)
-
-[FBI 扣押了数据泄密网站 BreachForums](https://www.solidot.org/story?sid=78180)
 
