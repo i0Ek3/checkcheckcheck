@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-17 16:34:18
+> Update time: 2024-05-18 04:10:11
 
-[AI 推动微软排放量增加近三分之一](https://www.solidot.org/story?sid=78191)
+[Mozilla Firefox 支持英伟达的 RTX Video](https://www.solidot.org/story?sid=78201)
 
-[突破性研究发现 RNA 可能控制着我们的基因组](https://www.solidot.org/story?sid=78190)
+[消失的尼罗河支流可能帮助建造了金字塔](https://www.solidot.org/story?sid=78200)
 
-[食物加盐大幅增加胃癌风险](https://www.solidot.org/story?sid=78189)
+[北京互联网法庭准备审理首例 AI 视听作品侵权案](https://www.solidot.org/story?sid=78199)
 
-[华为否认其大模型演示造假](https://www.solidot.org/story?sid=78188)
+[Reddit 与 OpenAI 达成内容授权协议](https://www.solidot.org/story?sid=78198)
 
-[大量的虚假论文导致多家期刊关闭](https://www.solidot.org/story?sid=78187)
+[早稻田大学考生用智能眼镜偷拍考题](https://www.solidot.org/story?sid=78197)
 
-[Android 15 引入私人空间，盗窃检测和 AV1 支持](https://www.solidot.org/story?sid=78186)
+[高军衔患者比低军衔患者得到更好的治疗](https://www.solidot.org/story?sid=78196)
 
-[量子互联网取得突破](https://www.solidot.org/story?sid=78185)
+[更多公司为智能手机提供 7 年支持](https://www.solidot.org/story?sid=78195)
 
-[育碧宣布了日本背景的《刺客信条：影》](https://www.solidot.org/story?sid=78184)
+[NetBSD 禁止 AI 生成代码](https://www.solidot.org/story?sid=78194)
 
-[苹果 App Store 批准了 PSP 模拟器 PPSSPP 上架](https://www.solidot.org/story?sid=78183)
+[《GTA 6》预计 2025 年秋季释出](https://www.solidot.org/story?sid=78193)
 
-[Netflix 续订了《三体》第二季](https://www.solidot.org/story?sid=78182)
+[Winamp 宣布将公开源代码](https://www.solidot.org/story?sid=78192)
 
