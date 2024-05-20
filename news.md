@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-05-20 04:34:15
+> Update time: 2024-05-20 16:12:07
+
+[韦伯望远镜观测到最遥远的黑洞合并事件](https://www.solidot.org/story?sid=78214)
+
+[中国测试高超音速轨道炮](https://www.solidot.org/story?sid=78213)
+
+[AI 教父呼吁推广 UBI](https://www.solidot.org/story?sid=78212)
+
+[Ubuntu 24.10 将对英伟达用户默认使用 Wayland](https://www.solidot.org/story?sid=78211)
+
+[苹果只允许在欧盟设备上运行第三方浏览器引擎](https://www.solidot.org/story?sid=78210)
+
+[美海军陆战队评估装备了 AI 瞄准武器的机器狗](https://www.solidot.org/story?sid=78209)
 
 [Cruise 与被无人出租车拖曳的行人达成逾 800 万美元的和解](https://www.solidot.org/story?sid=78208)
 
@@ -8,16 +20,4 @@
 [美亚利桑那州女子被控帮助朝鲜 IT 工人获得远程工作](https://www.solidot.org/story?sid=78206)
 
 [法国海外领土屏蔽 TikTok](https://www.solidot.org/story?sid=78205)
-
-[去年吃超辣玉米片死亡的男孩有先天心脏缺陷](https://www.solidot.org/story?sid=78204)
-
-[Twitter 终于死了](https://www.solidot.org/story?sid=78203)
-
-[《产品经理的AI服务搭建实操课》报名招募中](https://www.solidot.org/story?sid=78202)
-
-[Mozilla Firefox 支持英伟达的 RTX Video](https://www.solidot.org/story?sid=78201)
-
-[消失的尼罗河支流可能帮助建造了金字塔](https://www.solidot.org/story?sid=78200)
-
-[北京互联网法庭准备审理首例 AI 视听作品侵权案](https://www.solidot.org/story?sid=78199)
 
