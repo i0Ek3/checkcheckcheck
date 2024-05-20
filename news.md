@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-20 16:34:31
+> Update time: 2024-05-21 04:09:05
+
+[3M 高管如何说服科学家血液中的 PFAS 化合物是安全的](https://www.solidot.org/story?sid=78221)
+
+[Arup 遭遇 2500 万美元深度伪造骗局](https://www.solidot.org/story?sid=78220)
+
+[锻炼有助于延缓衰老过程中的认知能力下降](https://www.solidot.org/story?sid=78219)
+
+[勒索软件组织通过 PuTTy 和 WinSCP 恶意广告试图感染 Windows 管理员](https://www.solidot.org/story?sid=78218)
+
+[微软向部分驻华员工提供调离中国的机会](https://www.solidot.org/story?sid=78217)
+
+[裙带资本主义推动 AI 监管](https://www.solidot.org/story?sid=78216)
+
+[第一位黑人候补宇航员搭乘 Blue Origin 飞船抵达近太空](https://www.solidot.org/story?sid=78215)
 
 [韦伯望远镜观测到最遥远的黑洞合并事件](https://www.solidot.org/story?sid=78214)
 
 [中国测试高超音速轨道炮](https://www.solidot.org/story?sid=78213)
 
 [AI 教父呼吁推广 UBI](https://www.solidot.org/story?sid=78212)
-
-[Ubuntu 24.10 将对英伟达用户默认使用 Wayland](https://www.solidot.org/story?sid=78211)
-
-[苹果只允许在欧盟设备上运行第三方浏览器引擎](https://www.solidot.org/story?sid=78210)
-
-[美海军陆战队评估装备了 AI 瞄准武器的机器狗](https://www.solidot.org/story?sid=78209)
-
-[Cruise 与被无人出租车拖曳的行人达成逾 800 万美元的和解](https://www.solidot.org/story?sid=78208)
-
-[2013 年的网页有 38% 今天已无法访问](https://www.solidot.org/story?sid=78207)
-
-[美亚利桑那州女子被控帮助朝鲜 IT 工人获得远程工作](https://www.solidot.org/story?sid=78206)
-
-[法国海外领土屏蔽 TikTok](https://www.solidot.org/story?sid=78205)
 
