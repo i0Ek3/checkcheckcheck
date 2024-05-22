@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-22 04:32:51
+> Update time: 2024-05-22 16:12:33
+
+[尼安德特人和现代人类在 4.7 万年前跨种交配繁育后代](https://www.solidot.org/story?sid=78237)
+
+[论文工厂写手越来越多的使用 AI](https://www.solidot.org/story?sid=78236)
+
+[Firefox 修复了一个有 25 年历史的 bug](https://www.solidot.org/story?sid=78235)
+
+[计算机架构师 Gordon Bell 去世，享年 89 岁](https://www.solidot.org/story?sid=78234)
+
+[AI 是黑箱，而 Anthropic 正找到方法一窥黑箱内部](https://www.solidot.org/story?sid=78233)
+
+[皮克斯将裁掉 14% 的员工](https://www.solidot.org/story?sid=78232)
+
+[微软画图应用加入 AI 生成图像功能](https://www.solidot.org/story?sid=78231)
+
+[Craig Steven Wright 不是中本聪，没有发明比特币](https://www.solidot.org/story?sid=78230)
 
 [微软的新 AI 聊天机器人将会记住你在新 PC 上的一举一动](https://www.solidot.org/story?sid=78229)
 
 [小鼠研究发现重复训练有助于巩固神经回路](https://www.solidot.org/story?sid=78228)
-
-[调查发现日本年轻一代四分之一不想生育](https://www.solidot.org/story?sid=78227)
-
-[越南要求富士康自愿削减电力使用](https://www.solidot.org/story?sid=78226)
-
-[Linux 6.10 合并了 Hans Reiser 递交的最后一个 ReiserFS 请求](https://www.solidot.org/story?sid=78225)
-
-[男性有更高的糖尿病风险](https://www.solidot.org/story?sid=78224)
-
-[人类睾丸中发现微塑料](https://www.solidot.org/story?sid=78223)
-
-[斯嘉丽·约翰逊震惊于 OpenAI 疑似盗用其声音](https://www.solidot.org/story?sid=78222)
-
-[3M 高管如何说服科学家血液中的 PFAS 化合物是安全的](https://www.solidot.org/story?sid=78221)
-
-[Arup 遭遇 2500 万美元深度伪造骗局](https://www.solidot.org/story?sid=78220)
 
