@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-05-28 16:12:49
+> Update time: 2024-05-28 16:36:33
+
+[微软为 Arm 设备提供 AI 超分辨率技术](https://www.solidot.org/story?sid=78287)
+
+[Google 不小心将内部 API 发布到 GitHub 上](https://www.solidot.org/story?sid=78286)
+
+[国家安全部否认会检查入境手机](https://www.solidot.org/story?sid=78285)
+
+[Windows 11 v24H2 将移除 Cortana 和写字板](https://www.solidot.org/story?sid=78284)
+
+[中国成立注册资本 3440 亿元的大基金三期](https://www.solidot.org/story?sid=78283)
 
 [研究发现中国居民吸入的微塑料最多印尼居民食入的微塑料最多](https://www.solidot.org/story?sid=78282)
 
@@ -10,14 +20,4 @@
 [苹果与 OpenAI 达成协议为 iOS 提供 AI 聊天功能](https://www.solidot.org/story?sid=78279)
 
 [乌鸦能数到四](https://www.solidot.org/story?sid=78278)
-
-[三菱电机机器人打破魔方还原时间记录](https://www.solidot.org/story?sid=78277)
-
-[夏普与小米达成了专利交叉授权协议](https://www.solidot.org/story?sid=78276)
-
-[研究人员竞相开发 AlphaFold3 的开源版本](https://www.solidot.org/story?sid=78275)
-
-[Google 公布删除 UniSuper 数据的调查报告](https://www.solidot.org/story?sid=78274)
-
-[微软开源 GW-BASIC](https://www.solidot.org/story?sid=78273)
 
