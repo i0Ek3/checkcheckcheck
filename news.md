@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-05-31 16:35:10
+> Update time: 2024-06-01 04:09:18
 
-[神秘恶意程序毁掉了一家 ISP 的 60 万台路由器](https://www.solidot.org/story?sid=78314)
+[Kdenlive 24.05.0 释出](https://www.solidot.org/story?sid=78324)
 
-[美国数据中心用电量到 2030 年将占到总发电量的 9%](https://www.solidot.org/story?sid=78313)
+[1 位大模型或能解决 AI 的能源需求问题](https://www.solidot.org/story?sid=78323)
 
-[沙特正大力发展太阳能等可更新能源](https://www.solidot.org/story?sid=78312)
+[调查显示大众并不常用 ChatGPT 等 AI 产品](https://www.solidot.org/story?sid=78322)
 
-[Mistra 发布代码生成模型 Codestral](https://www.solidot.org/story?sid=78311)
+[Google Chrome 开始淘汰 Manifest V2 扩展](https://www.solidot.org/story?sid=78321)
 
-[AI 耳机让佩戴者通过看一眼倾听人群中的特定人的声音](https://www.solidot.org/story?sid=78310)
+[研究称中国极端高温天数在增加](https://www.solidot.org/story?sid=78320)
 
-[大脑如何区分音乐和语言的声音差异](https://www.solidot.org/story?sid=78309)
+[古埃及人四千年前通过手术切除脑瘤](https://www.solidot.org/story?sid=78319)
 
-[人类生育的年龄正在转变](https://www.solidot.org/story?sid=78308)
+[韦伯望远镜发现了已知最遥远的星系](https://www.solidot.org/story?sid=78318)
 
-[XZ 5.6.2 释出，移除后门代码](https://www.solidot.org/story?sid=78307)
+[亚马逊通知客户 Kindle 中国电子书店将于一个月后彻底关闭](https://www.solidot.org/story?sid=78317)
 
-[OpenVPN 容易被指纹识别](https://www.solidot.org/story?sid=78306)
+[字节跳动分离抖音和 TikTok 的推荐算法](https://www.solidot.org/story?sid=78316)
 
-[OpenAI 董事是通过 Twitter 知道 ChatGPT](https://www.solidot.org/story?sid=78305)
+[日本推动所有公共资助研究开放获取](https://www.solidot.org/story?sid=78315)
 
