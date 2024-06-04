@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-06-04 16:35:42
+> Update time: 2024-06-05 04:09:11
+
+[减肥药有助于减少垃圾食品销售](https://www.solidot.org/story?sid=78352)
+
+[中国二氧化碳排放可能在 2023 年达到峰值](https://www.solidot.org/story?sid=78351)
+
+[真人版《如龙》电视剧将于 10 月 25 日上线 Amazon Prime video](https://www.solidot.org/story?sid=78350)
+
+[日本 5 家车企认证违规](https://www.solidot.org/story?sid=78349)
+
+[《团队要塞2》因机器人问题遭遇差评轰炸](https://www.solidot.org/story?sid=78348)
 
 [纽交所调查伯克希尔哈撒韦公司股价突然暴跌 99%](https://www.solidot.org/story?sid=78347)
 
@@ -10,14 +20,4 @@
 [童年贫困对大脑语言处理造成持久影响](https://www.solidot.org/story?sid=78344)
 
 [研究发现良好睡眠与低孤独感相关](https://www.solidot.org/story?sid=78343)
-
-[Linux Mint 默认禁用未经验证的 Flatpak 软件包](https://www.solidot.org/story?sid=78342)
-
-[Firefox Nightly 引入实验性的本地图像替代文本生成功能](https://www.solidot.org/story?sid=78341)
-
-[Copilot Recall 将是隐私和安全噩梦](https://www.solidot.org/story?sid=78340)
-
-[Krita 项目诞生 25 周年](https://www.solidot.org/story?sid=78339)
-
-[中国科学家使用细胞疗法治愈一名患者的糖尿病](https://www.solidot.org/story?sid=78338)
 
