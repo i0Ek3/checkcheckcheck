@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-04 04:32:56
+> Update time: 2024-06-04 16:11:55
+
+[纽交所调查伯克希尔哈撒韦公司股价突然暴跌 99%](https://www.solidot.org/story?sid=78347)
+
+[AI 能否替代公司 CEO？](https://www.solidot.org/story?sid=78346)
+
+[LyX 2.4.0 释出](https://www.solidot.org/story?sid=78345)
+
+[童年贫困对大脑语言处理造成持久影响](https://www.solidot.org/story?sid=78344)
+
+[研究发现良好睡眠与低孤独感相关](https://www.solidot.org/story?sid=78343)
+
+[Linux Mint 默认禁用未经验证的 Flatpak 软件包](https://www.solidot.org/story?sid=78342)
+
+[Firefox Nightly 引入实验性的本地图像替代文本生成功能](https://www.solidot.org/story?sid=78341)
+
+[Copilot Recall 将是隐私和安全噩梦](https://www.solidot.org/story?sid=78340)
+
+[Krita 项目诞生 25 周年](https://www.solidot.org/story?sid=78339)
 
 [中国科学家使用细胞疗法治愈一名患者的糖尿病](https://www.solidot.org/story?sid=78338)
-
-[Steam 平台 Linux 玩家四分之三使用 AMD CPU](https://www.solidot.org/story?sid=78337)
-
-[Hugging Face 称黑客窃取了 Spaces 平台的身份验证令牌](https://www.solidot.org/story?sid=78336)
-
-[Ticketmaster 证实用户数据被盗](https://www.solidot.org/story?sid=78335)
-
-[AI 时代 AMD 再次搞乱其笔记本芯片命名方案](https://www.solidot.org/story?sid=78334)
-
-[AMD 宣布 Zen 5 桌面处理器 Ryzen 9000 系列](https://www.solidot.org/story?sid=78333)
-
-[澳大利亚新法律将对深度伪造色情判刑](https://www.solidot.org/story?sid=78332)
-
-[科学家在一种小型植物中发现已知最大的基因组](https://www.solidot.org/story?sid=78331)
-
-[6 月 3 日太阳系六大行星将形成一条直线](https://www.solidot.org/story?sid=78330)
-
-[嫦娥六号着陆月背南极](https://www.solidot.org/story?sid=78329)
 
