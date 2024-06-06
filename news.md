@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-06 16:35:53
+> Update time: 2024-06-07 04:11:04
 
-[硫可能来自太空](https://www.solidot.org/story?sid=78363)
+[日本 2023 年生育率降至 1.20 的历史新低](https://www.solidot.org/story?sid=78374)
 
-[哈勃准备切换到单陀螺仪模式](https://www.solidot.org/story?sid=78362)
+[科学家首次形成分子玻色-爱因斯坦凝聚态](https://www.solidot.org/story?sid=78373)
 
-[TotalRecall 能提取微软 Recall AI 收集的所有数据](https://www.solidot.org/story?sid=78361)
+[拉下“紧急刹车”后大部分地球生命进入休眠](https://www.solidot.org/story?sid=78372)
 
-[研究认为科学认知和宗教信仰的形成取决于他人的言论而非亲身经历](https://www.solidot.org/story?sid=78360)
+[中国工程师在 RISC-V 设计中发现可远程利用的漏洞](https://www.solidot.org/story?sid=78371)
 
-[Humble Bundle 推出 Python 中文编程电子书慈善包](https://www.solidot.org/story?sid=78359)
+[以色列被指设立假的社媒账号去影响美国议员](https://www.solidot.org/story?sid=78370)
 
-[中国科学家发现一种新的长寿基因](https://www.solidot.org/story?sid=78358)
+[2006 年阿尔茨海默氏症著名论文将被撤回](https://www.solidot.org/story?sid=78369)
 
-[一种海洋真菌被发现能分解塑料](https://www.solidot.org/story?sid=78357)
+[亚马逊部落用上卫星宽带，部落民迷上了色情和社交网络](https://www.solidot.org/story?sid=78368)
 
-[引发文件共享革命的 Napster 诞生 25 周年](https://www.solidot.org/story?sid=78356)
+[​Cox 修复了暴露数百万台 Modem 的身份验证绕过漏洞](https://www.solidot.org/story?sid=78367)
 
-[Windows Arm PC 是否可能占据 PC 市场的半壁江山？](https://www.solidot.org/story?sid=78355)
+[英国比特币洗钱案从犯被判 6 年 8 个月](https://www.solidot.org/story?sid=78366)
 
-[FBI 史上最大的钓鱼行动](https://www.solidot.org/story?sid=78354)
+[Debian 下个版本的临时文件将从基于磁盘切换到基于内存](https://www.solidot.org/story?sid=78365)
 
