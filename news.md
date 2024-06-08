@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-06-08 16:32:50
+> Update time: 2024-06-09 04:08:27
+
+[世界最大太阳能电厂并网发电](https://www.solidot.org/story?sid=78390)
+
+[东京政府应对出生率下降构建约会应用](https://www.solidot.org/story?sid=78389)
+
+[《星际2》有经验玩家脑连接性显著增强](https://www.solidot.org/story?sid=78388)
+
+[为什么美国共和党人继续支持特朗普？](https://www.solidot.org/story?sid=78387)
+
+[Telegram 引入用于购买数字商品服务的 Telegram Stars](https://www.solidot.org/story?sid=78386)
+
+[三星电子工会举行首次罢工](https://www.solidot.org/story?sid=78385)
 
 [DuckDuckGo 发布匿名访问的 AI 聊天服务 AI Chat](https://www.solidot.org/story?sid=78384)
 
@@ -8,16 +20,4 @@
 [Kali Linux 2024.2 释出](https://www.solidot.org/story?sid=78382)
 
 [天鹅长吻虫的变形能力源自其类折纸细胞结构](https://www.solidot.org/story?sid=78381)
-
-[GOG 将删除超过 200MB 的云存档](https://www.solidot.org/story?sid=78380)
-
-[阿里巴巴发布 Qwen 2](https://www.solidot.org/story?sid=78379)
-
-[美国监管部门将对微软、OpenAI 和 Nvidia 发起反垄断调查](https://www.solidot.org/story?sid=78378)
-
-[亚马逊收购 MX Player](https://www.solidot.org/story?sid=78377)
-
-[俄罗斯制作假的纪录片瞄准法国夏奥会](https://www.solidot.org/story?sid=78376)
-
-[波音 Starliner 飞船完成首次载人飞行测试](https://www.solidot.org/story?sid=78375)
 
