@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-06-11 16:12:39
+> Update time: 2024-06-11 16:36:09
+
+[Perl v5.40.0 释出](https://www.solidot.org/story?sid=78404)
+
+[微软撤下 Windows 11 24H2](https://www.solidot.org/story?sid=78403)
+
+[纽约时报源代码通过泄露的 GitHub 凭证被盗取](https://www.solidot.org/story?sid=78402)
+
+[苹果推出了密码管理器](https://www.solidot.org/story?sid=78401)
+
+[Apple Vision Pro 向中国区开放购买](https://www.solidot.org/story?sid=78400)
+
+[苹果宣布 Apple Intelligence](https://www.solidot.org/story?sid=78399)
 
 [iOS 18 加入对 RCS 的支持](https://www.solidot.org/story?sid=78398)
 
@@ -8,16 +20,4 @@
 [大模型没有幻觉，它只是喜欢胡说八道](https://www.solidot.org/story?sid=78396)
 
 [Linux nftables 漏洞正被活跃利用](https://www.solidot.org/story?sid=78395)
-
-[荷兰警方考虑在毒品实验室突搜中使用机器狗](https://www.solidot.org/story?sid=78394)
-
-[基因疗法恢复了遗传性耳聋患者的听力和音乐欣赏能力](https://www.solidot.org/story?sid=78393)
-
-[上海交大下架 Docker Hub 镜像](https://www.solidot.org/story?sid=78392)
-
-[全球 AI 独角兽增至 37 家](https://www.solidot.org/story?sid=78391)
-
-[世界最大太阳能电厂并网发电](https://www.solidot.org/story?sid=78390)
-
-[东京政府应对出生率下降构建约会应用](https://www.solidot.org/story?sid=78389)
 
