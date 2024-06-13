@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-13 16:35:33
+> Update time: 2024-06-14 04:09:56
 
-[Mozilla 应俄罗斯要求从扩展商店移除了规避审查的扩展](https://www.solidot.org/story?sid=78416)
+[YouTube 测试服务器端的广告植入](https://www.solidot.org/story?sid=78426)
 
-[英国警方逮捕了两名使用自制手机信号塔进行短信钓鱼的嫌疑人](https://www.solidot.org/story?sid=78415)
+[父亲也能影响新生儿的微生物群](https://www.solidot.org/story?sid=78425)
 
-[硅谷的薪酬在下降](https://www.solidot.org/story?sid=78414)
+[微软告密者称公司将商业利益置于安全之上](https://www.solidot.org/story?sid=78424)
 
-[日本通过新法防止 IT 巨头垄断手机 APP 市场](https://www.solidot.org/story?sid=78413)
+[气温变化和人类狩猎导致了长毛犀牛的灭绝](https://www.solidot.org/story?sid=78423)
 
-[韦伯望远镜在早期星系中发现碳](https://www.solidot.org/story?sid=78412)
+[Adobe 澄清它不会使用客户的作品训练 AI](https://www.solidot.org/story?sid=78422)
 
-[非洲大象能给彼此起名](https://www.solidot.org/story?sid=78411)
+[ChromeOS 将基于 Android 构建](https://www.solidot.org/story?sid=78421)
 
-[荷兰政府官员称中国黑客感染了 2 万台 Fortinet VPN](https://www.solidot.org/story?sid=78410)
+[中国展开规模庞大的无人驾驶试验](https://www.solidot.org/story?sid=78420)
 
-[树莓派成为上市公司](https://www.solidot.org/story?sid=78409)
+[盖茨的核电公司开始动工建造首座反应堆](https://www.solidot.org/story?sid=78419)
 
-[勒索软件黑帮采取日益暴力的策略](https://www.solidot.org/story?sid=78408)
+[欧盟对中国电动汽车征收最高 38% 的关税](https://www.solidot.org/story?sid=78418)
 
-[火星上发现晨霜](https://www.solidot.org/story?sid=78407)
+[中国研究员称他们别无选择只能从事科学不端](https://www.solidot.org/story?sid=78417)
 
