@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-17 16:37:02
+> Update time: 2024-06-18 04:07:58
+
+[友讯(D-Link)修复了硬编码后门漏洞](https://www.solidot.org/story?sid=78451)
+
+[IT 行业显示了强劲增长势头](https://www.solidot.org/story?sid=78450)
+
+[蓝屏死机亮相 Linux](https://www.solidot.org/story?sid=78449)
+
+[Linux 恶意程序利用 Discord 发送 Emoji 进行控制](https://www.solidot.org/story?sid=78448)
+
+[实验测量地球自转对量子纠缠的影响](https://www.solidot.org/story?sid=78447)
+
+[美国众议院通过禁售大疆无人机的法案](https://www.solidot.org/story?sid=78446)
+
+[研究发现中国股市波动与急诊室就诊量之间存在关联](https://www.solidot.org/story?sid=78445)
 
 [小鼠实验发现出生前接触 DEHP 化合物会影响雄性激素水平](https://www.solidot.org/story?sid=78444)
 
 [Change Healthcare 遭遇勒索软件攻击所带来的安全启示](https://www.solidot.org/story?sid=78443)
 
 [OpenAI CEO 表示考虑转变为营利性公司](https://www.solidot.org/story?sid=78442)
-
-[FAA 调查波音空客使用伪造文件出售的钛合金](https://www.solidot.org/story?sid=78441)
-
-[勒索软件攻击者迅速利用最近曝光的 PHP 9.8/10 漏洞](https://www.solidot.org/story?sid=78440)
-
-[卫星数据揭示了 2023 年土耳其大地震前的异常情况](https://www.solidot.org/story?sid=78439)
-
-[太阳磁场即将反转](https://www.solidot.org/story?sid=78438)
-
-[富国银行解雇了模拟键盘活动的员工](https://www.solidot.org/story?sid=78437)
-
-[DNA 显示玛雅人用男童献祭](https://www.solidot.org/story?sid=78436)
-
-[越来越多的美国人从 TikTok 获取新闻](https://www.solidot.org/story?sid=78435)
 
