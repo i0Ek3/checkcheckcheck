@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-18 16:36:39
+> Update time: 2024-06-19 04:10:22
 
-[近五成爱尔兰求职者会拒绝没有远程工作选项的工作](https://www.solidot.org/story?sid=78453)
+[Jeff Hawkins 宣布 AI 千脑计划](https://www.solidot.org/story?sid=78463)
 
-[ChatGPT 的流行降低了网络自由职业者的需求](https://www.solidot.org/story?sid=78452)
+[《星际公民(Star Citizen)》封杀作弊者](https://www.solidot.org/story?sid=78462)
 
-[友讯(D-Link)修复了硬编码后门漏洞](https://www.solidot.org/story?sid=78451)
+[黑洞在大爆炸后不到 10 亿年形成类星体](https://www.solidot.org/story?sid=78461)
 
-[IT 行业显示了强劲增长势头](https://www.solidot.org/story?sid=78450)
+[新辐射冷却织物帮助抵御高温](https://www.solidot.org/story?sid=78460)
 
-[蓝屏死机亮相 Linux](https://www.solidot.org/story?sid=78449)
+[研究发现特技表演者不愿意报告头部受伤](https://www.solidot.org/story?sid=78459)
 
-[Linux 恶意程序利用 Discord 发送 Emoji 进行控制](https://www.solidot.org/story?sid=78448)
+[中国碳捕集专利数居首](https://www.solidot.org/story?sid=78458)
 
-[实验测量地球自转对量子纠缠的影响](https://www.solidot.org/story?sid=78447)
+[现代人类大约是从 60 万年前开始积累技术知识](https://www.solidot.org/story?sid=78457)
 
-[美国众议院通过禁售大疆无人机的法案](https://www.solidot.org/story?sid=78446)
+[近五分之一 Microsoft SQL Server 已终止支持](https://www.solidot.org/story?sid=78456)
 
-[研究发现中国股市波动与急诊室就诊量之间存在关联](https://www.solidot.org/story?sid=78445)
+[FTC 指控 Adobe 非法增加用户取消订阅服务的难度](https://www.solidot.org/story?sid=78455)
 
-[小鼠实验发现出生前接触 DEHP 化合物会影响雄性激素水平](https://www.solidot.org/story?sid=78444)
+[越南三条海底光缆下线](https://www.solidot.org/story?sid=78454)
 
