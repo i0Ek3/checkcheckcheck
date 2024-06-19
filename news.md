@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-19 16:35:43
+> Update time: 2024-06-20 04:09:29
+
+[高脂肪食物可能会加剧焦虑](https://www.solidot.org/story?sid=78474)
+
+[全国高温天气持续近半个月](https://www.solidot.org/story?sid=78473)
+
+[法国电价降至负值](https://www.solidot.org/story?sid=78472)
+
+[TDK株式会社称在电池技术上取得突破](https://www.solidot.org/story?sid=78470)
+
+[马斯克致力于年底在 X 上推出支付功能](https://www.solidot.org/story?sid=78469)
+
+[微软通过 Copilot+ PC 向用户释出 Windows 11 24H2](https://www.solidot.org/story?sid=78468)
+
+[塞尔达公主有了自己担任主角的动作冒险游戏](https://www.solidot.org/story?sid=78467)
+
+[苹果据报暂停下一代高端 Vision 的研发](https://www.solidot.org/story?sid=78466)
+
+[黑客在地下论坛出售窃取的 AMD 数据，AMD 表示正对此展开调查](https://www.solidot.org/story?sid=78465)
 
 [宁德时代否认推行 896 工作制](https://www.solidot.org/story?sid=78464)
-
-[Jeff Hawkins 宣布 AI 千脑计划](https://www.solidot.org/story?sid=78463)
-
-[《星际公民(Star Citizen)》封杀作弊者](https://www.solidot.org/story?sid=78462)
-
-[黑洞在大爆炸后不到 10 亿年形成类星体](https://www.solidot.org/story?sid=78461)
-
-[新辐射冷却织物帮助抵御高温](https://www.solidot.org/story?sid=78460)
-
-[研究发现特技表演者不愿意报告头部受伤](https://www.solidot.org/story?sid=78459)
-
-[中国碳捕集专利数居首](https://www.solidot.org/story?sid=78458)
-
-[现代人类大约是从 60 万年前开始积累技术知识](https://www.solidot.org/story?sid=78457)
-
-[近五分之一 Microsoft SQL Server 已终止支持](https://www.solidot.org/story?sid=78456)
-
-[FTC 指控 Adobe 非法增加用户取消订阅服务的难度](https://www.solidot.org/story?sid=78455)
 
