@@ -1,5 +1,13 @@
 # Here The News
-> Update time: 2024-06-20 04:33:37
+> Update time: 2024-06-20 16:12:32
+
+[因年龄验证 Pornhub 将再屏蔽美国五个州的网民访问其网站](https://www.solidot.org/story?sid=78478)
+
+[日本研究发现改进英文写作能力的关键不是掌握复杂语法](https://www.solidot.org/story?sid=78477)
+
+[OpenAI 联合创始人 Ilya Sutskever 成立新公司 Safe Superintelligence](https://www.solidot.org/story?sid=78476)
+
+[继承自尼安德特的基因与自闭症相关](https://www.solidot.org/story?sid=78475)
 
 [高脂肪食物可能会加剧焦虑](https://www.solidot.org/story?sid=78474)
 
@@ -7,17 +15,9 @@
 
 [法国电价降至负值](https://www.solidot.org/story?sid=78472)
 
+[洛杉矶联合学区考虑禁止智能手机](https://www.solidot.org/story?sid=78471)
+
 [TDK株式会社称在电池技术上取得突破](https://www.solidot.org/story?sid=78470)
 
 [马斯克致力于年底在 X 上推出支付功能](https://www.solidot.org/story?sid=78469)
-
-[微软通过 Copilot+ PC 向用户释出 Windows 11 24H2](https://www.solidot.org/story?sid=78468)
-
-[塞尔达公主有了自己担任主角的动作冒险游戏](https://www.solidot.org/story?sid=78467)
-
-[苹果据报暂停下一代高端 Vision 的研发](https://www.solidot.org/story?sid=78466)
-
-[黑客在地下论坛出售窃取的 AMD 数据，AMD 表示正对此展开调查](https://www.solidot.org/story?sid=78465)
-
-[宁德时代否认推行 896 工作制](https://www.solidot.org/story?sid=78464)
 
