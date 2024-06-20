@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-06-20 16:35:45
+> Update time: 2024-06-21 04:09:29
+
+[语言主要是为了沟通不是为了推理](https://www.solidot.org/story?sid=78486)
+
+[自动驾驶汽车更擅长直行人类更擅长转弯](https://www.solidot.org/story?sid=78485)
+
+[Y 染色体演化速快于 X 染色体](https://www.solidot.org/story?sid=78482)
+
+[天文学家实时观测黑洞的苏醒](https://www.solidot.org/story?sid=78481)
+
+[微软邮箱漏洞允许任何人冒充该公司员工](https://www.solidot.org/story?sid=78480)
+
+[中国公司帮助缅甸屏蔽 VPN](https://www.solidot.org/story?sid=78479)
 
 [因年龄验证 Pornhub 将再屏蔽美国五个州的网民访问其网站](https://www.solidot.org/story?sid=78478)
 
@@ -8,16 +20,4 @@
 [OpenAI 联合创始人 Ilya Sutskever 成立新公司 Safe Superintelligence](https://www.solidot.org/story?sid=78476)
 
 [继承自尼安德特的基因与自闭症相关](https://www.solidot.org/story?sid=78475)
-
-[高脂肪食物可能会加剧焦虑](https://www.solidot.org/story?sid=78474)
-
-[全国高温天气持续近半个月](https://www.solidot.org/story?sid=78473)
-
-[法国电价降至负值](https://www.solidot.org/story?sid=78472)
-
-[洛杉矶联合学区考虑禁止智能手机](https://www.solidot.org/story?sid=78471)
-
-[TDK株式会社称在电池技术上取得突破](https://www.solidot.org/story?sid=78470)
-
-[马斯克致力于年底在 X 上推出支付功能](https://www.solidot.org/story?sid=78469)
 
