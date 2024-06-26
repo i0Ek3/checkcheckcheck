@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-26 04:33:05
+> Update time: 2024-06-26 16:11:54
+
+[中国批准减肥药 Wegovy](https://www.solidot.org/story?sid=78528)
+
+[不是所有声称开源的 AI 模型是真的开源](https://www.solidot.org/story?sid=78527)
+
+[CSDN 克隆了大部分 GitHub 公开代码库](https://www.solidot.org/story?sid=78526)
+
+[嫦娥六号返回器返回地面](https://www.solidot.org/story?sid=78525)
+
+[极端野火更常见更暴力](https://www.solidot.org/story?sid=78524)
+
+[微软产品捆绑 Teams 被控违反欧盟反垄断法](https://www.solidot.org/story?sid=78523)
+
+[Firefox Nightly 引入实验性生成式 AI 功能](https://www.solidot.org/story?sid=78522)
 
 [WordPress 插件被植入后门](https://www.solidot.org/story?sid=78521)
 
 [微软删除在 Windows 11 上切换本地账号的指南](https://www.solidot.org/story?sid=78520)
 
 [科技大厂将员工推向极限](https://www.solidot.org/story?sid=78519)
-
-[印尼国家数据中心遭勒索软件攻击](https://www.solidot.org/story?sid=78518)
-
-[巴黎综合理工学院院长称人文是法国 AI 热的核心](https://www.solidot.org/story?sid=78517)
-
-[Julian Assange 与美国达成认罪协议换取自由](https://www.solidot.org/story?sid=78516)
-
-[天文学家在附近恒星发现三颗超级地球](https://www.solidot.org/story?sid=78515)
-
-[Flathub 下载量突破 20 亿次](https://www.solidot.org/story?sid=78514)
-
-[科学家可能在海底探测到有记录以来最强中微子](https://www.solidot.org/story?sid=78513)
-
-[研究人员称大脑对深度伪造声音的响应不同](https://www.solidot.org/story?sid=78512)
 
