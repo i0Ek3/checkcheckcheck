@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-28 16:35:20
+> Update time: 2024-06-29 04:09:11
+
+[科学家建议对超加工食品贴上类似烟草的警告标签](https://www.solidot.org/story?sid=78559)
+
+[研究发现服用复合维生素并不会延寿](https://www.solidot.org/story?sid=78558)
+
+[TeamViewer 称其企业网络被俄罗斯间谍入侵](https://www.solidot.org/story?sid=78557)
+
+[麦当劳无意再推出基于植物的汉堡](https://www.solidot.org/story?sid=78556)
+
+[Julian Assange 收到 50 万美元比特币捐款支付私人飞机包机费用](https://www.solidot.org/story?sid=78555)
+
+[美国阿肯色州指控 Temu 是恶意程序](https://www.solidot.org/story?sid=78554)
+
+[OpenAI 用新模型 CriticGPT 识别 GPT-4 的代码错误](https://www.solidot.org/story?sid=78553)
 
 [Windows 11 预览更新 KB5039302 会导致启动问题](https://www.solidot.org/story?sid=78552)
 
 [游戏帮助年轻人应对学业压力](https://www.solidot.org/story?sid=78551)
 
 [尼安德特人会照顾唐氏儿童](https://www.solidot.org/story?sid=78550)
-
-[科学家搞清楚大脑如何清除垃圾](https://www.solidot.org/story?sid=78549)
-
-[Google 翻译服务支持的语言数量翻了一番](https://www.solidot.org/story?sid=78548)
-
-[研究发现年轻一代对单身生活更满意](https://www.solidot.org/story?sid=78547)
-
-[跟着领头鸟飞能节省多达四分之一的能量](https://www.solidot.org/story?sid=78546)
-
-[Paul Allen 的计算机博物馆关闭，藏品将拍卖](https://www.solidot.org/story?sid=78545)
-
-[天文学家发现了至今最早最遥远的星系](https://www.solidot.org/story?sid=78544)
-
-[微软前雇员被控盗窃 Geisinger 逾百万病人数据](https://www.solidot.org/story?sid=78543)
 
