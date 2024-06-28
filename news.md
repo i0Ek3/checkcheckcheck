@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-06-28 04:33:11
+> Update time: 2024-06-28 16:11:53
 
-[AI 需求推动半导体市场急剧扩张](https://www.solidot.org/story?sid=78541)
+[游戏帮助年轻人应对学业压力](https://www.solidot.org/story?sid=78551)
 
-[AI 在大学考试中击败了大学生](https://www.solidot.org/story?sid=78540)
+[尼安德特人会照顾唐氏儿童](https://www.solidot.org/story?sid=78550)
 
-[美国主要流媒体巨头减少了原创剧产量](https://www.solidot.org/story?sid=78539)
+[科学家搞清楚大脑如何清除垃圾](https://www.solidot.org/story?sid=78549)
 
-[雄性雌性线粒体的细胞活性存在显著差异](https://www.solidot.org/story?sid=78538)
+[Google 翻译服务支持的语言数量翻了一番](https://www.solidot.org/story?sid=78548)
 
-[韩国 ISP 用恶意程序感染 Webhard 用户](https://www.solidot.org/story?sid=78537)
+[研究发现年轻一代对单身生活更满意](https://www.solidot.org/story?sid=78547)
 
-[火箭残骸被拍到坠落在村庄附近](https://www.solidot.org/story?sid=78536)
+[跟着领头鸟飞能节省多达四分之一的能量](https://www.solidot.org/story?sid=78546)
 
-[Telegram 称它只有 30 名工程师，安全专家对此表示担忧](https://www.solidot.org/story?sid=78535)
+[Paul Allen 的计算机博物馆关闭，藏品将拍卖](https://www.solidot.org/story?sid=78545)
 
-[Google 将用分页而不是滚动显示搜索结果](https://www.solidot.org/story?sid=78534)
+[天文学家发现了至今最早最遥远的星系](https://www.solidot.org/story?sid=78544)
 
-[OpenAI 对中国地区停止 API 服务](https://www.solidot.org/story?sid=78533)
+[微软前雇员被控盗窃 Geisinger 逾百万病人数据](https://www.solidot.org/story?sid=78543)
 
-[WHO 称近三分之一成年人缺乏锻炼](https://www.solidot.org/story?sid=78532)
+[澳大利亚银行跟踪客户持手机的方式识别诈骗](https://www.solidot.org/story?sid=78542)
 
