@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-07-01 04:32:56
+> Update time: 2024-07-01 16:12:52
+
+[用塑料瓶饮水或增加 2 型糖尿病风险](https://www.solidot.org/story?sid=78569)
+
+[天龙三号静态点火测试意外升空后坠毁](https://www.solidot.org/story?sid=78568)
+
+[12 天前发现的小行星近距离掠过地球](https://www.solidot.org/story?sid=78567)
+
+[丹佛公布了其 UBI 基本收入实验第一年结果](https://www.solidot.org/story?sid=78566)
+
+[勒索软件组织 Black Suit 将在 7 月 1 日公布从角川窃取的数据](https://www.solidot.org/story?sid=78565)
 
 [Threads 缓慢扩大对联邦宇宙的支持](https://www.solidot.org/story?sid=78564)
 
@@ -10,14 +20,4 @@
 [Windows 11 设置将显示 Game Pass 广告](https://www.solidot.org/story?sid=78561)
 
 [中国公司收购 Polyfill 之后植入恶意程序](https://www.solidot.org/story?sid=78560)
-
-[科学家建议对超加工食品贴上类似烟草的警告标签](https://www.solidot.org/story?sid=78559)
-
-[研究发现服用复合维生素并不会延寿](https://www.solidot.org/story?sid=78558)
-
-[TeamViewer 称其企业网络被俄罗斯间谍入侵](https://www.solidot.org/story?sid=78557)
-
-[麦当劳无意再推出基于植物的汉堡](https://www.solidot.org/story?sid=78556)
-
-[Julian Assange 收到 50 万美元比特币捐款支付私人飞机包机费用](https://www.solidot.org/story?sid=78555)
 
