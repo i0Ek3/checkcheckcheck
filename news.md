@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-07-02 16:36:00
+> Update time: 2024-07-03 04:10:17
 
-[FreeDOS 诞生 30 年](https://www.solidot.org/story?sid=78574)
+[科学家被控伪造数据以获取 1600 万美元的研究拨款](https://www.solidot.org/story?sid=78584)
 
-[线下的加密货币抢劫案](https://www.solidot.org/story?sid=78573)
+[Windows 11 中国政府版没有 Edge 等微软预装应用](https://www.solidot.org/story?sid=78583)
 
-[男子眼球被蜜蜂直接蛰伤](https://www.solidot.org/story?sid=78572)
+[Google Chrome 不再信任 Entrust 签发的证书](https://www.solidot.org/story?sid=78582)
 
-[苹果《神经漫游者》电视剧公布主演](https://www.solidot.org/story?sid=78571)
+[蝴蝶不停的飞行了 2600 英里](https://www.solidot.org/story?sid=78581)
 
-[NASA 付费给 SpaceX 帮助国际空间站脱离轨道](https://www.solidot.org/story?sid=78570)
+[10 岁阿根廷男孩成为最年轻国际象棋大师](https://www.solidot.org/story?sid=78580)
 
-[用塑料瓶饮水或增加 2 型糖尿病风险](https://www.solidot.org/story?sid=78569)
+[研究称间歇性禁食有助于改善认知](https://www.solidot.org/story?sid=78579)
 
-[天龙三号静态点火测试意外升空后坠毁](https://www.solidot.org/story?sid=78568)
+[法国监管机构准备指控英伟达反竞争](https://www.solidot.org/story?sid=78578)
 
-[12 天前发现的小行星近距离掠过地球](https://www.solidot.org/story?sid=78567)
+[欧盟竞争专员认为苹果不在欧盟推出 AI 是反竞争行为](https://www.solidot.org/story?sid=78577)
 
-[丹佛公布了其 UBI 基本收入实验第一年结果](https://www.solidot.org/story?sid=78566)
+[南非研究员使用放射性技术遏制犀牛偷猎](https://www.solidot.org/story?sid=78576)
 
-[勒索软件组织 Black Suit 将在 7 月 1 日公布从角川窃取的数据](https://www.solidot.org/story?sid=78565)
+[微信微博等社媒平台宣布加强整治反日言论](https://www.solidot.org/story?sid=78575)
 
