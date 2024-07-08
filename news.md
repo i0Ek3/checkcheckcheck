@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-07-08 16:37:05
+> Update time: 2024-07-09 04:11:06
+
+[一颗俄罗斯退役卫星在轨道上部分解体](https://www.solidot.org/story?sid=78636)
+
+[微软中国禁用 Android 改用 iPhone](https://www.solidot.org/story?sid=78635)
+
+[中国计划到 2025 年算力增加三成](https://www.solidot.org/story?sid=78634)
+
+[一新石器时代社群居民在饮食上人人平等](https://www.solidot.org/story?sid=78633)
+
+[报告称日本 9.1% 的个人使用生成式 AI](https://www.solidot.org/story?sid=78632)
+
+[屋顶涂白或反光最有利于城市降温](https://www.solidot.org/story?sid=78631)
+
+[Fedora 41 移除 Python 2.7](https://www.solidot.org/story?sid=78630)
 
 [众多比特币矿场纷纷转向 AI](https://www.solidot.org/story?sid=78629)
 
 [Ghostscript 新漏洞潜在可能影响大量用户](https://www.solidot.org/story?sid=78628)
 
 [厄瓜多尔法院裁决污染侵犯了河流的权利](https://www.solidot.org/story?sid=78627)
-
-[科学家研制出第一种无阳极钠固态电池](https://www.solidot.org/story?sid=78626)
-
-[中储粮调查油罐混用事件](https://www.solidot.org/story?sid=78625)
-
-[麒麟勒索软件对英国医院的攻击影响了大量病人](https://www.solidot.org/story?sid=78624)
-
-[IERS 宣布 2024 年世界时将不会增加闰秒](https://www.solidot.org/story?sid=78623)
-
-[伊顿公学将禁止新生用智能手机](https://www.solidot.org/story?sid=78622)
-
-[国际热核聚变实验反应堆将运行时间推迟至少八年](https://www.solidot.org/story?sid=78621)
-
-[Mt. Gox 客户在 10 年后开始拿回资金](https://www.solidot.org/story?sid=78620)
 
