@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-07-11 16:36:05
+> Update time: 2024-07-12 04:09:57
+
+[Arm 将 AMD FSR2 带到其平台](https://www.solidot.org/story?sid=78671)
+
+[人类基因组项目未被讲述的故事](https://www.solidot.org/story?sid=78670)
+
+[香港 Open Books 计划发布首批开放阅读电子书](https://www.solidot.org/story?sid=78669)
+
+[发货帮下架油罐车轨迹查询功能](https://www.solidot.org/story?sid=78668)
+
+[东京居民反对建造巨大数据中心](https://www.solidot.org/story?sid=78667)
+
+[英国研究发现夜猫子在认知能力上超过早起者](https://www.solidot.org/story?sid=78666)
 
 [中国在可控核聚变研究上的投入超过了美国](https://www.solidot.org/story?sid=78665)
 
@@ -8,16 +20,4 @@
 [二季度 PC 出货量增长 3%，中国市场继续低迷](https://www.solidot.org/story?sid=78663)
 
 [三星电子最大工会宣布无限期罢工](https://www.solidot.org/story?sid=78662)
-
-[微软退出 OpenAI 董事会](https://www.solidot.org/story?sid=78661)
-
-[韦伯望远镜提供系外行星存在海洋的证据](https://www.solidot.org/story?sid=78660)
-
-[微软七月例行更新修复了四个 0day](https://www.solidot.org/story?sid=78659)
-
-[布隆伯格捐赠 10 亿美元约翰霍普金斯医学院大部分学生免学费](https://www.solidot.org/story?sid=78657)
-
-[欧洲新车强制安装限速器](https://www.solidot.org/story?sid=78656)
-
-[宗教领袖呼吁和平利用 AI](https://www.solidot.org/story?sid=78655)
 
