@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-07-12 16:36:31
+> Update time: 2024-07-13 04:10:12
+
+[AT&T 称几乎所有客户的电话记录被盗](https://www.solidot.org/story?sid=78683)
+
+[Thunderbird 128 释出](https://www.solidot.org/story?sid=78682)
+
+[研究发现苏打税让儿童糖消费量减少了一半](https://www.solidot.org/story?sid=78681)
+
+[随着出生率下降全球人口到本世纪末将比预期的减少 2 亿](https://www.solidot.org/story?sid=78680)
+
+[微软中国数据中心合作伙伴不太环保](https://www.solidot.org/story?sid=78679)
+
+[小行星龙宫曾经富含水](https://www.solidot.org/story?sid=78678)
+
+[Switch 成为任天堂最长寿游戏机](https://www.solidot.org/story?sid=78677)
+
+[英特尔 i9 稳定性问题促使数据中心提供商转向 AMD Ryzen 9](https://www.solidot.org/story?sid=78676)
 
 [台积电市值突破 1 万亿美元](https://www.solidot.org/story?sid=78675)
 
 [新型科学欺诈：隐引用](https://www.solidot.org/story?sid=78674)
-
-[锂离子电池成为 PFAS 污染日益增长的来源](https://www.solidot.org/story?sid=78673)
-
-[Arm 将 AMD FSR2 带到其平台](https://www.solidot.org/story?sid=78671)
-
-[人类基因组项目未被讲述的故事](https://www.solidot.org/story?sid=78670)
-
-[香港 Open Books 计划发布首批开放阅读电子书](https://www.solidot.org/story?sid=78669)
-
-[发货帮下架油罐车轨迹查询功能](https://www.solidot.org/story?sid=78668)
-
-[东京居民反对建造巨大数据中心](https://www.solidot.org/story?sid=78667)
-
-[英国研究发现夜猫子在认知能力上超过早起者](https://www.solidot.org/story?sid=78666)
-
-[中国在可控核聚变研究上的投入超过了美国](https://www.solidot.org/story?sid=78665)
 
