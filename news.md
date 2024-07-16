@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-07-16 16:36:58
+> Update time: 2024-07-17 04:09:28
+
+[SCALE 让 CUDA 应用无需修改运行在 AMD GPU 上](https://www.solidot.org/story?sid=78711)
+
+[高通和飞利浦起诉传音侵犯其专利](https://www.solidot.org/story?sid=78710)
+
+[生成式 AI 增强了个体创造力但减少了集体多样性](https://www.solidot.org/story?sid=78709)
+
+[月球洞道有望成为理想的候选基地](https://www.solidot.org/story?sid=78708)
+
+[Google 和微软在 2023 年的用电量超过了许多国家](https://www.solidot.org/story?sid=78707)
+
+[在关闭核电站 35 年后意大利考虑重启核能](https://www.solidot.org/story?sid=78706)
 
 [FBI 破解了周六在特朗普集会上开枪的枪手手机](https://www.solidot.org/story?sid=78705)
 
@@ -8,16 +20,4 @@
 [开源会议需要更多年轻人](https://www.solidot.org/story?sid=78703)
 
 [新加坡 2023 年总和生育率降至 0.97](https://www.solidot.org/story?sid=78702)
-
-[AI 公司股价上涨速度远超收益预期](https://www.solidot.org/story?sid=78701)
-
-[新加坡要求银行在三个月内淘汰一次性密码](https://www.solidot.org/story?sid=78700)
-
-[GNOME 基金会执行董事 Holly Million 卸任](https://www.solidot.org/story?sid=78699)
-
-[圆周率 π 计算到 202 万亿位](https://www.solidot.org/story?sid=78698)
-
-[两只狮子在河马和鳄鱼出没的水域游了约 1.5 公里](https://www.solidot.org/story?sid=78697)
-
-[PCSX2 2.0 释出](https://www.solidot.org/story?sid=78696)
 
