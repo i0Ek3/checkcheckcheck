@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-07-18 16:36:43
+> Update time: 2024-07-19 04:09:54
+
+[印度交易所价值约 2.3 亿美元的加密货币被盗](https://www.solidot.org/story?sid=78737)
+
+[逾四成日本公司没有使用 AI 的计划](https://www.solidot.org/story?sid=78736)
+
+[狗和宠物猪能对人类哭泣和哼哼声做出反应](https://www.solidot.org/story?sid=78735)
+
+[Cloudflare 报告 6.8% 的互联网流量是恶意的](https://www.solidot.org/story?sid=78734)
+
+[京都动画纵火案发生五周年](https://www.solidot.org/story?sid=78733)
+
+[Meta 未来的多模 AI 模型将不提供给欧盟客户](https://www.solidot.org/story?sid=78732)
+
+[英伟达全面转向开源 GPU 内核模块](https://www.solidot.org/story?sid=78731)
+
+[调查显示 84% 的 PC 用户不愿意为 AI 硬件支付溢价](https://www.solidot.org/story?sid=78730)
 
 [GitLab 探索出售](https://www.solidot.org/story?sid=78729)
 
 [Google Docs 加入 Markdown 支持](https://www.solidot.org/story?sid=78728)
-
-[药物让动物寿命延长四分之一](https://www.solidot.org/story?sid=78727)
-
-[为何三星电子的罢工主力是女性？](https://www.solidot.org/story?sid=78726)
-
-[免疫疗法在彻底改变癌症治疗](https://www.solidot.org/story?sid=78725)
-
-[OpenStreetMap 诞生二十周年](https://www.solidot.org/story?sid=78724)
-
-[Craig Wright 在英国面临伪证调查](https://www.solidot.org/story?sid=78723)
-
-[印度曾估值 220 亿美元的创业公司面临清算](https://www.solidot.org/story?sid=78722)
-
-[美国资金退出中国风投市场](https://www.solidot.org/story?sid=78721)
-
-[三年内有 22 名日漫盗版网站中国运营者受处罚](https://www.solidot.org/story?sid=78720)
 
