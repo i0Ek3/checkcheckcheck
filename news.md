@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-07-19 16:36:09
+> Update time: 2024-07-20 04:11:41
+
+[Paramount+ 砍掉《光环》真人剧](https://www.solidot.org/story?sid=78747)
+
+[CrowdStrike 股价盘前交易暴跌五分之一](https://www.solidot.org/story?sid=78746)
+
+[美国逾八成玩家玩免费游戏会内购](https://www.solidot.org/story?sid=78745)
+
+[OpenAI 发布替代 GPT-3.5 的 GPT-4o mini](https://www.solidot.org/story?sid=78744)
+
+[ESA 盖亚望远镜遭遇微流星和太阳风暴双重打击](https://www.solidot.org/story?sid=78743)
+
+[中国申请了逾三万生成式 AI 专利](https://www.solidot.org/story?sid=78742)
 
 [Crowdstrike Falcon 更新导致 Windows 主机蓝屏死机](https://www.solidot.org/story?sid=78741)
+
+[中国阿尔茨海默患者人数接近 1700 万](https://www.solidot.org/story?sid=78740)
 
 [Google URL Shortener 即将关闭](https://www.solidot.org/story?sid=78739)
 
 [交通灯控制器漏洞允许黑客制造交通堵塞](https://www.solidot.org/story?sid=78738)
-
-[印度交易所价值约 2.3 亿美元的加密货币被盗](https://www.solidot.org/story?sid=78737)
-
-[逾四成日本公司没有使用 AI 的计划](https://www.solidot.org/story?sid=78736)
-
-[狗和宠物猪能对人类哭泣和哼哼声做出反应](https://www.solidot.org/story?sid=78735)
-
-[Cloudflare 报告 6.8% 的互联网流量是恶意的](https://www.solidot.org/story?sid=78734)
-
-[京都动画纵火案发生五周年](https://www.solidot.org/story?sid=78733)
-
-[Meta 未来的多模 AI 模型将不提供给欧盟客户](https://www.solidot.org/story?sid=78732)
-
-[英伟达全面转向开源 GPU 内核模块](https://www.solidot.org/story?sid=78731)
 
