@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-07-20 04:32:47
+> Update time: 2024-07-20 16:10:57
+
+[女性繁育后代加速衰老和死亡](https://www.solidot.org/story?sid=78752)
+
+[学生抗议孟加拉国切断了全国的互联网](https://www.solidot.org/story?sid=78751)
+
+[地球水体溶解氧迅速减少](https://www.solidot.org/story?sid=78750)
+
+[特朗普集会枪手使用三星 Android 手机，被以色列公司的新软件在 40 分钟内破解](https://www.solidot.org/story?sid=78749)
+
+[Google Pixel 9 将集成 Gemini AI](https://www.solidot.org/story?sid=78748)
 
 [Paramount+ 砍掉《光环》真人剧](https://www.solidot.org/story?sid=78747)
 
@@ -10,14 +20,4 @@
 [OpenAI 发布替代 GPT-3.5 的 GPT-4o mini](https://www.solidot.org/story?sid=78744)
 
 [ESA 盖亚望远镜遭遇微流星和太阳风暴双重打击](https://www.solidot.org/story?sid=78743)
-
-[中国申请了逾三万生成式 AI 专利](https://www.solidot.org/story?sid=78742)
-
-[Crowdstrike Falcon 更新导致 Windows 主机蓝屏死机](https://www.solidot.org/story?sid=78741)
-
-[中国阿尔茨海默患者人数接近 1700 万](https://www.solidot.org/story?sid=78740)
-
-[Google URL Shortener 即将关闭](https://www.solidot.org/story?sid=78739)
-
-[交通灯控制器漏洞允许黑客制造交通堵塞](https://www.solidot.org/story?sid=78738)
 
