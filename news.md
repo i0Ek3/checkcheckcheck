@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-07-22 04:33:22
+> Update time: 2024-07-22 16:13:40
+
+[Linux 内核更新 XZ 补丁移除维护者 Jia Tan](https://www.solidot.org/story?sid=78764)
+
+[日企外籍 CEO 日益稀少](https://www.solidot.org/story?sid=78763)
+
+[中国基本未受到 Crowdstrike 事件的影响](https://www.solidot.org/story?sid=78762)
+
+[日本新闻协会发称 AI 搜索可能侵犯著作权](https://www.solidot.org/story?sid=78761)
+
+[与肥胖相关的大脑变化导致了低精子数](https://www.solidot.org/story?sid=78760)
+
+[科学家投票移除带有冒犯性的生物科学名称](https://www.solidot.org/story?sid=78759)
+
+[在禁言 11 年之后玩家重续旧话题](https://www.solidot.org/story?sid=78758)
+
+[孟加拉国断网三天](https://www.solidot.org/story?sid=78757)
 
 [Google 的搜索结果没有以前那么可靠](https://www.solidot.org/story?sid=78756)
 
 [微软称有 850 万台 PC 受到 CrowdStrike 事件的影响](https://www.solidot.org/story?sid=78755)
-
-[英特尔 13/14 代处理器被指存在工艺缺陷](https://www.solidot.org/story?sid=78754)
-
-[好奇号漫游车发现由纯硫构成的岩石](https://www.solidot.org/story?sid=78753)
-
-[女性繁育后代加速衰老和死亡](https://www.solidot.org/story?sid=78752)
-
-[学生抗议孟加拉国切断了全国的互联网](https://www.solidot.org/story?sid=78751)
-
-[地球水体溶解氧迅速减少](https://www.solidot.org/story?sid=78750)
-
-[特朗普集会枪手使用三星 Android 手机，被以色列公司的新软件在 40 分钟内破解](https://www.solidot.org/story?sid=78749)
-
-[Google Pixel 9 将集成 Gemini AI](https://www.solidot.org/story?sid=78748)
-
-[Paramount+ 砍掉《光环》真人剧](https://www.solidot.org/story?sid=78747)
 
