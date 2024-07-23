@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-07-23 04:32:54
+> Update time: 2024-07-23 16:13:41
+
+[Google Chrome 不打算淘汰第三方 Cookie](https://www.solidot.org/story?sid=78773)
+
+[2024 年雨果奖发现至少 377 张欺诈性选票](https://www.solidot.org/story?sid=78772)
+
+[马斯克的 X 被怀疑限制用户关注 Kamala Harris 的竞选账号](https://www.solidot.org/story?sid=78771)
+
+[统计数据显示中国人的劳动时间在增加](https://www.solidot.org/story?sid=78770)
+
+[英特尔称 13/14 代酷睿处理器不稳定是因为电压过高](https://www.solidot.org/story?sid=78769)
 
 [印度在新冠期间预期寿命显著下降](https://www.solidot.org/story?sid=78768)
 
@@ -10,14 +20,4 @@
 [谁写了臭名昭著的蓝屏死机代码？](https://www.solidot.org/story?sid=78765)
 
 [Linux 内核更新 XZ 补丁移除维护者 Jia Tan](https://www.solidot.org/story?sid=78764)
-
-[日企外籍 CEO 日益稀少](https://www.solidot.org/story?sid=78763)
-
-[中国基本未受到 Crowdstrike 事件的影响](https://www.solidot.org/story?sid=78762)
-
-[日本新闻协会发称 AI 搜索可能侵犯著作权](https://www.solidot.org/story?sid=78761)
-
-[与肥胖相关的大脑变化导致了低精子数](https://www.solidot.org/story?sid=78760)
-
-[科学家投票移除带有冒犯性的生物科学名称](https://www.solidot.org/story?sid=78759)
 
