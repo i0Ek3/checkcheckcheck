@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-07-24 04:32:58
+> Update time: 2024-07-24 16:12:11
+
+[日本 AI 用户对信息泄露风险表达担忧](https://www.solidot.org/story?sid=78784)
+
+[日铁与宝钢结束半个世纪的合作](https://www.solidot.org/story?sid=78783)
+
+[Meta 开源最新的 Llama 3.1 大模型](https://www.solidot.org/story?sid=78782)
+
+[Z-Library 被扣押的域名远多于其它盗版网站](https://www.solidot.org/story?sid=78781)
+
+[银河中心发现一个中等质量的黑洞](https://www.solidot.org/story?sid=78780)
+
+[Telegram Android 版本发现 0day 漏洞允许将恶意文件伪装成视频](https://www.solidot.org/story?sid=78779)
 
 [美国披露其核弹头数量](https://www.solidot.org/story?sid=78778)
 
@@ -8,16 +20,4 @@
 [Linux 是 Azure 云服务中最流行的操作系统](https://www.solidot.org/story?sid=78776)
 
 [科学家发现一种新激素能增强骨骼](https://www.solidot.org/story?sid=78775)
-
-[可能的第七名 HIV 治愈者](https://www.solidot.org/story?sid=78774)
-
-[Google Chrome 不打算淘汰第三方 Cookie](https://www.solidot.org/story?sid=78773)
-
-[2024 年雨果奖发现至少 377 张欺诈性选票](https://www.solidot.org/story?sid=78772)
-
-[马斯克的 X 被怀疑限制用户关注 Kamala Harris 的竞选账号](https://www.solidot.org/story?sid=78771)
-
-[统计数据显示中国人的劳动时间在增加](https://www.solidot.org/story?sid=78770)
-
-[英特尔称 13/14 代酷睿处理器不稳定是因为电压过高](https://www.solidot.org/story?sid=78769)
 
