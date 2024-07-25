@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-07-25 16:37:26
+> Update time: 2024-07-26 04:10:16
+
+[AMD 推迟 Zen5 处理器上市 1-2 两周](https://www.solidot.org/story?sid=78799)
+
+[在日外国人数量首次突破 300 万](https://www.solidot.org/story?sid=78798)
+
+[OpenAI 今年可能亏损 50 亿美元](https://www.solidot.org/story?sid=78797)
+
+[加拿大为用无人机监视新西兰女足训练道歉](https://www.solidot.org/story?sid=78796)
+
+[.Top 域名注册商江苏邦宁科技收到 ICANN 警告](https://www.solidot.org/story?sid=78795)
+
+[马来西亚要求微软和 CrowdStrike 为全球 IT 系统崩溃赔偿损失](https://www.solidot.org/story?sid=78794)
+
+[大脑对时间的感知并非是线性增量的](https://www.solidot.org/story?sid=78793)
+
+[网络罪犯操纵 GitHub 平台传播恶意程序](https://www.solidot.org/story?sid=78792)
+
+[Reddit 限制除 Google 之外的搜索引擎抓取其内容](https://www.solidot.org/story?sid=78791)
 
 [天文测量工具能用于识别深度伪造](https://www.solidot.org/story?sid=78790)
-
-[科学家报告首批可卡因鲨鱼案例](https://www.solidot.org/story?sid=78789)
-
-[调查显示 AI 增加了员工的工作量影响了生产力](https://www.solidot.org/story?sid=78788)
-
-[低地球轨道日益拥挤，碎片大量积累](https://www.solidot.org/story?sid=78787)
-
-[海底发现奇怪的氧气来源](https://www.solidot.org/story?sid=78786)
-
-[中国科学家在月壤中首次发现分子水](https://www.solidot.org/story?sid=78785)
-
-[日本 AI 用户对信息泄露风险表达担忧](https://www.solidot.org/story?sid=78784)
-
-[日铁与宝钢结束半个世纪的合作](https://www.solidot.org/story?sid=78783)
-
-[Meta 开源最新的 Llama 3.1 大模型](https://www.solidot.org/story?sid=78782)
-
-[Z-Library 被扣押的域名远多于其它盗版网站](https://www.solidot.org/story?sid=78781)
 
