@@ -1,5 +1,11 @@
 # Here The News
-> Update time: 2024-07-27 16:34:33
+> Update time: 2024-07-28 04:09:27
+
+[美国指控朝鲜黑客对美国公司、政府机构和中国能源公司发动勒索软件攻击](https://www.solidot.org/story?sid=78816)
+
+[人类活动导致过去百年全球降水变率增强](https://www.solidot.org/story?sid=78815)
+
+[波音 Starliner 宇航员因飞船故障已在轨多停留了六周](https://www.solidot.org/story?sid=78814)
 
 [Linux Mint 22 释出](https://www.solidot.org/story?sid=78810)
 
@@ -14,10 +20,4 @@
 [联合国秘书长呼吁对极端炎热采取行动](https://www.solidot.org/story?sid=78805)
 
 [用 AI 生成的数据集训练模型可能导致模型崩溃](https://www.solidot.org/story?sid=78804)
-
-[苹果公测 Web 版本的地图，但不支持 Firefox](https://www.solidot.org/story?sid=78803)
-
-[CrowdStrike 的 10 美元代金券引发争议](https://www.solidot.org/story?sid=78802)
-
-[《辐射：伦敦》释出](https://www.solidot.org/story?sid=78801)
 
