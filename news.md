@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-08-01 16:37:07
+> Update time: 2024-08-02 04:11:03
+
+[网络主播成为国家认可的新职业](https://www.solidot.org/story?sid=78860)
+
+[国家网络身份认证已开始测试](https://www.solidot.org/story?sid=78859)
+
+[Forgejo v8.0 释出](https://www.solidot.org/story?sid=78858)
+
+[任何量的酒都有害健康](https://www.solidot.org/story?sid=78857)
+
+[Funtoo Linux 项目终止](https://www.solidot.org/story?sid=78856)
+
+[AMD Zen5 处理器价格披露](https://www.solidot.org/story?sid=78855)
+
+[微软将 OpenAI 列入竞争对手名单](https://www.solidot.org/story?sid=78854)
 
 [菲律宾人希望他们最受欢迎的 YouTube 网红竞选总统](https://www.solidot.org/story?sid=78853)
 
 [在产品描述中使用术语 AI 会降低购买意愿](https://www.solidot.org/story?sid=78852)
 
 [澳大利亚率先开始为婴儿治疗花生过敏症](https://www.solidot.org/story?sid=78851)
-
-[美国军方发射了最后一枚使用俄罗斯引擎的火箭](https://www.solidot.org/story?sid=78850)
-
-[苹果仍然嫌恶英伟达，使用 Google 硬件训练 AI](https://www.solidot.org/story?sid=78849)
-
-[Dark Angels 勒索软件组织收到了创纪录的 7500 万美元赎金](https://www.solidot.org/story?sid=78848)
-
-[特斯拉召回 180 万辆引擎盖能在驾驶过程中打开的汽车](https://www.solidot.org/story?sid=78847)
-
-[亚马逊被要求召回其平台销售的 40 万件能导致死亡和触电的商品](https://www.solidot.org/story?sid=78846)
-
-[低糖饮食与更年轻生物年龄相关](https://www.solidot.org/story?sid=78845)
-
-[脸和名字之间的相似性是一种自我实现的预言](https://www.solidot.org/story?sid=78844)
 
