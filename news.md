@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-08-02 04:33:24
+> Update time: 2024-08-02 16:12:24
+
+[Stability AI 发布从单幅图像快速生成 3D 模型的技术](https://www.solidot.org/story?sid=78865)
+
+[微软 Google 在 AI 基础设施上投入数百亿美元](https://www.solidot.org/story?sid=78864)
+
+[英特尔将裁掉 15% 的员工](https://www.solidot.org/story?sid=78863)
+
+[达美航空称 CrowdStrike 事故给该公司造成了 5 亿美元的损失](https://www.solidot.org/story?sid=78862)
+
+[为应对气候危机巴西提议对全球超级富豪征收 2% 的税](https://www.solidot.org/story?sid=78861)
 
 [网络主播成为国家认可的新职业](https://www.solidot.org/story?sid=78860)
 
@@ -10,14 +20,4 @@
 [任何量的酒都有害健康](https://www.solidot.org/story?sid=78857)
 
 [Funtoo Linux 项目终止](https://www.solidot.org/story?sid=78856)
-
-[AMD Zen5 处理器价格披露](https://www.solidot.org/story?sid=78855)
-
-[微软将 OpenAI 列入竞争对手名单](https://www.solidot.org/story?sid=78854)
-
-[菲律宾人希望他们最受欢迎的 YouTube 网红竞选总统](https://www.solidot.org/story?sid=78853)
-
-[在产品描述中使用术语 AI 会降低购买意愿](https://www.solidot.org/story?sid=78852)
-
-[澳大利亚率先开始为婴儿治疗花生过敏症](https://www.solidot.org/story?sid=78851)
 
