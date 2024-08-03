@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-08-03 04:32:56
+> Update time: 2024-08-03 16:11:56
+
+[游戏杂志《Game Informer》宣布停刊](https://www.solidot.org/story?sid=78873)
+
+[研究揭示 Didymos 双小行星系统特征](https://www.solidot.org/story?sid=78872)
+
+[Uber 和比亚迪达成 10 万辆电动车交易](https://www.solidot.org/story?sid=78871)
+
+[法官驳回了共和党全国委员会声称 Gmail 歧视其筹款邮件的诉讼](https://www.solidot.org/story?sid=78870)
+
+[美德俄换囚，美国释放了两名俄罗斯黑客](https://www.solidot.org/story?sid=78869)
+
+[阿根廷将使用 AI 预测未来的犯罪](https://www.solidot.org/story?sid=78868)
 
 [名人自杀产生类似传染病的模仿效应](https://www.solidot.org/story?sid=78867)
 
@@ -8,16 +20,4 @@
 [Stability AI 发布从单幅图像快速生成 3D 模型的技术](https://www.solidot.org/story?sid=78865)
 
 [微软 Google 在 AI 基础设施上投入数百亿美元](https://www.solidot.org/story?sid=78864)
-
-[英特尔将裁掉 15% 的员工](https://www.solidot.org/story?sid=78863)
-
-[达美航空称 CrowdStrike 事故给该公司造成了 5 亿美元的损失](https://www.solidot.org/story?sid=78862)
-
-[为应对气候危机巴西提议对全球超级富豪征收 2% 的税](https://www.solidot.org/story?sid=78861)
-
-[网络主播成为国家认可的新职业](https://www.solidot.org/story?sid=78860)
-
-[国家网络身份认证已开始测试](https://www.solidot.org/story?sid=78859)
-
-[Forgejo v8.0 释出](https://www.solidot.org/story?sid=78858)
 
