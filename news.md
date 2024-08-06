@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-08-06 04:33:06
+> Update time: 2024-08-06 16:12:26
+
+[马斯克重启对 OpenAI 和 Sam Altman 的诉讼](https://www.solidot.org/story?sid=78893)
+
+[印尼以赌博色情理由封锁 DuckDuckGo](https://www.solidot.org/story?sid=78892)
+
+[双重作用抗生素让细菌几乎不可能产生耐药性](https://www.solidot.org/story?sid=78891)
+
+[西雅图是美国最“智能”的城市](https://www.solidot.org/story?sid=78890)
+
+[物理学家李政道去世，享年 97 岁](https://www.solidot.org/story?sid=78889)
+
+[玫瑰为什么长刺？](https://www.solidot.org/story?sid=78888)
 
 [CrowdStrike 称达美取消航班不应该怪罪于它](https://www.solidot.org/story?sid=78887)
 
@@ -8,16 +20,4 @@
 [孟加拉国再次断网](https://www.solidot.org/story?sid=78885)
 
 [科学家识别太空肌肉萎缩症相关的基因](https://www.solidot.org/story?sid=78884)
-
-[物理学家称流言像核裂变一样传播](https://www.solidot.org/story?sid=78883)
-
-[Stack Overflow 的调查显示程序员并不担心 AI](https://www.solidot.org/story?sid=78882)
-
-[苹果开始向客户支付蝴蝶键盘事件的赔偿金](https://www.solidot.org/story?sid=78881)
-
-[凹语言开源 2 周年](https://www.solidot.org/story?sid=78880)
-
-[洛杉矶基本收入实验公布结果](https://www.solidot.org/story?sid=78879)
-
-[黑客入侵 ISP 发动中间人攻击](https://www.solidot.org/story?sid=78878)
 
