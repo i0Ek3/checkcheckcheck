@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-08-09 16:37:29
+> Update time: 2024-08-10 04:10:35
+
+[发射宽带卫星的长征火箭末级在轨道解体](https://www.solidot.org/story?sid=78934)
+
+[研究显示远程工作者更享受工作](https://www.solidot.org/story?sid=78933)
+
+[胎儿早期遭遇饥荒会增加成年后罹患 2 型糖尿病的风险](https://www.solidot.org/story?sid=78932)
+
+[Verisign 对 .com 涨价招致批评](https://www.solidot.org/story?sid=78931)
+
+[土耳其以剥削儿童为由封杀 Roblox](https://www.solidot.org/story?sid=78930)
+
+[亚马逊为对抗 Temu 吸引中国卖家进驻](https://www.solidot.org/story?sid=78929)
+
+[macOS Sequoia 上的屏幕截图和屏录应用将需要每周授权](https://www.solidot.org/story?sid=78928)
 
 [拥抱 AI 的 openKylin 2.0 释出](https://www.solidot.org/story?sid=78927)
 
 [ICANN 同意将 .internal 保留用于内部使用](https://www.solidot.org/story?sid=78926)
 
 [日本首次发出南海海槽特大地震警报](https://www.solidot.org/story?sid=78925)
-
-[7 月全球平均气温为有记录以来第二热的 7 月](https://www.solidot.org/story?sid=78924)
-
-[Firefox 131 将支持垂直标签和侧边栏](https://www.solidot.org/story?sid=78923)
-
-[Google 和 Meta 曾达成针对青少年的秘密广告协议](https://www.solidot.org/story?sid=78922)
-
-[31% 的美国共和党人认为疫苗比其预防的疾病更危险](https://www.solidot.org/story?sid=78921)
-
-[联想 ThinkPad 的设计历经数十年未变](https://www.solidot.org/story?sid=78920)
-
-[罗技公司澄清永久使用的订阅制鼠标只是一种设想不是实际产品](https://www.solidot.org/story?sid=78919)
-
-[量子物理学家发现更安全的导航新法](https://www.solidot.org/story?sid=78918)
 
