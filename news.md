@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-08-10 04:33:12
+> Update time: 2024-08-10 16:11:26
+
+[俄罗斯封禁 Signal](https://www.solidot.org/story?sid=78939)
+
+[甜味剂赤藻糖醇可能增加心血管疾病风险](https://www.solidot.org/story?sid=78938)
+
+[华硕和微星下周开始向用户提供英特尔 CPU 微码](https://www.solidot.org/story?sid=78937)
+
+[消除肠道有害微生物有助于减少胃癌](https://www.solidot.org/story?sid=78936)
+
+[俄罗斯棋手使用汞给对手下毒](https://www.solidot.org/story?sid=78935)
 
 [发射宽带卫星的长征火箭末级在轨道解体](https://www.solidot.org/story?sid=78934)
 
@@ -10,14 +20,4 @@
 [Verisign 对 .com 涨价招致批评](https://www.solidot.org/story?sid=78931)
 
 [土耳其以剥削儿童为由封杀 Roblox](https://www.solidot.org/story?sid=78930)
-
-[亚马逊为对抗 Temu 吸引中国卖家进驻](https://www.solidot.org/story?sid=78929)
-
-[macOS Sequoia 上的屏幕截图和屏录应用将需要每周授权](https://www.solidot.org/story?sid=78928)
-
-[拥抱 AI 的 openKylin 2.0 释出](https://www.solidot.org/story?sid=78927)
-
-[ICANN 同意将 .internal 保留用于内部使用](https://www.solidot.org/story?sid=78926)
-
-[日本首次发出南海海槽特大地震警报](https://www.solidot.org/story?sid=78925)
 
