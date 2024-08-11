@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-08-11 16:34:45
+> Update time: 2024-08-12 04:09:46
+
+[中国人 50 岁后还能健康工作多少年？](https://www.solidot.org/story?sid=78945)
+
+[特朗普竞选团队声称遭黑客入侵](https://www.solidot.org/story?sid=78944)
+
+[挤奶机器遭勒索软件攻击奶牛小牛死亡](https://www.solidot.org/story?sid=78943)
+
+[AMD CPU 发现 Sinkclose 漏洞，感染之后难以修复](https://www.solidot.org/story?sid=78942)
+
+[前 YouTube CEO、Google 早期员工 Susan Wojcicki 去世](https://www.solidot.org/story?sid=78941)
+
+[System76 释出 COSMIC alpha 版](https://www.solidot.org/story?sid=78940)
 
 [俄罗斯封禁 Signal](https://www.solidot.org/story?sid=78939)
 
@@ -8,16 +20,4 @@
 [华硕和微星下周开始向用户提供英特尔 CPU 微码](https://www.solidot.org/story?sid=78937)
 
 [消除肠道有害微生物有助于减少胃癌](https://www.solidot.org/story?sid=78936)
-
-[俄罗斯棋手使用汞给对手下毒](https://www.solidot.org/story?sid=78935)
-
-[发射宽带卫星的长征火箭末级在轨道解体](https://www.solidot.org/story?sid=78934)
-
-[研究显示远程工作者更享受工作](https://www.solidot.org/story?sid=78933)
-
-[胎儿早期遭遇饥荒会增加成年后罹患 2 型糖尿病的风险](https://www.solidot.org/story?sid=78932)
-
-[Verisign 对 .com 涨价招致批评](https://www.solidot.org/story?sid=78931)
-
-[土耳其以剥削儿童为由封杀 Roblox](https://www.solidot.org/story?sid=78930)
 
