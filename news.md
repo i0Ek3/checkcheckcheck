@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-08-14 16:37:40
+> Update time: 2024-08-15 04:10:18
+
+[SteamOS 将支持华硕掌机 ROG Ally](https://www.solidot.org/story?sid=78976)
+
+[现代鸟类基因组留下了恐龙灭绝事件的痕迹](https://www.solidot.org/story?sid=78975)
+
+[科学家首次在猴子身上测试“去势”HIV](https://www.solidot.org/story?sid=78974)
+
+[前 Twitter 员工赢得了对马斯克最后通牒邮件的 60 万美元诉讼](https://www.solidot.org/story?sid=78973)
+
+[模拟显示全球变暖可能导致大米产量减少](https://www.solidot.org/story?sid=78972)
+
+[Flipboard 与联邦宇宙平台实现互操作](https://www.solidot.org/story?sid=78971)
 
 [Google Pixel 9 成为首款支持 Satellite SOS 的 Android 手机](https://www.solidot.org/story?sid=78970)
 
@@ -8,16 +20,4 @@
 [英特尔出售所持 Arm 股份](https://www.solidot.org/story?sid=78968)
 
 [航迹云可能加重全球暖化](https://www.solidot.org/story?sid=78967)
-
-[NASA 调查显示波音阻碍了美国重返月球的计划](https://www.solidot.org/story?sid=78966)
-
-[银河系也许不会与仙女座星系相撞](https://www.solidot.org/story?sid=78965)
-
-[中国科学家发现西方古典乐能对大脑产生积极影响](https://www.solidot.org/story?sid=78964)
-
-[Web 版苹果地图支持 Firefox](https://www.solidot.org/story?sid=78963)
-
-[Firefox 移植到 Haiku](https://www.solidot.org/story?sid=78962)
-
-[抑制出于享受的进食](https://www.solidot.org/story?sid=78961)
 
