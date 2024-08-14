@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-08-14 04:33:09
+> Update time: 2024-08-14 16:13:28
+
+[Google Pixel 9 成为首款支持 Satellite SOS 的 Android 手机](https://www.solidot.org/story?sid=78970)
+
+[OceanGate 潜艇失事受害者家庭索赔 5 千万美元](https://www.solidot.org/story?sid=78969)
+
+[英特尔出售所持 Arm 股份](https://www.solidot.org/story?sid=78968)
+
+[航迹云可能加重全球暖化](https://www.solidot.org/story?sid=78967)
+
+[NASA 调查显示波音阻碍了美国重返月球的计划](https://www.solidot.org/story?sid=78966)
+
+[银河系也许不会与仙女座星系相撞](https://www.solidot.org/story?sid=78965)
 
 [中国科学家发现西方古典乐能对大脑产生积极影响](https://www.solidot.org/story?sid=78964)
 
@@ -8,16 +20,4 @@
 [Firefox 移植到 Haiku](https://www.solidot.org/story?sid=78962)
 
 [抑制出于享受的进食](https://www.solidot.org/story?sid=78961)
-
-[DDoSecrets 联合创始人是丝绸之路 2.0 的管理员](https://www.solidot.org/story?sid=78960)
-
-[如果不给佣金苹果威胁移除 Patreon](https://www.solidot.org/story?sid=78959)
-
-[微软应用商店将于 11 月下架 Paint 3D](https://www.solidot.org/story?sid=78958)
-
-[印度计划要求网红登记注册](https://www.solidot.org/story?sid=78957)
-
-[科学家发现马能提前计划并进行战略性思考](https://www.solidot.org/story?sid=78956)
-
-[AMD 在服务器市场从英特尔手中夺取了 5.6% 份额](https://www.solidot.org/story?sid=78955)
 
