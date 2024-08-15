@@ -1,5 +1,11 @@
 # Here The News
-> Update time: 2024-08-15 16:37:19
+> Update time: 2024-08-16 04:10:04
+
+[科学家发现人类在 44 岁和 60 岁时突然加剧衰老](https://www.solidot.org/story?sid=78989)
+
+[Windows 11 v24H2 将默认启用 BitLocker 设备加密](https://www.solidot.org/story?sid=78988)
+
+[韦伯望远镜进一步加深了哈勃张力的争议](https://www.solidot.org/story?sid=78987)
 
 [WHO 宣布猴痘疫情为全球卫生紧急事件](https://www.solidot.org/story?sid=78986)
 
@@ -9,15 +15,9 @@
 
 [Eric Schmidt 声称远程工作导致了 Google 在 AI 竞争中落后](https://www.solidot.org/story?sid=78983)
 
-[SteamOS 将支持华硕掌机 ROG Ally](https://www.solidot.org/story?sid=78976)
+[研究发现 94% 的商业表格包含重大错误](https://www.solidot.org/story?sid=78982)
 
-[现代鸟类基因组留下了恐龙灭绝事件的痕迹](https://www.solidot.org/story?sid=78975)
+[生活在城市的鸟会传播耐药超级细菌](https://www.solidot.org/story?sid=78981)
 
-[科学家首次在猴子身上测试“去势”HIV](https://www.solidot.org/story?sid=78974)
-
-[前 Twitter 员工赢得了对马斯克最后通牒邮件的 60 万美元诉讼](https://www.solidot.org/story?sid=78973)
-
-[模拟显示全球变暖可能导致大米产量减少](https://www.solidot.org/story?sid=78972)
-
-[Flipboard 与联邦宇宙平台实现互操作](https://www.solidot.org/story?sid=78971)
+[Google 宣布关闭所有俄罗斯 AdSense 账号](https://www.solidot.org/story?sid=78980)
 
