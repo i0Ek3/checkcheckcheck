@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-08-16 16:37:40
+> Update time: 2024-08-17 04:10:49
+
+[研究发现更大规模的团队减少创新限制晋升希望](https://www.solidot.org/story?sid=79003)
+
+[纠缠光子或有助于解释意识背后的快速脑信号](https://www.solidot.org/story?sid=79002)
+
+[Epic Games 发布移动商店](https://www.solidot.org/story?sid=79001)
+
+[微软取消了 Windows 11 中 FAT32 分区大小限制](https://www.solidot.org/story?sid=79000)
+
+[《龙腾世纪：影障守护者》将于 10 月 31 日发售](https://www.solidot.org/story?sid=78999)
+
+[Eric Schmidt 撤回了远程工作导致 Google 在 AI 竞赛中落后的评论](https://www.solidot.org/story?sid=78998)
+
+[卡巴斯基称中国黑客攻击俄罗斯机构和企业](https://www.solidot.org/story?sid=78997)
+
+[新加坡考虑禁止深度伪造](https://www.solidot.org/story?sid=78996)
 
 [科学家测序动物界最大基因组](https://www.solidot.org/story?sid=78995)
 
 [大林组的太空电梯计划不太可能在 2025 年动工](https://www.solidot.org/story?sid=78994)
-
-[逾 44 亿中低收入国家居民难以获取安全饮用水](https://www.solidot.org/story?sid=78993)
-
-[NIST 正式发布三种后量子加密标准](https://www.solidot.org/story?sid=78992)
-
-[Kim Dotcom 将从新西兰引渡到美国](https://www.solidot.org/story?sid=78991)
-
-[为什么杀虫剂无法杀死蟑螂](https://www.solidot.org/story?sid=78990)
-
-[科学家发现人类在 44 岁和 60 岁时突然加剧衰老](https://www.solidot.org/story?sid=78989)
-
-[Windows 11 v24H2 将默认启用 BitLocker 设备加密](https://www.solidot.org/story?sid=78988)
-
-[韦伯望远镜进一步加深了哈勃张力的争议](https://www.solidot.org/story?sid=78987)
-
-[WHO 宣布猴痘疫情为全球卫生紧急事件](https://www.solidot.org/story?sid=78986)
 
