@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-08-19 16:37:48
+> Update time: 2024-08-20 04:10:17
+
+[PC 版《FINAL FANTASY XVI》于 9 月 17 日发布](https://www.solidot.org/story?sid=79018)
+
+[自行车改变印度女孩的生活](https://www.solidot.org/story?sid=79017)
+
+[灵神星表面发现水合矿物](https://www.solidot.org/story?sid=79016)
+
+[巴基斯坦将网络访问缓慢归咎于用户使用 VPN](https://www.solidot.org/story?sid=79015)
+
+[英国政府将极端厌女症视为极端主义](https://www.solidot.org/story?sid=79014)
+
+[美国 ISP 希望最高法院裁决它们不应切断被控盗版的用户网络连接](https://www.solidot.org/story?sid=79013)
+
+[新书将盖茨刻画成恶棍](https://www.solidot.org/story?sid=79012)
 
 [Matt Damon 和 Ben Affleck 将制作《Killing Gawker》电影](https://www.solidot.org/story?sid=79011)
 
 [Google 限制内容创作者将竞争对手的产品与 Pixel 一起展示](https://www.solidot.org/story?sid=79010)
 
 [研究发现大模型无法独立学习或获得新技能](https://www.solidot.org/story?sid=79009)
-
-[英国研究发现艺术和手工比上班更有助于提升幸福感](https://www.solidot.org/story?sid=79008)
-
-[2024 年雨果奖公布结果](https://www.solidot.org/story?sid=79007)
-
-[大模型只是在模仿](https://www.solidot.org/story?sid=79006)
-
-[在 Ryzen 9 9950X 上对比 Windows 11 和 Ubuntu 24.04 性能](https://www.solidot.org/story?sid=79005)
-
-[Tetrel Security 公布 OpenBMC 高危漏洞细节](https://www.solidot.org/story?sid=79004)
-
-[研究发现更大规模的团队减少创新限制晋升希望](https://www.solidot.org/story?sid=79003)
-
-[纠缠光子或有助于解释意识背后的快速脑信号](https://www.solidot.org/story?sid=79002)
 
