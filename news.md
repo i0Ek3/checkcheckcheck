@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-08-21 16:13:01
+> Update time: 2024-08-21 16:37:55
+
+[美国法官阻止 FTC 的竞业禁止协议禁令](https://www.solidot.org/story?sid=79035)
+
+[迪士尼撤回受争议的强制仲裁动议](https://www.solidot.org/story?sid=79034)
+
+[大脑为一个记忆创建三个副本](https://www.solidot.org/story?sid=79033)
+
+[英伟达放弃专用的 G-Sync 模块](https://www.solidot.org/story?sid=79032)
+
+[微软上周释出的更新影响双系统用户](https://www.solidot.org/story?sid=79031)
 
 [世界最长寿者去世，享年 117 岁](https://www.solidot.org/story?sid=79030)
 
@@ -10,14 +20,4 @@
 [苹果巴西 App Store 据报下架 VPN 应用](https://www.solidot.org/story?sid=79027)
 
 [持有特斯拉股票的法官拒绝回避 X 诉 Media Matters 案](https://www.solidot.org/story?sid=79026)
-
-[不兼容的波音宇航服可能阻碍宇航员搭乘 SpaceX 飞船返回地球](https://www.solidot.org/story?sid=79025)
-
-[苹果推出其播客应用的 Web 版本](https://www.solidot.org/story?sid=79024)
-
-[日本禁止基于遗传信息的劳动歧视](https://www.solidot.org/story?sid=79023)
-
-[美国科技巨头数据中心用水量大幅增长](https://www.solidot.org/story?sid=79022)
-
-[导致恐龙灭绝的小行星来自外太阳系](https://www.solidot.org/story?sid=79021)
 
