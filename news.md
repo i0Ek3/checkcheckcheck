@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-08-22 16:37:14
+> Update time: 2024-08-23 04:11:12
 
-[中国大幅减少批准建造新燃煤电厂](https://www.solidot.org/story?sid=79040)
+[硅谷 AI 泡沫逐渐消退](https://www.solidot.org/story?sid=79050)
 
-[2023 年美国出生率再创新低](https://www.solidot.org/story?sid=79039)
+[在中国出售的游戏机缺乏游戏](https://www.solidot.org/story?sid=79049)
 
-[丰田证实遭黑客入侵](https://www.solidot.org/story?sid=79038)
+[微塑料在大脑等人体重要器官里积累](https://www.solidot.org/story?sid=79048)
 
-[适度游戏有益身心健康](https://www.solidot.org/story?sid=79037)
+[沃尔玛出售所持京东股份](https://www.solidot.org/story?sid=79047)
 
-[GIMP 3.0 接近发布](https://www.solidot.org/story?sid=79036)
+[被控欺诈的英国软件公司 Autonomy 创始人 Mike Lynch 死亡](https://www.solidot.org/story?sid=79046)
 
-[美国法官阻止 FTC 的竞业禁止协议禁令](https://www.solidot.org/story?sid=79035)
+[AMD 回应 Zen5 处理器游戏性能未达到承诺的问题](https://www.solidot.org/story?sid=79045)
 
-[迪士尼撤回受争议的强制仲裁动议](https://www.solidot.org/story?sid=79034)
+[美国油服巨头 Halliburton 遭网络攻击](https://www.solidot.org/story?sid=79044)
 
-[大脑为一个记忆创建三个副本](https://www.solidot.org/story?sid=79033)
+[C 罗成为最快达到千万订阅量的 YouTube 主播](https://www.solidot.org/story?sid=79043)
 
-[英伟达放弃专用的 G-Sync 模块](https://www.solidot.org/story?sid=79032)
+[生活在珠峰地区的夏尔巴人担心洪水冲毁家园](https://www.solidot.org/story?sid=79042)
 
-[微软上周释出的更新影响双系统用户](https://www.solidot.org/story?sid=79031)
+[X/Twitter 被要求披露股东身份](https://www.solidot.org/story?sid=79041)
 
