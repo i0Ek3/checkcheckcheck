@@ -1,5 +1,5 @@
 # Here The News
-> Update time: 2024-08-25 16:11:40
+> Update time: 2024-08-25 16:36:30
 
 [NASA 宣布波音 Starliner 宇航员将搭乘 SpaceX Crew-9 返回地面](https://www.solidot.org/story?sid=79068)
 
