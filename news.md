@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-08-26 04:34:21
+> Update time: 2024-08-26 16:14:01
+
+[IBM 关闭中国研发部门](https://www.solidot.org/story?sid=79073)
+
+[小鼠研究显示通用流感候选疫苗引发强免疫反应](https://www.solidot.org/story?sid=79072)
+
+[澳大利亚工人下班后有权拒绝工作邮件和工作电话](https://www.solidot.org/story?sid=79071)
+
+[Threads 测试允许帖子在 24 小时后消失](https://www.solidot.org/story?sid=79070)
+
+[凹语言支持 Wasm4 游戏平台](https://www.solidot.org/story?sid=79069)
 
 [NASA 宣布波音 Starliner 宇航员将搭乘 SpaceX Crew-9 返回地面](https://www.solidot.org/story?sid=79068)
 
@@ -10,14 +20,4 @@
 [蚊子主要依靠红外线寻找目标](https://www.solidot.org/story?sid=79065)
 
 [宝马电动汽车欧洲销量首次超过特斯拉](https://www.solidot.org/story?sid=79064)
-
-[Valve 宣布了新游戏 Deadlock](https://www.solidot.org/story?sid=79063)
-
-[今年的三伏天为有记录以来最热](https://www.solidot.org/story?sid=79062)
-
-[GitHub 收到 DMCA 通知移除流行插件 Bypass Paywalls](https://www.solidot.org/story?sid=79061)
-
-[因致命蚊传病毒美国小镇建议居民晚上不要外出](https://www.solidot.org/story?sid=79060)
-
-[研究发现美国政治立场相反的夫妇仅占 8%](https://www.solidot.org/story?sid=79059)
 
