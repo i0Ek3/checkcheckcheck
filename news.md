@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-08-27 04:33:42
+> Update time: 2024-08-27 16:13:23
+
+[Telegram 被俄罗斯广泛用于军事通信](https://www.solidot.org/story?sid=79081)
+
+[中国年轻人与肥胖相关癌症发病率大幅增长](https://www.solidot.org/story?sid=79080)
+
+[马克龙表示对 Pavel Durov 的逮捕与政治动机无关](https://www.solidot.org/story?sid=79079)
+
+[中国科技巨头的 AI 支出增加了一倍](https://www.solidot.org/story?sid=79078)
+
+[复旦微电子的 RFID 芯片被发现使用相同密钥](https://www.solidot.org/story?sid=79077)
 
 [拯救被遗忘的音乐](https://www.solidot.org/story?sid=79076)
 
@@ -10,14 +20,4 @@
 [IBM 关闭中国研发部门](https://www.solidot.org/story?sid=79073)
 
 [小鼠研究显示通用流感候选疫苗引发强免疫反应](https://www.solidot.org/story?sid=79072)
-
-[澳大利亚工人下班后有权拒绝工作邮件和工作电话](https://www.solidot.org/story?sid=79071)
-
-[Threads 测试允许帖子在 24 小时后消失](https://www.solidot.org/story?sid=79070)
-
-[凹语言支持 Wasm4 游戏平台](https://www.solidot.org/story?sid=79069)
-
-[NASA 宣布波音 Starliner 宇航员将搭乘 SpaceX Crew-9 返回地面](https://www.solidot.org/story?sid=79068)
-
-[Telegram CEO 在法国机场被捕](https://www.solidot.org/story?sid=79067)
 
