@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-08-28 04:33:50
+> Update time: 2024-08-28 16:12:44
 
-[Forgejo 许可证切换到 GPLv3+](https://www.solidot.org/story?sid=79085)
+[为什么儿童不够专注](https://www.solidot.org/story?sid=79096)
 
-[三星为其智能电视提供七年操作系统更新](https://www.solidot.org/story?sid=79084)
+[不同类型的爱激活大脑的不同部位](https://www.solidot.org/story?sid=79095)
 
-[日本结束登月探测器 SLIM 任务](https://www.solidot.org/story?sid=79083)
+[越来越多的大学生在 AI 帮助下写论文](https://www.solidot.org/story?sid=79094)
 
-[微软撤回了弃用控制面板的声明](https://www.solidot.org/story?sid=79082)
+[韩国调查通过 Telegram 传播的深度伪造换脸淫秽影像案](https://www.solidot.org/story?sid=79093)
 
-[Telegram 被俄罗斯广泛用于军事通信](https://www.solidot.org/story?sid=79081)
+[微软将 Mono 项目捐赠给 Wine](https://www.solidot.org/story?sid=79092)
 
-[中国年轻人与肥胖相关癌症发病率大幅增长](https://www.solidot.org/story?sid=79080)
+[众多高校撤销外语专业](https://www.solidot.org/story?sid=79091)
 
-[马克龙表示对 Pavel Durov 的逮捕与政治动机无关](https://www.solidot.org/story?sid=79079)
+[Google Chrome 今年至今修复了 10 个 0day](https://www.solidot.org/story?sid=79090)
 
-[中国科技巨头的 AI 支出增加了一倍](https://www.solidot.org/story?sid=79078)
+[中国科学家发现新长寿基因](https://www.solidot.org/story?sid=79089)
 
-[复旦微电子的 RFID 芯片被发现使用相同密钥](https://www.solidot.org/story?sid=79077)
+[干细胞疗法治愈病人的糖尿病](https://www.solidot.org/story?sid=79088)
 
-[拯救被遗忘的音乐](https://www.solidot.org/story?sid=79076)
+[Stephen Wolfram 认为需要哲学家参与 AI 相关重要问题的讨论](https://www.solidot.org/story?sid=79087)
 
