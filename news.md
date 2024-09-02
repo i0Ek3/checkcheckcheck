@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-09-02 04:32:47
+> Update time: 2024-09-02 16:14:03
+
+[狨猴会用名字称呼彼此](https://www.solidot.org/story?sid=79135)
+
+[日本上半年生育人数再创新低](https://www.solidot.org/story?sid=79134)
+
+[海洋学家拍到飞行面条怪物](https://www.solidot.org/story?sid=79133)
+
+[调查显示 6% 的 Python 开发者仍在使用 Python 2](https://www.solidot.org/story?sid=79132)
+
+[苏丹面临四十年来最严重饥荒](https://www.solidot.org/story?sid=79131)
+
+[在气候变化的时代生孩子是否是不道德的？](https://www.solidot.org/story?sid=79130)
 
 [巴西屏蔽 X 后大量用户涌向 Bluesky](https://www.solidot.org/story?sid=79129)
 
@@ -8,16 +20,4 @@
 [英特尔考虑拆分其芯片制造业务](https://www.solidot.org/story?sid=79127)
 
 [富国银行员工死在办公桌上四天后才被发现](https://www.solidot.org/story?sid=79126)
-
-[巴西屏蔽 X](https://www.solidot.org/story?sid=79125)
-
-[日本报告近四千独居者在死后一个月才被发现](https://www.solidot.org/story?sid=79124)
-
-[AnandTech 宣布停止更新](https://www.solidot.org/story?sid=79123)
-
-[半导体企业市值缩水一万亿美元](https://www.solidot.org/story?sid=79122)
-
-[Yelp 指控 Google 涉嫌垄断](https://www.solidot.org/story?sid=79121)
-
-[KDE 将每年通过桌面通知请求一次捐赠](https://www.solidot.org/story?sid=79120)
 
