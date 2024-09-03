@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-03 16:39:08
+> Update time: 2024-09-04 04:10:31
+
+[HPE 将继续向已故亿万富翁 Mike Lynch 追债](https://www.solidot.org/story?sid=79154)
+
+[《雨中冒险》游戏开发者加入 Valve](https://www.solidot.org/story?sid=79153)
+
+[面向掌机和游戏 PC 的发行版 PlaytronOS 释出首个 Alpha 版本](https://www.solidot.org/story?sid=79152)
+
+[瑞典对儿童和青少年的屏幕使用时间设限](https://www.solidot.org/story?sid=79151)
+
+[苹果与腾讯爆出微信佣金纠纷](https://www.solidot.org/story?sid=79150)
+
+[国产 GPU 开发商象帝先大规模裁员](https://www.solidot.org/story?sid=79149)
+
+[糖尿病会加速大脑衰老](https://www.solidot.org/story?sid=79148)
+
+[Google 高管警告 AI 未必能影响生产力](https://www.solidot.org/story?sid=79147)
 
 [Windows 11 超过 Windows 10 成为最流行的 PC 游戏操作系统](https://www.solidot.org/story?sid=79146)
 
 [京都大学将启动用 iPS 细胞治疗糖尿病的临床试验](https://www.solidot.org/story?sid=79145)
-
-[四天工作制在日本难以推广](https://www.solidot.org/story?sid=79144)
-
-[微软称 Recall 的卸载选项是 Bug](https://www.solidot.org/story?sid=79143)
-
-[真菌将垃圾转化为食物](https://www.solidot.org/story?sid=79142)
-
-[Meta 去年数据中心用电量达到 14.975GWh](https://www.solidot.org/story?sid=79141)
-
-[SpaceX Starship 重型火箭的爆炸制造了巨大的电离层空洞](https://www.solidot.org/story?sid=79140)
-
-[波音 Starliner 飞船发出奇怪噪音](https://www.solidot.org/story?sid=79139)
-
-[ElasticSearch 和 Kibana 再次变成自由软件](https://www.solidot.org/story?sid=79138)
-
-[微软让受争议的 Recall 功能可卸载](https://www.solidot.org/story?sid=79137)
 
