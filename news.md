@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-03 04:34:45
+> Update time: 2024-09-03 16:13:15
+
+[Windows 11 超过 Windows 10 成为最流行的 PC 游戏操作系统](https://www.solidot.org/story?sid=79146)
+
+[京都大学将启动用 iPS 细胞治疗糖尿病的临床试验](https://www.solidot.org/story?sid=79145)
+
+[四天工作制在日本难以推广](https://www.solidot.org/story?sid=79144)
+
+[微软称 Recall 的卸载选项是 Bug](https://www.solidot.org/story?sid=79143)
+
+[真菌将垃圾转化为食物](https://www.solidot.org/story?sid=79142)
+
+[Meta 去年数据中心用电量达到 14.975GWh](https://www.solidot.org/story?sid=79141)
 
 [SpaceX Starship 重型火箭的爆炸制造了巨大的电离层空洞](https://www.solidot.org/story?sid=79140)
+
+[波音 Starliner 飞船发出奇怪噪音](https://www.solidot.org/story?sid=79139)
 
 [ElasticSearch 和 Kibana 再次变成自由软件](https://www.solidot.org/story?sid=79138)
 
 [微软让受争议的 Recall 功能可卸载](https://www.solidot.org/story?sid=79137)
-
-[Telegram 是言论自由和恋童癖的天堂](https://www.solidot.org/story?sid=79136)
-
-[狨猴会用名字称呼彼此](https://www.solidot.org/story?sid=79135)
-
-[日本上半年生育人数再创新低](https://www.solidot.org/story?sid=79134)
-
-[海洋学家拍到飞行面条怪物](https://www.solidot.org/story?sid=79133)
-
-[调查显示 6% 的 Python 开发者仍在使用 Python 2](https://www.solidot.org/story?sid=79132)
-
-[苏丹面临四十年来最严重饥荒](https://www.solidot.org/story?sid=79131)
-
-[在气候变化的时代生孩子是否是不道德的？](https://www.solidot.org/story?sid=79130)
 
