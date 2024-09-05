@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-05 04:36:26
+> Update time: 2024-09-05 16:13:35
+
+[WHO 委托的研究称脑癌与手机使用无关](https://www.solidot.org/story?sid=79169)
+
+[宏碁推出了它的 AMD APU 掌机 Nitro Blaze 7](https://www.solidot.org/story?sid=79168)
+
+[Telegram 与韩国合作删除部分深度伪造色情视频](https://www.solidot.org/story?sid=79167)
+
+[Google Research 考虑用 Rust 语言为 Firefox 开发 JPEG-XL 解码器](https://www.solidot.org/story?sid=79166)
+
+[YubiKey 5 存在侧信道漏洞容易被克隆](https://www.solidot.org/story?sid=79165)
+
+[全球逾半数人口微量营养素摄入不足](https://www.solidot.org/story?sid=79164)
+
+[Google 释出 Android 15 源代码](https://www.solidot.org/story?sid=79163)
 
 [苹果开始在印度生产新款 iPhone 高端机型](https://www.solidot.org/story?sid=79162)
 
 [Halliburton 称黑客从其系统中删除了数据](https://www.solidot.org/story?sid=79161)
 
 [索尼下架刚刚上线的游戏《星鸣特攻》](https://www.solidot.org/story?sid=79160)
-
-[40 亿年前木星卫星 Ganymede 遭撞击导致其轴心偏移](https://www.solidot.org/story?sid=79159)
-
-[英特尔面临被剔除出道琼斯指数](https://www.solidot.org/story?sid=79158)
-
-[在巴西屏蔽 X 之后 Bluesky 四天增加了 200 万新用户](https://www.solidot.org/story?sid=79157)
-
-[Firefox 130 释出](https://www.solidot.org/story?sid=79156)
-
-[人脑前额叶皮层最容易发生衰老](https://www.solidot.org/story?sid=79155)
-
-[HPE 将继续向已故亿万富翁 Mike Lynch 追债](https://www.solidot.org/story?sid=79154)
-
-[《雨中冒险》游戏开发者加入 Valve](https://www.solidot.org/story?sid=79153)
 
