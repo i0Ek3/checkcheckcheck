@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-06 16:38:42
+> Update time: 2024-09-07 04:11:05
 
-[华为 AI 芯片受困于 Bug 和性能](https://www.solidot.org/story?sid=79173)
+[美国起诉向乌克兰释放破坏性恶意程序的俄罗斯军官](https://www.solidot.org/story?sid=79183)
 
-[伪造学历的南非铁路客运集团前首席工程师被判 15 年徒刑](https://www.solidot.org/story?sid=79172)
+[俄罗斯购买有 25 年历史 ASML 机器制造军用芯片](https://www.solidot.org/story?sid=79182)
 
-[法庭裁决互联网档案馆的数字借阅不是合理使用](https://www.solidot.org/story?sid=79171)
+[德银 CEO 督促德国人更努力的工作](https://www.solidot.org/story?sid=79181)
 
-[Snapchat 将在用户消息旁放置广告](https://www.solidot.org/story?sid=79170)
+[高通探讨收购部分英特尔芯片设计业务](https://www.solidot.org/story?sid=79180)
 
-[WHO 委托的研究称脑癌与手机使用无关](https://www.solidot.org/story?sid=79169)
+[2024 年 8 月为有记录以来最热的 8 月](https://www.solidot.org/story?sid=79179)
 
-[宏碁推出了它的 AMD APU 掌机 Nitro Blaze 7](https://www.solidot.org/story?sid=79168)
+[Telegram 允许举报私聊内容](https://www.solidot.org/story?sid=79178)
 
-[Telegram 与韩国合作删除部分深度伪造色情视频](https://www.solidot.org/story?sid=79167)
+[OpenAI 考虑将先进 AI 模型的月订阅费提高到 2000 美元](https://www.solidot.org/story?sid=79177)
 
-[Google Research 考虑用 Rust 语言为 Firefox 开发 JPEG-XL 解码器](https://www.solidot.org/story?sid=79166)
+[半导体制造设备近半销往中国大陆](https://www.solidot.org/story?sid=79176)
 
-[YubiKey 5 存在侧信道漏洞容易被克隆](https://www.solidot.org/story?sid=79165)
+[澳大利亚政府研究发现 AI 在概述上的表现比人类差](https://www.solidot.org/story?sid=79175)
 
-[全球逾半数人口微量营养素摄入不足](https://www.solidot.org/story?sid=79164)
+[《黑与白》开源引擎发布首个版本](https://www.solidot.org/story?sid=79174)
 
