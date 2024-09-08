@@ -1,5 +1,9 @@
 # Here The News
-> Update time: 2024-09-08 16:36:46
+> Update time: 2024-09-09 04:10:11
+
+[Linux Man pages 维护者因经济压力暂停工作](https://www.solidot.org/story?sid=79192)
+
+[马来西亚命令 ISP 重路由 DNS 流量，引发争议后暂停执行](https://www.solidot.org/story?sid=79191)
 
 [Starlink 卫星占到了全部活跃卫星的三分之二](https://www.solidot.org/story?sid=79190)
 
@@ -16,8 +20,4 @@
 [美国海军军官在军舰上私装 Starlink 卫星宽带](https://www.solidot.org/story?sid=79184)
 
 [美国起诉向乌克兰释放破坏性恶意程序的俄罗斯军官](https://www.solidot.org/story?sid=79183)
-
-[俄罗斯购买有 25 年历史 ASML 机器制造军用芯片](https://www.solidot.org/story?sid=79182)
-
-[德银 CEO 督促德国人更努力的工作](https://www.solidot.org/story?sid=79181)
 
