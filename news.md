@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-10 16:39:18
+> Update time: 2024-09-11 04:11:36
+
+[CrowdStrike 称尚未有客户正式提起诉讼](https://www.solidot.org/story?sid=79217)
+
+[欧盟裁决 Google 违反反垄断法，苹果需补缴 130 亿欧元税款](https://www.solidot.org/story?sid=79216)
+
+[全国人大审议延迟退休草案](https://www.solidot.org/story?sid=79215)
+
+[Apple Watch 引入睡眠呼吸暂停检测功能](https://www.solidot.org/story?sid=79214)
+
+[首例脸部和眼睛移植手术一年后](https://www.solidot.org/story?sid=79213)
+
+[英伟达 AI 芯片在中国的租赁费用比美国便宜](https://www.solidot.org/story?sid=79212)
+
+[实体版《星鸣特攻》成为热门收藏品](https://www.solidot.org/story?sid=79211)
 
 [年轻卵泡能恢复衰老卵母细胞发育潜力](https://www.solidot.org/story?sid=79210)
 
 [Redox OS 0.9.0 释出](https://www.solidot.org/story?sid=79209)
 
 [巴基斯坦科技行业对本国的防火墙忧心忡忡](https://www.solidot.org/story?sid=79208)
-
-[AMD 宣布统一 GPU 架构为 UDNA](https://www.solidot.org/story?sid=79207)
-
-[达斯·维德配音演员 James Earl Jones 去世，享年 93 岁](https://www.solidot.org/story?sid=79206)
-
-[苹果发布 iPhone 16 和 iPhone 16 Plus](https://www.solidot.org/story?sid=79205)
-
-[首款猴痘疫苗获批临床](https://www.solidot.org/story?sid=79204)
-
-[数十亿年前掠过太阳系的恒星改变了太阳系生态](https://www.solidot.org/story?sid=79203)
-
-[抑郁症患者脑部特定神经网络较大](https://www.solidot.org/story?sid=79202)
-
-[AI 不太可能取代人类的工作](https://www.solidot.org/story?sid=79201)
 
