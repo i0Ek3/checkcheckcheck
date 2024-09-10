@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-10 04:34:34
+> Update time: 2024-09-10 16:13:20
 
-[长播客的兴起](https://www.solidot.org/story?sid=79197)
+[年轻卵泡能恢复衰老卵母细胞发育潜力](https://www.solidot.org/story?sid=79210)
 
-[中国计划在 2028 年实施天问三号火星任务](https://www.solidot.org/story?sid=79196)
+[Redox OS 0.9.0 释出](https://www.solidot.org/story?sid=79209)
 
-[触电的鸟引发野火](https://www.solidot.org/story?sid=79195)
+[巴基斯坦科技行业对本国的防火墙忧心忡忡](https://www.solidot.org/story?sid=79208)
 
-[爱好类应用成为新的社交网络](https://www.solidot.org/story?sid=79194)
+[AMD 宣布统一 GPU 架构为 UDNA](https://www.solidot.org/story?sid=79207)
 
-[NGINX 迁移到 Github](https://www.solidot.org/story?sid=79193)
+[达斯·维德配音演员 James Earl Jones 去世，享年 93 岁](https://www.solidot.org/story?sid=79206)
 
-[Linux Man pages 维护者因经济压力暂停工作](https://www.solidot.org/story?sid=79192)
+[苹果发布 iPhone 16 和 iPhone 16 Plus](https://www.solidot.org/story?sid=79205)
 
-[马来西亚命令 ISP 重路由 DNS 流量，引发争议后暂停执行](https://www.solidot.org/story?sid=79191)
+[首款猴痘疫苗获批临床](https://www.solidot.org/story?sid=79204)
 
-[Starlink 卫星占到了全部活跃卫星的三分之二](https://www.solidot.org/story?sid=79190)
+[数十亿年前掠过太阳系的恒星改变了太阳系生态](https://www.solidot.org/story?sid=79203)
 
-[Z 世代精通计算机但不会盲打](https://www.solidot.org/story?sid=79189)
+[抑郁症患者脑部特定神经网络较大](https://www.solidot.org/story?sid=79202)
 
-[美国大学学生成绩膨胀](https://www.solidot.org/story?sid=79188)
+[AI 不太可能取代人类的工作](https://www.solidot.org/story?sid=79201)
 
