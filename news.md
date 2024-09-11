@@ -1,23 +1,3 @@
 # Here The News
-> Update time: 2024-09-11 16:40:03
-
-[Tor 节点运营者遭德国警方突击搜查](https://www.solidot.org/story?sid=79221)
-
-[俄罗斯计划投入 590 亿卢布封堵 VPN](https://www.solidot.org/story?sid=79220)
-
-[微软警告正在利用的 0day 会回滚安全补丁](https://www.solidot.org/story?sid=79219)
-
-[索尼宣布售价 700 美元的 PS5 Pro](https://www.solidot.org/story?sid=79218)
-
-[CrowdStrike 称尚未有客户正式提起诉讼](https://www.solidot.org/story?sid=79217)
-
-[欧盟裁决 Google 违反反垄断法，苹果需补缴 130 亿欧元税款](https://www.solidot.org/story?sid=79216)
-
-[全国人大审议延迟退休草案](https://www.solidot.org/story?sid=79215)
-
-[Apple Watch 引入睡眠呼吸暂停检测功能](https://www.solidot.org/story?sid=79214)
-
-[首例脸部和眼睛移植手术一年后](https://www.solidot.org/story?sid=79213)
-
-[英伟达 AI 芯片在中国的租赁费用比美国便宜](https://www.solidot.org/story?sid=79212)
+> Update time: 2024-09-12 04:10:10
 
