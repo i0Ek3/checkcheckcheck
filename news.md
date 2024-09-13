@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-13 04:34:06
+> Update time: 2024-09-13 16:13:27
+
+[Unity 取消受争议的根据安装量收费](https://www.solidot.org/story?sid=79246)
+
+[中国 VC 支持的初创公司数量大幅下降](https://www.solidot.org/story?sid=79245)
+
+[微软更新核心加密库加入后量子加密算法](https://www.solidot.org/story?sid=79244)
+
+[AMD 宣布笔记本可变显存允许将更多内存分配给游戏](https://www.solidot.org/story?sid=79243)
+
+[NASA 工程师成功切换旅行者1号的推进器](https://www.solidot.org/story?sid=79242)
+
+[SpaceX Polaris Dawn 任务完成首次商业太空行走](https://www.solidot.org/story?sid=79241)
+
+[OpenAI 正以 1500 亿美元估值进行新一轮融资](https://www.solidot.org/story?sid=79240)
+
+[泰达币驱动地下金融世界](https://www.solidot.org/story?sid=79239)
 
 [人类司机持续追尾 Waymos 的无人驾驶出租车](https://www.solidot.org/story?sid=79238)
 
 [Google 联合创始人称他天天上班从事 AI 工作](https://www.solidot.org/story?sid=79237)
-
-[Google 在搜索结果中加入互联网档案馆的链接](https://www.solidot.org/story?sid=79235)
-
-[美国人在 2023 年使用了逾 100 万亿 MB 无线数据](https://www.solidot.org/story?sid=79234)
-
-[Mistral AI 发布其首个多模模型 Pixtral 12B](https://www.solidot.org/story?sid=79233)
-
-[解开火星水消失之谜](https://www.solidot.org/story?sid=79232)
-
-[欧盟消协起诉主要游戏公司欺骗消费者](https://www.solidot.org/story?sid=79231)
-
-[Android 应用将能屏蔽侧载，强行通过 Google Play 下载](https://www.solidot.org/story?sid=79230)
-
-[新加坡通过平台人员法案](https://www.solidot.org/story?sid=79229)
-
-[在 AI 虚假信息之后 Taylor Swift 公开支持 Kamala Harris](https://www.solidot.org/story?sid=79228)
 
