@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-09-13 16:38:57
+> Update time: 2024-09-14 04:10:42
+
+[全国人大常委会通过延迟退休决定](https://www.solidot.org/story?sid=79251)
+
+[三千年前刮到日本的沙尘比现在少一半](https://www.solidot.org/story?sid=79250)
+
+[英伟达向 AI 初创公司投资逾百亿美元](https://www.solidot.org/story?sid=79249)
+
+[OpenAI 发布新 AI 模型 o1](https://www.solidot.org/story?sid=79248)
+
+[十年前的现象级手游 Flappy Bird 将重新上线](https://www.solidot.org/story?sid=79247)
 
 [Unity 取消受争议的根据安装量收费](https://www.solidot.org/story?sid=79246)
 
@@ -10,14 +20,4 @@
 [AMD 宣布笔记本可变显存允许将更多内存分配给游戏](https://www.solidot.org/story?sid=79243)
 
 [NASA 工程师成功切换旅行者1号的推进器](https://www.solidot.org/story?sid=79242)
-
-[SpaceX Polaris Dawn 任务完成首次商业太空行走](https://www.solidot.org/story?sid=79241)
-
-[OpenAI 正以 1500 亿美元估值进行新一轮融资](https://www.solidot.org/story?sid=79240)
-
-[泰达币驱动地下金融世界](https://www.solidot.org/story?sid=79239)
-
-[人类司机持续追尾 Waymos 的无人驾驶出租车](https://www.solidot.org/story?sid=79238)
-
-[Google 联合创始人称他天天上班从事 AI 工作](https://www.solidot.org/story?sid=79237)
 
