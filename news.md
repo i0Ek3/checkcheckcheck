@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-15 16:38:22
+> Update time: 2024-09-16 04:10:13
+
+[哈勃发现一对超大质量黑洞](https://www.solidot.org/story?sid=79265)
+
+[Haiku 释出 R1/Beta5](https://www.solidot.org/story?sid=79264)
+
+[美国在线约会与收入不平等相关](https://www.solidot.org/story?sid=79263)
+
+[大模型的幻觉是不可避免地](https://www.solidot.org/story?sid=79262)
+
+[科学家在岩石中发现“雪球地球”证据](https://www.solidot.org/story?sid=79261)
+
+[Google 向 Android 用户免费提供语音 AI 聊天机器人 Gemini Live](https://www.solidot.org/story?sid=79260)
+
+[微软向石化巨头推销 AI](https://www.solidot.org/story?sid=79259)
 
 [130 万 Android 机顶盒被植入后门](https://www.solidot.org/story?sid=79258)
 
 [FSR4 将是基于 AI 的上采样技术](https://www.solidot.org/story?sid=79257)
 
 [笑有助于改善干眼病](https://www.solidot.org/story?sid=79256)
-
-[美国计划限制希音和 Temu 利用小额免税规定](https://www.solidot.org/story?sid=79255)
-
-[澳大利亚提议对打击虚假信息不力的社交媒体罚款，马斯克抨击这是法西斯](https://www.solidot.org/story?sid=79254)
-
-[2024 年 Ig 诺贝尔奖公布结果](https://www.solidot.org/story?sid=79253)
-
-[与 AI 对话有助于减少阴谋论信仰](https://www.solidot.org/story?sid=79252)
-
-[全国人大常委会通过延迟退休决定](https://www.solidot.org/story?sid=79251)
-
-[三千年前刮到日本的沙尘比现在少一半](https://www.solidot.org/story?sid=79250)
-
-[英伟达向 AI 初创公司投资逾百亿美元](https://www.solidot.org/story?sid=79249)
 
