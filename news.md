@@ -1,21 +1,23 @@
 # Here The News
-> Update time: 2024-09-18 04:35:10
+> Update time: 2024-09-18 16:13:11
+
+[网信办要求标记 AI 生成内容](https://www.solidot.org/story?sid=79278)
+
+[黎巴嫩发生一系列寻呼机爆炸事件](https://www.solidot.org/story?sid=79277)
+
+[更多的美国人感到孤独](https://www.solidot.org/story?sid=79276)
+
+[英特尔计划将芯片代工业务变成独立子公司](https://www.solidot.org/story?sid=79275)
+
+[人狗在互动中会同步大脑](https://www.solidot.org/story?sid=79274)
+
+[女性大脑区域可能会在怀孕期间缩小](https://www.solidot.org/story?sid=79273)
+
+[亚马逊终止混合办公模式](https://www.solidot.org/story?sid=79272)
+
+[英特尔在 2022 年的 PS6 芯片竞标中败给 AMD](https://www.solidot.org/story?sid=79271)
 
 [诺贝尔奖得主 Gregg Semenza 撤回了多达 13 篇论文](https://www.solidot.org/story?sid=79270)
 
 [PS1 模拟器 DuckStation 修改许可证不再是开源软件](https://www.solidot.org/story?sid=79269)
-
-[Flappy Bird 原作者否认参与了新游戏](https://www.solidot.org/story?sid=79268)
-
-[德国主权科技基金向 Samba 项目投资 69 万欧元](https://www.solidot.org/story?sid=79267)
-
-[Linux 6.11 释出](https://www.solidot.org/story?sid=79266)
-
-[哈勃发现一对超大质量黑洞](https://www.solidot.org/story?sid=79265)
-
-[Haiku 释出 R1/Beta5](https://www.solidot.org/story?sid=79264)
-
-[美国在线约会与收入不平等相关](https://www.solidot.org/story?sid=79263)
-
-[大模型的幻觉是不可避免地](https://www.solidot.org/story?sid=79262)
 
