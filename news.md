@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-09-19 04:34:53
+> Update time: 2024-09-19 16:14:35
+
+[任天堂和宝可梦公司起诉《幻兽帕鲁》开发商](https://www.solidot.org/story?sid=79287)
+
+[《魔兽世界》允许玩家独自完成故事](https://www.solidot.org/story?sid=79286)
+
+[以色列对黎巴嫩的无差别攻击导致 至少 32 人死亡数千人受伤](https://www.solidot.org/story?sid=79285)
+
+[Google 将开始在搜索结果中标记 AI 生成图像](https://www.solidot.org/story?sid=79284)
+
+[台积电美国工厂开始制造苹果移动芯片](https://www.solidot.org/story?sid=79283)
+
+[Linus Torvalds 谈内核维护者年纪渐长和未来的项目负责人](https://www.solidot.org/story?sid=79282)
 
 [到 2050 年抗生素耐药性可能导致 3900 万人死亡](https://www.solidot.org/story?sid=79281)
 
@@ -8,16 +20,4 @@
 [TCL 的量子点电视机被指不含有量子点](https://www.solidot.org/story?sid=79279)
 
 [网信办要求标记 AI 生成内容](https://www.solidot.org/story?sid=79278)
-
-[黎巴嫩发生一系列寻呼机爆炸事件](https://www.solidot.org/story?sid=79277)
-
-[更多的美国人感到孤独](https://www.solidot.org/story?sid=79276)
-
-[英特尔计划将芯片代工业务变成独立子公司](https://www.solidot.org/story?sid=79275)
-
-[人狗在互动中会同步大脑](https://www.solidot.org/story?sid=79274)
-
-[女性大脑区域可能会在怀孕期间缩小](https://www.solidot.org/story?sid=79273)
-
-[亚马逊终止混合办公模式](https://www.solidot.org/story?sid=79272)
 
