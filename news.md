@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-09-20 16:39:25
+> Update time: 2024-09-21 04:11:15
+
+[iPhone 16 支持 JPEG XL 格式](https://www.solidot.org/story?sid=79302)
+
+[德国十分之一受 CrowdStrike 事件影响的组织抛弃旧的安全供应商](https://www.solidot.org/story?sid=79301)
+
+[黑洞喷流长达 2300 万光年](https://www.solidot.org/story?sid=79300)
+
+[在被黑客入侵窃取内部数据之后迪士尼将停用 Slack](https://www.solidot.org/story?sid=79299)
+
+[美国科技行业的工作岗位枯竭](https://www.solidot.org/story?sid=79298)
 
 [减肥药 GLP-1 研究者赢得拉斯克奖](https://www.solidot.org/story?sid=79297)
 
@@ -10,14 +20,4 @@
 [中国和全世界的排放可能提前达到峰值](https://www.solidot.org/story?sid=79294)
 
 [W玻色子质量测量结果与标准模型预测一致](https://www.solidot.org/story?sid=79293)
-
-[CERN 准备于 11 月 30 日驱逐俄罗斯科学家但不完全切断与俄的联系](https://www.solidot.org/story?sid=79292)
-
-[地球七成人口可能会在未来二十年经历极端气候](https://www.solidot.org/story?sid=79291)
-
-[FBI 接管了一个中国黑客组织控制的僵尸网络](https://www.solidot.org/story?sid=79290)
-
-[X 通过 Cloudflare 代理绕过巴西的屏蔽](https://www.solidot.org/story?sid=79289)
-
-[Real-Time Linux 合并到内核主线](https://www.solidot.org/story?sid=79288)
 
