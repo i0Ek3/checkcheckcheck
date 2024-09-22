@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-09-22 16:37:19
+> Update time: 2024-09-23 04:10:49
+
+[河流的自然曲线有助于防洪](https://www.solidot.org/story?sid=79309)
+
+[Google 呼吁停止将 WHOIS 用于 TLS 域名验证](https://www.solidot.org/story?sid=79308)
+
+[乌克兰禁止政府官员使用 Telegram](https://www.solidot.org/story?sid=79307)
+
+[挪威电动汽车数量首次超过汽车](https://www.solidot.org/story?sid=79306)
+
+[高通向英特尔提出收购提议](https://www.solidot.org/story?sid=79305)
 
 [三里岛重启核反应堆向微软出售电力驱动 AI](https://www.solidot.org/story?sid=79304)
 
@@ -10,14 +20,4 @@
 [德国十分之一受 CrowdStrike 事件影响的组织抛弃旧的安全供应商](https://www.solidot.org/story?sid=79301)
 
 [黑洞喷流长达 2300 万光年](https://www.solidot.org/story?sid=79300)
-
-[在被黑客入侵窃取内部数据之后迪士尼将停用 Slack](https://www.solidot.org/story?sid=79299)
-
-[美国科技行业的工作岗位枯竭](https://www.solidot.org/story?sid=79298)
-
-[减肥药 GLP-1 研究者赢得拉斯克奖](https://www.solidot.org/story?sid=79297)
-
-[美国特情局调查马斯克暗杀现任总统副总统的言论](https://www.solidot.org/story?sid=79296)
-
-[科学家首次观察到夸克量子纠缠](https://www.solidot.org/story?sid=79295)
 
