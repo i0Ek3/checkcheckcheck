@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-09-23 04:33:40
+> Update time: 2024-09-23 16:14:20
+
+[Bruce Schneier 认为以色列的袭击改变了世界](https://www.solidot.org/story?sid=79315)
+
+[愈来愈多的大学研究生人数超过本科生](https://www.solidot.org/story?sid=79314)
+
+[1951 年被拐走的加州男孩还活着](https://www.solidot.org/story?sid=79313)
+
+[地球曾经也有星环](https://www.solidot.org/story?sid=79312)
+
+[X 向巴西政府屈服](https://www.solidot.org/story?sid=79311)
+
+[EA 如何击败 FIFA](https://www.solidot.org/story?sid=79310)
 
 [河流的自然曲线有助于防洪](https://www.solidot.org/story?sid=79309)
 
@@ -8,16 +20,4 @@
 [乌克兰禁止政府官员使用 Telegram](https://www.solidot.org/story?sid=79307)
 
 [挪威电动汽车数量首次超过汽车](https://www.solidot.org/story?sid=79306)
-
-[高通向英特尔提出收购提议](https://www.solidot.org/story?sid=79305)
-
-[三里岛重启核反应堆向微软出售电力驱动 AI](https://www.solidot.org/story?sid=79304)
-
-[美国 ISP 表示他们不想切断被控盗版的用户宽带接入](https://www.solidot.org/story?sid=79303)
-
-[iPhone 16 支持 JPEG XL 格式](https://www.solidot.org/story?sid=79302)
-
-[德国十分之一受 CrowdStrike 事件影响的组织抛弃旧的安全供应商](https://www.solidot.org/story?sid=79301)
-
-[黑洞喷流长达 2300 万光年](https://www.solidot.org/story?sid=79300)
 
