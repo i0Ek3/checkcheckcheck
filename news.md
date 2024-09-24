@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-24 04:36:49
+> Update time: 2024-09-24 16:14:54
+
+[微软停止开发 Windows Server Update Services](https://www.solidot.org/story?sid=79326)
+
+[Telegram 将向政府提供 IP 和电话号码等数据](https://www.solidot.org/story?sid=79325)
+
+[国际工会联合会认为亚马逊、特斯拉和 Meta 有害于民主](https://www.solidot.org/story?sid=79324)
+
+[部分美国卡巴斯基用户被自动更新到 UltraAV](https://www.solidot.org/story?sid=79323)
+
+[Telegram 以版权侵犯为由删除 Z-Library 帖子](https://www.solidot.org/story?sid=79322)
+
+[美国将禁止中国联网汽车软件和硬件](https://www.solidot.org/story?sid=79321)
+
+[《龙腾世纪：审判》汉化包发布](https://www.solidot.org/story?sid=79320)
+
+[深蓝航天公布了令人惊叹的火箭垂直着陆爆炸视频](https://www.solidot.org/story?sid=79319)
+
+[我们正进入一个气候不确定的新时代](https://www.solidot.org/story?sid=79318)
 
 [日本科学家用猫制作 iPS 细胞](https://www.solidot.org/story?sid=79317)
-
-[数学家发现一种新形状](https://www.solidot.org/story?sid=79316)
-
-[Bruce Schneier 认为以色列的袭击改变了世界](https://www.solidot.org/story?sid=79315)
-
-[愈来愈多的大学研究生人数超过本科生](https://www.solidot.org/story?sid=79314)
-
-[1951 年被拐走的加州男孩还活着](https://www.solidot.org/story?sid=79313)
-
-[地球曾经也有星环](https://www.solidot.org/story?sid=79312)
-
-[X 向巴西政府屈服](https://www.solidot.org/story?sid=79311)
-
-[EA 如何击败 FIFA](https://www.solidot.org/story?sid=79310)
-
-[河流的自然曲线有助于防洪](https://www.solidot.org/story?sid=79309)
-
-[Google 呼吁停止将 WHOIS 用于 TLS 域名验证](https://www.solidot.org/story?sid=79308)
 
