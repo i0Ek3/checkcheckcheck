@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-09-24 16:41:16
+> Update time: 2024-09-25 04:11:51
+
+[Starlink 卫星影响射电望远镜的观测](https://www.solidot.org/story?sid=79332)
+
+[创业公司推出 Fair Source 许可证以避免开源授权的陷阱](https://www.solidot.org/story?sid=79331)
+
+[1100 万设备感染了 Google Play 托管的僵尸网络恶意程序](https://www.solidot.org/story?sid=79330)
+
+[卫星照片显示俄罗斯洲际弹道导弹发生爆炸](https://www.solidot.org/story?sid=79329)
+
+[研究建议做重要决策前睡个觉](https://www.solidot.org/story?sid=79328)
+
+[OpenAI CEO 称距离超级 AI 可能只有几千日](https://www.solidot.org/story?sid=79327)
 
 [微软停止开发 Windows Server Update Services](https://www.solidot.org/story?sid=79326)
 
@@ -8,16 +20,4 @@
 [国际工会联合会认为亚马逊、特斯拉和 Meta 有害于民主](https://www.solidot.org/story?sid=79324)
 
 [部分美国卡巴斯基用户被自动更新到 UltraAV](https://www.solidot.org/story?sid=79323)
-
-[Telegram 以版权侵犯为由删除 Z-Library 帖子](https://www.solidot.org/story?sid=79322)
-
-[美国将禁止中国联网汽车软件和硬件](https://www.solidot.org/story?sid=79321)
-
-[《龙腾世纪：审判》汉化包发布](https://www.solidot.org/story?sid=79320)
-
-[深蓝航天公布了令人惊叹的火箭垂直着陆爆炸视频](https://www.solidot.org/story?sid=79319)
-
-[我们正进入一个气候不确定的新时代](https://www.solidot.org/story?sid=79318)
-
-[日本科学家用猫制作 iPS 细胞](https://www.solidot.org/story?sid=79317)
 
