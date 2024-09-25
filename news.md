@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-09-25 16:42:12
+> Update time: 2024-09-26 04:11:29
+
+[俄罗斯试图禁止无子意识形态](https://www.solidot.org/story?sid=79343)
+
+[父亲被控尝试暗杀特朗普，儿子被发现持有大量儿童色情材料](https://www.solidot.org/story?sid=79342)
+
+[SBF 前女友 Caroline Ellison 被判两年徒刑](https://www.solidot.org/story?sid=79341)
+
+[美国汽车召回愈五分之一是修复软件](https://www.solidot.org/story?sid=79340)
+
+[全球三分之一儿童近视](https://www.solidot.org/story?sid=79339)
 
 [印度争论有毒工作文化](https://www.solidot.org/story?sid=79338)
 
@@ -10,14 +20,4 @@
 [James Cameron 加入 Stability AI 董事会](https://www.solidot.org/story?sid=79335)
 
 [Winamp 公开源代码](https://www.solidot.org/story?sid=79334)
-
-[加州新法律限制学生在校期间使用智能手机](https://www.solidot.org/story?sid=79333)
-
-[Starlink 卫星影响射电望远镜的观测](https://www.solidot.org/story?sid=79332)
-
-[创业公司推出 Fair Source 许可证以避免开源授权的陷阱](https://www.solidot.org/story?sid=79331)
-
-[1100 万设备感染了 Google Play 托管的僵尸网络恶意程序](https://www.solidot.org/story?sid=79330)
-
-[卫星照片显示俄罗斯洲际弹道导弹发生爆炸](https://www.solidot.org/story?sid=79329)
 
