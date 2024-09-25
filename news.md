@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-09-25 04:36:04
+> Update time: 2024-09-25 16:14:44
+
+[印度争论有毒工作文化](https://www.solidot.org/story?sid=79338)
+
+[中国千元手机攻占东南亚市场](https://www.solidot.org/story?sid=79337)
+
+[Google 快照彻底死了](https://www.solidot.org/story?sid=79336)
+
+[James Cameron 加入 Stability AI 董事会](https://www.solidot.org/story?sid=79335)
+
+[Winamp 公开源代码](https://www.solidot.org/story?sid=79334)
+
+[加州新法律限制学生在校期间使用智能手机](https://www.solidot.org/story?sid=79333)
 
 [Starlink 卫星影响射电望远镜的观测](https://www.solidot.org/story?sid=79332)
 
@@ -8,16 +20,4 @@
 [1100 万设备感染了 Google Play 托管的僵尸网络恶意程序](https://www.solidot.org/story?sid=79330)
 
 [卫星照片显示俄罗斯洲际弹道导弹发生爆炸](https://www.solidot.org/story?sid=79329)
-
-[研究建议做重要决策前睡个觉](https://www.solidot.org/story?sid=79328)
-
-[OpenAI CEO 称距离超级 AI 可能只有几千日](https://www.solidot.org/story?sid=79327)
-
-[微软停止开发 Windows Server Update Services](https://www.solidot.org/story?sid=79326)
-
-[Telegram 将向政府提供 IP 和电话号码等数据](https://www.solidot.org/story?sid=79325)
-
-[国际工会联合会认为亚马逊、特斯拉和 Meta 有害于民主](https://www.solidot.org/story?sid=79324)
-
-[部分美国卡巴斯基用户被自动更新到 UltraAV](https://www.solidot.org/story?sid=79323)
 
