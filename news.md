@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-26 04:34:49
+> Update time: 2024-09-26 16:13:54
+
+[服刑时间最长的死刑犯在日本被判无罪](https://www.solidot.org/story?sid=79351)
+
+[LG 开始在电视屏保上展示广告](https://www.solidot.org/story?sid=79350)
+
+[《刺客信条：影》推迟到 2025 年 2 月发售](https://www.solidot.org/story?sid=79349)
+
+[X 发布首份透明度报告](https://www.solidot.org/story?sid=79348)
+
+[微软新工具能修正 AI 幻觉](https://www.solidot.org/story?sid=79347)
+
+[Google 以 27 亿美元重聘公司前 AI 研究员](https://www.solidot.org/story?sid=79346)
+
+[中国发射洲际导弹](https://www.solidot.org/story?sid=79345)
+
+[网友发现民宿暗藏摄像头结果遭到围攻](https://www.solidot.org/story?sid=79344)
 
 [俄罗斯试图禁止无子意识形态](https://www.solidot.org/story?sid=79343)
 
 [父亲被控尝试暗杀特朗普，儿子被发现持有大量儿童色情材料](https://www.solidot.org/story?sid=79342)
-
-[SBF 前女友 Caroline Ellison 被判两年徒刑](https://www.solidot.org/story?sid=79341)
-
-[美国汽车召回愈五分之一是修复软件](https://www.solidot.org/story?sid=79340)
-
-[全球三分之一儿童近视](https://www.solidot.org/story?sid=79339)
-
-[印度争论有毒工作文化](https://www.solidot.org/story?sid=79338)
-
-[中国千元手机攻占东南亚市场](https://www.solidot.org/story?sid=79337)
-
-[Google 快照彻底死了](https://www.solidot.org/story?sid=79336)
-
-[James Cameron 加入 Stability AI 董事会](https://www.solidot.org/story?sid=79335)
-
-[Winamp 公开源代码](https://www.solidot.org/story?sid=79334)
 
