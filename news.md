@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-27 16:40:29
+> Update time: 2024-09-28 04:11:40
 
-[前经营者称民宿偷拍已成产业链](https://www.solidot.org/story?sid=79353)
+[英特尔释出最新微码更新修正 13/14 代酷睿处理器崩溃问题](https://www.solidot.org/story?sid=79366)
 
-[OpenAI 将废弃非营利董事会的控制给予 Sam Altman 股份](https://www.solidot.org/story?sid=79352)
+[吃鱼可能有助于预防认知衰退](https://www.solidot.org/story?sid=79365)
 
-[服刑时间最长的死刑犯在日本被判无罪](https://www.solidot.org/story?sid=79351)
+[OpenAI 领导层变更令外界对其未来产生疑问](https://www.solidot.org/story?sid=79364)
 
-[LG 开始在电视屏保上展示广告](https://www.solidot.org/story?sid=79350)
+[Libgen 被勒令赔偿出版商 3000 万美元](https://www.solidot.org/story?sid=79363)
 
-[《刺客信条：影》推迟到 2025 年 2 月发售](https://www.solidot.org/story?sid=79349)
+[干细胞逆转女子的糖尿病](https://www.solidot.org/story?sid=79362)
 
-[X 发布首份透明度报告](https://www.solidot.org/story?sid=79348)
+[企业和机构需要重新训练使用笔和纸](https://www.solidot.org/story?sid=79361)
 
-[微软新工具能修正 AI 幻觉](https://www.solidot.org/story?sid=79347)
+[Google 在俄罗斯限制创建新账号](https://www.solidot.org/story?sid=79360)
 
-[Google 以 27 亿美元重聘公司前 AI 研究员](https://www.solidot.org/story?sid=79346)
+[苹果从俄罗斯应用商店下架 60 款 VPN 应用](https://www.solidot.org/story?sid=79359)
 
-[中国发射洲际导弹](https://www.solidot.org/story?sid=79345)
+[规模更大的 AI 聊天机器人倾向于更可能胡说八道](https://www.solidot.org/story?sid=79358)
 
-[网友发现民宿暗藏摄像头结果遭到围攻](https://www.solidot.org/story?sid=79344)
+[Tails 项目和 Tor 项目合并](https://www.solidot.org/story?sid=79357)
 
