@@ -1,23 +1,23 @@
 # Here The News
-> Update time: 2024-09-30 04:34:01
+> Update time: 2024-09-30 16:15:38
 
-[SpaceX Crew-9 执行将两名波音 Starliner 宇航员带回地面的任务](https://www.solidot.org/story?sid=79377)
+[酒店和民宿里的隐秘直播](https://www.solidot.org/story?sid=79387)
 
-[人类心脏在太空一个月就显示衰老迹象](https://www.solidot.org/story?sid=79376)
+[中国发现新蜱传病毒](https://www.solidot.org/story?sid=79386)
 
-[Steam 移除了通过仲裁解决争议的条款](https://www.solidot.org/story?sid=79375)
+[凹语言支持 Chrome 内置 AI](https://www.solidot.org/story?sid=79385)
 
-[美国专利商标局取消了漫威和 DC 的超级英雄商标](https://www.solidot.org/story?sid=79374)
+[因执行 Crew-9 任务的火箭略微出错 Falcon 9 将临时停飞](https://www.solidot.org/story?sid=79384)
 
-[受争议的 Windows Recall AI 搜索工具又回来了](https://www.solidot.org/story?sid=79373)
+[三分之二的美国科技行业从业者有兴趣加入工会](https://www.solidot.org/story?sid=79383)
 
-[Meta 因用纯文本存储 6 亿用户密码被罚 1.015 亿美元](https://www.solidot.org/story?sid=79372)
+[研究人员称埋藏木材是廉价的碳储技术](https://www.solidot.org/story?sid=79382)
 
-[Arch Linux 与 Valve 建立直接合作关系](https://www.solidot.org/story?sid=79371)
+[AI 机器人能以 100% 成功率破解图像识别 CAPTCHA](https://www.solidot.org/story?sid=79381)
 
-[戴尔强制要求销售团队每周五天在办公室工作](https://www.solidot.org/story?sid=79370)
+[南美洲高温、干旱和火灾风险上升](https://www.solidot.org/story?sid=79380)
 
-[人类身上发现来自食品包装的数千种毒素](https://www.solidot.org/story?sid=79369)
+[黑洞喷流引发恒星爆炸](https://www.solidot.org/story?sid=79379)
 
-[更换清洗床上用品的频率](https://www.solidot.org/story?sid=79368)
+[全球儿童肥胖危机](https://www.solidot.org/story?sid=79378)
 
