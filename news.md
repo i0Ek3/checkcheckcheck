@@ -1,5 +1,15 @@
 # Here The News
-> Update time: 2024-10-02 04:11:35
+> Update time: 2024-10-02 04:36:20
+
+[微软开始推送 Windows 11 2024 更新](https://www.solidot.org/story?sid=79396)
+
+[Firefox 131.0 释出](https://www.solidot.org/story?sid=79395)
+
+[因审核分歧 Raymond Hill 宣布 Ublock Origin lite 停止支持 Firefox](https://www.solidot.org/story?sid=79394)
+
+[Reddit 限制社区 Moderator 将 subreddit 设为私有](https://www.solidot.org/story?sid=79393)
+
+[俄罗斯考虑屏蔽 Discord](https://www.solidot.org/story?sid=79392)
 
 [英国关闭最后一座燃煤火电站](https://www.solidot.org/story?sid=79391)
 
@@ -10,14 +20,4 @@
 [NASA 出售全新的月球漫游车](https://www.solidot.org/story?sid=79388)
 
 [酒店和民宿里的隐秘直播](https://www.solidot.org/story?sid=79387)
-
-[中国发现新蜱传病毒](https://www.solidot.org/story?sid=79386)
-
-[凹语言支持 Chrome 内置 AI](https://www.solidot.org/story?sid=79385)
-
-[因执行 Crew-9 任务的火箭略微出错 Falcon 9 将临时停飞](https://www.solidot.org/story?sid=79384)
-
-[三分之二的美国科技行业从业者有兴趣加入工会](https://www.solidot.org/story?sid=79383)
-
-[研究人员称埋藏木材是廉价的碳储技术](https://www.solidot.org/story?sid=79382)
 
