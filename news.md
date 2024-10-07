@@ -1,5 +1,17 @@
 # Here The News
-> Update time: 2024-10-07 16:41:52
+> Update time: 2024-10-08 04:11:50
+
+[343 Industries 重组为 Halo Studios，将用虚幻引擎 5 开发新作](https://www.solidot.org/story?sid=79418)
+
+[巴西最高法院称 X 向错误的银行缴纳罚款](https://www.solidot.org/story?sid=79417)
+
+[Android 版 Thunderbird 发布 Beta 版](https://www.solidot.org/story?sid=79416)
+
+[两美科学家获得 2024 年诺贝尔生理学或医学奖](https://www.solidot.org/story?sid=79415)
+
+[浏览器开发商称 Microsoft Edge 具有不公平的优势](https://www.solidot.org/story?sid=79414)
+
+[多邻国如何成为数百万人日常使用的语言学习应用](https://www.solidot.org/story?sid=79413)
 
 [中国电信使用国产芯片训练有 1 万亿参数的大模型](https://www.solidot.org/story?sid=79412)
 
@@ -8,16 +20,4 @@
 [秘密恶意程序感染了数千 Linux 系统](https://www.solidot.org/story?sid=79410)
 
 [因中美紧张关系 Waymo 选择现代汽车的 Ioniq 5 作为其新一代的无人驾驶出租车](https://www.solidot.org/story?sid=79409)
-
-[Matt Mullenweg 称 WordPress.org 属于他个人](https://www.solidot.org/story?sid=79408)
-
-[三星最新软件更新导致部分旧型号手机变砖](https://www.solidot.org/story?sid=79407)
-
-[腾讯和 Guillemot 家族有意私有化育碧](https://www.solidot.org/story?sid=79406)
-
-[Automattic 与 WP Engine 之间的诉讼愈演愈烈 159 名雇员辞职](https://www.solidot.org/story?sid=79405)
-
-[两大 X 级耀斑先后抵达地球将引发强烈极光](https://www.solidot.org/story?sid=79404)
-
-[新 HBO 纪录片声称识别了中本聪的身份](https://www.solidot.org/story?sid=79403)
 
