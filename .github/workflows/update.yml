@@ -26,6 +26,7 @@ jobs:
           git diff
           git config --global user.email "kno30826@gmail.com"
           git config --global user.name "i0Ek3"
+          git config --global --add safe.directory /github/workspace
           git add .
           git commit -m "Auto update by Github Action"
           git push
