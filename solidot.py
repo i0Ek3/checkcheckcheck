@@ -24,7 +24,7 @@ def get_link_info(feed_url, num):
     return result
 
 def main():
-    solidot = get_link_info("https://www.solidot.org/index.rss", 10)
+    solidot = get_link_info("https://www.solidot.org/index.rss", 8)
     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
     msg = "Here The News"
     insert_info = "# " + msg + "\n> Update time: " + datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + "\n" + solidot + "\n"
